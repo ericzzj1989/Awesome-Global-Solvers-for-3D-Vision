@@ -47,10 +47,12 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - Closed-form solution of absolute orientation using orthonormal matrices
 #### Global Methods:CMax & BnB & Convex_Relaxation
 - GORE:
+👇**BnB**
 - Global optimization through rotation space search
 - Globally optimal consensus set maximization through rotation search
 - A polynomialtime bound for matching and registration with outliers
 - Robust fitting for multiple view geometry
+👇**Convex_Relaxation**
 - Convex Global 3D Registration with Lagrangian Duality
 - A semidefinite relaxation-based algorithm for robust attitude estimation
 - A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers(ICCV,2019)
@@ -66,6 +68,30 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - A consistently fast and globally optimal solution to the perspective-n-point problem
 - Globally optimal O(n) solution to the PnP problem for general camera models
 ### Relative Pose Estimation
+#### Minimal solvers
+- An efficient solution to the five-point relative pose problem(2004)
+- Recent developments on direct relative orientation(2006)
+- Finding the exact rotation between two images independently of the translation(ECCV,2012)
+- In defence of the 8-point algorithm(ICCV,1995)
+#### Global Optimization
+👇**SDP**
+- Camera displacement via constrained minimizatio of the algebraic error(TPAMI,2009)
+- A certifiably globally optimal solution to the non-minimal relative pose problem(CVPR,2018)
+- SDP relaxations for quadratic optimization problems derived from polynomial optimization problems(2010)
+- Globally optimal estimates for geometric reconstruction problems(2007)
+👇**BnB**
+- Robust optimal pose estimation(ECCV,2008)
+- Two view geometry estimation with outliers(BMVC,2009)
+- Consensus set maximization with guaranteed global optimality for robust geometry estimation(ICCV,2009)
+- Optimal essential matrix estimation via inlier-set maximization(ECCV,2014)
+- Optimal relative pose with unknown correspondences(CVPR,2016)
+- Direct optimization of frame-to-frame rotation(ICCV,2013)
+- Global optimization through rotation space search(IJCV,2009)
+👇**Hybrid**
+- Consensus maximization with linear matrix inequality constraints(CVPR,2017)
 ### 3D Registration
+- TEASER: Fast and Certifiable Point Cloud Registration(TRO,2020)
+
 ### Pose Graph Optimization
+
 ### Triangulation
