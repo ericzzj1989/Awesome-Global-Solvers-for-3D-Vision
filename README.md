@@ -47,11 +47,13 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - Closed-form solution of absolute orientation using orthonormal matrices
 #### Global Methods:CMax & BnB & Convex_Relaxation
 - GORE:
+
 👇**BnB**
 - Global optimization through rotation space search
 - Globally optimal consensus set maximization through rotation search
 - A polynomialtime bound for matching and registration with outliers
 - Robust fitting for multiple view geometry
+
 👇**Convex_Relaxation**
 - Convex Global 3D Registration with Lagrangian Duality
 - A semidefinite relaxation-based algorithm for robust attitude estimation
@@ -79,6 +81,7 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - A certifiably globally optimal solution to the non-minimal relative pose problem(CVPR,2018)
 - SDP relaxations for quadratic optimization problems derived from polynomial optimization problems(2010)
 - Globally optimal estimates for geometric reconstruction problems(2007)
+  
 👇**BnB**
 - Robust optimal pose estimation(ECCV,2008)
 - Two view geometry estimation with outliers(BMVC,2009)
@@ -87,6 +90,7 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - Optimal relative pose with unknown correspondences(CVPR,2016)
 - Direct optimization of frame-to-frame rotation(ICCV,2013)
 - Global optimization through rotation space search(IJCV,2009)
+  
 👇**Hybrid**
 - Consensus maximization with linear matrix inequality constraints(CVPR,2017)
 ### 3D Registration
