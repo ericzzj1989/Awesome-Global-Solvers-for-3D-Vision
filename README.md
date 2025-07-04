@@ -99,3 +99,10 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 ### Pose Graph Optimization
 
 ### Triangulation
+
+### Bundle Adjustment
+- Building Rome with Convex Optimization (RSS,2025)
+
+### All-in-One
+- One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers (NeurIPS,2020)
+- Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization (TPAMI,2022)
