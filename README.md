@@ -6,6 +6,7 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 [Applications]
 
 ## Applications
+
 ### Rotation Averaging
 #### Analysis
 - Combining two-view constraints for motion estimation(CVPR,2001)[[paper]](https://ieeexplore.ieee.org/document/990963)
@@ -58,6 +59,7 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - Convex Global 3D Registration with Lagrangian Duality
 - A semidefinite relaxation-based algorithm for robust attitude estimation
 - A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers(ICCV,2019)
+
 ### Absolute Pose Estimation (PnP)
 - EPnP
 - CvxPnPL: A unified convex solution to the absolute pose estimation problem from point and line correspondences
@@ -69,6 +71,7 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - An efficient and accurate algorithm for the perspecitve-n-point problem
 - A consistently fast and globally optimal solution to the perspective-n-point problem
 - Globally optimal O(n) solution to the PnP problem for general camera models
+
 ### Relative Pose Estimation
 #### Minimal solvers
 - An efficient solution to the five-point relative pose problem(2004)
@@ -93,15 +96,22 @@ This is the official repository of **A Survey of Global Optimization for Geometr
   
 👇**Hybrid**
 - Consensus maximization with linear matrix inequality constraints(CVPR,2017)
+
 ### 3D Registration
-- TEASER: Fast and Certifiable Point Cloud Registration(TRO,2020)
+- Point Registration via Efficient Convex Relaxation (TOG,2016)
+- Fast Global Registration (ECCV,2016)
+- Convex Global 3D Registration with Lagrangian Duality (CVPR,2017)
+- SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences (2019,CVPR)
+- TEASER: Fast and Certifiable Point Cloud Registration (TRO,2020)
 
 ### Pose Graph Optimization
 
 ### Triangulation
+- Semidefinite Relaxations for Robust Multiview Triangulation (CVPR,2023)
 
 ### Bundle Adjustment
 - Building Rome with Convex Optimization (RSS,2025)
+- Towards Initialization-free Calibrated Bundle Adjustment (arXiv,2025)
 
 ### All-in-One
 - One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers (NeurIPS,2020)
