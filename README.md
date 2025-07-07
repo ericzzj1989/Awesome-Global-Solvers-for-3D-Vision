@@ -15,6 +15,11 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - Simultaneous multiple rotation averaging using Lagrangian duality(ACCV,2012)[[paper]](https://link.springer.com/chapter/10.1007/978-3-642-37431-9_19)
 - Rotation Averaging and Strong Duality(CVPR,2018)[[paper]](https://ieeexplore.ieee.org/document/8578119)
 #### GNC
+- Pushing the envelope of rotation averaging for visual slam(arxiv,2020)
+- Adaptive annealing for robust averaging(ECCV,2024)
+#### RANSAC
+- Hierarchical ransac-based rotation averaging(SPL,2020)
+- Revisiting rotation averaging: Uncertainties and robust losses(CVPR,2023)
 #### Hybrid
 - Shonan Rotation Averaging: Global Optimality by Surfing SO(p)^n(ECCV,2020)[[paper]](https://arxiv.org/abs/2008.02737)
 - Hybrid Rotation Averaging:A Fast and Robust Rotation Averaging Approach(CVPR,2021)[[paper]](https://arxiv.org/abs/2101.09116)
@@ -59,6 +64,14 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - Convex Global 3D Registration with Lagrangian Duality
 - A semidefinite relaxation-based algorithm for robust attitude estimation
 - A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers(ICCV,2019)
+#### POP
+- The non-tightness of a convex relaxation to rotation recovery(2021)
+- Semidefinite relaxations of truncated least-squares in robust rotation search:Tight or not(ECCV,2022)
+
+#### RANSAC
+#### GNC
+- ptimal pose and shape estimation for category-level 3d object perception(arxiv,2021)
+- A fast fractional programming technique for geman-mcclure robust estimator(RAL,2024)
 
 ### Absolute Pose Estimation (PnP)
 - EPnP
@@ -78,13 +91,15 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - Recent developments on direct relative orientation(2006)
 - Finding the exact rotation between two images independently of the translation(ECCV,2012)
 - In defence of the 8-point algorithm(ICCV,1995)
+
 #### Global Optimization
 👇**SDP**
 - Camera displacement via constrained minimizatio of the algebraic error(TPAMI,2009)
+- Finding the exact rotation between two images independently of the translation(ECCV,2012)
 - A certifiably globally optimal solution to the non-minimal relative pose problem(CVPR,2018)
 - SDP relaxations for quadratic optimization problems derived from polynomial optimization problems(2010)
 - Globally optimal estimates for geometric reconstruction problems(2007)
-  
+- Certifiably optimal rotation and pose estimation based on the cayley map(2025)
 👇**BnB**
 - Robust optimal pose estimation(ECCV,2008)
 - Two view geometry estimation with outliers(BMVC,2009)
@@ -93,19 +108,36 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - Optimal relative pose with unknown correspondences(CVPR,2016)
 - Direct optimization of frame-to-frame rotation(ICCV,2013)
 - Global optimization through rotation space search(IJCV,2009)
+- Certifiable relative pose estimation(2021)
   
 👇**Hybrid**
 - Consensus maximization with linear matrix inequality constraints(CVPR,2017)
+#### RANSAC
+- An efficient solution to the five-point relative pose problem(TPAMI,2004)
+- Fast and robust certifiable estimation of the relative pose between two calibrated cameras(2021)
+
 
 ### 3D Registration
 - Point Registration via Efficient Convex Relaxation (TOG,2016)
 - Fast Global Registration (ECCV,2016)
-- Convex Global 3D Registration with Lagrangian Duality (CVPR,2017)
+
 - SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences (2019,CVPR)
 - TEASER: Fast and Certifiable Point Cloud Registration (TRO,2020)
+### 3D Registration
+#### BnB
+- A polynomial-time bound for matching and registration with outliers(CVPR,2008)
+- Go-icp: A globally optimal solution to 3d icp point-set registration(TPAMI,2015)
+
+#### SDP
+- Guided search consensus: Large scale point cloud registration by convex optimization(2013)
+- on-iterative rigid 2d/3d pointset registration using semidefinite programming(TIP,2015)
+- Point registration via efficient convex relaxation(2016)
+- Convex Global 3D Registration with Lagrangian Duality (CVPR,2017)
 
 ### Pose Graph Optimization
-
+#### GNC
+- Efficient Graduated Non-Convexity for Pose Graph Optimization(ICCAS,2024)
+- Adaptive Graduated Non-Convexity for Pose Graph Optimization(arxiv,2023)
 ### Triangulation
 - Semidefinite Relaxations for Robust Multiview Triangulation (CVPR,2023)
 
