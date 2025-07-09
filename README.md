@@ -10,10 +10,12 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 ### Rotation Averaging
 #### Analysis
 - Combining two-view constraints for motion estimation(CVPR,2001)[[paper]](https://ieeexplore.ieee.org/document/990963)
+
 #### SDP
 - Global Motion Estimation from Point Matches(3DIMPVT,2012)[[paper]](https://ieeexplore.ieee.org/document/6374980)
 - Simultaneous multiple rotation averaging using Lagrangian duality(ACCV,2012)[[paper]](https://link.springer.com/chapter/10.1007/978-3-642-37431-9_19)
 - Rotation Averaging and Strong Duality(CVPR,2018)[[paper]](https://ieeexplore.ieee.org/document/8578119)
+
 #### GNC
 - Pushing the envelope of rotation averaging for visual slam(arxiv,2020)
 - Adaptive annealing for robust averaging(ECCV,2024)
@@ -127,19 +129,27 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 #### BnB
 - A polynomial-time bound for matching and registration with outliers(CVPR,2008)
 - Go-icp: A globally optimal solution to 3d icp point-set registration(TPAMI,2015)
-
+- GORE:
+- PMC:A practical maximum clique algorithm for matching with pairwise constraints
 #### SDP
 - Guided search consensus: Large scale point cloud registration by convex optimization(2013)
 - on-iterative rigid 2d/3d pointset registration using semidefinite programming(TIP,2015)
 - Point registration via efficient convex relaxation(2016)
 - Convex Global 3D Registration with Lagrangian Duality (CVPR,2017)
 
+#### GNC
+- Practical, fast and robust point cloud registration for 3d scene stitching and object localization(2021)
+- Pyramid semantic graph-based global point cloud registration with low overlap(IROS,2023)
+
 ### Pose Graph Optimization
 #### GNC
 - Efficient Graduated Non-Convexity for Pose Graph Optimization(ICCAS,2024)
 - Adaptive Graduated Non-Convexity for Pose Graph Optimization(arxiv,2023)
 ### Triangulation
+#### SDP
+- A qcqp approach to triangulation(ECCV,2012)
 - Semidefinite Relaxations for Robust Multiview Triangulation (CVPR,2023)
+- Triangulation of points, lines and conics(JMIV,2007)
 
 ### Bundle Adjustment
 - Building Rome with Convex Optimization (RSS,2025)
