@@ -116,7 +116,8 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - SDP relaxations for quadratic optimization problems derived from polynomial optimization problems(2010)
 - Globally optimal estimates for geometric reconstruction problems(2007)
 - Certifiably optimal rotation and pose estimation based on the cayley map(2025)
-  
+- Robot-to-Robot Relative Pose Estimation based on Semidefinite Relaxation Optimization(2020)
+
 👇**BnB**
 - Robust optimal pose estimation(ECCV,2008)
 - Two view geometry estimation with outliers(BMVC,2009)
@@ -155,11 +156,21 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 #### GNC
 - Practical, fast and robust point cloud registration for 3d scene stitching and object localization(2021)
 - Pyramid semantic graph-based global point cloud registration with low overlap(IROS,2023)
-
+  
 ### Pose Graph Optimization
+#### SDP
+- Lagrangian Duality in Complex Pose Graph Optimization(2016)
+- Initialization of 3D Pose Graph Optimization Using Lagrangian Duality(ICRA,2017)
+- Convex Relaxations for Pose Graph Optimization With Outliers(RAL,2018)
+- Efficient and Guaranteed Planar Pose Graph Optimization Using Complex Representation(2019)
+- Distributed Certifiably Correct Pose-Graph Optimization(TRO,2019)
+
 #### GNC
 - Efficient Graduated Non-Convexity for Pose Graph Optimization(ICCAS,2024)
 - Adaptive Graduated Non-Convexity for Pose Graph Optimization(arxiv,2023)
+- A Decoupled and Linear Framework for Global Outlier Rejection over Planar Pose Graph(ICRA,2023)
+- Improving Pose Graph Optimization via Efficient Graduated Non-convexity Scheduling
+
 ### Triangulation
 #### SDP
 - A qcqp approach to triangulation(ECCV,2012)
