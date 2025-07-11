@@ -1,11 +1,23 @@
 # Global-Optimization-for-Multiple-View-Geometry
 This is the official repository of **A Survey of Global Optimization for Geometric Perception: Theory and Application**, a comprehensive survey of recent progress in Global Optimization for multiple view geometry. For details, please refer to:
 
+## Table of contents
+- [Theory](#theory)
+- [Application](#application)
 
-# Framework
-[Applications]
+## Theory
 
-## Applications
+
+### Bound-and-Branch (BnB)
+
+### Semidefinite Programming (SDP)
+
+### Polynomial Optimization (POP)
+
+### Graduated Non-Convexity (GNC)
+
+
+## Application
 
 ### Rotation Averaging
 #### Analysis
@@ -193,7 +205,10 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 
 ### Bundle Adjustment
 - Building Rome with Convex Optimization (RSS,2025)
-- Towards Initialization-free Calibrated Bundle Adjustment (arXiv,2025)
+
+### SLAM
+- [Certifiably Correct Range-Aided SLAM](https://arxiv.org/abs/2302.11614) (TRO,2024)
+- [Distributed Certifiably Correct Range-Aided SLAM](https://arxiv.org/abs/2503.03192) (ICRA,2025)
 
 ### All-in-One
 - One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers (NeurIPS,2020)
