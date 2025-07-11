@@ -166,11 +166,19 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - Semidefinite Relaxations for Robust Multiview Triangulation (CVPR,2023)
 - Triangulation of points, lines and conics(JMIV,2007)
 - A convex relaxation to compute the nearest structured rank deficient matrix(SIAM,2021)
+  
 #### BnB
+- A Fast Optimal Algorithm for L 2 Triangulation(2007)
+- On triangulation algorithms in large scale camera network systems(ACC,2012)
+- An exact algorithm for the minimum dilation triangulation problem(2017)
+  
 #### RANSAC
 - Robust multiview L2 triangulation via optimal inlier selection and 3D structure refinement
 - Robust uncertainty-aware multiview triangulation
 - Structure-from-motion revisited
+
+#### Hybrid
+- A Triangulation Method Based on minmaxKKT(2012)
 
 ### Bundle Adjustment
 - Building Rome with Convex Optimization (RSS,2025)
