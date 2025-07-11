@@ -16,12 +16,17 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - Simultaneous multiple rotation averaging using Lagrangian duality(ACCV,2012)[[paper]](https://link.springer.com/chapter/10.1007/978-3-642-37431-9_19)
 - Rotation Averaging and Strong Duality(CVPR,2018)[[paper]](https://ieeexplore.ieee.org/document/8578119)
 
-#### GNC
-- Pushing the envelope of rotation averaging for visual slam(arxiv,2020)
-- Adaptive annealing for robust averaging(ECCV,2024)
+#### POP
+- Globally optimal estimates for rotation averaging problems(2014)
+
 #### RANSAC
 - Hierarchical ransac-based rotation averaging(SPL,2020)
 - Revisiting rotation averaging: Uncertainties and robust losses(CVPR,2023)
+  
+#### GNC
+- Pushing the envelope of rotation averaging for visual slam(arxiv,2020)
+- Adaptive annealing for robust averaging(ECCV,2024)
+
 #### Hybrid
 - Shonan Rotation Averaging: Global Optimality by Surfing SO(p)^n(ECCV,2020)[[paper]](https://arxiv.org/abs/2008.02737)
 - Hybrid Rotation Averaging:A Fast and Robust Rotation Averaging Approach(CVPR,2021)[[paper]](https://arxiv.org/abs/2101.09116)
@@ -29,14 +34,20 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 ### Translation Averaging
 #### Essential Matrix based Methods
 - Combining two-view constraints for motion estimation(CVPR,2001)[[paper]](https://ieeexplore.ieee.org/document/990963)
+
 #### Trifocal Tensor based Methods
 - Global Motion Estimation from Point Matches(3DIMPVT,2012)[[paper]](https://ieeexplore.ieee.org/document/6374980)
 - Exploiting loops in the graph of trifocal tensors for calibrating a network of cameras
 - A global linear method for camera pose registration
 - Global fusion of relative motions for robust, accurate and scalable structure from motion
 - Recovering camera motion using $l_{\infty}$ minimization
+  
 #### Convex Relaxation
-- Robust camera location estimation by convex programming
+- LUD
+- Shapefit
+- Robust camera location estimation by convex programming(2015)
+- Baseline Desensitizing in Translation Averaging（CVPR，2018）
+
 #### Robust Estimation
 - 1DSfM:Robust Global Translations with 1DSfM(ECCV,2014)[[paper]](https://www.cs.cornell.edu/projects/1dsfm/)
 - IRLS
@@ -71,6 +82,8 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - Semidefinite relaxations of truncated least-squares in robust rotation search:Tight or not(ECCV,2022)
 
 #### RANSAC
+- RANSIC: Fast and Highly Robust Estimation for Rotation Search and Point Cloud Registration Using Invariant Compatibility(RAL,2021)
+
 #### GNC
 - ptimal pose and shape estimation for category-level 3d object perception(arxiv,2021)
 - A fast fractional programming technique for geman-mcclure robust estimator(RAL,2024)
@@ -95,6 +108,7 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - In defence of the 8-point algorithm(ICCV,1995)
 
 #### Global Optimization
+
 👇**SDP**
 - Camera displacement via constrained minimizatio of the algebraic error(TPAMI,2009)
 - Finding the exact rotation between two images independently of the translation(ECCV,2012)
@@ -102,6 +116,7 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - SDP relaxations for quadratic optimization problems derived from polynomial optimization problems(2010)
 - Globally optimal estimates for geometric reconstruction problems(2007)
 - Certifiably optimal rotation and pose estimation based on the cayley map(2025)
+  
 👇**BnB**
 - Robust optimal pose estimation(ECCV,2008)
 - Two view geometry estimation with outliers(BMVC,2009)
@@ -150,6 +165,12 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - A qcqp approach to triangulation(ECCV,2012)
 - Semidefinite Relaxations for Robust Multiview Triangulation (CVPR,2023)
 - Triangulation of points, lines and conics(JMIV,2007)
+- A convex relaxation to compute the nearest structured rank deficient matrix(SIAM,2021)
+#### BnB
+#### RANSAC
+- Robust multiview L2 triangulation via optimal inlier selection and 3D structure refinement
+- Robust uncertainty-aware multiview triangulation
+- Structure-from-motion revisited
 
 ### Bundle Adjustment
 - Building Rome with Convex Optimization (RSS,2025)
