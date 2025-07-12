@@ -53,7 +53,7 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 | | Recovering camera motion using $l_{\\infty}$ minimization | – | – | – |
 |   |   |   |   |   |
 | **Convex Relaxation** | Robust camera location estimation by convex programming(LUD) | arxiv 2015 | [paper](https://arxiv.org/pdf/1412.0165) | – |
-| | Baseline Desensitizing in Translation Averaging | CVPR 2018 | [paper](https://arxiv.org/abs/1901.00643) | – |
+| | Baseline Desensitizing in Translation Averaging(LUD&Shapefit) | CVPR 2018 | [paper](https://arxiv.org/abs/1901.00643) | – |
 |   |   |   |   |   |
 | **Robust Estimation** | 1DSfM: Robust Global Translations with 1DSfM | ECCV 2014 | [paper](https://www.cs.cornell.edu/projects/1dsfm/) | – |
 |   |   |   |   |   |
@@ -72,23 +72,25 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 | | Closed-form solution of absolute orientation using orthonormal matrices | – | – | – |
 |   |   |   |   |   |
 | **BnB** | Global optimization through rotation space search | IJCV 2009 | [paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/HartleyKahl:Ematrix.pdf) | – |
-| | Globally optimal consensus set maximization through rotation search | ACCV 2012 | [paper] | – |
+| | Globally optimal consensus set maximization through rotation search | ACCV 2012 | [paper](https://link.springer.com/chapter/10.1007/978-3-642-37444-9_42) | – |
 | | A polynomialtime bound for matching and registration with outliers | CVPR 2008 | [paper](https://ieeexplore.ieee.org/document/4587757) | – |
-| | Robust fitting for multiple view geometry | – | – | – |
+| | Robust fitting for multiple view geometry | ECCV 2012 | [paper](https://link.springer.com/chapter/10.1007/978-3-642-33718-5_53) | – |
 |   |   |   |   |   |
-| **Convex Relaxation** | Convex Global 3D Registration with Lagrangian Duality | – | – | – |
-| | A semidefinite relaxation-based algorithm for robust attitude estimation | – | – | – |
+| **Convex Relaxation** | A semidefinite relaxation-based algorithm for robust attitude estimation | TSP 2012 | [paper](https://ieeexplore.ieee.org/document/6203426) | – |
 | | A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers | ICCV 2019 | [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_A_Quaternion-Based_Certifiably_Optimal_Solution_to_the_Wahba_Problem_With_ICCV_2019_paper.pdf) | [code](https://github.com/HengyiYang/quadwahba) |
+| | Semidefinite relaxations of truncated least-squares in robust rotation search: Tight or not | ECCV 2022 | [paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830655.pdf) | – |
+| | Optimal pose and shape estimation for category-level 3D object perception | RSS 2021 | [paper](https://arxiv.org/abs/2104.08383) | – |
 |   |   |   |   |   |
-| **POP** | The non-tightness of a convex relaxation to rotation recovery | 2021 | – | – |
-| | Semidefinite relaxations of truncated least-squares in robust rotation search: Tight or not | ECCV 2022 | – | – |
+| **POP** | 
 |   |   |   |   |   |
 | **RANSAC** | RANSIC: Fast and Highly Robust Estimation for Rotation Search and Point Cloud Registration Using Invariant Compatibility | RAL 2021 | – | [code](https://github.com/lukascher/RANSIC) |
 |   |   |   |   |   |
-| **GNC** | Optimal pose and shape estimation for category-level 3D object perception | arXiv 2021 | – | – |
-| | A fast fractional programming technique for Geman-McClure robust estimator | RAL 2024 | – | – |
+| **GNC** | A fast fractional programming technique for Geman-McClure robust estimator | RAL 2024 | [paper](https://arxiv.org/abs/2409.13978) | – |
 
 ### Absolute Pose Estimation (PnP)
+
+| **POP** | The non-tightness of a convex relaxation to rotation recovery | 2021 | [paper](https://www.mdpi.com/1424-8220/21/21/7358) | – |
+|   |   |   |   |   |
 - EPnP
 - CvxPnPL: A unified convex solution to the absolute pose estimation problem from point and line correspondences
 - Upnp: An optimal o (n) solution to the absolute pose problem with universal applicability
@@ -152,7 +154,7 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 - on-iterative rigid 2d/3d pointset registration using semidefinite programming(TIP,2015)
 - Point registration via efficient convex relaxation(2016)
 - Convex Global 3D Registration with Lagrangian Duality (CVPR,2017)
-
+| Convex Global 3D Registration with Lagrangian Duality | CVPR 2017 | [paper](https://ieeexplore.ieee.org/document/8100078) | – |
 #### GNC
 - Practical, fast and robust point cloud registration for 3d scene stitching and object localization(2021)
 - Pyramid semantic graph-based global point cloud registration with low overlap(IROS,2023)
