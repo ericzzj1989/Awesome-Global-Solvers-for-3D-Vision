@@ -20,85 +20,73 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 ## Application
 
 ### Rotation Averaging
-#### Analysis
-- Combining two-view constraints for motion estimation(CVPR,2001)[[paper]](https://ieeexplore.ieee.org/document/990963)
 
-#### SDP
-- Global Motion Estimation from Point Matches(3DIMPVT,2012)[[paper]](https://ieeexplore.ieee.org/document/6374980)
-- Simultaneous multiple rotation averaging using Lagrangian duality(ACCV,2012)[[paper]](https://link.springer.com/chapter/10.1007/978-3-642-37431-9_19)
-- Rotation Averaging and Strong Duality(CVPR,2018)[[paper]](https://ieeexplore.ieee.org/document/8578119)
-
-#### POP
-- Globally optimal estimates for rotation averaging problems(2014)
-
-#### RANSAC
-- Hierarchical ransac-based rotation averaging(SPL,2020)
-- Revisiting rotation averaging: Uncertainties and robust losses(CVPR,2023)
-  
-#### GNC
-- Pushing the envelope of rotation averaging for visual slam(arxiv,2020)
-- Adaptive annealing for robust averaging(ECCV,2024)
-
-#### Hybrid
-- Shonan Rotation Averaging: Global Optimality by Surfing SO(p)^n(ECCV,2020)[[paper]](https://arxiv.org/abs/2008.02737)
-- Hybrid Rotation Averaging:A Fast and Robust Rotation Averaging Approach(CVPR,2021)[[paper]](https://arxiv.org/abs/2101.09116)
+| Category | Paper | Pub/Year | Paper | Code |
+|:--------:|-------|----------|-------|------|
+| **Analysis** | Combining two-view constraints for motion estimation | CVPR 2001 | [paper](https://ieeexplore.ieee.org/document/990963) | – |
+|   |   |   |   |   |
+| **SDP** | Global Motion Estimation from Point Matches | 3DIMPVT 2012 | [paper](https://ieeexplore.ieee.org/document/6374980) | – |
+|        | Simultaneous multiple rotation averaging using Lagrangian duality | ACCV 2012 | [paper](https://link.springer.com/chapter/10.1007/978-3-642-37431-9_19) | – |
+|        | Rotation Averaging and Strong Duality | CVPR 2018 | [paper](https://ieeexplore.ieee.org/document/8578119) | – |
+|   |   |   |   |   |
+| **POP** | Globally optimal estimates for rotation averaging problems | 2014 | [paper](https://ieeexplore.ieee.org/document/6911507) | – |
+|   |   |   |   |   |
+| **RANSAC** | Hierarchical RANSAC-based rotation averaging | SPL 2020 | [paper](https://ieeexplore.ieee.org/document/9234640) | – |
+|           | Revisiting rotation averaging: Uncertainties and robust losses | CVPR 2023 | [paper](https://arxiv.org/abs/2303.05195) | [code](https://github.com/zhangganlin/GlobalSfMpy) |
+|   |   |   |   |   |
+| **GNC** | Pushing the envelope of rotation averaging for visual slam | arXiv 2020 | [paper](https://arxiv.org/abs/2011.01163) | – |
+|        | Adaptive annealing for robust averaging | ECCV 2024 | [paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08834.pdf) | – |
+|   |   |   |   |   |
+| **Hybrid** | Shonan Rotation Averaging: Global Optimality by Surfing SO(p)^n | ECCV 2020 | [paper](https://arxiv.org/abs/2008.02737) | [code](https://github.com/NeBula-AI/Shonan-Rotation-Averaging) |
+|           | Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach | CVPR 2021 | [paper](https://arxiv.org/abs/2101.09116) | [code](https://github.com/ethz-asl/hybrid-rotation-averaging) |
 
 ### Translation Averaging
-#### Essential Matrix based Methods
-- Combining two-view constraints for motion estimation(CVPR,2001)[[paper]](https://ieeexplore.ieee.org/document/990963)
 
-#### Trifocal Tensor based Methods
-- Global Motion Estimation from Point Matches(3DIMPVT,2012)[[paper]](https://ieeexplore.ieee.org/document/6374980)
-- Exploiting loops in the graph of trifocal tensors for calibrating a network of cameras
-- A global linear method for camera pose registration
-- Global fusion of relative motions for robust, accurate and scalable structure from motion
-- Recovering camera motion using $l_{\infty}$ minimization
-  
-#### Convex Relaxation
-- LUD
-- Shapefit
-- Robust camera location estimation by convex programming(2015)
-- Baseline Desensitizing in Translation Averaging（CVPR，2018）
-
-#### Robust Estimation
-- 1DSfM:Robust Global Translations with 1DSfM(ECCV,2014)[[paper]](https://www.cs.cornell.edu/projects/1dsfm/)
-- IRLS
-- RANSAC based
-#### Hybrid
-- Correspondence Reweighted Translation Averaging(ECCV,2022)[[paper]](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_4)
-- Linear Global Translation Estimation with Feature Tracks(CVPR,2015)[[paper]](https://arxiv.org/abs/1503.01832)
+| Category | Paper | Pub/Year | Paper | Code |
+|:--------:|-------|----------|-------|------|
+| **Essential Matrix** | Combining two-view constraints for motion estimation | CVPR 2001 | [paper](https://ieeexplore.ieee.org/document/990963) | – |
+|   |   |   |   |   |
+| **Trifocal Tensor** | Global Motion Estimation from Point Matches | 3DIMPVT 2012 | [paper](https://ieeexplore.ieee.org/document/6374980) | – |
+| | Exploiting loops in the graph of trifocal tensors for calibrating a network of cameras | – | – | – |
+| | A global linear method for camera pose registration | – | – | – |
+| | Global fusion of relative motions for robust, accurate and scalable structure from motion | – | – | – |
+| | Recovering camera motion using $l_{\\infty}$ minimization | – | – | – |
+|   |   |   |   |   |
+| **Convex Relaxation** | Robust camera location estimation by convex programming(LUD) | arxiv 2015 | [paper](https://arxiv.org/pdf/1412.0165) | – |
+| | Baseline Desensitizing in Translation Averaging | CVPR 2018 | [paper](https://arxiv.org/abs/1901.00643) | – |
+|   |   |   |   |   |
+| **Robust Estimation** | 1DSfM: Robust Global Translations with 1DSfM | ECCV 2014 | [paper](https://www.cs.cornell.edu/projects/1dsfm/) | – |
+|   |   |   |   |   |
+| **Hybrid** | Correspondence Reweighted Translation Averaging | ECCV 2022 | [paper](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_4) | [code](https://github.com/zju3dv/crta) |
+| | Linear Global Translation Estimation with Feature Tracks | CVPR 2015 | [paper](https://arxiv.org/abs/1503.01832) | – |
 
 ### Wahba Problem
-#### Closed-form solution
-- Fundamentals of spacecraft attitude determination and control
-- Closed-form solution of absolute orientation using orthonormal matrices
-- Attitude determination using vector observations and the singular value decomposition
-- Least-squares fitting of two 3D point sets
-- A generalized solution of the orthogonal procrustes problem
-- Closed-form solution of absolute orientation using orthonormal matrices
-#### Global Methods:CMax & BnB & Convex_Relaxation
-- GORE:
 
-👇**BnB**
-- Global optimization through rotation space search
-- Globally optimal consensus set maximization through rotation search
-- A polynomialtime bound for matching and registration with outliers
-- Robust fitting for multiple view geometry
-
-👇**Convex_Relaxation**
-- Convex Global 3D Registration with Lagrangian Duality
-- A semidefinite relaxation-based algorithm for robust attitude estimation
-- A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers(ICCV,2019)
-#### POP
-- The non-tightness of a convex relaxation to rotation recovery(2021)
-- Semidefinite relaxations of truncated least-squares in robust rotation search:Tight or not(ECCV,2022)
-
-#### RANSAC
-- RANSIC: Fast and Highly Robust Estimation for Rotation Search and Point Cloud Registration Using Invariant Compatibility(RAL,2021)
-
-#### GNC
-- ptimal pose and shape estimation for category-level 3d object perception(arxiv,2021)
-- A fast fractional programming technique for geman-mcclure robust estimator(RAL,2024)
+| Category | Paper | Pub/Year | Paper | Code |
+|:--------:|-------|----------|-------|------|
+| **Closed-form** | Fundamentals of spacecraft attitude determination and control | – | – | – |
+| | Closed-form solution of absolute orientation using orthonormal matrices | – | – | – |
+| | Attitude determination using vector observations and the singular value decomposition | – | – | – |
+| | Least-squares fitting of two 3D point sets | – | – | – |
+| | A generalized solution of the orthogonal procrustes problem | – | – | – |
+| | Closed-form solution of absolute orientation using orthonormal matrices | – | – | – |
+|   |   |   |   |   |
+| **BnB** | Global optimization through rotation space search | IJCV 2009 | [paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/HartleyKahl:Ematrix.pdf) | – |
+| | Globally optimal consensus set maximization through rotation search | ACCV 2012 | [paper] | – |
+| | A polynomialtime bound for matching and registration with outliers | CVPR 2008 | [paper](https://ieeexplore.ieee.org/document/4587757) | – |
+| | Robust fitting for multiple view geometry | – | – | – |
+|   |   |   |   |   |
+| **Convex Relaxation** | Convex Global 3D Registration with Lagrangian Duality | – | – | – |
+| | A semidefinite relaxation-based algorithm for robust attitude estimation | – | – | – |
+| | A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers | ICCV 2019 | [paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_A_Quaternion-Based_Certifiably_Optimal_Solution_to_the_Wahba_Problem_With_ICCV_2019_paper.pdf) | [code](https://github.com/HengyiYang/quadwahba) |
+|   |   |   |   |   |
+| **POP** | The non-tightness of a convex relaxation to rotation recovery | 2021 | – | – |
+| | Semidefinite relaxations of truncated least-squares in robust rotation search: Tight or not | ECCV 2022 | – | – |
+|   |   |   |   |   |
+| **RANSAC** | RANSIC: Fast and Highly Robust Estimation for Rotation Search and Point Cloud Registration Using Invariant Compatibility | RAL 2021 | – | [code](https://github.com/lukascher/RANSIC) |
+|   |   |   |   |   |
+| **GNC** | Optimal pose and shape estimation for category-level 3D object perception | arXiv 2021 | – | – |
+| | A fast fractional programming technique for Geman-McClure robust estimator | RAL 2024 | – | – |
 
 ### Absolute Pose Estimation (PnP)
 - EPnP
