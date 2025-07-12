@@ -1,12 +1,26 @@
-# Global-Optimization-for-Multiple-View-Geometry
-This is the official repository of **A Survey of Global Optimization for Geometric Perception: Theory and Application**, a comprehensive survey of recent progress in Global Optimization for multiple view geometry. For details, please refer to:
+# Global-Optimization-for-Multiple-View-Geometry [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-## Table of contents
-- [Theory](#theory)
-- [Application](#application)
+## 🏠 About
+This repo contains a curative list of **Global Optimization for Multiple View Geometry**. Please feel free to send us [pull requests](https://github.com/ericzzj1989/Global-Optimization-for-Multiple-View-Geometry/blob/main/how-to-PR.md) or [email](mailto:ericzzj89@gmail.com) to add papers! <br>
+
+This is an active repository, you can watch for following the latest advances. If you find this repository useful, please consider [citing](#citation) 📝 and STARing ⭐ this list. Feel free to share this list with others!
+
+---
+## 🔥 News
+
+---
+## Overview
+  - [Theory](#theory)
+    - [Bound-and-Branch (BnB)](#bound-and-branch-bnb)
+    - [Semidefinite Programming (SDP)](#semidefinite-programming-sdp))
+    - [Polynomial Optimization (POP)](#polynomial-optimization-pop)
+    - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
+  - [Application](#application)
+    - [Rotation Averaging](#rotation-averaging)
+      - [Analysis](#analysis)
+    - [Translation Averaging](#rotation-averaging)
 
 ## Theory
-
 
 ### Bound-and-Branch (BnB)
 
@@ -16,10 +30,21 @@ This is the official repository of **A Survey of Global Optimization for Geometr
 
 ### Graduated Non-Convexity (GNC)
 
-
 ## Application
 
 ### Rotation Averaging
+
+#### Analysis (直接显示还是表格排版？哪种更美观？)
+**直接显示**
+* Combining two-view constraints for motion estimation, *CVPR, 2001*. [[Paper](https://ieeexplore.ieee.org/document/990963)]
+
+**表格显示**
+|Paper|Venue & Year|Code|
+|:---:|:---:|:---:|
+| [Combining two-view constraints for motion estimation](https://ieeexplore.ieee.org/document/990963) | *CVPR, 2001* | |
+
+
+---
 
 | Category | Paper | Pub/Year | Paper | Code |
 |:--------:|-------|----------|-------|------|
