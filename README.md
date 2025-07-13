@@ -63,7 +63,7 @@ This is an active repository, you can watch for following the latest advances. I
   
 - Simultaneous Multiple Rotation Averaging Using Lagrangian Duality, *ACCV, 2012*. [[Paper](https://scispace.com/pdf/simultaneous-multiple-rotation-averaging-using-lagrangian-1ecpzvpaw8.pdf)]
 
-- Rotation Averaging and Strong Duality, *CVPR 2018*. [[Paper](https://arxiv.org/pdf/1705.01362)]
+- Rotation Averaging and Strong Duality, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1705.01362)]
 
 #### **POP**
 - Globally Optimal Estimates for Rotation Averaging Problems, *IHMSC, 2014*. [[Paper](https://ieeexplore.ieee.org/document/6911507)]
@@ -200,17 +200,23 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Finding the exact rotation between two images independently of the translation(ECCV,2012)
 
-- A certifiably globally optimal solution to the non-minimal relative pose problem(CVPR,2018)
-
 - SDP relaxations for quadratic optimization problems derived from polynomial optimization problems(2010)
 
 - Globally optimal estimates for geometric reconstruction problems(2007)
 
-- Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map, *IJRR, 2025*. [[Paper](https://arxiv.org/pdf/2308.12418)]
+- A Certifiably Globally Optimal Solution to the Non-Minimal Relative Pose Problem, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3968.pdf)]
 
-- Robot-to-Robot Relative Pose Estimation based on Semidefinite Relaxation Optimization(2020)
+- Robot-to-Robot Relative Pose Estimation based on Semidefinite Relaxation Optimization, *IROS, 2020*. [[Paper](https://freeformrobotics.org/wp-content/uploads/2022/02/IROS20_0234_FI.pdf)]
+
+- Certifiable Relative Pose Estimation, *arXiv, 2020*, [[Paper](https://arxiv.org/pdf/2003.13732)]
 
 - An Efficient Solution to Non-Minimal Case Essential Matrix Estimation, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/1903.09067)] [[Code](https://github.com/jizhaox/npt-pose)]
+
+- A Tighter Relaxation for the Relative Pose Problem Between Cameras, *JMIV, 2022*. [[Paper](https://mapir.isa.uma.es/papersrepo/2022/2022_mercedes_JMIV_tighter_rel_rpp_paper.pdf)] [[Code](https://github.com/mergarsal/TighterRPp)]
+
+- From Correspondences to Pose: Non-minimal Certifiably Optimal Relative Pose without Disambiguation, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2312.05995)] [[Code](https://github.com/javrtg/C2P)] [[Project Page](https://javrtg.github.io/C2P/)]
+
+- Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map, *IJRR, 2025*. [[Paper](https://arxiv.org/pdf/2308.12418)]
 
 #### BnB
 
@@ -228,8 +234,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Global optimization through rotation space search(IJCV,2009)
 
-- Certifiable relative pose estimation(2021)
-
 #### RANSAC
 
 - An efficient solution to the five-point relative pose problem(TPAMI,2004)
@@ -242,8 +246,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 
 ### 3D Registration
-
-- Point Registration via Efficient Convex Relaxation, *TOG, 2016*. [[Paper](https://haggaim.github.io/projects/point_registration/PMSDP_final_light.pdf)] [[Code](https://github.com/Haggaim/PM-SDP)]
 
 - Fast Global Registration, *ECCV, 2016*. [[Paper](https://vladlen.info/papers/fast-global-registration.pdf)] [[Code](https://github.com/isl-org/FastGlobalRegistration)]
 
@@ -261,13 +263,17 @@ This is an active repository, you can watch for following the latest advances. I
   
 #### SDP
 
-- Guided search consensus: Large scale point cloud registration by convex optimization(2013)
+- Guided search consensus: Large scale point cloud registration by convex optimization, *ICIP, 2013*.
+
+- Global Registration of Multiple Point Clouds Using Semidefinite Programming, *SIAM Journal on Optimization, 2015*. [[Paper](https://arxiv.org/pdf/1306.5226)]
 
 - Non-Iterative Rigid 2D/3D Point-Set Registration Using Semidefinite Programming, *TIP, 2015*. [[Paper](https://arxiv.org/pdf/1501.00630)]
 
-- Point registration via efficient convex relaxation(2016)
+- Point Registration via Efficient Convex Relaxation, *TOG, 2016*. [[Paper](https://haggaim.github.io/projects/point_registration/PMSDP_final_light.pdf)] [[Code](https://github.com/Haggaim/PM-SDP)]
 
 - Convex Global 3D Registration with Lagrangian Duality, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Briales_Convex_Global_3D_CVPR_2017_paper.pdf)] [[Code](https://github.com/jbriales/CVPR17)]
+
+- Global Optimality for Point Set Registration Using Semidefinite Programming, *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Iglesias_Global_Optimality_for_Point_Set_Registration_Using_Semidefinite_Programming_CVPR_2020_paper.pdf)]
 
 - TEASER: Fast and Certifiable Point Cloud Registration, *TRO, 2020*. [[Paper](https://arxiv.org/pdf/2001.07715)] [[Code](https://github.com/MIT-SPARK/TEASER-plusplus)]
 
@@ -286,9 +292,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Lagrangian Duality in Complex Pose Graph Optimization(2016)
 
-- Initialization of 3D Pose Graph Optimization Using Lagrangian Duality(ICRA,2017)
+- Initialization of 3D Pose Graph Optimization Using Lagrangian Duality, *ICRA, 2017*. [[Paper](https://mapir.isa.uma.es/jbriales/publications/ICRA17+supp.pdf)]
 
-- Convex Relaxations for Pose Graph Optimization With Outliers(RAL,2018)
+- Convex Relaxations for Pose Graph Optimization With Outliers, *RAL, 2018*. [[Paper](https://arxiv.org/pdf/1801.02112)] 
 
 - Efficient and Guaranteed Planar Pose Graph Optimization Using Complex Representation(2019)
 
@@ -313,7 +319,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Semidefinite Relaxations for Robust Multiview Triangulation, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2301.11431)] [[Code](https://github.com/Linusnie/robust-triangulation-relaxations)]
 
-- Triangulation of points, lines and conics(JMIV,2007)
+- Triangulation of points, lines and conics, *JMIV, 2008*. [[Paper](https://lucris.lub.lu.se/ws/portalfiles/portal/2621089/1245431.pdf)]
 
 - A convex relaxation to compute the nearest structured rank deficient matrix(SIAM,2021)
   
