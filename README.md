@@ -121,9 +121,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Convex Relaxation**
 - "A semidefinite relaxation-based algorithm for robust attitude estimation", *TSP, 2012*. [[Paper](https://ieeexplore.ieee.org/document/6203426)]  
-- "A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers", *ICCV 2019*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_A_Quaternion-Based_Certifiably_Optimal_Solution_to_the_Wahba_Problem_With_ICCV_2019_paper.pdf)] [[Code](https://github.com/MIT-SPARK/TEASER-plusplus)]  
-- "Semidefinite relaxations of truncated least-squares in robust rotation search: Tight or not", *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830655.pdf)]  
-- "Optimal pose and shape estimation for category-level 3D object perception", *RSS, 2021*. [[Paper](https://arxiv.org/pdf/2104.08383)] [[Code](https://github.com/mit-spark/pace)]
+- "A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers", *ICCV 2019*. [[Paper](https://arxiv.org/pdf/1905.12536)]  
+- "Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search: Tight or Not", *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830655.pdf)]
+- "Towards Understanding The Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search", *ECCV, 2022*. [[Paper](https://arxiv.org/pdf/2207.08350)]
 
 #### **POP**
 *(后续补充)*
@@ -132,7 +132,7 @@ This is an active repository, you can watch for following the latest advances. I
 - "RANSIC: Fast and Highly Robust Estimation for Rotation Search and Point Cloud Registration Using Invariant Compatibility", *RAL, 2021*. [[Paper](https://arxiv.org/pdf/2104.09133)] [[Code](https://github.com/lukascher/RANSIC)]
 
 #### **GNC**
-- "A fast fractional programming technique for Geman-McClure robust estimator", *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
+- "FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator", *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
 
 
 ### Absolute Pose Estimation (PnP)
@@ -190,22 +190,23 @@ This is an active repository, you can watch for following the latest advances. I
 ### 3D Registration
 
 - Point Registration via Efficient Convex Relaxation (TOG,2016)
-- Fast Global Registration (ECCV,2016)
-
+- "Fast Global Registration", *ECCV, 2016*. [[Paper](https://vladlen.info/papers/fast-global-registration.pdf)] [[Code](https://github.com/isl-org/FastGlobalRegistration)]
 - SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences (2019,CVPR)
-- TEASER: Fast and Certifiable Point Cloud Registration (TRO,2020)
+- "TEASER: Fast and Certifiable Point Cloud Registration", *TRO, 2020*. [[Paper](https://arxiv.org/pdf/2001.07715)] [[Code](https://github.com/MIT-SPARK/TEASER-plusplus)]
 
 #### BnB
 - A polynomial-time bound for matching and registration with outliers(CVPR,2008)
 - Go-icp: A globally optimal solution to 3d icp point-set registration(TPAMI,2015)
 - GORE:
 - PMC:A practical maximum clique algorithm for matching with pairwise constraints
+  
 #### SDP
 - Guided search consensus: Large scale point cloud registration by convex optimization(2013)
-- on-iterative rigid 2d/3d pointset registration using semidefinite programming(TIP,2015)
+- "Non-Iterative Rigid 2D/3D Point-Set Registration Using Semidefinite Programming", *TIP, 2015*. [[Paper](https://arxiv.org/pdf/1501.00630)]
 - Point registration via efficient convex relaxation(2016)
-- Convex Global 3D Registration with Lagrangian Duality (CVPR,2017)
-| Convex Global 3D Registration with Lagrangian Duality | CVPR 2017 | [paper](https://ieeexplore.ieee.org/document/8100078) | – |
+- "Convex Global 3D Registration with Lagrangian Duality", *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Briales_Convex_Global_3D_CVPR_2017_paper.pdf)] [[Code](https://github.com/jbriales/CVPR17)]
+- "GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation", *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.13537)] [[Code](https://github.com/WU-CVGL/GlobalPointer)] [[Project Page](https://bangyan101.github.io/GlobalPointer/)]
+
 #### GNC
 - Practical, fast and robust point cloud registration for 3d scene stitching and object localization(2021)
 - Pyramid semantic graph-based global point cloud registration with low overlap(IROS,2023)
@@ -231,7 +232,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### SDP
 - A qcqp approach to triangulation(ECCV,2012)
-- Semidefinite Relaxations for Robust Multiview Triangulation (CVPR,2023)
+- "Semidefinite Relaxations for Robust Multiview Triangulation", *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2301.11431)] [[Code](https://github.com/Linusnie/robust-triangulation-relaxations)]
 - Triangulation of points, lines and conics(JMIV,2007)
 - A convex relaxation to compute the nearest structured rank deficient matrix(SIAM,2021)
   
@@ -250,13 +251,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 
 ### Bundle Adjustment
-- Building Rome with Convex Optimization (RSS,2025)
+- "Building Rome with Convex Optimization", *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2502.04640)] [[Code](https://github.com/ComputationalRobotics/XM-code)] [[Project Page](https://computationalrobotics.seas.harvard.edu/XM/)]
 
 
 ### SLAM
-- [Certifiably Correct Range-Aided SLAM](https://arxiv.org/pdf/2302.11614) (TRO,2024)
-- [Distributed Certifiably Correct Range-Aided SLAM](https://arxiv.org/pdf/2503.03192) (ICRA,2025)
+- "Certifiably Correct Range-Aided SLAM", *TRO,2024*. [[Paper](https://arxiv.org/pdf/2302.11614)] [[Code](https://github.com/MarineRoboticsGroup/cora)]
+- "Distributed Certifiably Correct Range-Aided SLAM", *ICRA, 2025*. [Paper](https://arxiv.org/pdf/2503.03192) [[Code](https://github.com/adthoms/dcora)]
 
 ### All-in-One
-- One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers (NeurIPS,2020)
-- Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization (TPAMI,2022)
+- "One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers", *NeurIPS, 2020*. [[Paper](https://arxiv.org/pdf/2006.06769)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
+- "Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization", *TPAMI,2022*. [[Paper](https://arxiv.org/pdf/2109.03349)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
