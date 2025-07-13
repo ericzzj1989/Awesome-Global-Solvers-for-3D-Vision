@@ -56,83 +56,105 @@ This is an active repository, you can watch for following the latest advances. I
 ### Rotation Averaging
 
 #### **Analysis**
-- "Combining Two-view Constraints For Motion Estimation", *CVPR, 2001*. [[Paper](https://ieeexplore.ieee.org/document/990963)]
+- Combining Two-view Constraints For Motion Estimation, *CVPR, 2001*. [[Paper](https://ieeexplore.ieee.org/document/990963)]
 
 #### **SDP**
-- "Global Motion Estimation from Point Matches", *3DIMPVT, 2012*. [[Paper](https://homes.cs.washington.edu/~kemelmi/sfm_3dimpvt12.pdf)]  
-- "Simultaneous Multiple Rotation Averaging Using Lagrangian Duality", *ACCV, 2012*. [[Paper](https://scispace.com/pdf/simultaneous-multiple-rotation-averaging-using-lagrangian-1ecpzvpaw8.pdf)]
-- "Rotation Averaging and Strong Duality", *CVPR 2018*. [[Paper](https://arxiv.org/pdf/1705.01362)]
+- Global Motion Estimation from Point Matches, *3DIMPVT, 2012*. [[Paper](https://homes.cs.washington.edu/~kemelmi/sfm_3dimpvt12.pdf)]
+  
+- Simultaneous Multiple Rotation Averaging Using Lagrangian Duality, *ACCV, 2012*. [[Paper](https://scispace.com/pdf/simultaneous-multiple-rotation-averaging-using-lagrangian-1ecpzvpaw8.pdf)]
+
+- Rotation Averaging and Strong Duality, *CVPR 2018*. [[Paper](https://arxiv.org/pdf/1705.01362)]
 
 #### **POP**
-- "Globally Optimal Estimates for Rotation Averaging Problems", *IHMSC, 2014*. [[Paper](https://ieeexplore.ieee.org/document/6911507)]
+- Globally Optimal Estimates for Rotation Averaging Problems, *IHMSC, 2014*. [[Paper](https://ieeexplore.ieee.org/document/6911507)]
 
 #### **RANSAC**
-- "Hierarchical RANSAC-Based Rotation Averaging", *SPL, 2020*. [[Paper](https://ieeexplore.ieee.org/document/9234640)]  
-- "Revisiting Rotation Averaging: Uncertainties and Robust Losses", *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2303.05195)] [[Code](https://github.com/zhangganlin/GlobalSfMpy)]
+- Hierarchical RANSAC-Based Rotation Averaging, *SPL, 2020*. [[Paper](https://ieeexplore.ieee.org/document/9234640)]
+
+- Revisiting Rotation Averaging: Uncertainties and Robust Losses, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2303.05195)] [[Code](https://github.com/zhangganlin/GlobalSfMpy)]
 
 #### **GNC**
-- "Pushing the Envelope of Rotation Averaging for Visual SLAM", *arXiv, 2020*. [[Paper](https://arxiv.org/pdf/2011.01163)]  
-- "Adaptive Annealing for Robust Averaging", *ECCV 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08834.pdf)]
+- Pushing the Envelope of Rotation Averaging for Visual SLAM, *arXiv, 2020*. [[Paper](https://arxiv.org/pdf/2011.01163)]
+
+- Adaptive Annealing for Robust Averaging, *ECCV 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08834.pdf)]
 
 #### **Hybrid**
-- "Shonan Rotation Averaging: Global Optimality by Surfing SO(p)^n", *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.02737)] [[Code](https://github.com/dellaert/ShonanAveraging)] [[Project Page](https://dellaert.github.io/ShonanAveraging/index.html)]
-- "Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach", *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2101.09116)] [[Code](https://github.com/ethz-asl/hybrid-rotation-averaging)]
+- Shonan Rotation Averaging: Global Optimality by Surfing SO(p)^n, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.02737)] [[Code](https://github.com/dellaert/ShonanAveraging)] [[Project Page](https://dellaert.github.io/ShonanAveraging/index.html)]
+
+- Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2101.09116)] [[Code](https://github.com/ethz-asl/hybrid-rotation-averaging)]
 
 
 ### Translation Averaging
 
 #### **Essential Matrix**
-- "Combining Two-view Constraints For Motion Estimation", *CVPR, 2001*. [[Paper](https://web.archive.org/web/20190307103302id_/http://pdfs.semanticscholar.org/dee5/b339cb49e4d7fef462a36c733b7ad8de28ca.pdf)]
+- Combining Two-view Constraints For Motion Estimation, *CVPR, 2001*. [[Paper](https://web.archive.org/web/20190307103302id_/http://pdfs.semanticscholar.org/dee5/b339cb49e4d7fef462a36c733b7ad8de28ca.pdf)]
 
 #### **Trifocal Tensor**
-- "Recovering Camera Motion Using $l_{\infty}$ Minimization", *CVPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1640890)]
-- "Exploiting Loops in the Graph of Trifocal Tensors for Calibrating a Network of Cameras", *ECCV, 2010*. [[Paper](https://imagine.enpc.fr/~monasse/Callisto/pdf/ECCV10Loop.pdf)]
-- "A Global Linear Method for Camera Pose Registration", *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Jiang_A_Global_Linear_2013_ICCV_paper.pdf)]  
-- "Global Fusion of Relative Motions for Robust, Accurate and Scalable Structure from Motion", *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Moulon_Global_Fusion_of_2013_ICCV_paper.pdf)]
+- Recovering Camera Motion Using $l_{\infty}$ Minimization, *CVPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1640890)]
+
+- Exploiting Loops in the Graph of Trifocal Tensors for Calibrating a Network of Cameras, *ECCV, 2010*. [[Paper](https://imagine.enpc.fr/~monasse/Callisto/pdf/ECCV10Loop.pdf)]
+
+- A Global Linear Method for Camera Pose Registration, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Jiang_A_Global_Linear_2013_ICCV_paper.pdf)]
+
+- Global Fusion of Relative Motions for Robust, Accurate and Scalable Structure from Motion, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Moulon_Global_Fusion_of_2013_ICCV_paper.pdf)]
 
 #### **Convex Relaxation**
-- "Robust Camera Location Estimation by Convex Programming", *CVPR, 2015*. [[Paper](https://arxiv.org/pdf/1412.0165)]  
-- "Baseline Desensitizing in Translation Averaging", *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1901.00643)]
+- Robust Camera Location Estimation by Convex Programming, *CVPR, 2015*. [[Paper](https://arxiv.org/pdf/1412.0165)]
+
+- Baseline Desensitizing in Translation Averaging, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1901.00643)]
 
 #### **Robust Estimation**
-- "Robust Global Translations with 1DSfM", *ECCV, 2014*. [[Paper](https://www.cs.cornell.edu/projects/1dsfm/docs/1DSfM_ECCV14.pdf)] [[Code](https://github.com/wilsonkl/SfM_Init)] [[Project Page](https://www.cs.cornell.edu/projects/1dsfm/)]
+- Robust Global Translations with 1DSfM, *ECCV, 2014*. [[Paper](https://www.cs.cornell.edu/projects/1dsfm/docs/1DSfM_ECCV14.pdf)] [[Code](https://github.com/wilsonkl/SfM_Init)] [[Project Page](https://www.cs.cornell.edu/projects/1dsfm/)]
 
 #### **Hybrid**
-- "Correspondence Reweighted Translation Averaging", *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930053.pdf)]
-- "Linear Global Translation Estimation with Feature Tracks", *BMVC, 2015*. [[Paper](https://arxiv.org/pdf/1503.01832)]
-- "Revisiting Global Translation Estimation with Feature Tracks", *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tao_Revisiting_Global_Translation_Estimation_with_Feature_Tracks_CVPR_2024_paper.pdf)]
+- Correspondence Reweighted Translation Averaging, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930053.pdf)]
+
+- Linear Global Translation Estimation with Feature Tracks, *BMVC, 2015*. [[Paper](https://arxiv.org/pdf/1503.01832)]
+
+- Revisiting Global Translation Estimation with Feature Tracks, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tao_Revisiting_Global_Translation_Estimation_with_Feature_Tracks_CVPR_2024_paper.pdf)]
 
 
 ### Wahba Problem
 
 #### **Closed-form**
-- "Fundamentals of spacecraft attitude determination and control".  
-- "Closed-form solution of absolute orientation using orthonormal matrices".  
-- "Attitude determination using vector observations and the singular value decomposition".  
-- "Least-squares fitting of two 3D point sets".  
-- "A generalized solution of the orthogonal procrustes problem".  
-- "Closed-form solution of absolute orientation using orthonormal matrices".
+- Fundamentals of spacecraft attitude determination and control
+  
+- Closed-form solution of absolute orientation using orthonormal matrices
+
+- Attitude determination using vector observations and the singular value decomposition
+
+- Least-squares fitting of two 3D point sets
+
+- A generalized solution of the orthogonal procrustes problem
+
+- Closed-form solution of absolute orientation using orthonormal matrices
 
 #### **BnB**
-- "Global optimization through rotation space search", *IJCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/HartleyKahl:Ematrix.pdf)]  
-- "Globally optimal consensus set maximization through rotation search", *ACCV, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-37444-9_42)]  
-- "A polynomial-time bound for matching and registration with outliers", *CVPR, 2008*. [[Paper](https://ieeexplore.ieee.org/document/4587757)]  
-- "Robust fitting for multiple view geometry", *ECCV, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-33718-5_53)]
+- Global optimization through rotation space search, *IJCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/HartleyKahl:Ematrix.pdf)]
+
+- Globally optimal consensus set maximization through rotation search, *ACCV, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-37444-9_42)]
+ 
+- A polynomial-time bound for matching and registration with outliers, *CVPR, 2008*. [[Paper](https://ieeexplore.ieee.org/document/4587757)]
+ 
+- Robust fitting for multiple view geometry, *ECCV, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-33718-5_53)]
 
 #### **Convex Relaxation**
-- "A semidefinite relaxation-based algorithm for robust attitude estimation", *TSP, 2012*. [[Paper](https://ieeexplore.ieee.org/document/6203426)]  
-- "A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers", *ICCV 2019*. [[Paper](https://arxiv.org/pdf/1905.12536)]  
-- "Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search: Tight or Not", *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830655.pdf)]
-- "Towards Understanding The Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search", *ECCV, 2022*. [[Paper](https://arxiv.org/pdf/2207.08350)]
+- A semidefinite relaxation-based algorithm for robust attitude estimation, *TSP, 2012*. [[Paper](https://ieeexplore.ieee.org/document/6203426)]
+
+- A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers, *ICCV 2019*. [[Paper](https://arxiv.org/pdf/1905.12536)]
+
+- Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search: Tight or Not, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830655.pdf)]
+
+- Towards Understanding The Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search, *ECCV, 2022*. [[Paper](https://arxiv.org/pdf/2207.08350)]
 
 #### **POP**
 *(后续补充)*
 
 #### **RANSAC**
-- "RANSIC: Fast and Highly Robust Estimation for Rotation Search and Point Cloud Registration Using Invariant Compatibility", *RAL, 2021*. [[Paper](https://arxiv.org/pdf/2104.09133)] [[Code](https://github.com/lukascher/RANSIC)]
+- RANSIC: Fast and Highly Robust Estimation for Rotation Search and Point Cloud Registration Using Invariant Compatibility, *RAL, 2021*. [[Paper](https://arxiv.org/pdf/2104.09133)] [[Code](https://github.com/lukascher/RANSIC)]
 
 #### **GNC**
-- "FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator", *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
+- FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
 
 
 ### Absolute Pose Estimation (PnP)
@@ -140,14 +162,23 @@ This is an active repository, you can watch for following the latest advances. I
 #### Analysis
 - EPnP 
 - The non-tightness of a convex relaxation to rotation recovery | 2021 | [paper](https://www.mdpi.com/1424-8220/21/21/7358) | – |
+
 - CvxPnPL: A unified convex solution to the absolute pose estimation problem from point and line correspondences
+
 - Upnp: An optimal o (n) solution to the absolute pose problem with universal applicability
+
 - Revisiting the pnp problem: A fast, general and optimal solution
+
 - Globally optimal dls method for pnp problem with cayley parameterization
+
 - A versatile approach for solving pnp, pnpf, and pnpfr problems
+
 - A simple, robust and fast method for the perspective-n-point problem
+
 - An efficient and accurate algorithm for the perspecitve-n-point problem
+
 - A consistently fast and globally optimal solution to the perspective-n-point problem
+
 - Globally optimal O(n) solution to the PnP problem for general camera models
 
 
@@ -155,60 +186,92 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### Minimal solvers
 - An efficient solution to the five-point relative pose problem(2004)
+
 - Recent developments on direct relative orientation(2006)
+
 - Finding the exact rotation between two images independently of the translation(ECCV,2012)
+
 - In defence of the 8-point algorithm(ICCV,1995)
 
-#### Global Optimization
-
-👇**SDP**
+#### SDP
 - Camera displacement via constrained minimizatio of the algebraic error(TPAMI,2009)
+
 - Finding the exact rotation between two images independently of the translation(ECCV,2012)
+
 - A certifiably globally optimal solution to the non-minimal relative pose problem(CVPR,2018)
+
 - SDP relaxations for quadratic optimization problems derived from polynomial optimization problems(2010)
+
 - Globally optimal estimates for geometric reconstruction problems(2007)
-- Certifiably optimal rotation and pose estimation based on the cayley map(2025)
+
+- Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map, *IJRR, 2025*. [[Paper](https://arxiv.org/pdf/2308.12418)]
+
 - Robot-to-Robot Relative Pose Estimation based on Semidefinite Relaxation Optimization(2020)
 
-👇**BnB**
+- An Efficient Solution to Non-Minimal Case Essential Matrix Estimation, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/1903.09067)] [[Code](https://github.com/jizhaox/npt-pose)]
+
+#### BnB
 - Robust optimal pose estimation(ECCV,2008)
+
 - Two view geometry estimation with outliers(BMVC,2009)
+
 - Consensus set maximization with guaranteed global optimality for robust geometry estimation(ICCV,2009)
+
 - Optimal essential matrix estimation via inlier-set maximization(ECCV,2014)
+
 - Optimal relative pose with unknown correspondences(CVPR,2016)
+
 - Direct optimization of frame-to-frame rotation(ICCV,2013)
+
 - Global optimization through rotation space search(IJCV,2009)
+
 - Certifiable relative pose estimation(2021)
-  
-👇**Hybrid**
-- Consensus maximization with linear matrix inequality constraints(CVPR,2017)
+
 #### RANSAC
 - An efficient solution to the five-point relative pose problem(TPAMI,2004)
+
 - Fast and robust certifiable estimation of the relative pose between two calibrated cameras(2021)
+  
+#### Hybrid
+- Consensus maximization with linear matrix inequality constraints(CVPR,2017)
 
 
 ### 3D Registration
 
 - Point Registration via Efficient Convex Relaxation (TOG,2016)
-- "Fast Global Registration", *ECCV, 2016*. [[Paper](https://vladlen.info/papers/fast-global-registration.pdf)] [[Code](https://github.com/isl-org/FastGlobalRegistration)]
+
+- Fast Global Registration, *ECCV, 2016*. [[Paper](https://vladlen.info/papers/fast-global-registration.pdf)] [[Code](https://github.com/isl-org/FastGlobalRegistration)]
+
 - SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences (2019,CVPR)
-- "TEASER: Fast and Certifiable Point Cloud Registration", *TRO, 2020*. [[Paper](https://arxiv.org/pdf/2001.07715)] [[Code](https://github.com/MIT-SPARK/TEASER-plusplus)]
 
 #### BnB
+
 - A polynomial-time bound for matching and registration with outliers(CVPR,2008)
+
 - Go-icp: A globally optimal solution to 3d icp point-set registration(TPAMI,2015)
+
 - GORE:
+
 - PMC:A practical maximum clique algorithm for matching with pairwise constraints
   
 #### SDP
+
 - Guided search consensus: Large scale point cloud registration by convex optimization(2013)
-- "Non-Iterative Rigid 2D/3D Point-Set Registration Using Semidefinite Programming", *TIP, 2015*. [[Paper](https://arxiv.org/pdf/1501.00630)]
+
+- Non-Iterative Rigid 2D/3D Point-Set Registration Using Semidefinite Programming, *TIP, 2015*. [[Paper](https://arxiv.org/pdf/1501.00630)]
+
 - Point registration via efficient convex relaxation(2016)
-- "Convex Global 3D Registration with Lagrangian Duality", *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Briales_Convex_Global_3D_CVPR_2017_paper.pdf)] [[Code](https://github.com/jbriales/CVPR17)]
-- "GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation", *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.13537)] [[Code](https://github.com/WU-CVGL/GlobalPointer)] [[Project Page](https://bangyan101.github.io/GlobalPointer/)]
+
+- Convex Global 3D Registration with Lagrangian Duality, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Briales_Convex_Global_3D_CVPR_2017_paper.pdf)] [[Code](https://github.com/jbriales/CVPR17)]
+
+- TEASER: Fast and Certifiable Point Cloud Registration, *TRO, 2020*. [[Paper](https://arxiv.org/pdf/2001.07715)] [[Code](https://github.com/MIT-SPARK/TEASER-plusplus)]
+
+- GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.13537)] [[Code](https://github.com/WU-CVGL/GlobalPointer)] [[Project Page](https://bangyan101.github.io/GlobalPointer/)]
 
 #### GNC
+
 - Practical, fast and robust point cloud registration for 3d scene stitching and object localization(2021)
+
 - Pyramid semantic graph-based global point cloud registration with low overlap(IROS,2023)
 
 
@@ -216,48 +279,77 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### SDP
 - Lagrangian Duality in Complex Pose Graph Optimization(2016)
+
 - Initialization of 3D Pose Graph Optimization Using Lagrangian Duality(ICRA,2017)
+
 - Convex Relaxations for Pose Graph Optimization With Outliers(RAL,2018)
+
 - Efficient and Guaranteed Planar Pose Graph Optimization Using Complex Representation(2019)
+
 - Distributed Certifiably Correct Pose-Graph Optimization(TRO,2019)
 
 #### GNC
+
 - Efficient Graduated Non-Convexity for Pose Graph Optimization(ICCAS,2024)
+
 - Adaptive Graduated Non-Convexity for Pose Graph Optimization(arxiv,2023)
+
 - A Decoupled and Linear Framework for Global Outlier Rejection over Planar Pose Graph(ICRA,2023)
+
 - Improving Pose Graph Optimization via Efficient Graduated Non-convexity Scheduling
 
 
 ### Triangulation
 
 #### SDP
+
 - A qcqp approach to triangulation(ECCV,2012)
-- "Semidefinite Relaxations for Robust Multiview Triangulation", *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2301.11431)] [[Code](https://github.com/Linusnie/robust-triangulation-relaxations)]
+
+- Semidefinite Relaxations for Robust Multiview Triangulation, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2301.11431)] [[Code](https://github.com/Linusnie/robust-triangulation-relaxations)]
+
 - Triangulation of points, lines and conics(JMIV,2007)
+
 - A convex relaxation to compute the nearest structured rank deficient matrix(SIAM,2021)
   
 #### BnB
+
 - A Fast Optimal Algorithm for L 2 Triangulation(2007)
+
 - On triangulation algorithms in large scale camera network systems(ACC,2012)
+
 - An exact algorithm for the minimum dilation triangulation problem(2017)
   
 #### RANSAC
+
 - Robust multiview L2 triangulation via optimal inlier selection and 3D structure refinement
+
 - Robust uncertainty-aware multiview triangulation
+
 - Structure-from-motion revisited
 
 #### Hybrid
+
 - A Triangulation Method Based on minmaxKKT(2012)
 
 
 ### Bundle Adjustment
-- "Building Rome with Convex Optimization", *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2502.04640)] [[Code](https://github.com/ComputationalRobotics/XM-code)] [[Project Page](https://computationalrobotics.seas.harvard.edu/XM/)]
+
+#### SDP
+
+- Building Rome with Convex Optimization, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2502.04640)] [[Code](https://github.com/ComputationalRobotics/XM-code)] [[Project Page](https://computationalrobotics.seas.harvard.edu/XM/)]
 
 
 ### SLAM
-- "Certifiably Correct Range-Aided SLAM", *TRO,2024*. [[Paper](https://arxiv.org/pdf/2302.11614)] [[Code](https://github.com/MarineRoboticsGroup/cora)]
-- "Distributed Certifiably Correct Range-Aided SLAM", *ICRA, 2025*. [Paper](https://arxiv.org/pdf/2503.03192) [[Code](https://github.com/adthoms/dcora)]
+
+- Certifiably Correct Range-Aided SLAM, *TRO,2024*. [[Paper](https://arxiv.org/pdf/2302.11614)] [[Code](https://github.com/MarineRoboticsGroup/cora)]
+
+- Distributed Certifiably Correct Range-Aided SLAM, *ICRA, 2025*. [Paper](https://arxiv.org/pdf/2503.03192) [[Code](https://github.com/adthoms/dcora)]
+
 
 ### All-in-One
-- "One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers", *NeurIPS, 2020*. [[Paper](https://arxiv.org/pdf/2006.06769)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
-- "Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization", *TPAMI,2022*. [[Paper](https://arxiv.org/pdf/2109.03349)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
+
+#### SDP
+
+- One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers, *NeurIPS, 2020*. [[Paper](https://arxiv.org/pdf/2006.06769)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
+
+- Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization, *TPAMI,2022*. [[Paper](https://arxiv.org/pdf/2109.03349)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
