@@ -18,8 +18,28 @@ This is an active repository, you can watch for following the latest advances. I
   - [Application](#application)
     - [Rotation Averaging](#rotation-averaging)
       - [Analysis](#analysis)
+      - [SDP](#sdp)
+      - [POP](#pop)
+      - [RANSAC](#ransac)
+      - [GNC](#gnc)
+      - [Hybrid](#hybrid)
     - [Translation Averaging](#rotation-averaging)
+      - [Essential Matrix](#essential-matrix)
+      - [Trifocal Tensor](#trifocal-tensor)
+      - [Convex Relaxation](#convex-relaxation)
+      - [Robust Estimation](#robust-estimation)
+      - [Hybrid](#hybrid)
+    - [Wahba Problem](#wahba-problem)
+    - [Absolute Pose Estimation (PnP)](#absolute-pose-estimation-pnp)
+    - [Relative Pose Estimation](#relative-pose-estimation)
+    - [3D Registration](#3d-registration)
+    - [Pose Graph Optimization](#pose-graph-optimization)
+    - [Triangulation](#triangulation)
+    - [Bundle Adjustment](#bundl-adjustment)
+    - [SLAM](#slam)
+    - [All-in-One](#all-in-one)
 
+---
 ## Theory
 
 ### Bound-and-Branch (BnB)
@@ -30,8 +50,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Graduated Non-Convexity (GNC)
 
-## Application
 ---
+## Application
+
 ### Rotation Averaging
 
 #### **Analysis**
@@ -65,14 +86,14 @@ This is an active repository, you can watch for following the latest advances. I
 - "Combining two-view constraints for motion estimation", *CVPR, 2001*. [[Paper](https://ieeexplore.ieee.org/document/990963)]
 
 #### **Trifocal Tensor**
-- "Global Motion Estimation from Point Matches", *3DIMPVT 2012*. [[Paper](https://ieeexplore.ieee.org/document/6374980)]  
-- "Exploiting loops in the graph of trifocal tensors for calibrating a network of cameras".  
-- "A global linear method for camera pose registration".  
-- "Global fusion of relative motions for robust, accurate and scalable structure from motion".  
-- "Recovering camera motion using $l_{\infty}$ minimization".
+- "Global Motion Estimation from Point Matches", *3DIMPVT, 2012*. [[Paper](https://ieeexplore.ieee.org/document/6374980)]  
+- "Exploiting Loops in the Graph of Trifocal Tensors for Calibrating a Network of Cameras", *ECCV, 2010*. [[Paper](https://imagine.enpc.fr/~monasse/Callisto/pdf/ECCV10Loop.pdf)]
+- "A Global Linear Method for Camera Pose Registration", *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Jiang_A_Global_Linear_2013_ICCV_paper.pdf)]  
+- "Global Fusion of Relative Motions for Robust, Accurate and Scalable Structure from Motion", *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Moulon_Global_Fusion_of_2013_ICCV_paper.pdf)]
+- "Recovering Camera Motion Using $l_{\infty}$ Minimization", *CVPR, 2006*.
 
 #### **Convex Relaxation**
-- "Robust camera location estimation by convex programming (LUD)", *arXiv, 2015*. [[Paper](https://arxiv.org/pdf/1412.0165)]  
+- "Robust Camera Location Estimation by Convex Programming", *CVPR, 2015*. [[Paper](https://arxiv.org/pdf/1412.0165)]  
 - "Baseline Desensitizing in Translation Averaging (LUD & Shapefit)", *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1901.00643)]
 
 #### **Robust Estimation**
@@ -83,6 +104,7 @@ This is an active repository, you can watch for following the latest advances. I
 - "Linear Global Translation Estimation with Feature Tracks", *CVPR, 2015*. [[Paper](https://arxiv.org/pdf/1503.01832)]
 
 ---
+
 
 ### Wahba Problem
 
@@ -114,6 +136,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **GNC**
 - "A fast fractional programming technique for Geman-McClure robust estimator", *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
+
+
 ### Absolute Pose Estimation (PnP)
 
 #### Analysis
@@ -129,7 +153,9 @@ This is an active repository, you can watch for following the latest advances. I
 - A consistently fast and globally optimal solution to the perspective-n-point problem
 - Globally optimal O(n) solution to the PnP problem for general camera models
 
+
 ### Relative Pose Estimation
+
 #### Minimal solvers
 - An efficient solution to the five-point relative pose problem(2004)
 - Recent developments on direct relative orientation(2006)
@@ -165,12 +191,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 
 ### 3D Registration
+
 - Point Registration via Efficient Convex Relaxation (TOG,2016)
 - Fast Global Registration (ECCV,2016)
 
 - SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences (2019,CVPR)
 - TEASER: Fast and Certifiable Point Cloud Registration (TRO,2020)
-### 3D Registration
+
 #### BnB
 - A polynomial-time bound for matching and registration with outliers(CVPR,2008)
 - Go-icp: A globally optimal solution to 3d icp point-set registration(TPAMI,2015)
@@ -185,8 +212,10 @@ This is an active repository, you can watch for following the latest advances. I
 #### GNC
 - Practical, fast and robust point cloud registration for 3d scene stitching and object localization(2021)
 - Pyramid semantic graph-based global point cloud registration with low overlap(IROS,2023)
-  
+
+
 ### Pose Graph Optimization
+
 #### SDP
 - Lagrangian Duality in Complex Pose Graph Optimization(2016)
 - Initialization of 3D Pose Graph Optimization Using Lagrangian Duality(ICRA,2017)
@@ -200,7 +229,9 @@ This is an active repository, you can watch for following the latest advances. I
 - A Decoupled and Linear Framework for Global Outlier Rejection over Planar Pose Graph(ICRA,2023)
 - Improving Pose Graph Optimization via Efficient Graduated Non-convexity Scheduling
 
+
 ### Triangulation
+
 #### SDP
 - A qcqp approach to triangulation(ECCV,2012)
 - Semidefinite Relaxations for Robust Multiview Triangulation (CVPR,2023)
@@ -220,8 +251,10 @@ This is an active repository, you can watch for following the latest advances. I
 #### Hybrid
 - A Triangulation Method Based on minmaxKKT(2012)
 
+
 ### Bundle Adjustment
 - Building Rome with Convex Optimization (RSS,2025)
+
 
 ### SLAM
 - [Certifiably Correct Range-Aided SLAM](https://arxiv.org/pdf/2302.11614) (TRO,2024)
