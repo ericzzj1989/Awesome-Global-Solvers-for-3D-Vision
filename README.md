@@ -47,15 +47,15 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **RANSAC**
 - Hierarchical RANSAC-based rotation averaging, *SPL 2020*. [[Paper](https://ieeexplore.ieee.org/document/9234640)]  
-- Revisiting rotation averaging: Uncertainties and robust losses, *CVPR 2023*. [[Paper](https://arxiv.org/abs/2303.05195)], [[Code](https://github.com/zhangganlin/GlobalSfMpy)]
+- Revisiting rotation averaging: Uncertainties and robust losses, *CVPR 2023*. [[Paper](https://arxiv.org/pdf/2303.05195)] [[Code](https://github.com/zhangganlin/GlobalSfMpy)]
 
 #### **GNC**
-- Pushing the envelope of rotation averaging for visual slam, *arXiv 2020*. [[Paper](https://arxiv.org/abs/2011.01163)]  
+- Pushing the envelope of rotation averaging for visual slam, *arXiv 2020*. [[Paper](https://arxiv.org/pdf/2011.01163)]  
 - Adaptive annealing for robust averaging, *ECCV 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08834.pdf)]
 
 #### **Hybrid**
-- Shonan Rotation Averaging: Global Optimality by Surfing SO(p)^n, *ECCV 2020*. [[Paper](https://arxiv.org/abs/2008.02737)], [[Code](https://github.com/NeBula-AI/Shonan-Rotation-Averaging)]  
-- Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach, *CVPR 2021*. [[Paper](https://arxiv.org/abs/2101.09116)], [[Code](https://github.com/ethz-asl/hybrid-rotation-averaging)]
+- Shonan Rotation Averaging: Global Optimality by Surfing SO(p)^n, *ECCV 2020*. [[Paper](https://arxiv.org/pdf/2008.02737)] [[Code](https://github.com/NeBula-AI/Shonan-Rotation-Averaging)]  
+- Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach, *CVPR 2021*. [[Paper](https://arxiv.org/pdf/2101.09116)] [[Code](https://github.com/ethz-asl/hybrid-rotation-averaging)]
 
 ---
 
@@ -73,14 +73,14 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Convex Relaxation**
 - Robust camera location estimation by convex programming (LUD), *arXiv 2015*. [[Paper](https://arxiv.org/pdf/1412.0165)]  
-- Baseline Desensitizing in Translation Averaging (LUD & Shapefit), *CVPR 2018*. [[Paper](https://arxiv.org/abs/1901.00643)]
+- Baseline Desensitizing in Translation Averaging (LUD & Shapefit), *CVPR 2018*. [[Paper](https://arxiv.org/pdf/1901.00643)]
 
 #### **Robust Estimation**
 - 1DSfM: Robust Global Translations with 1DSfM, *ECCV 2014*. [[Paper](https://www.cs.cornell.edu/projects/1dsfm/)]
 
 #### **Hybrid**
-- Correspondence Reweighted Translation Averaging, *ECCV 2022*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_4)], [[Code](https://github.com/zju3dv/crta)]  
-- Linear Global Translation Estimation with Feature Tracks, *CVPR 2015*. [[Paper](https://arxiv.org/abs/1503.01832)]
+- Correspondence Reweighted Translation Averaging, *ECCV 2022*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_4)] [[Code](https://github.com/zju3dv/crta)]  
+- Linear Global Translation Estimation with Feature Tracks, *CVPR 2015*. [[Paper](https://arxiv.org/pdf/1503.01832)]
 
 ---
 
@@ -104,16 +104,16 @@ This is an active repository, you can watch for following the latest advances. I
 - A semidefinite relaxation-based algorithm for robust attitude estimation, *TSP 2012*. [[Paper](https://ieeexplore.ieee.org/document/6203426)]  
 - A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers, *ICCV 2019*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_A_Quaternion-Based_Certifiably_Optimal_Solution_to_the_Wahba_Problem_With_ICCV_2019_paper.pdf)], [[Code](https://github.com/MIT-SPARK/TEASER-plusplus)]  
 - Semidefinite relaxations of truncated least-squares in robust rotation search: Tight or not, *ECCV 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830655.pdf)]  
-- Optimal pose and shape estimation for category-level 3D object perception, *RSS 2021*. [[Paper](https://arxiv.org/abs/2104.08383)], [[Code](https://github.com/mit-spark/pace)]
+- Optimal pose and shape estimation for category-level 3D object perception, *RSS 2021*. [[Paper](https://arxiv.org/pdf/2104.08383)] [[Code](https://github.com/mit-spark/pace)]
 
 #### **POP**
 *(后续补充)*
 
 #### **RANSAC**
-- RANSIC: Fast and Highly Robust Estimation for Rotation Search and Point Cloud Registration Using Invariant Compatibility, *RAL 2021*. [[Code](https://github.com/lukascher/RANSIC)]
+- RANSIC: Fast and Highly Robust Estimation for Rotation Search and Point Cloud Registration Using Invariant Compatibility, *RAL 2021*. [[Paper](https://arxiv.org/pdf/2104.09133)] [[Code](https://github.com/lukascher/RANSIC)]
 
 #### **GNC**
-- A fast fractional programming technique for Geman-McClure robust estimator, *RAL 2024*. [[Paper](https://arxiv.org/abs/2409.13978)], [[Code](https://github.com/StephLin/FracGM)]
+- A fast fractional programming technique for Geman-McClure robust estimator, *RAL 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
 ### Absolute Pose Estimation (PnP)
 
 #### Analysis
@@ -224,8 +224,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Building Rome with Convex Optimization (RSS,2025)
 
 ### SLAM
-- [Certifiably Correct Range-Aided SLAM](https://arxiv.org/abs/2302.11614) (TRO,2024)
-- [Distributed Certifiably Correct Range-Aided SLAM](https://arxiv.org/abs/2503.03192) (ICRA,2025)
+- [Certifiably Correct Range-Aided SLAM](https://arxiv.org/pdf/2302.11614) (TRO,2024)
+- [Distributed Certifiably Correct Range-Aided SLAM](https://arxiv.org/pdf/2503.03192) (ICRA,2025)
 
 ### All-in-One
 - One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers (NeurIPS,2020)
