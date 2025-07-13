@@ -110,10 +110,10 @@ This is an active repository, you can watch for following the latest advances. I
 *(后续补充)*
 
 #### **RANSAC**
-- RANSIC: Fast and Highly Robust Estimation for Rotation Search and Point Cloud Registration Using Invariant Compatibility, *RAL 2021*. [[Paper](https://arxiv.org/pdf/2104.09133)] [[Code](https://github.com/lukascher/RANSIC)]
+- RANSIC: Fast and Highly Robust Estimation for Rotation Search and Point Cloud Registration Using Invariant Compatibility, *RAL, 2021*. [[Paper](https://arxiv.org/pdf/2104.09133)] [[Code](https://github.com/lukascher/RANSIC)]
 
 #### **GNC**
-- A fast fractional programming technique for Geman-McClure robust estimator, *RAL 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
+- A fast fractional programming technique for Geman-McClure robust estimator, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
 ### Absolute Pose Estimation (PnP)
 
 #### Analysis
