@@ -7,4 +7,4 @@ Modify the README.md and follow the format
 ``` 
 For example:
 
-* "GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation", *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.13537)] [[Code](https://github.com/WU-CVGL/GlobalPointer)] [[Project Page](https://bangyan101.github.io/GlobalPointer/)]
+- "GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation", *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.13537)] [[Code](https://github.com/WU-CVGL/GlobalPointer)] [[Project Page](https://bangyan101.github.io/GlobalPointer/)]
