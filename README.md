@@ -76,7 +76,7 @@ This is an active repository, you can watch for following the latest advances. I
 #### **GNC**
 - Pushing the Envelope of Rotation Averaging for Visual SLAM, *arXiv, 2020*. [[Paper](https://arxiv.org/pdf/2011.01163)]
 
-- Adaptive Annealing for Robust Averaging, *ECCV 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08834.pdf)]
+- Adaptive Annealing for Robust Averaging, *ECCV, 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08834.pdf)]
 
 #### **Hybrid**
 - Shonan Rotation Averaging: Global Optimality by Surfing SO(p)^n, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.02737)] [[Code](https://github.com/dellaert/ShonanAveraging)] [[Project Page](https://dellaert.github.io/ShonanAveraging/index.html)]
@@ -185,6 +185,7 @@ This is an active repository, you can watch for following the latest advances. I
 ### Relative Pose Estimation
 
 #### Minimal solvers
+
 - An efficient solution to the five-point relative pose problem(2004)
 
 - Recent developments on direct relative orientation(2006)
@@ -194,6 +195,7 @@ This is an active repository, you can watch for following the latest advances. I
 - In defence of the 8-point algorithm(ICCV,1995)
 
 #### SDP
+
 - Camera displacement via constrained minimizatio of the algebraic error(TPAMI,2009)
 
 - Finding the exact rotation between two images independently of the translation(ECCV,2012)
@@ -211,6 +213,7 @@ This is an active repository, you can watch for following the latest advances. I
 - An Efficient Solution to Non-Minimal Case Essential Matrix Estimation, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/1903.09067)] [[Code](https://github.com/jizhaox/npt-pose)]
 
 #### BnB
+
 - Robust optimal pose estimation(ECCV,2008)
 
 - Two view geometry estimation with outliers(BMVC,2009)
@@ -228,21 +231,23 @@ This is an active repository, you can watch for following the latest advances. I
 - Certifiable relative pose estimation(2021)
 
 #### RANSAC
+
 - An efficient solution to the five-point relative pose problem(TPAMI,2004)
 
 - Fast and robust certifiable estimation of the relative pose between two calibrated cameras(2021)
   
 #### Hybrid
+
 - Consensus maximization with linear matrix inequality constraints(CVPR,2017)
 
 
 ### 3D Registration
 
-- Point Registration via Efficient Convex Relaxation (TOG,2016)
+- Point Registration via Efficient Convex Relaxation, *TOG, 2016*. [[Paper](https://haggaim.github.io/projects/point_registration/PMSDP_final_light.pdf)] [[Code](https://github.com/Haggaim/PM-SDP)]
 
 - Fast Global Registration, *ECCV, 2016*. [[Paper](https://vladlen.info/papers/fast-global-registration.pdf)] [[Code](https://github.com/isl-org/FastGlobalRegistration)]
 
-- SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences (2019,CVPR)
+- SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences, *2019, CVPR*, [[Paper](https://arxiv.org/pdf/1904.03483)] [[Code](https://github.com/intellhave/SDRSAC)]
 
 #### BnB
 
@@ -250,7 +255,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Go-icp: A globally optimal solution to 3d icp point-set registration(TPAMI,2015)
 
-- GORE:
+- Guaranteed Outlier Removal for Point Cloud Registration with Correspondences, *TPAMI, 2017*. [[Paper](https://arxiv.org/pdf/1711.10209)]
 
 - PMC:A practical maximum clique algorithm for matching with pairwise constraints
   
@@ -272,12 +277,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Practical, fast and robust point cloud registration for 3d scene stitching and object localization(2021)
 
-- Pyramid semantic graph-based global point cloud registration with low overlap(IROS,2023)
+- Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap, *IROS, 2023*. [[Paper](https://arxiv.org/pdf/2307.12116)] [[Code](https://github.com/HKUST-Aerial-Robotics/Pagor)]
 
 
 ### Pose Graph Optimization
 
 #### SDP
+
 - Lagrangian Duality in Complex Pose Graph Optimization(2016)
 
 - Initialization of 3D Pose Graph Optimization Using Lagrangian Duality(ICRA,2017)
@@ -286,15 +292,15 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Efficient and Guaranteed Planar Pose Graph Optimization Using Complex Representation(2019)
 
-- Distributed Certifiably Correct Pose-Graph Optimization(TRO,2019)
+- Distributed Certifiably Correct Pose-Graph Optimization, *TRO, 2019*. [[Paper](https://arxiv.org/pdf/1911.03721)] [[Code](https://github.com/mit-acl/dpgo)]
 
 #### GNC
 
 - Efficient Graduated Non-Convexity for Pose Graph Optimization(ICCAS,2024)
 
-- Adaptive Graduated Non-Convexity for Pose Graph Optimization(arxiv,2023)
+- Adaptive Graduated Non-Convexity for Pose Graph Optimization, *IROS Workshop, 2023*. [[Paper](https://arxiv.org/pdf/2308.11444)] [[Code](https://github.com/SNU-DLLAB/AGNC-PGO)]
 
-- A Decoupled and Linear Framework for Global Outlier Rejection over Planar Pose Graph(ICRA,2023)
+- A Decoupled and Linear Framework for Global Outlier Rejection over Planar Pose Graph, *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2209.08543)]
 
 - Improving Pose Graph Optimization via Efficient Graduated Non-convexity Scheduling
 
@@ -341,7 +347,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### SLAM
 
-- Certifiably Correct Range-Aided SLAM, *TRO,2024*. [[Paper](https://arxiv.org/pdf/2302.11614)] [[Code](https://github.com/MarineRoboticsGroup/cora)]
+- Certifiably Correct Range-Aided SLAM, *TRO, 2024*. [[Paper](https://arxiv.org/pdf/2302.11614)] [[Code](https://github.com/MarineRoboticsGroup/cora)]
 
 - Distributed Certifiably Correct Range-Aided SLAM, *ICRA, 2025*. [Paper](https://arxiv.org/pdf/2503.03192) [[Code](https://github.com/adthoms/dcora)]
 
@@ -352,4 +358,4 @@ This is an active repository, you can watch for following the latest advances. I
 
 - One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers, *NeurIPS, 2020*. [[Paper](https://arxiv.org/pdf/2006.06769)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
 
-- Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization, *TPAMI,2022*. [[Paper](https://arxiv.org/pdf/2109.03349)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
+- Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/2109.03349)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
