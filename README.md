@@ -1,4 +1,4 @@
-# Global-Optimization-for-Multiple-View-Geometry [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+# Global Optimization for Multiple View Geometry [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
 ## 🏠 About
 This repo contains a curative list of **Global Optimization for Multiple View Geometry**. Please feel free to send us [pull requests](https://github.com/ericzzj1989/Global-Optimization-for-Multiple-View-Geometry/blob/main/how-to-PR.md) or [email](mailto:ericzzj89@gmail.com) to add papers! <br>
@@ -83,6 +83,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2101.09116)] [[Code](https://github.com/ethz-asl/hybrid-rotation-averaging)]
 
+##
 
 ### Translation Averaging
 
@@ -113,6 +114,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Revisiting Global Translation Estimation with Feature Tracks, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tao_Revisiting_Global_Translation_Estimation_with_Feature_Tracks_CVPR_2024_paper.pdf)]
 
+##
 
 ### Wahba Problem
 
@@ -156,6 +158,7 @@ This is an active repository, you can watch for following the latest advances. I
 #### **GNC**
 - FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
 
+##
 
 ### Absolute Pose Estimation (PnP)
 
@@ -181,6 +184,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally optimal O(n) solution to the PnP problem for general camera models
 
+##
 
 ### Relative Pose Estimation
 
@@ -244,6 +248,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Consensus maximization with linear matrix inequality constraints(CVPR,2017)
 
+##
 
 ### 3D Registration
 
@@ -285,6 +290,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap, *IROS, 2023*. [[Paper](https://arxiv.org/pdf/2307.12116)] [[Code](https://github.com/HKUST-Aerial-Robotics/Pagor)]
 
+##
 
 ### Pose Graph Optimization
 
@@ -310,6 +316,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Improving Pose Graph Optimization via Efficient Graduated Non-convexity Scheduling
 
+##
 
 ### Triangulation
 
@@ -343,6 +350,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Triangulation Method Based on minmaxKKT(2012)
 
+##
 
 ### Bundle Adjustment
 
@@ -350,6 +358,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Building Rome with Convex Optimization, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2502.04640)] [[Code](https://github.com/ComputationalRobotics/XM-code)] [[Project Page](https://computationalrobotics.seas.harvard.edu/XM/)]
 
+##
 
 ### SLAM
 
@@ -357,6 +366,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Distributed Certifiably Correct Range-Aided SLAM, *ICRA, 2025*. [Paper](https://arxiv.org/pdf/2503.03192) [[Code](https://github.com/adthoms/dcora)]
 
+##
 
 ### All-in-One
 
