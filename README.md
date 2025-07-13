@@ -56,54 +56,51 @@ This is an active repository, you can watch for following the latest advances. I
 ### Rotation Averaging
 
 #### **Analysis**
-- "Combining two-view constraints for motion estimation", *CVPR, 2001*. [[Paper](https://ieeexplore.ieee.org/document/990963)]
+- "Combining Two-view Constraints For Motion Estimation", *CVPR, 2001*. [[Paper](https://ieeexplore.ieee.org/document/990963)]
 
 #### **SDP**
-- "Global Motion Estimation from Point Matches", *3DIMPVT, 2012*. [[Paper](https://ieeexplore.ieee.org/document/6374980)]  
-- "Simultaneous multiple rotation averaging using Lagrangian duality", *ACCV, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-37431-9_19)]  
-- "Rotation Averaging and Strong Duality", *CVPR 2018*. [[Paper](https://ieeexplore.ieee.org/document/8578119)]
+- "Global Motion Estimation from Point Matches", *3DIMPVT, 2012*. [[Paper](https://homes.cs.washington.edu/~kemelmi/sfm_3dimpvt12.pdf)]  
+- "Simultaneous Multiple Rotation Averaging Using Lagrangian Duality", *ACCV, 2012*. [[Paper](https://scispace.com/pdf/simultaneous-multiple-rotation-averaging-using-lagrangian-1ecpzvpaw8.pdf)]
+- "Rotation Averaging and Strong Duality", *CVPR 2018*. [[Paper](https://arxiv.org/pdf/1705.01362)]
 
 #### **POP**
-- "Globally optimal estimates for rotation averaging problems", *2014*. [[Paper](https://ieeexplore.ieee.org/document/6911507)]
+- "Globally Optimal Estimates for Rotation Averaging Problems", *IHMSC, 2014*. [[Paper](https://ieeexplore.ieee.org/document/6911507)]
 
 #### **RANSAC**
-- "Hierarchical RANSAC-based rotation averaging", *SPL, 2020*. [[Paper](https://ieeexplore.ieee.org/document/9234640)]  
-- "Revisiting rotation averaging: Uncertainties and robust losses", *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2303.05195)] [[Code](https://github.com/zhangganlin/GlobalSfMpy)]
+- "Hierarchical RANSAC-Based Rotation Averaging", *SPL, 2020*. [[Paper](https://ieeexplore.ieee.org/document/9234640)]  
+- "Revisiting Rotation Averaging: Uncertainties and Robust Losses", *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2303.05195)] [[Code](https://github.com/zhangganlin/GlobalSfMpy)]
 
 #### **GNC**
-- "Pushing the envelope of rotation averaging for visual slam", *arXiv, 2020*. [[Paper](https://arxiv.org/pdf/2011.01163)]  
-- "Adaptive annealing for robust averaging", *ECCV 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08834.pdf)]
+- "Pushing the Envelope of Rotation Averaging for Visual SLAM", *arXiv, 2020*. [[Paper](https://arxiv.org/pdf/2011.01163)]  
+- "Adaptive Annealing for Robust Averaging", *ECCV 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08834.pdf)]
 
 #### **Hybrid**
-- "Shonan Rotation Averaging: Global Optimality by Surfing SO(p)^n", *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.02737)] [[Code](https://github.com/NeBula-AI/Shonan-Rotation-Averaging)]  
+- "Shonan Rotation Averaging: Global Optimality by Surfing SO(p)^n", *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.02737)] [[Code](https://github.com/dellaert/ShonanAveraging)] [[Project Page](https://dellaert.github.io/ShonanAveraging/index.html)]
 - "Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach", *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2101.09116)] [[Code](https://github.com/ethz-asl/hybrid-rotation-averaging)]
 
----
 
 ### Translation Averaging
 
 #### **Essential Matrix**
-- "Combining two-view constraints for motion estimation", *CVPR, 2001*. [[Paper](https://ieeexplore.ieee.org/document/990963)]
+- "Combining Two-view Constraints For Motion Estimation", *CVPR, 2001*. [[Paper](https://web.archive.org/web/20190307103302id_/http://pdfs.semanticscholar.org/dee5/b339cb49e4d7fef462a36c733b7ad8de28ca.pdf)]
 
 #### **Trifocal Tensor**
-- "Global Motion Estimation from Point Matches", *3DIMPVT, 2012*. [[Paper](https://ieeexplore.ieee.org/document/6374980)]  
+- "Recovering Camera Motion Using $l_{\infty}$ Minimization", *CVPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1640890)]
 - "Exploiting Loops in the Graph of Trifocal Tensors for Calibrating a Network of Cameras", *ECCV, 2010*. [[Paper](https://imagine.enpc.fr/~monasse/Callisto/pdf/ECCV10Loop.pdf)]
 - "A Global Linear Method for Camera Pose Registration", *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Jiang_A_Global_Linear_2013_ICCV_paper.pdf)]  
 - "Global Fusion of Relative Motions for Robust, Accurate and Scalable Structure from Motion", *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Moulon_Global_Fusion_of_2013_ICCV_paper.pdf)]
-- "Recovering Camera Motion Using $l_{\infty}$ Minimization", *CVPR, 2006*.
 
 #### **Convex Relaxation**
 - "Robust Camera Location Estimation by Convex Programming", *CVPR, 2015*. [[Paper](https://arxiv.org/pdf/1412.0165)]  
-- "Baseline Desensitizing in Translation Averaging (LUD & Shapefit)", *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1901.00643)]
+- "Baseline Desensitizing in Translation Averaging", *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1901.00643)]
 
 #### **Robust Estimation**
-- "1DSfM: Robust Global Translations with 1DSfM", *ECCV, 2014*. [[Paper](https://www.cs.cornell.edu/projects/1dsfm/)]
+- "Robust Global Translations with 1DSfM", *ECCV, 2014*. [[Paper](https://www.cs.cornell.edu/projects/1dsfm/docs/1DSfM_ECCV14.pdf)] [[Code](https://github.com/wilsonkl/SfM_Init)] [[Project Page](https://www.cs.cornell.edu/projects/1dsfm/)]
 
 #### **Hybrid**
-- "Correspondence Reweighted Translation Averaging", *ECCV 2022*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19827-4_4)] [[Code](https://github.com/zju3dv/crta)]  
-- "Linear Global Translation Estimation with Feature Tracks", *CVPR, 2015*. [[Paper](https://arxiv.org/pdf/1503.01832)]
-
----
+- "Correspondence Reweighted Translation Averaging", *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930053.pdf)]
+- "Linear Global Translation Estimation with Feature Tracks", *BMVC, 2015*. [[Paper](https://arxiv.org/pdf/1503.01832)]
+- "Revisiting Global Translation Estimation with Feature Tracks", *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tao_Revisiting_Global_Translation_Estimation_with_Feature_Tracks_CVPR_2024_paper.pdf)]
 
 
 ### Wahba Problem
