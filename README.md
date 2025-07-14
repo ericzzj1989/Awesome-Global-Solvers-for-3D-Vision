@@ -163,28 +163,45 @@ This is an active repository, you can watch for following the latest advances. I
 ### Absolute Pose Estimation (PnP)
 
 #### Analysis
-- EPnP 
-- The non-tightness of a convex relaxation to rotation recovery | 2021 | [paper](https://www.mdpi.com/1424-8220/21/21/7358) | – |
+- EPnP
+ 
+- A simple, robust and fast method for the perspective-n-point problem,*PML,2018*,[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865518300692)]
 
-- CvxPnPL: A unified convex solution to the absolute pose estimation problem from point and line correspondences
+- Upnp: An optimal o (n) solution to the absolute pose problem with universal applicability,*ECCV,2014*,[[Paper](https://link.springer.com/chapter/10.1007/978-3-319-10590-1_9)]
 
-- Upnp: An optimal o (n) solution to the absolute pose problem with universal applicability
+- A universal, closed-form approach for absolute pose problems,*CVIU,2018*,[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314218300572)]
 
-- Revisiting the pnp problem: A fast, general and optimal solution
+- FRPnP: Fast and robust absolute camera pose estimation with known focal length,*NCA,2017*,[[Paper](https://link.springer.com/article/10.1007/s00521-017-3032-6)]
 
-- Globally optimal dls method for pnp problem with cayley parameterization
+- Minimal solution for uncalibrated absolute pose problem with a known vanishing point,*3DV,2013*,[[Paper](https://ieeexplore.ieee.org/abstract/document/6599070)]
 
-- A versatile approach for solving pnp, pnpf, and pnpfr problems
+- An efficient and accurate algorithm for the perspecitve-n-point problem,*IROS,2019*,[[Paper](https://ieeexplore.ieee.org/abstract/document/89684820)]
 
-- A simple, robust and fast method for the perspective-n-point problem
+- Globally optimal dls method for pnp problem with cayley parameterization,*BMVC,2015*,[[Paper](https://www.researchgate.net/profile/Gaku-Nakano/publication/301451166_Globally_Optimal_DLS_Method_for_PnP_Problem_with_Cayley_parameterization/links/5e36c726a6fdccd965809503/Globally-Optimal-DLS-Method-for-PnP-Problem-with-Cayley-parameterization.pdf)]
 
-- An efficient and accurate algorithm for the perspecitve-n-point problem
+- Absolute pose from one or two scaled and oriented features,*CVPR,2024*,[[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ventura_Absolute_Pose_from_One_or_Two_Scaled_and_Oriented_Features_CVPR_2024_paper.html)][[Code](https://github. com/danini/absolute-pose-from-oriented-and-scaled-features.)]
 
-- A consistently fast and globally optimal solution to the perspective-n-point problem
+- Revisiting the pnp problem: A fast, general and optimal solution,*ICCV,2013*,[[Paper](https://openaccess.thecvf.com/content_iccv_2013/html/Zheng_Revisiting_the_PnP_2013_ICCV_paper.html)]
+  
+- A versatile approach for solving pnp, pnpf, and pnpfr problems,*ECCV,2016*,[[Paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_21)]
+  
+#### SDP
+- CvxPnPL: A unified convex solution to the absolute pose estimation problem from point and line correspondences,*JMIV,2023*,[[Paper](https://arxiv.org/abs/1907.10545)][[Code](https://github.com/SergioRAgostinho/cvxpnpl)]
 
-- Globally optimal O(n) solution to the PnP problem for general camera models
+- Globally optimal O(n) solution to the PnP problem for general camera models,*BMVC,2008*,[[Paper](https://bmva-archive.org.uk/bmvc/2008/papers/31.pdf)]
 
-##
+- Optimal and Robust Category-Level Perception: Object Pose and Shape Estimation From 2-D and 3-D Semantic Keypoints,*TRO,2023*,[[Paper](https://ieeexplore.ieee.org/abstract/document/10236506)][[Code](https://github.com/MIT-SPARK/PACE)]
+
+#### POP
+- The non-tightness of a convex relaxation to rotation recovery,*2021*,[paper](https://www.mdpi.com/1424-8220/21/21/7358)
+
+- A consistently fast and globally optimal solution to the perspective-n-point problem,*ECCV,2020*,[[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_28)][[Code](https://github.com/terzakig/sqpnp)]
+ 
+#### BnB
+- Absolute pose estimation with a known direction by motion decoupling,*TCSVT，2024*,[[Paper](https://ieeexplore.ieee.org/abstract/document/10093787)][[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
+
+#### GNC
+- Outliers rejection for robust camera pose estimation using graduated non‐convexity,*IET CV,2025*,[[Paper](https://www.researchgate.net/publication/387343981_Outliers_rejection_for_robust_camera_pose_estimation_using_graduated_non-convexity)]
 
 ### Relative Pose Estimation
 
