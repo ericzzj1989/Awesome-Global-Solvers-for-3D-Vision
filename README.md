@@ -15,7 +15,7 @@ This is an active repository, you can watch for following the latest advances. I
     - [Semidefinite Programming (SDP)](#semidefinite-programming-sdp))
     - [Polynomial Optimization (POP)](#polynomial-optimization-pop)
     - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
-  - [Application](#application)
+- [Application](#application)
     - [Rotation Averaging](#rotation-averaging)
       - [Analysis](#analysis)
       - [SDP](#sdp)
@@ -23,21 +23,50 @@ This is an active repository, you can watch for following the latest advances. I
       - [RANSAC](#ransac)
       - [GNC](#gnc)
       - [Hybrid](#hybrid)
-    - [Translation Averaging](#rotation-averaging)
+    - [Translation Averaging](#translation-averaging)
       - [Essential Matrix](#essential-matrix)
       - [Trifocal Tensor](#trifocal-tensor)
       - [Convex Relaxation](#convex-relaxation)
       - [Robust Estimation](#robust-estimation)
       - [Hybrid](#hybrid)
     - [Wahba Problem](#wahba-problem)
+      - [Closed-form](#closed-form)
+      - [BnB](#bnb)
+      - [Convex Relaxation](#convex-relaxation)
+      - [POP](#pop)
+      - [RANSAC](#ransac)
+      - [GNC](#gnc)
     - [Absolute Pose Estimation (PnP)](#absolute-pose-estimation-pnp)
+      - [Analysis](#analysis)
+      - [BnB](#bnb)
+      - [SDP](#sdp)
+      - [POP](#pop)
+      - [GNC](#gnc)
     - [Relative Pose Estimation](#relative-pose-estimation)
+      - [Minimal solvers](#minimal-solvers)
+      - [BnB](#bnb)
+      - [SDP](#sdp)
+      - [POP](#pop)
+      - [GNC](#gnc)
+      - [Hybrid](#hybrid)
     - [3D Registration](#3d-registration)
+      - [BnB](#bnb)
+      - [SDP](#sdp)
+      - [POP](#pop)
+      - [GNC](#gnc)
     - [Pose Graph Optimization](#pose-graph-optimization)
+      - [SDP](#sdp)
+      - [GNC](#gnc)
     - [Triangulation](#triangulation)
-    - [Bundle Adjustment](#bundl-adjustment)
+      - [BnB](#bnb)
+      - [SDP](#sdp)
+      - [RANSAC](#ransac)
+      - [Hybrid](#hybrid)
+    - [Bundle Adjustment](#bundle-adjustment)
+      - [SDP](#sdp)
     - [SLAM](#slam)
     - [All-in-One](#all-in-one)
+      - [SDP](#sdp)
 
 ---
 ## Theory
@@ -185,7 +214,10 @@ This is an active repository, you can watch for following the latest advances. I
 - Revisiting the pnp problem: A fast, general and optimal solution, *ICCV,2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/html/Zheng_Revisiting_the_PnP_2013_ICCV_paper.html)]
   
 - A versatile approach for solving pnp, pnpf, and pnpfr problems, *ECCV,2016*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_21)]
-  
+
+#### BnB
+- Absolute pose estimation with a known direction by motion decoupling, *TCSVT，2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10093787)][[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
+
 #### SDP
 - CvxPnPL: A unified convex solution to the absolute pose estimation problem from point and line correspondences, *JMIV,2023*. [[Paper](https://arxiv.org/abs/1907.10545)][[Code](https://github.com/SergioRAgostinho/cvxpnpl)]
 
@@ -198,9 +230,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A consistently fast and globally optimal solution to the perspective-n-point problem, *ECCV,2020*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_28)][[Code](https://github.com/terzakig/sqpnp)]
  
-#### BnB
-- Absolute pose estimation with a known direction by motion decoupling, *TCSVT，2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10093787)][[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
-
 #### GNC
 - Outliers rejection for robust camera pose estimation using graduated non‐convexity, *IET CV,2025*. [[Paper](https://www.researchgate.net/publication/387343981_Outliers_rejection_for_robust_camera_pose_estimation_using_graduated_non-convexity)]
 
@@ -217,6 +246,23 @@ This is an active repository, you can watch for following the latest advances. I
 - In defence of the 8-point algorithm, *TPAMI,1997*. [[Paper](https://ieeexplore.ieee.org/abstract/document/601246)]
 
 - Camera displacement via constrained minimizatio of the algebraic error, *TPAMI,2009*. [[Paper](https://ieeexplore.ieee.org/document/4731224)]
+
+#### BnB
+
+- Robust optimal pose estimation, *ECCV,2008*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-540-88682-2_12)]
+
+- Two view geometry estimation with outliers, *BMVC,2009*. [[Paper](https://bmva-archive.org.uk/bmvc/2009/Papers/Paper431/Paper431.pdf)]
+
+- Consensus set maximization with guaranteed global optimality for robust geometry estimation, *ICCV,2009*. [[Paper](https://ieeexplore.ieee.org/abstract/document/5459398)]
+
+- Optimal essential matrix estimation via inlier-set maximization, *ECCV,2014*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-10590-1_8)]
+
+- Optimal relative pose with unknown correspondences, *CVPR,2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Fredriksson_Optimal_Relative_Pose_CVPR_2016_paper.html)]
+
+- Direct optimization of frame-to-frame rotation, *ICCV,2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/html/Kneip_Direct_Optimization_of_2013_ICCV_paper.html)]
+
+- Global optimization through rotation space search, *IJCV,2009*. [[Paper](https://link.springer.com/article/10.1007/s11263-008-0186-9)]
+
 
 #### SDP
 
@@ -240,21 +286,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map, *IJRR, 2025*. [[Paper](https://arxiv.org/pdf/2308.12418)]
 
-#### BnB
+#### POP
 
-- Robust optimal pose estimation, *ECCV,2008*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-540-88682-2_12)]
-
-- Two view geometry estimation with outliers, *BMVC,2009*. [[Paper](https://bmva-archive.org.uk/bmvc/2009/Papers/Paper431/Paper431.pdf)]
-
-- Consensus set maximization with guaranteed global optimality for robust geometry estimation, *ICCV,2009*. [[Paper](https://ieeexplore.ieee.org/abstract/document/5459398)]
-
-- Optimal essential matrix estimation via inlier-set maximization, *ECCV,2014*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-10590-1_8)]
-
-- Optimal relative pose with unknown correspondences, *CVPR,2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Fredriksson_Optimal_Relative_Pose_CVPR_2016_paper.html)]
-
-- Direct optimization of frame-to-frame rotation, *ICCV,2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/html/Kneip_Direct_Optimization_of_2013_ICCV_paper.html)]
-
-- Global optimization through rotation space search, *IJCV,2009*. [[Paper](https://link.springer.com/article/10.1007/s11263-008-0186-9)]
+- SPLP: A Certifiably Globally Optimal Solution to the Relative Pose Estimation Problem Using Points and Line Pairs, *JIN,2022*. [[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0219265921430453)]
 
 #### GNC
 
@@ -300,6 +334,11 @@ This is an active repository, you can watch for following the latest advances. I
 
 - GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.13537)] [[Code](https://github.com/WU-CVGL/GlobalPointer)] [[Project Page](https://bangyan101.github.io/GlobalPointer/)]
 
+#### POP
+- a novel quaternion-based 2d-3d registration algorithm with line correspondence, *TIJEE,2014*. [[Paper](https://journal.esperg.com/index.php/TIJEE/article/view/3203)]
+- Geometry of 3d environments and sum of squares polynomials, *arxiv,2016*. [[Paper](https://arxiv.org/abs/1611.07369)]<!--Geometric Representation with POP -->
+- Robust and optimal registration of image sets and structured scenes via sum-of-squares polynomials[[Paper](https://link.springer.com/article/10.1007/s11263-018-1114-2)]
+  
 #### GNC
 
 - Practical, fast and robust point cloud registration for 3d scene stitching and object localization, *ACCESS,2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9667465)]
@@ -336,6 +375,14 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Triangulation
 
+#### BnB
+
+- A Fast Optimal Algorithm for L 2 Triangulation, *ACCV,2007*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-540-76390-1_28)]
+
+- On triangulation algorithms in large scale camera network systems, *ACC,2012*. [[Paper](https://ieeexplore.ieee.org/abstract/document/6315278)]
+
+- An exact algorithm for the minimum dilation triangulation problem(2017)[[Paper](https://link.springer.com/article/10.1007/s10898-017-0517-x)]
+  
 #### SDP
 
 - A qcqp approach to triangulation, *ECCV,2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-33718-5_47)][[Code](https://github.com/linusnie/robust-triangulation-relaxations)]
@@ -345,14 +392,6 @@ This is an active repository, you can watch for following the latest advances. I
 - Triangulation of points, lines and conics, *JMIV, 2008*. [[Paper](https://lucris.lub.lu.se/ws/portalfiles/portal/2621089/1245431.pdf)]
 
 - Robust multiview L2 triangulation via optimal inlier selection and 3D structure refinement, *PR,2014*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320314001204)]<!-- Numerical Optimization (DE), SOCP Bound Analysis-->
-
-#### BnB
-
-- A Fast Optimal Algorithm for L 2 Triangulation, *ACCV,2007*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-540-76390-1_28)]
-
-- On triangulation algorithms in large scale camera network systems, *ACC,2012*. [[Paper](https://ieeexplore.ieee.org/abstract/document/6315278)]
-
-- An exact algorithm for the minimum dilation triangulation problem(2017)[[Paper](https://link.springer.com/article/10.1007/s10898-017-0517-x)]
   
 #### RANSAC
 
