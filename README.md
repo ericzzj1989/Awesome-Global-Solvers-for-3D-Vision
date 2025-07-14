@@ -179,7 +179,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally optimal dls method for pnp problem with cayley parameterization,*BMVC,2015*,[[Paper](https://www.researchgate.net/profile/Gaku-Nakano/publication/301451166_Globally_Optimal_DLS_Method_for_PnP_Problem_with_Cayley_parameterization/links/5e36c726a6fdccd965809503/Globally-Optimal-DLS-Method-for-PnP-Problem-with-Cayley-parameterization.pdf)]
 
-- Absolute pose from one or two scaled and oriented features,*CVPR,2024*,[[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ventura_Absolute_Pose_from_One_or_Two_Scaled_and_Oriented_Features_CVPR_2024_paper.html)][[Code](https://github. com/danini/absolute-pose-from-oriented-and-scaled-features)]
+- Absolute pose from one or two scaled and oriented features,*CVPR,2024*,[[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ventura_Absolute_Pose_from_One_or_Two_Scaled_and_Oriented_Features_CVPR_2024_paper.html)][[Code](https://github.com/danini/absolute-pose-from-oriented-and-scaled-features)]
 
 - Revisiting the pnp problem: A fast, general and optimal solution,*ICCV,2013*,[[Paper](https://openaccess.thecvf.com/content_iccv_2013/html/Zheng_Revisiting_the_PnP_2013_ICCV_paper.html)]
   
