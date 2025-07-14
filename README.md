@@ -66,7 +66,7 @@ This is an active repository, you can watch for following the latest advances. I
       - [SDP for Bundle Adjustment](#sdp-for-bundle-adjustment)
     - [SLAM](#slam)
     - [All-in-One](#all-in-one)
-      - [SDP for All-in-One](#sdp-for-all-in-one)
+      - [SDP](#sdp)
 
 ---
 ## Theory
@@ -416,7 +416,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Bundle Adjustment
 
-#### SDP
+#### **SDP for Bundle Adjustment**
 
 - Building Rome with Convex Optimization, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2502.04640)] [[Code](https://github.com/ComputationalRobotics/XM-code)] [[Project Page](https://computationalrobotics.seas.harvard.edu/XM/)]
 
@@ -432,7 +432,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### All-in-One
 
-#### SDP
+#### SDP 
 
 - One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers, *NeurIPS, 2020*. [[Paper](https://arxiv.org/pdf/2006.06769)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
 
