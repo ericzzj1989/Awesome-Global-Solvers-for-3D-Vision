@@ -165,65 +165,65 @@ This is an active repository, you can watch for following the latest advances. I
 #### Analysis
 - EPnP
  
-- A simple, robust and fast method for the perspective-n-point problem,*PML,2018*,[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865518300692)]
+- A simple, robust and fast method for the perspective-n-point problem, *PML,2018*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865518300692)]
 
-- Upnp: An optimal o (n) solution to the absolute pose problem with universal applicability,*ECCV,2014*,[[Paper](https://link.springer.com/chapter/10.1007/978-3-319-10590-1_9)]
+- Upnp: An optimal o (n) solution to the absolute pose problem with universal applicability, *ECCV,2014*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-10590-1_9)]
 
-- A universal, closed-form approach for absolute pose problems,*CVIU,2018*,[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314218300572)]
+- A universal, closed-form approach for absolute pose problems, *CVIU,2018*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314218300572)]
 
-- FRPnP: Fast and robust absolute camera pose estimation with known focal length,*NCA,2017*,[[Paper](https://link.springer.com/article/10.1007/s00521-017-3032-6)]
+- FRPnP: Fast and robust absolute camera pose estimation with known focal length, *NCA,2017*. [[Paper](https://link.springer.com/article/10.1007/s00521-017-3032-6)]
 
-- Minimal solution for uncalibrated absolute pose problem with a known vanishing point,*3DV,2013*,[[Paper](https://ieeexplore.ieee.org/abstract/document/6599070)]
+- Minimal solution for uncalibrated absolute pose problem with a known vanishing point, *3DV,2013*. [[Paper](https://ieeexplore.ieee.org/abstract/document/6599070)]
 
-- An efficient and accurate algorithm for the perspecitve-n-point problem,*IROS,2019*,[[Paper](https://ieeexplore.ieee.org/abstract/document/89684820)]
+- An efficient and accurate algorithm for the perspecitve-n-point problem, *IROS,2019*. [[Paper](https://ieeexplore.ieee.org/abstract/document/89684820)]
 
-- Globally optimal dls method for pnp problem with cayley parameterization,*BMVC,2015*,[[Paper](https://www.researchgate.net/profile/Gaku-Nakano/publication/301451166_Globally_Optimal_DLS_Method_for_PnP_Problem_with_Cayley_parameterization/links/5e36c726a6fdccd965809503/Globally-Optimal-DLS-Method-for-PnP-Problem-with-Cayley-parameterization.pdf)]
+- Globally optimal dls method for pnp problem with cayley parameterization, *BMVC,2015*. [[Paper](https://www.researchgate.net/profile/Gaku-Nakano/publication/301451166_Globally_Optimal_DLS_Method_for_PnP_Problem_with_Cayley_parameterization/links/5e36c726a6fdccd965809503/Globally-Optimal-DLS-Method-for-PnP-Problem-with-Cayley-parameterization.pdf)]
 
-- Absolute pose from one or two scaled and oriented features,*CVPR,2024*,[[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ventura_Absolute_Pose_from_One_or_Two_Scaled_and_Oriented_Features_CVPR_2024_paper.html)][[Code](https://github.com/danini/absolute-pose-from-oriented-and-scaled-features)]
+- Absolute pose from one or two scaled and oriented features, *CVPR,2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ventura_Absolute_Pose_from_One_or_Two_Scaled_and_Oriented_Features_CVPR_2024_paper.html)][[Code](https://github.com/danini/absolute-pose-from-oriented-and-scaled-features)]
 
-- Revisiting the pnp problem: A fast, general and optimal solution,*ICCV,2013*,[[Paper](https://openaccess.thecvf.com/content_iccv_2013/html/Zheng_Revisiting_the_PnP_2013_ICCV_paper.html)]
+- Revisiting the pnp problem: A fast, general and optimal solution, *ICCV,2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/html/Zheng_Revisiting_the_PnP_2013_ICCV_paper.html)]
   
-- A versatile approach for solving pnp, pnpf, and pnpfr problems,*ECCV,2016*,[[Paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_21)]
+- A versatile approach for solving pnp, pnpf, and pnpfr problems, *ECCV,2016*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_21)]
   
 #### SDP
-- CvxPnPL: A unified convex solution to the absolute pose estimation problem from point and line correspondences,*JMIV,2023*,[[Paper](https://arxiv.org/abs/1907.10545)][[Code](https://github.com/SergioRAgostinho/cvxpnpl)]
+- CvxPnPL: A unified convex solution to the absolute pose estimation problem from point and line correspondences, *JMIV,2023*. [[Paper](https://arxiv.org/abs/1907.10545)][[Code](https://github.com/SergioRAgostinho/cvxpnpl)]
 
-- Globally optimal O(n) solution to the PnP problem for general camera models,*BMVC,2008*,[[Paper](https://bmva-archive.org.uk/bmvc/2008/papers/31.pdf)]
+- Globally optimal O(n) solution to the PnP problem for general camera models, *BMVC,2008*. [[Paper](https://bmva-archive.org.uk/bmvc/2008/papers/31.pdf)]
 
-- Optimal and Robust Category-Level Perception: Object Pose and Shape Estimation From 2-D and 3-D Semantic Keypoints,*TRO,2023*,[[Paper](https://ieeexplore.ieee.org/abstract/document/10236506)][[Code](https://github.com/MIT-SPARK/PACE)]
+- Optimal and Robust Category-Level Perception: Object Pose and Shape Estimation From 2-D and 3-D Semantic Keypoints, *TRO,2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10236506)][[Code](https://github.com/MIT-SPARK/PACE)]
 
 #### POP
-- The non-tightness of a convex relaxation to rotation recovery,*2021*,[paper](https://www.mdpi.com/1424-8220/21/21/7358)
+- The non-tightness of a convex relaxation to rotation recovery, *2021*. [paper](https://www.mdpi.com/1424-8220/21/21/7358)
 
-- A consistently fast and globally optimal solution to the perspective-n-point problem,*ECCV,2020*,[[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_28)][[Code](https://github.com/terzakig/sqpnp)]
+- A consistently fast and globally optimal solution to the perspective-n-point problem, *ECCV,2020*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_28)][[Code](https://github.com/terzakig/sqpnp)]
  
 #### BnB
-- Absolute pose estimation with a known direction by motion decoupling,*TCSVT，2024*,[[Paper](https://ieeexplore.ieee.org/abstract/document/10093787)][[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
+- Absolute pose estimation with a known direction by motion decoupling, *TCSVT，2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10093787)][[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
 
 #### GNC
-- Outliers rejection for robust camera pose estimation using graduated non‐convexity,*IET CV,2025*,[[Paper](https://www.researchgate.net/publication/387343981_Outliers_rejection_for_robust_camera_pose_estimation_using_graduated_non-convexity)]
+- Outliers rejection for robust camera pose estimation using graduated non‐convexity, *IET CV,2025*. [[Paper](https://www.researchgate.net/publication/387343981_Outliers_rejection_for_robust_camera_pose_estimation_using_graduated_non-convexity)]
 
 ### Relative Pose Estimation
 
 #### Minimal solvers
 
-- An efficient solution to the five-point relative pose problem(2004)
+- An efficient solution to the five-point relative pose problem, *TPAMI,2004*. [[Paper](https://ieeexplore.ieee.org/abstract/document/1288525)]
 
-- Recent developments on direct relative orientation(2006)
+- Recent developments on direct relative orientation, *ISPRS,2006*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S092427160600030X)]
 
-- Finding the exact rotation between two images independently of the translation(ECCV,2012)
+- Finding the exact rotation between two images independently of the translation, *ECCV,2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-33783-3_50)]
 
-- In defence of the 8-point algorithm(ICCV,1995)
+- In defence of the 8-point algorithm, *TPAMI,1997*. [[Paper](https://ieeexplore.ieee.org/abstract/document/601246)]
 
-- Camera displacement via constrained minimizatio of the algebraic error,*TPAMI,2009*,[[Paper](https://ieeexplore.ieee.org/document/4731224)]
+- Camera displacement via constrained minimizatio of the algebraic error, *TPAMI,2009*. [[Paper](https://ieeexplore.ieee.org/document/4731224)]
 
 #### SDP
 
-- Finding the exact rotation between two images independently of the translation,*ECCV,2012*,[[Paper](https://link.springer.com/chapter/10.1007/978-3-642-33783-3_50)]
+- Finding the exact rotation between two images independently of the translation, *ECCV,2012*,[[Paper](https://link.springer.com/chapter/10.1007/978-3-642-33783-3_50)]
 
-- SDP relaxations for quadratic optimization problems derived from polynomial optimization problems,*APJOR，2010*,[[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0217595910002533)]
+- SDP relaxations for quadratic optimization problems derived from polynomial optimization problems, *APJOR，2010*,[[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0217595910002533)]
 
-- Globally optimal estimates for geometric reconstruction problems,*IJCV,2007*,[[Paper](https://link.springer.com/article/10.1007/s11263-006-0015-y)]
+- Globally optimal estimates for geometric reconstruction problems, *IJCV,2007*,[[Paper](https://link.springer.com/article/10.1007/s11263-006-0015-y)]
 
 - A Certifiably Globally Optimal Solution to the Non-Minimal Relative Pose Problem, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3968.pdf)]
 
@@ -241,29 +241,27 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### BnB
 
-- Robust optimal pose estimation(ECCV,2008)
+- Robust optimal pose estimation, *ECCV,2008*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-540-88682-2_12)]
 
-- Two view geometry estimation with outliers(BMVC,2009)
+- Two view geometry estimation with outliers, *BMVC,2009*. [[Paper](https://bmva-archive.org.uk/bmvc/2009/Papers/Paper431/Paper431.pdf)]
 
-- Consensus set maximization with guaranteed global optimality for robust geometry estimation(ICCV,2009)
+- Consensus set maximization with guaranteed global optimality for robust geometry estimation, *ICCV,2009*. [[Paper](https://ieeexplore.ieee.org/abstract/document/5459398)]
 
-- Optimal essential matrix estimation via inlier-set maximization(ECCV,2014)
+- Optimal essential matrix estimation via inlier-set maximization, *ECCV,2014*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-10590-1_8)]
 
-- Optimal relative pose with unknown correspondences(CVPR,2016)
+- Optimal relative pose with unknown correspondences, *CVPR,2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Fredriksson_Optimal_Relative_Pose_CVPR_2016_paper.html)]
 
-- Direct optimization of frame-to-frame rotation(ICCV,2013)
+- Direct optimization of frame-to-frame rotation, *ICCV,2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/html/Kneip_Direct_Optimization_of_2013_ICCV_paper.html)]
 
-- Global optimization through rotation space search(IJCV,2009)
+- Global optimization through rotation space search, *IJCV,2009*. [[Paper](https://link.springer.com/article/10.1007/s11263-008-0186-9)]
 
-#### RANSAC
+#### GNC
 
-- An efficient solution to the five-point relative pose problem(TPAMI,2004)
-
-- Fast and robust certifiable estimation of the relative pose between two calibrated cameras(2021)
+- Fast and robust certifiable estimation of the relative pose between two calibrated cameras, *JMIV,2021*. [[Paper](https://link.springer.com/article/10.1007/s10851-021-01044-0)][[Code](https://github.com/mergarsal/FastCertRelPose.git)]
   
 #### Hybrid
 
-- Consensus maximization with linear matrix inequality constraints(CVPR,2017)
+- Consensus maximization with linear matrix inequality constraints, *CVPR,2017*, [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Speciale_Consensus_Maximization_With_CVPR_2017_paper.html)]
 
 ##
 
