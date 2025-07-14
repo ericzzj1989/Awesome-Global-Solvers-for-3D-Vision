@@ -45,6 +45,7 @@ This is an active repository, you can watch for following the latest advances. I
 ### Bound-and-Branch (BnB)
 
 ### Semidefinite Programming (SDP)
+- A convex relaxation to compute the nearest structured rank deficient matrix, *SIAM,2021*. [[Paper](https://epubs.siam.org/doi/abs/10.1137/19M1257640)]
 
 ### Polynomial Optimization (POP)
 
@@ -273,17 +274,17 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### BnB
 
-- A polynomial-time bound for matching and registration with outliers(CVPR,2008)
+- A polynomial-time bound for matching and registration with outliers, *CVPR,2008*. [[Paper](https://ieeexplore.ieee.org/abstract/document/4587757)]
 
-- Go-icp: A globally optimal solution to 3d icp point-set registration(TPAMI,2015)
+- Go-icp: A globally optimal solution to 3d icp point-set registration, *TPAMI,2015*. [[Paper](https://ieeexplore.ieee.org/abstract/document/7368945)][[Code](https://github.com/yangjiaolong/Go-ICP)]
 
 - Guaranteed Outlier Removal for Point Cloud Registration with Correspondences, *TPAMI, 2017*. [[Paper](https://arxiv.org/pdf/1711.10209)]
 
-- PMC:A practical maximum clique algorithm for matching with pairwise constraints
+- PMC:A practical maximum clique algorithm for matching with pairwise constraints, **. [[Paper](https://ieeexplore.ieee.org/abstract/document/8107582)] <!-- Preprocessing for CMax/BnB, Deterministic Outlier Removal--> 
   
 #### SDP
 
-- Guided search consensus: Large scale point cloud registration by convex optimization, *ICIP, 2013*.
+- Guided search consensus: Large scale point cloud registration by convex optimization, *ICIP, 2013*. [[Paper](https://ieeexplore.ieee.org/abstract/document/6738033)]
 
 - Global Registration of Multiple Point Clouds Using Semidefinite Programming, *SIAM Journal on Optimization, 2015*. [[Paper](https://arxiv.org/pdf/1306.5226)]
 
@@ -301,7 +302,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### GNC
 
-- Practical, fast and robust point cloud registration for 3d scene stitching and object localization(2021)
+- Practical, fast and robust point cloud registration for 3d scene stitching and object localization, *ACCESS,2021*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9667465)]
 
 - Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap, *IROS, 2023*. [[Paper](https://arxiv.org/pdf/2307.12116)] [[Code](https://github.com/HKUST-Aerial-Robotics/Pagor)]
 
@@ -311,25 +312,25 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### SDP
 
-- Lagrangian Duality in Complex Pose Graph Optimization(2016)
+- Lagrangian Duality in Complex Pose Graph Optimization, *SOIA, 2016*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-42056-1_5)]
 
 - Initialization of 3D Pose Graph Optimization Using Lagrangian Duality, *ICRA, 2017*. [[Paper](https://mapir.isa.uma.es/jbriales/publications/ICRA17+supp.pdf)]
 
 - Convex Relaxations for Pose Graph Optimization With Outliers, *RAL, 2018*. [[Paper](https://arxiv.org/pdf/1801.02112)] 
 
-- Efficient and Guaranteed Planar Pose Graph Optimization Using Complex Representation(2019)
+- Efficient and Guaranteed Planar Pose Graph Optimization Using Complex Representation, *2019*. [[Paper](https://ieeexplore.ieee.org/abstract/document/8968044)][[Code](https://github.com/fantaosha/CPL-Sync)]
 
 - Distributed Certifiably Correct Pose-Graph Optimization, *TRO, 2019*. [[Paper](https://arxiv.org/pdf/1911.03721)] [[Code](https://github.com/mit-acl/dpgo)]
 
+- Pose Graph Optimization in the Complex Domain: Lagrangian Duality, Conditions For Zero Duality Gap, and Optimal Solutions, *arxiv 2015*. [[Paper](https://arxiv.org/abs/1505.03437)][[Code](https://github.com/alpErenSari/poseGraphProject)]
+  
 #### GNC
 
-- Efficient Graduated Non-Convexity for Pose Graph Optimization(ICCAS,2024)
+- Efficient Graduated Non-Convexity for Pose Graph Optimization, *ICCAS,2024*, [[Paper](https://ieeexplore.ieee.org/abstract/document/10773072)][[Code](https://github.com/SNU-DLLAB/EGNC-PGO)]
 
 - Adaptive Graduated Non-Convexity for Pose Graph Optimization, *IROS Workshop, 2023*. [[Paper](https://arxiv.org/pdf/2308.11444)] [[Code](https://github.com/SNU-DLLAB/AGNC-PGO)]
 
 - A Decoupled and Linear Framework for Global Outlier Rejection over Planar Pose Graph, *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2209.08543)]
-
-- Improving Pose Graph Optimization via Efficient Graduated Non-convexity Scheduling
 
 ##
 
@@ -337,33 +338,29 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### SDP
 
-- A qcqp approach to triangulation(ECCV,2012)
+- A qcqp approach to triangulation, *ECCV,2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-33718-5_47)][[Code](https://github.com/linusnie/robust-triangulation-relaxations)]
 
 - Semidefinite Relaxations for Robust Multiview Triangulation, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2301.11431)] [[Code](https://github.com/Linusnie/robust-triangulation-relaxations)]
 
 - Triangulation of points, lines and conics, *JMIV, 2008*. [[Paper](https://lucris.lub.lu.se/ws/portalfiles/portal/2621089/1245431.pdf)]
 
-- A convex relaxation to compute the nearest structured rank deficient matrix(SIAM,2021)
-  
+- Robust multiview L2 triangulation via optimal inlier selection and 3D structure refinement, *PR,2014*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320314001204)]<!-- Numerical Optimization (DE), SOCP Bound Analysis-->
+
 #### BnB
 
-- A Fast Optimal Algorithm for L 2 Triangulation(2007)
+- A Fast Optimal Algorithm for L 2 Triangulation, *ACCV,2007*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-540-76390-1_28)]
 
-- On triangulation algorithms in large scale camera network systems(ACC,2012)
+- On triangulation algorithms in large scale camera network systems, *ACC,2012*. [[Paper](https://ieeexplore.ieee.org/abstract/document/6315278)]
 
-- An exact algorithm for the minimum dilation triangulation problem(2017)
+- An exact algorithm for the minimum dilation triangulation problem(2017)[[Paper](https://link.springer.com/article/10.1007/s10898-017-0517-x)]
   
 #### RANSAC
 
-- Robust multiview L2 triangulation via optimal inlier selection and 3D structure refinement
-
-- Robust uncertainty-aware multiview triangulation
-
-- Structure-from-motion revisited
+- Robust uncertainty-aware multiview triangulation, *arxiv,2008*. [[Paper](https://arxiv.org/abs/2008.01258)]
 
 #### Hybrid
 
-- A Triangulation Method Based on minmaxKKT(2012)
+- A Triangulation Method Based on minmaxKKT, *2012*. [[Paper](https://pure.nwpu.edu.cn/en/publications/a-triangulation-method-based-on-minmaxkkt)]
 
 ##
 
