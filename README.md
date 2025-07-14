@@ -114,7 +114,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Revisiting Global Translation Estimation with Feature Tracks, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tao_Revisiting_Global_Translation_Estimation_with_Feature_Tracks_CVPR_2024_paper.pdf)]
 
-##
+## 
 
 ### Wahba Problem
 
@@ -143,7 +143,7 @@ This is an active repository, you can watch for following the latest advances. I
 #### **Convex Relaxation**
 - A semidefinite relaxation-based algorithm for robust attitude estimation, *TSP, 2012*. [[Paper](https://ieeexplore.ieee.org/document/6203426)]
 
-- A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers, *ICCV 2019*. [[Paper](https://arxiv.org/pdf/1905.12536)]
+- A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers, *ICCV 2019*. [[Paper](https://arxiv.org/pdf/1905.12536)][[Code](https://github.com/MIT-SPARK/TEASER-plusplus)]
 
 - Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search: Tight or Not, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830655.pdf)]
 
@@ -198,15 +198,15 @@ This is an active repository, you can watch for following the latest advances. I
 
 - In defence of the 8-point algorithm(ICCV,1995)
 
+- Camera displacement via constrained minimizatio of the algebraic error,*TPAMI,2009*,[[Paper](https://ieeexplore.ieee.org/document/4731224)]
+
 #### SDP
 
-- Camera displacement via constrained minimizatio of the algebraic error(TPAMI,2009)
+- Finding the exact rotation between two images independently of the translation,*ECCV,2012*,[[Paper](https://link.springer.com/chapter/10.1007/978-3-642-33783-3_50)]
 
-- Finding the exact rotation between two images independently of the translation(ECCV,2012)
+- SDP relaxations for quadratic optimization problems derived from polynomial optimization problems,*APJOR，2010*,[[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0217595910002533)]
 
-- SDP relaxations for quadratic optimization problems derived from polynomial optimization problems(2010)
-
-- Globally optimal estimates for geometric reconstruction problems(2007)
+- Globally optimal estimates for geometric reconstruction problems,*IJCV,2007*,[[Paper](https://link.springer.com/article/10.1007/s11263-006-0015-y)]
 
 - A Certifiably Globally Optimal Solution to the Non-Minimal Relative Pose Problem, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3968.pdf)]
 
