@@ -18,7 +18,7 @@ This is an active repository, you can watch for following the latest advances. I
 - [Application](#application)
     - [Rotation Averaging](#rotation-averaging)
       - [Analysis](#analysis)
-      - [SDP](#sdp)
+      - [SDP ](#sdp)
       - [POP](#pop)
       - [RANSAC](#ransac)
       - [GNC](#gnc)
@@ -349,6 +349,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Pose Graph Optimization
 
+#### BnB
+*(To be supplemented)*
 #### SDP
 
 - Lagrangian Duality in Complex Pose Graph Optimization, *SOIA, 2016*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-42056-1_5)]
@@ -362,7 +364,10 @@ This is an active repository, you can watch for following the latest advances. I
 - Distributed Certifiably Correct Pose-Graph Optimization, *TRO, 2019*. [[Paper](https://arxiv.org/pdf/1911.03721)] [[Code](https://github.com/mit-acl/dpgo)]
 
 - Pose Graph Optimization in the Complex Domain: Lagrangian Duality, Conditions For Zero Duality Gap, and Optimal Solutions, *arxiv 2015*. [[Paper](https://arxiv.org/abs/1505.03437)][[Code](https://github.com/alpErenSari/poseGraphProject)]
-  
+
+#### POP
+*(To be supplemented)*
+
 #### GNC
 
 - Efficient Graduated Non-Convexity for Pose Graph Optimization, *ICCAS,2024*, [[Paper](https://ieeexplore.ieee.org/abstract/document/10773072)][[Code](https://github.com/SNU-DLLAB/EGNC-PGO)]
@@ -392,7 +397,13 @@ This is an active repository, you can watch for following the latest advances. I
 - Triangulation of points, lines and conics, *JMIV, 2008*. [[Paper](https://lucris.lub.lu.se/ws/portalfiles/portal/2621089/1245431.pdf)]
 
 - Robust multiview L2 triangulation via optimal inlier selection and 3D structure refinement, *PR,2014*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320314001204)]<!-- Numerical Optimization (DE), SOCP Bound Analysis-->
-  
+
+#### POP
+*(To be supplemented)*
+
+#### GNC
+*(To be supplemented)*
+
 #### RANSAC
 
 - Robust uncertainty-aware multiview triangulation, *arxiv,2008*. [[Paper](https://arxiv.org/abs/2008.01258)]
