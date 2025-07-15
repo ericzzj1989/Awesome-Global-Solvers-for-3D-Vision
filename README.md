@@ -179,12 +179,11 @@ This is an active repository, you can watch for following the latest advances. I
 - Global optimization through rotation space search, *IJCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/HartleyKahl:Ematrix.pdf)]
 
 - Globally optimal consensus set maximization through rotation search, *ACCV, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-37444-9_42)]
- 
-- A polynomial-time bound for matching and registration with outliers, *CVPR, 2008*. [[Paper](https://ieeexplore.ieee.org/document/4587757)]
- 
-- Robust fitting for multiple view geometry, *ECCV, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-33718-5_53)]
+<!-- - Robust fitting for multiple view geometry, *ECCV, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-33718-5_53)] -->
 
-#### **Convex Relaxation **
+- Fast rotation search with stereographic projections for 3d registration. *CVPR,2014*. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Bustos_Fast_Rotation_Search_2014_CVPR_paper.html)]
+
+#### **Convex Relaxation**
 - A semidefinite relaxation-based algorithm for robust attitude estimation, *TSP, 2012*. [[Paper](https://ieeexplore.ieee.org/document/6203426)]
 
 - A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers, *ICCV 2019*. [[Paper](https://arxiv.org/pdf/1905.12536)][[Code](https://github.com/MIT-SPARK/TEASER-plusplus)]
@@ -194,6 +193,7 @@ This is an active repository, you can watch for following the latest advances. I
 - Towards Understanding The Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search, *ECCV, 2022*. [[Paper](https://arxiv.org/pdf/2207.08350)]
 
 - Certifiably optimal rotation and pose estimation based on the Cayley map, *IJRR,2025*. [[Paper](https://journals.sagepub.com/doi/full/10.1177/02783649241269337)]
+
 #### **POP for Wahba Problem**
 *(后续补充)*
 
