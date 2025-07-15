@@ -148,14 +148,14 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Baseline Desensitizing in Translation Averaging, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1901.00643)]
 
-#### **Robust Estimation**
-- Robust Global Translations with 1DSfM, *ECCV, 2014*. [[Paper](https://www.cs.cornell.edu/projects/1dsfm/docs/1DSfM_ECCV14.pdf)] [[Code](https://github.com/wilsonkl/SfM_Init)] [[Project Page](https://www.cs.cornell.edu/projects/1dsfm/)]
-
-#### **Hybrid for Translation Averaging**
-- Correspondence Reweighted Translation Averaging, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930053.pdf)]
-
 - Linear Global Translation Estimation with Feature Tracks, *BMVC, 2015*. [[Paper](https://arxiv.org/pdf/1503.01832)]
 
+#### **Robust Estimation**
+- Robust Global Translations with 1DSfM, *ECCV, 2014*. [[Paper](https://www.cs.cornell.edu/projects/1dsfm/docs/1DSfM_ECCV14.pdf)] [[Code](https://github.com/wilsonkl/SfM_Init)] [[Project Page](https://www.cs.cornell.edu/projects/1dsfm/)]
+  
+- Correspondence Reweighted Translation Averaging, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930053.pdf)]
+
+#### **Hybrid for Translation Averaging**
 - Revisiting Global Translation Estimation with Feature Tracks, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tao_Revisiting_Global_Translation_Estimation_with_Feature_Tracks_CVPR_2024_paper.pdf)]
 
 ## 
