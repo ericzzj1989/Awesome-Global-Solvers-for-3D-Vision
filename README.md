@@ -79,6 +79,12 @@ This is an active repository, you can watch for following the latest advances. I
 - On the Tightness of Semidefinite Relaxations for Rotation Estimation, *JMIV,2022*. [[Paper](https://link.springer.com/article/10.1007/s10851-021-01054-y)]
 
 - Semidefinite relaxations for optimization problems over rotation matrices, *CDC, 2014*. [[Paper](https://ieeexplore.ieee.org/abstract/document/7039375)]
+
+- The non-convex Burer-Monteiro approach works on smooth semidefinite programs, *arxiv,2016*. [[Paper](https://arxiv.org/abs/1606.04970)]
+
+- A nonlinear programming algorithm for solving semidefinite programs via low-rank factorization, *Math. Program,2003*. [[Paper](https://link.springer.com/article/10.1007/s10107-002-0352-8)]
+
+
 ### Polynomial Optimization (POP)
 
 ### Graduated Non-Convexity (GNC)
@@ -122,10 +128,14 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Adaptive Annealing for Robust Averaging, *ECCV, 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08834.pdf)]
 
+
 #### **Hybrid for Rotation Averaging**
 - Shonan Rotation Averaging: Global Optimality by Surfing SO(p)^n, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.02737)] [[Code](https://github.com/dellaert/ShonanAveraging)] [[Project Page](https://dellaert.github.io/ShonanAveraging/index.html)]
 
 - Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2101.09116)] [[Code](https://github.com/ethz-asl/hybrid-rotation-averaging)]
+
+#### Robust Estimation
+- HARA: A Hierarchical Approach for Robust Rotation Averaging. *CVPR,2022*. [[Paper](https://arxiv.org/abs/2111.08831)][[Code](https://github.com/sunghoon031/HARA)]
 
 ##
 
@@ -158,6 +168,7 @@ This is an active repository, you can watch for following the latest advances. I
 #### **Hybrid for Translation Averaging**
 - Revisiting Global Translation Estimation with Feature Tracks, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tao_Revisiting_Global_Translation_Estimation_with_Feature_Tracks_CVPR_2024_paper.pdf)]
 
+- Cartan-sync:Fast and global se(d)-synchronization, *RAL, 2017*. [[Paper](https://ieeexplore.ieee.org/abstract/document/7962155)][[Code](https://gitlab.com/jbriales/cartan-sync/-/tree/master)]
 ## 
 
 ### Wahba Problem
@@ -300,6 +311,8 @@ This is an active repository, you can watch for following the latest advances. I
 - From Correspondences to Pose: Non-minimal Certifiably Optimal Relative Pose without Disambiguation, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2312.05995)] [[Code](https://github.com/javrtg/C2P)] [[Project Page](https://javrtg.github.io/C2P/)]
 
 - Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map, *IJRR, 2025*. [[Paper](https://arxiv.org/pdf/2308.12418)]
+
+- Essential matrix estimation using convex relaxations in orthogonal space, *ICCV,2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Karimian_Essential_Matrix_Estimation_using_Convex_Relaxations_in_Orthogonal_Space_ICCV_2023_paper.pdf)][[Code](https://github.com/armandok/QME)]
 
 #### **POP for Relative Pose Estimation**
 
