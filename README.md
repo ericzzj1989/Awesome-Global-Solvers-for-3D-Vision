@@ -76,6 +76,9 @@ This is an active repository, you can watch for following the latest advances. I
 ### Semidefinite Programming (SDP)
 - A convex relaxation to compute the nearest structured rank deficient matrix, *SIAM,2021*. [[Paper](https://epubs.siam.org/doi/abs/10.1137/19M1257640)]
 
+- On the Tightness of Semidefinite Relaxations for Rotation Estimation, *JMIV,2022*. [[Paper](https://link.springer.com/article/10.1007/s10851-021-01054-y)]
+
+- Semidefinite relaxations for optimization problems over rotation matrices, *CDC, 2014*. [[Paper](https://ieeexplore.ieee.org/abstract/document/7039375)]
 ### Polynomial Optimization (POP)
 
 ### Graduated Non-Convexity (GNC)
@@ -88,12 +91,23 @@ This is an active repository, you can watch for following the latest advances. I
 #### **Analysis**
 - Combining Two-view Constraints For Motion Estimation, *CVPR, 2001*. [[Paper](https://ieeexplore.ieee.org/document/990963)]
 
+#### **BnB for Rotation Averaging**
+- A Branch-and-Bound Algorithm for Globally Optimal Calibration of a Camera-and-Rotation-Sensor System, *ICCV,2009*. [[Paper](https://ieeexplore.ieee.org/abstract/document/5459343)]
+
 #### **SDP for Rotation Averaging**
 - Global Motion Estimation from Point Matches, *3DIMPVT, 2012*. [[Paper](https://homes.cs.washington.edu/~kemelmi/sfm_3dimpvt12.pdf)]
   
 - Simultaneous Multiple Rotation Averaging Using Lagrangian Duality, *ACCV, 2012*. [[Paper](https://scispace.com/pdf/simultaneous-multiple-rotation-averaging-using-lagrangian-1ecpzvpaw8.pdf)]
 
 - Rotation Averaging and Strong Duality, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1705.01362)]
+
+- On the Tightness of Semidefinite Relaxations for Rotation Estimation, *JMIV, 2022*. [[Paper](https://link.springer.com/article/10.1007/s10851-021-01054-y)]
+
+- Semidefinite relaxations for optimization problems over rotation matrices, *CDC, 2014*. [[Paper](https://ieeexplore.ieee.org/abstract/document/7039375)]
+
+- Rotation Coordinate Descent for Fast Globally Optimal Rotation Averaging, *CVPR, 2021*. [[Paper](http://openaccess.thecvf.com/content/CVPR2021/html/Parra_Rotation_Coordinate_Descent_for_Fast_Globally_Optimal_Rotation_Averaging_CVPR_2021_paper.html)]
+
+- Global robust image rotation from combined weighted averaging, *JPRS, 2017*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271617300382)]
 
 #### **POP for Rotation Averaging**
 - Globally Optimal Estimates for Rotation Averaging Problems, *IHMSC, 2014*. [[Paper](https://ieeexplore.ieee.org/document/6911507)]
@@ -179,6 +193,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Towards Understanding The Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search, *ECCV, 2022*. [[Paper](https://arxiv.org/pdf/2207.08350)]
 
+- Certifiably optimal rotation and pose estimation based on the Cayley map, *IJRR,2025*. [[Paper](https://journals.sagepub.com/doi/full/10.1177/02783649241269337)]
 #### **POP for Wahba Problem**
 *(后续补充)*
 
