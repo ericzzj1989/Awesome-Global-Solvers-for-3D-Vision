@@ -72,6 +72,13 @@ This is an active repository, you can watch for following the latest advances. I
 ## Theory
 
 ### Bound-and-Branch (BnB)
+- Go-icp: A globally optimal solution to 3d icp point-set registration, *TPAMI, 2015*. [[Paper](https://ieeexplore.ieee.org/abstract/document/7368945)][[Code](https://github.com/yangjiaolong/Go-ICP)]
+
+- Consensus set maximization with guaranteed global optimality for robust geometry estimation, *ICCV, 2009*. [[Paper](https://ieeexplore.ieee.org/abstract/document/5459398)]
+
+- The alignment of the spheres: Globally optimal spherical mixture alignment for camera pose estimation, *CVPR, 2019*. [[Paper](http://openaccess.thecvf.com/content_CVPR_2019/html/Campbell_The_Alignment_of_the_Spheres_Globally-Optimal_Spherical_Mixture_Alignment_for_CVPR_2019_paper.html)]
+
+- Gogma: Globally-optimal gaussian mixture alignmen, *CVPR, 2016*. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/html/Campbell_GOGMA_Globally-Optimal_Gaussian_CVPR_2016_paper.html)]
 
 ### Semidefinite Programming (SDP)
 - A convex relaxation to compute the nearest structured rank deficient matrix, *SIAM, 2021*. [[Paper](https://epubs.siam.org/doi/abs/10.1137/19M1257640)]
