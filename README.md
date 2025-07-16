@@ -360,7 +360,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Guaranteed Outlier Removal for Point Cloud Registration with Correspondences, *TPAMI, 2017*. [[Paper](https://arxiv.org/pdf/1711.10209)]
 
-- PMC:A practical maximum clique algorithm for matching with pairwise constraints, *arxiv, 2019*. [[Paper](https://ieeexplore.ieee.org/abstract/document/8107582)] <!-- Preprocessing for CMax/BnB, Deterministic Outlier Removal--> 
+- PMC:A practical maximum clique algorithm for matching with pairwise constraints, *arXiv, 2019*. [[Paper](https://ieeexplore.ieee.org/abstract/document/8107582)] <!-- Preprocessing for CMax/BnB, Deterministic Outlier Removal--> 
   
 #### **SDP for 3D Registration**
 
