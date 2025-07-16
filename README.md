@@ -140,7 +140,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2101.09116)] [[Code](https://github.com/ethz-asl/hybrid-rotation-averaging)]
 
-#### Robust Estimation
+#### **Robust Estimation**
 - HARA: A Hierarchical Approach for Robust Rotation Averaging. *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2111.08831)] [[Code](https://github.com/sunghoon031/HARA)]
 
 ##
@@ -179,7 +179,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Revisiting Global Translation Estimation with Feature Tracks, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tao_Revisiting_Global_Translation_Estimation_with_Feature_Tracks_CVPR_2024_paper.pdf)]
 
-- Cartan-sync:Fast and global se(d)-synchronization, *RAL, 2017*. [[Paper](https://ieeexplore.ieee.org/abstract/document/7962155)][[Code](https://gitlab.com/jbriales/cartan-sync/-/tree/master)]
+- Cartan-sync:Fast and global se(d)-synchronization, *RAL, 2017*. [[Paper](https://ieeexplore.ieee.org/abstract/document/7962155)][[Code](https://bitbucket.org/jesusbriales/cartan-sync/src/master/)]
 
 ## 
 
@@ -217,7 +217,7 @@ This is an active repository, you can watch for following the latest advances. I
 - Towards Understanding The Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search, *ECCV, 2022*. [[Paper](https://arxiv.org/pdf/2207.08350)]
 
 #### **POP for Wahba Problem**
-*(后续补充)*
+*(To be supplemented)*
 
 #### **RANSAC for Wahba Problem**
 - RANSIC: Fast and Highly Robust Estimation for Rotation Search and Point Cloud Registration Using Invariant Compatibility, *RAL, 2021*. [[Paper](https://arxiv.org/pdf/2104.09133)] [[Code](https://github.com/lukascher/RANSIC)]
@@ -244,13 +244,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 - An efficient and accurate algorithm for the perspecitve-n-point problem, *IROS, 2019*. [[Paper](https://ieeexplore.ieee.org/abstract/document/89684820)]
 
-- Globally optimal dls method for pnp problem with cayley parameterization, *BMVC, 2015*. [[Paper](https://www.researchgate.net/profile/Gaku-Nakano/publication/301451166_Globally_Optimal_DLS_Method_for_PnP_Problem_with_Cayley_parameterization/links/5e36c726a6fdccd965809503/Globally-Optimal-DLS-Method-for-PnP-Problem-with-Cayley-parameterization.pdf)]
+- Globally optimal dls method for pnp problem with cayley parameterization, *BMVC, 2015*. [[Paper](https://www.researchgate.net/profile/Gaku-Nakano/publication/301451166_Globally_Optimal_DLS_Method_for_PnP_Problem_with_Cayley_parameterization/links/5e36c726a6fdccd965809503/Globally-Optimal-DLS-Method-for-PnP-Problem-with-Cayley-parameterization.pdf)][[Code](https://github.com/g9nkn/pnp_problem)]
 
 - Absolute pose from one or two scaled and oriented features, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Ventura_Absolute_Pose_from_One_or_Two_Scaled_and_Oriented_Features_CVPR_2024_paper.html)][[Code](https://github.com/danini/absolute-pose-from-oriented-and-scaled-features)]
 
-- Revisiting the pnp problem: A fast, general and optimal solution, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/html/Zheng_Revisiting_the_PnP_2013_ICCV_paper.html)]
+- Revisiting the pnp problem: A fast, general and optimal solution, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/html/Zheng_Revisiting_the_PnP_2013_ICCV_paper.html)][[Code](https://github.com/danini/absolute-pose-from-oriented-and-scaled-features)]
   
-- A versatile approach for solving pnp, pnpf, and pnpfr problems, *ECCV, 2016*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_21)]
+- A versatile approach for solving pnp, pnpf, and pnpfr problems, *ECCV, 2016*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_21)][[Code](https://github.com/g9nkn/pnpfr_problem?tab=readme-ov-file)]
 
 #### **BnB for PnP**
 - Absolute pose estimation with a known direction by motion decoupling, *TCSVT, 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10093787)][[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
@@ -263,7 +263,7 @@ This is an active repository, you can watch for following the latest advances. I
 - Optimal and Robust Category-Level Perception: Object Pose and Shape Estimation From 2-D and 3-D Semantic Keypoints, *TRO, 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10236506)][[Code](https://github.com/MIT-SPARK/PACE)]
 
 #### **POP for PnP**
-- The non-tightness of a convex relaxation to rotation recovery, *2021*. [paper](https://www.mdpi.com/1424-8220/21/21/7358)
+- The non-tightness of a convex relaxation to rotation recovery, *2021*. [[paper](https://www.mdpi.com/1424-8220/21/21/7358)]
 
 - A consistently fast and globally optimal solution to the perspective-n-point problem, *ECCV, 2020*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_28)][[Code](https://github.com/terzakig/sqpnp)]
  
@@ -353,7 +353,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Guaranteed Outlier Removal for Point Cloud Registration with Correspondences, *TPAMI, 2017*. [[Paper](https://arxiv.org/pdf/1711.10209)]
 
-- PMC:A practical maximum clique algorithm for matching with pairwise constraints, **. [[Paper](https://ieeexplore.ieee.org/abstract/document/8107582)] <!-- Preprocessing for CMax/BnB, Deterministic Outlier Removal--> 
+- PMC:A practical maximum clique algorithm for matching with pairwise constraints, *arxiv, 2019*. [[Paper](https://ieeexplore.ieee.org/abstract/document/8107582)] <!-- Preprocessing for CMax/BnB, Deterministic Outlier Removal--> 
   
 #### **SDP for 3D Registration**
 
@@ -374,7 +374,7 @@ This is an active repository, you can watch for following the latest advances. I
 - GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.13537)] [[Code](https://github.com/WU-CVGL/GlobalPointer)] [[Project Page](https://bangyan101.github.io/GlobalPointer/)]
 
 #### **POP for 3D Registration**
-- a novel quaternion-based 2d-3d registration algorithm with line correspondence, *TIJEE, 2014*. [[Paper](https://journal.esperg.com/index.php/TIJEE/article/view/3203)]
+- A novel quaternion-based 2d-3d registration algorithm with line correspondence, *TIJEE, 2014*. [[Paper](https://journal.esperg.com/index.php/TIJEE/article/view/3203)]
 
 - Geometry of 3d environments and sum of squares polynomials, *arXiv, 2016*. [[Paper](https://arxiv.org/pdf/1611.07369)]
  
@@ -406,6 +406,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Distributed Certifiably Correct Pose-Graph Optimization, *TRO, 2019*. [[Paper](https://arxiv.org/pdf/1911.03721)] [[Code](https://github.com/mit-acl/dpgo)]
 
 - Pose Graph Optimization in the Complex Domain: Lagrangian Duality, Conditions For Zero Duality Gap, and Optimal Solutions, *arxiv 2015*. [[Paper](https://arxiv.org/abs/1505.03437)][[Code](https://github.com/alpErenSari/poseGraphProject)]
+
+- Fast global optimality verification in 3D SLAM, *IROS, 2016*. [[Paper](https://ieeexplore.ieee.org/document/7759681)][[Code](https://github.com/jbriales/PGO-LagInit)]
 
 #### **POP for Pose Graph Optimization**
 *(To be supplemented)*
