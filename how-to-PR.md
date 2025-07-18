@@ -1,7 +1,7 @@
 Suggesstions/ paper updates/ any contributions to this list are most welcome! Please feel free to *open issues* or *create pull requests* as follows: <br> 
 
 
-Modify the README.md and follow the format 
+Modify the README.md and follow the format:
 ``` 
 * TITLE, VENUE, YEAR. [[Paper/PDF](link)] [[Code](link)] [[Project Page](link)]
 ``` 
