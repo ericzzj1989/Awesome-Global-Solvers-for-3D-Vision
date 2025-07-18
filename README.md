@@ -72,6 +72,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## Theory
 
 ### Bound-and-Branch (BnB)
+
 - Go-icp: A globally optimal solution to 3d icp point-set registration, *TPAMI, 2015*. [[Paper](https://ieeexplore.ieee.org/abstract/document/7368945)][[Code](https://github.com/yangjiaolong/Go-ICP)]
 
 - Consensus set maximization with guaranteed global optimality for robust geometry estimation, *ICCV, 2009*. [[Paper](https://ieeexplore.ieee.org/abstract/document/5459398)]
@@ -81,6 +82,7 @@ This is an active repository, you can watch for following the latest advances. I
 - Gogma: Globally-optimal gaussian mixture alignmen, *CVPR, 2016*. [[Paper](http://openaccess.thecvf.com/content_cvpr_2016/html/Campbell_GOGMA_Globally-Optimal_Gaussian_CVPR_2016_paper.html)]
 
 ### Semidefinite Programming (SDP)
+
 - A convex relaxation to compute the nearest structured rank deficient matrix, *SIAM, 2021*. [[Paper](https://epubs.siam.org/doi/abs/10.1137/19M1257640)]
 
 - On the Tightness of Semidefinite Relaxations for Rotation Estimation, *JMIV, 2022*. [[Paper](https://link.springer.com/article/10.1007/s10851-021-01054-y)]
@@ -94,7 +96,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Polynomial Optimization (POP)
 
+- Convergence of Lasserre’s hierarchy: the general case, *OL, 2022*. [[Paper](https://link.springer.com/article/10.1007/s11590-021-01757-6)]
+
+- Non-Minimum Essential Matrix Estimation Using Sum of Square Method, *AIAM, 2019*. [[Paper](https://ieeexplore.ieee.org/abstract/document/8950797)]
+
 ### Graduated Non-Convexity (GNC)
+
+- TEASER: Fast and Certifiable Point Cloud Registration, *TRO, 2020*. [[Paper](https://arxiv.org/pdf/2001.07715)] [[Code](https://github.com/MIT-SPARK/TEASER-plusplus)]
 
 ---
 ## Application
@@ -148,6 +156,7 @@ This is an active repository, you can watch for following the latest advances. I
 - Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2101.09116)] [[Code](https://github.com/ethz-asl/hybrid-rotation-averaging)]
 
 #### **Robust Estimation**
+
 - HARA: A Hierarchical Approach for Robust Rotation Averaging. *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2111.08831)] [[Code](https://github.com/sunghoon031/HARA)]
 
 ##
@@ -193,6 +202,7 @@ This is an active repository, you can watch for following the latest advances. I
 ### Wahba Problem
 
 #### **Closed-form**
+
 - Fundamentals of spacecraft attitude determination and control
   
 - Closed-form solution of absolute orientation using orthonormal matrices
@@ -206,6 +216,7 @@ This is an active repository, you can watch for following the latest advances. I
 - Closed-form solution of absolute orientation using orthonormal matrices
 
 #### **BnB for Wahba Problem**
+
 - Global optimization through rotation space search, *IJCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/HartleyKahl:Ematrix.pdf)]
 
 - Globally optimal consensus set maximization through rotation search, *ACCV, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-37444-9_42)]
@@ -215,6 +226,7 @@ This is an active repository, you can watch for following the latest advances. I
 - Fast rotation search with stereographic projections for 3d registration. *CVPR, 2014*. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2014/html/Bustos_Fast_Rotation_Search_2014_CVPR_paper.html)]
 
 #### **Convex Relaxation**
+
 - A semidefinite relaxation-based algorithm for robust attitude estimation, *TSP, 2012*. [[Paper](https://ieeexplore.ieee.org/document/6203426)]
 
 - A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers, *ICCV 2019*. [[Paper](https://arxiv.org/pdf/1905.12536)][[Code](https://github.com/MIT-SPARK/TEASER-plusplus)]
@@ -227,9 +239,11 @@ This is an active repository, you can watch for following the latest advances. I
 *(To be supplemented)*
 
 #### **RANSAC for Wahba Problem**
+
 - RANSIC: Fast and Highly Robust Estimation for Rotation Search and Point Cloud Registration Using Invariant Compatibility, *RAL, 2021*. [[Paper](https://arxiv.org/pdf/2104.09133)] [[Code](https://github.com/lukascher/RANSIC)]
 
 #### **GNC for Wahba Problem**
+
 - FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
 
 ##
@@ -237,6 +251,7 @@ This is an active repository, you can watch for following the latest advances. I
 ### Absolute Pose Estimation (PnP)
 
 #### Analysis
+
 - EPnP
  
 - A simple, robust and fast method for the perspective-n-point problem, *PML, 2018*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865518300692)]
@@ -260,9 +275,11 @@ This is an active repository, you can watch for following the latest advances. I
 - A versatile approach for solving pnp, pnpf, and pnpfr problems, *ECCV, 2016*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-46487-9_21)][[Code](https://github.com/g9nkn/pnpfr_problem?tab=readme-ov-file)]
 
 #### **BnB for PnP**
+
 - Absolute pose estimation with a known direction by motion decoupling, *TCSVT, 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10093787)][[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
 
 #### **SDP for PnP**
+
 - CvxPnPL: A unified convex solution to the absolute pose estimation problem from point and line correspondences, *JMIV, 2023*. [[Paper](https://arxiv.org/abs/1907.10545)][[Code](https://github.com/SergioRAgostinho/cvxpnpl)]
 
 - Globally optimal O(n) solution to the PnP problem for general camera models, *BMVC, 2008*. [[Paper](https://bmva-archive.org.uk/bmvc/2008/papers/31.pdf)]
@@ -270,11 +287,13 @@ This is an active repository, you can watch for following the latest advances. I
 - Optimal and Robust Category-Level Perception: Object Pose and Shape Estimation From 2-D and 3-D Semantic Keypoints, *TRO, 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10236506)][[Code](https://github.com/MIT-SPARK/PACE)]
 
 #### **POP for PnP**
+
 - The non-tightness of a convex relaxation to rotation recovery, *2021*. [[paper](https://www.mdpi.com/1424-8220/21/21/7358)]
 
 - A consistently fast and globally optimal solution to the perspective-n-point problem, *ECCV, 2020*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_28)][[Code](https://github.com/terzakig/sqpnp)]
  
 #### **GNC for PnP**
+
 - Outliers rejection for robust camera pose estimation using graduated non‐convexity, *IET CV, 2025*. [[Paper](https://www.researchgate.net/publication/387343981_Outliers_rejection_for_robust_camera_pose_estimation_using_graduated_non-convexity)]
 
 ##
@@ -381,6 +400,7 @@ This is an active repository, you can watch for following the latest advances. I
 - GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.13537)] [[Code](https://github.com/WU-CVGL/GlobalPointer)] [[Project Page](https://bangyan101.github.io/GlobalPointer/)]
 
 #### **POP for 3D Registration**
+
 - A novel quaternion-based 2d-3d registration algorithm with line correspondence, *TIJEE, 2014*. [[Paper](https://journal.esperg.com/index.php/TIJEE/article/view/3203)]
 
 - Geometry of 3d environments and sum of squares polynomials, *arXiv, 2016*. [[Paper](https://arxiv.org/pdf/1611.07369)]
