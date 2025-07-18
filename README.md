@@ -17,7 +17,7 @@ This is an active repository, you can watch for following the latest advances. I
     - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
 - [Application](#application)
     - [Rotation Averaging](#rotation-averaging)
-       - [Analysis](#rotation-averaging-analysis)
+       - [Analysis for Rotation Averaging](#rotation-for-averaging-analysis)
        - [SDP for Rotation Averaging](#sdp-for-rotation-averaging)
        - [POP for Rotation Averaging](#pop-for-rotation-averaging)
        - [RANSAC for Rotation Averaging](#ransac-for-rotation-averaging)
@@ -62,6 +62,9 @@ This is an active repository, you can watch for following the latest advances. I
       - [SDP for Triangulation](#sdp-for-triangulation)
       - [RANSAC for Triangulation](#ransac-for-triangulation)
       - [Hybrid for Triangulation](#hybrid-for-triangulation)
+    - [Vanishing Point Estimation](#vanishing-point-estimation)
+      - [BnB for Vanishing Point Estimation](#bnb-for-vanishing-point-estimation)
+      - [SDP for Vanishing Point Estimation](#sdp-for-vanishing-point-estimation)
     - [Bundle Adjustment](#bundle-adjustment)
       - [SDP for Bundle Adjustment](#sdp-for-bundle-adjustment)
     - [SLAM](#slam)
@@ -108,7 +111,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Rotation Averaging
 
-#### **Analysis**
+#### **Analysis for Rotation Averaging**
 
 - Combining Two-view Constraints For Motion Estimation, *CVPR, 2001*. [[Paper](https://ieeexplore.ieee.org/document/990963)]
 
@@ -492,15 +495,15 @@ This is an active repository, you can watch for following the latest advances. I
 
 ##
 
-### Vanishing Point
+### Vanishing Point Estimation
 
-#### **BnB for Vanishing Point**
+#### **BnB for Vanishing Point Estimation**
 
 - Globally Optimal Manhattan Frame Estimation in Real-time, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Joo_Globally_Optimal_Manhattan_CVPR_2016_paper.pdf)]
 
 - Robust and Globally Optimal Manhattan Frame Estimation in Near Real Time, *TPAMI, 2019*. [[Paper](https://arxiv.org/pdf/1605.03730)]
 
-#### **SDP for Vanishing Point**
+#### **SDP for Vanishing Point Estimation**
 
 - Convex Relaxation for Robust Vanishing Point Estimation in Manhattan World, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2505.04788)] [[Code](https://github.com/WU-CVGL/GlobustVP/)]
 
