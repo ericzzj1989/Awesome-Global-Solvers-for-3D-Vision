@@ -514,7 +514,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Quasi-globally Optimal and Efficient Vanishing Point Estimation in Manhattan World, *ICCV, 2019*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Quasi-Globally_Optimal_and_Efficient_Vanishing_Point_Estimation_in_Manhattan_World_ICCV_2019_paper.pdf)]
 
-- Globally Optimal and Efficient Vanishing Point Estimation in Atlanta World, *ECCV, 2020*. [(Paper)[https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670154.pdf]]
+- Globally Optimal and Efficient Vanishing Point Estimation in Atlanta World, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670154.pdf)]
 
 ##
 
