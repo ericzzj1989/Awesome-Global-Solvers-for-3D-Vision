@@ -11,7 +11,7 @@ This is an active repository, you can watch for following the latest advances. I
 ---
 ## Overview
   - [Theory](#theory)
-    - [Bound-and-Branch (BnB)](#bound-and-branch-bnb)
+    - [Branch-and-Bound (BnB)](#branch-and-bound-bnb)
     - [Semidefinite Programming (SDP)](#semidefinite-programming-sdp)
     - [Polynomial Optimization (POP)](#polynomial-optimization-pop)
     - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
@@ -77,7 +77,7 @@ This is an active repository, you can watch for following the latest advances. I
 ---
 ## Theory
 
-### Bound-and-Branch (BnB)
+### Branch-and-Bound (BnB)
 
 - Consensus Set Maximization with Guaranteed Global Optimality for Robust Geometry Estimation, *ICCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/iccv09.pdf)]
 
