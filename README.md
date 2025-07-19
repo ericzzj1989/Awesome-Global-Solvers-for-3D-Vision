@@ -97,6 +97,21 @@ This is an active repository, you can watch for following the latest advances. I
 
 - On the Tightness of Semidefinite Relaxations for Rotation Estimation, *JMIV, 2022*. [[Paper](https://arxiv.org/pdf/2101.02099)]
 
+- On the Local Stability of Semidefinite Relaxations, *MP, 2022*. [[Paper](https://link.springer.com/article/10.1007/s10107-021-01696-1)]
+
+- Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search: Tight or Not, *ECCV, 2022*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20050-2_39)]
+
+- On the convergence of irls and its variants in outlier-robust estimation, *CVPR, 2023*. [[Paper](http://openaccess.thecvf.com/content/CVPR2023/html/Peng_On_the_Convergence_of_IRLS_and_Its_Variants_in_Outlier-Robust_CVPR_2023_paper.html)]
+
+- An Overview of the Burer-Monteiro Method for Certifiable Robot Perception, *arXiv, 2024*. [[Paper](https://arxiv.org/abs/2410.00117)]
+
+- Toward Globally Optimal State Estimation Using Automatically Tightened Semidefinite Relaxations, *TRO, 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10665746/)]
+
+- Accelerating Certifiable Estimation with Preconditioned Eigensolvers, *RAL, 2022*. [Paper](https://ieeexplore.ieee.org/abstract/document/9940527/)][[Code](https://github.com/david-m-rosen/SE-Sync)]
+
+- Exploiting Chordal Sparsity for Fast Global Optimality with Application to Localization, *arXiv, 2024*. [[Paper](https://arxiv.org/abs/2406.02365)]
+
+- Fast, Scalable, Warm-Start Semidefinite Programming with Spectral Bundling and Sketching, *arXiv, 2023*. [[Paper](https://arxiv.org/abs/2312.11801)]
 ### Polynomial Optimization (POP)
 
 - Non-Minimum Essential Matrix Estimation Using Sum of Square Method, *AIAM, 2019*. [[Paper](https://ieeexplore.ieee.org/abstract/document/8950797)]
@@ -107,6 +122,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 - TEASER: Fast and Certifiable Point Cloud Registration, *TRO, 2020*. [[Paper](https://arxiv.org/pdf/2001.07715)] [[Code](https://github.com/MIT-SPARK/TEASER-plusplus)]
 
+- Adaptive Annealing for Robust Geometric Estimation, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sidhartha_Adaptive_Annealing_for_Robust_Geometric_Estimation_CVPR_2023_paper.pdf)]
+
+- Graduated non-convexity for robust spatial perception: From non-minimal solvers to global outlier rejection, *RAL, 2020*. [[Paper](https://ieeexplore.ieee.org/abstract/document/8957085)]
 ---
 ## Application
 
@@ -132,10 +150,15 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Rotation Averaging and Strong Duality, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1705.01362)]
 
+- Rotation Averaging with the Chordal Distance: Global Minimizers and Strong Duality, *TPAMI, 2019*. [[Paper](https://ieeexplore.ieee.org/abstract/document/8770111)]
+
 - Rotation Coordinate Descent for Fast Globally Optimal Rotation Averaging, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2103.08292)]
 
 - On the Tightness of Semidefinite Relaxations for Rotation Estimation, *JMIV, 2022*. [[Paper](https://arxiv.org/pdf/2101.02099)]
 
+- Certifiably Optimal Anisotropic Rotation Averaging, *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2503.07353)]
+
+- 
 #### **POP for Rotation Averaging**
 
 - Globally Optimal Estimates for Rotation Averaging Problems, *IHMSC, 2014*. [[Paper](https://ieeexplore.ieee.org/document/6911507)]
@@ -161,6 +184,12 @@ This is an active repository, you can watch for following the latest advances. I
 #### **Robust Estimation**
 
 - HARA: A Hierarchical Approach for Robust Rotation Averaging. *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2111.08831)] [[Code](https://github.com/sunghoon031/HARA)]
+
+#### **Others**
+
+- Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs, *ICCV, 2021*. [[Paper](http://openaccess.thecvf.com/content/ICCV2021/html/Moreira_Rotation_Averaging_in_a_Split_Second_A_Primal-Dual_Method_and_ICCV_2021_paper.html)] <!-- empirically global optimum;primal-dual -->
+
+- Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent, *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2506.01940)][[Project page](https://ylochman.github.io/acd)]<!-- bridge the gap between optimality, robustness and efficiency of anisotropic rotation averaging --> 
 
 ##
 
@@ -199,6 +228,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Revisiting Global Translation Estimation with Feature Tracks, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tao_Revisiting_Global_Translation_Estimation_with_Feature_Tracks_CVPR_2024_paper.pdf)]
 
 - Cartan-Sync: Fast and Global SE(d)-Synchronization, *RAL, 2017*. [[Paper](https://mapir.isa.uma.es/jbriales/publications/RAL17+supp.pdf)] [[Code](https://bitbucket.org/jesusbriales/cartan-sync/src)]
+
+- ARCS: Accurate Rotation and Correspondence Search, *CVPR, 2022*. [Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Peng_ARCS_Accurate_Rotation_and_Correspondence_Search_CVPR_2022_paper.html)][[Code](https://github.com/liangzu/ARCS)] <!--CMax+Riemannian -->
 
 ## 
 
@@ -250,6 +281,10 @@ This is an active repository, you can watch for following the latest advances. I
 #### **GNC for Wahba Problem**
 
 - FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
+
+#### Others
+
+- Linearly Solving Robust Rotation Estimation, *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2506.11547)] <!-- voting-based approach -->
 
 ##
 
@@ -374,10 +409,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### 3D Registration
 
-- Fast Global Registration, *ECCV, 2016*. [[Paper](https://vladlen.info/papers/fast-global-registration.pdf)] [[Code](https://github.com/isl-org/FastGlobalRegistration)]
-
-- SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences, *2019, CVPR*. [[Paper](https://arxiv.org/pdf/1904.03483)] [[Code](https://github.com/intellhave/SDRSAC)]
-
 #### **BnB for 3D Registration**
 
 - A Polynomial-time Bound for Matching and Registration with Outliers, *CVPR, 2008*. [[Paper](https://scispace.com/pdf/a-polynomial-time-bound-for-matching-and-registration-with-mpk50t5i0e.pdf)]
@@ -387,7 +418,10 @@ This is an active repository, you can watch for following the latest advances. I
 - Guaranteed Outlier Removal for Point Cloud Registration with Correspondences, *TPAMI, 2017*. [[Paper](https://arxiv.org/pdf/1711.10209)]
 
 - A Practical Maximum Clique Algorithm for Matching with Pairwise Constraints, *arXiv, 2019*. [[Paper](https://arxiv.org/pdf/1902.01534)] <!-- Preprocessing for CMax/BnB, Deterministic Outlier Removal--> 
-  
+
+- An Efficient Globally Optimal Algorithm for Asymmetric Point Matching, *TPAMI, 2016*. [[Paper](https://ieeexplore.ieee.org/abstract/document/7555337)]
+
+- Scalable 3d registration via truncated entry-wise absolute residuals, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_Scalable_3D_Registration_via_Truncated_Entry-wise_Absolute_Residuals_CVPR_2024_paper.html)]
 #### **SDP for 3D Registration**
 
 - Guided Search Consensus: Large Scale Point Cloud Registration by Convex Optimization, *ICIP, 2013*. [[Paper](https://ieeexplore.ieee.org/abstract/document/6738033)]
@@ -408,6 +442,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.13537)] [[Code](https://github.com/WU-CVGL/GlobalPointer)] [[Project Page](https://bangyan101.github.io/GlobalPointer/)]
 
+- SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences, *2019, CVPR*. [[Paper](https://arxiv.org/pdf/1904.03483)] [[Code](https://github.com/intellhave/SDRSAC)]
+  
 #### **POP for 3D Registration**
 
 - Geometry of 3D Environments and Sum of Squares Polynomials, *RSS, 2013*. [[Paper](https://arxiv.org/pdf/1611.07369)]
@@ -423,6 +459,19 @@ This is an active repository, you can watch for following the latest advances. I
 - Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap, *IROS, 2023*. [[Paper](https://arxiv.org/pdf/2307.12116)] [[Code](https://github.com/HKUST-Aerial-Robotics/Pagor)]
 
 - Adaptive Annealing for Robust Geometric Estimation, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sidhartha_Adaptive_Annealing_for_Robust_Geometric_Estimation_CVPR_2023_paper.pdf)]
+
+#### **Hybrid for 3D Registration**
+
+- G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model, *TASE, 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10518010)]
+
+#### **Others**
+- Robust Reconstruction of Indoor Scenes, *CVPR, 2015*. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Choi_Robust_Reconstruction_of_2015_CVPR_paper.pdf)]<!-- Line- process; Robust estimation-->
+
+- Fast Global Registration, *ECCV, 2016*. [[Paper](https://vladlen.info/papers/fast-global-registration.pdf)] [[Code](https://github.com/isl-org/FastGlobalRegistration)]
+
+- Maximizing robustness of point-set registration by leveraging non-convexity, *arXiv, 2020*. [[Paper](https://ui.adsabs.harvard.edu/abs/2020arXiv200408772O/abstract)]
+
+- A new outlier removal strategy based on reliability of correspondence graph for fast point cloud registration, *TPAMI, 2022*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9969937)][[Code](https://github.com/WPC-WHU/GROR)]<!-- Graph-based Reliable Outlier Removal; Robust Estimation-->
 
 ##
 
@@ -532,6 +581,10 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Distributed Certifiably Correct Range-Aided SLAM, *ICRA, 2025*. [Paper](https://arxiv.org/pdf/2503.03192) [[Code](https://github.com/adthoms/dcora)]
 
+- Accelerating Certifiable Estimation with Preconditioned Eigensolvers, *RAL, 2022*. [Paper](https://ieeexplore.ieee.org/abstract/document/9940527/)][[Code](https://github.com/david-m-rosen/SE-Sync)]
+
+- Joint State and Noise Covariance Estimation, *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2502.04584)]
+  
 ##
 
 ### All-in-One
