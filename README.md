@@ -70,7 +70,9 @@ This is an active repository, you can watch for following the latest advances. I
       - [SDP for Bundle Adjustment](#sdp-for-bundle-adjustment)
     - [SLAM](#slam)
     - [All-in-One](#all-in-one)
+      - [BnB](#bnb)
       - [SDP](#sdp)
+      - [Others](#others)
 
 ---
 ## Theory
