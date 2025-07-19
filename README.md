@@ -352,6 +352,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Finding the Exact Rotation between Two Images Independently of the Translation, *ECCV, 2012*. [[Paper](https://people.inf.ethz.ch/pomarc/pubs/KneipECCV12.pdf)]
 
+- RePoseD: Efficient Relative Pose Estimation With Known Depth Information, *arXiv, 2025*. [[Paper](https://ui.adsabs.harvard.edu/abs/2025arXiv250107742D/abstract)]
+
 #### **BnB for Relative Pose Estimation**
 
 - Robust Optimal Pose Estimation, *ECCV, 2008*. [[Paper](https://www.researchgate.net/profile/Olof-Enqvist/publication/221304187_Robust_Optimal_Pose_Estimation/links/0f3175371ef676bf33000000/Robust-Optimal-Pose-Estimation.pdf)]
@@ -383,7 +385,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Robot-to-Robot Relative Pose Estimation based on Semidefinite Relaxation Optimization, *IROS, 2020*. [[Paper](https://freeformrobotics.org/wp-content/uploads/2022/02/IROS20_0234_FI.pdf)]
 
-- Certifiable Relative Pose Estimation, *arXiv, 2020*. [[Paper](https://arxiv.org/pdf/2003.13732)]
+- Certifiable Relative Pose Estimation, *IVC, 2021*. [[Paper](https://arxiv.org/pdf/2003.13732)]
 
 - An Efficient Solution to Non-Minimal Case Essential Matrix Estimation, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/1903.09067)] [[Code](https://github.com/jizhaox/npt-pose)]
 
@@ -395,6 +397,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map, *IJRR, 2025*. [[Paper](https://arxiv.org/pdf/2308.12418)]
 
+- On Semidefinite Relaxations for Matrix-Weighted State-Estimation Problems in Robotics, *TRO, 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10706005)]
+  
 #### **POP for Relative Pose Estimation**
 
 - SPLP: A Certifiably Globally Optimal Solution to the Relative Pose Estimation Problem Using Points and Line Pairs, *JIN, 2022*. [[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0219265921430453)]
@@ -405,6 +409,8 @@ This is an active repository, you can watch for following the latest advances. I
   
 #### **Hybrid for Relative Pose Estimation**
 
+- Scalable Distance-based Multi-Agent Relative State Estimation via Block Multiconvex Optimization, *RSS, 2024*.[[Paper](https://arxiv.org/abs/2405.20883)]
+  
 ##
 
 ### 3D Registration
@@ -421,7 +427,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - An Efficient Globally Optimal Algorithm for Asymmetric Point Matching, *TPAMI, 2016*. [[Paper](https://ieeexplore.ieee.org/abstract/document/7555337)]
 
-- Scalable 3d registration via truncated entry-wise absolute residuals, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_Scalable_3D_Registration_via_Truncated_Entry-wise_Absolute_Residuals_CVPR_2024_paper.html)]
+- Scalable 3d registration via truncated entry-wise absolute residuals, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Huang_Scalable_3D_Registration_via_Truncated_Entry-wise_Absolute_Residuals_CVPR_2024_paper.html)][[Code](https://github.com/tyhuang98/TEAR-release)]
+  
 #### **SDP for 3D Registration**
 
 - Guided Search Consensus: Large Scale Point Cloud Registration by Convex Optimization, *ICIP, 2013*. [[Paper](https://ieeexplore.ieee.org/abstract/document/6738033)]
@@ -465,6 +472,7 @@ This is an active repository, you can watch for following the latest advances. I
 - G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model, *TASE, 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10518010)]
 
 #### **Others**
+
 - Robust Reconstruction of Indoor Scenes, *CVPR, 2015*. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Choi_Robust_Reconstruction_of_2015_CVPR_paper.pdf)]<!-- Line- process; Robust estimation-->
 
 - Fast Global Registration, *ECCV, 2016*. [[Paper](https://vladlen.info/papers/fast-global-registration.pdf)] [[Code](https://github.com/isl-org/FastGlobalRegistration)]
@@ -472,6 +480,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Maximizing robustness of point-set registration by leveraging non-convexity, *arXiv, 2020*. [[Paper](https://ui.adsabs.harvard.edu/abs/2020arXiv200408772O/abstract)]
 
 - A new outlier removal strategy based on reliability of correspondence graph for fast point cloud registration, *TPAMI, 2022*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9969937)][[Code](https://github.com/WPC-WHU/GROR)]<!-- Graph-based Reliable Outlier Removal; Robust Estimation-->
+
+-3D registration with maximal cliques, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Zhang_3D_Registration_With_Maximal_Cliques_CVPR_2023_paper.html)][[Code](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques)]<!-- MAC has variants; Robust Estimation -->
 
 ##
 
@@ -495,6 +505,8 @@ This is an active repository, you can watch for following the latest advances. I
 - CPL-Sync: Efficient and Guaranteed Planar Pose Graph Optimization Using the Complex Number Representation, *IROS, 2019*. [[Paper](https://par.nsf.gov/servlets/purl/10178619)] [[Code](https://github.com/fantaosha/CPL-Sync)]
 
 - Distributed Certifiably Correct Pose-Graph Optimization, *TRO, 2019*. [[Paper](https://arxiv.org/pdf/1911.03721)] [[Code](https://github.com/mit-acl/dpgo)]
+
+- SIM-Sync: From certifiably optimal synchronization over the 3D similarity group to scene reconstruction with learned depth, *RAL, 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10472030)]
 
 #### **POP for Pose Graph Optimization**
 *(To be supplemented)*
@@ -584,6 +596,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Accelerating Certifiable Estimation with Preconditioned Eigensolvers, *RAL, 2022*. [Paper](https://ieeexplore.ieee.org/abstract/document/9940527/)][[Code](https://github.com/david-m-rosen/SE-Sync)]
 
 - Joint State and Noise Covariance Estimation, *arXiv, 2025*. [[Paper](https://arxiv.org/abs/2502.04584)]
+
+- SCORE: A second-order conic initialization for range-aided SLAM, *ICRA, 2023*. [[Paper](https://arxiv.org/abs/2210.03177)][[Code](https://github.com/MarineRoboticsGroup/score)]
   
 ##
 
