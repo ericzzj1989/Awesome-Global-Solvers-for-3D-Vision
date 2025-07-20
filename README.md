@@ -252,7 +252,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Analysis**
 
-- EPnP: An Accurate O(n) Solution to the PnP Problem, *IJCV, 2008*. [[Paper](https://link.springer.com/article/10.1007/s11263-008-0152-6)]
+- EPnP: An Accurate O(n) Solution to the PnP Problem, *IJCV, 2008*. [[Paper](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Images/team_lepetit/publications/lepetit_ijcv08.pdf)]
 
 - Minimal Solution for Uncalibrated Absolute Pose Problem with a Known Vanishing Point, *3DV, 2013*. [[Paper](https://www.researchgate.net/profile/Horst-Wildenauer/publication/261262847_Minimal_Solution_for_Uncalibrated_Absolute_Pose_Problem_with_a_Known_Vanishing_Point/links/54e5e6e00cf277664ff1b29f/Minimal-Solution-for-Uncalibrated-Absolute-Pose-Problem-with-a-Known-Vanishing-Point.pdf)]
 
@@ -494,15 +494,16 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Triangulation of Points, Lines and Conics, *JMIV, 2008*. [[Paper](https://lucris.lub.lu.se/ws/portalfiles/portal/2621089/1245431.pdf)]
 
+- Triangulation in Omnidirectional Vision under the $L_\infty$-Norm, *ICINFA, 2010*. [[Paper](https://www.researchgate.net/profile/Liwei-Zhang-33/publication/229034491_Triangulation_in_omnidirectional_vision_under_the_L-norm/links/02e7e51c2fb6883acd000000/Triangulation-in-omnidirectional-vision-under-the-L-norm.pdf)]<!-- L∞-Norm; a theoretical guarantee of global optimality --> 
+
+- L-Infinity Norm Minimization in the Multiview Triangulation, *AICI, 2010*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
+
 - A QCQP Approach to Triangulation, *ECCV, 2012*. [[Paper](https://arxiv.org/pdf/1207.7160)]
 
 - Robust multiview $L_2$ triangulation via optimal inlier selection and 3D structure refinement, *PR, 2014*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320314001204)]<!-- Numerical Optimization (DE), SOCP Bound Analysis-->
 
 - Semidefinite Relaxations for Robust Multiview Triangulation, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2301.11431)] [[Code](https://github.com/Linusnie/robust-triangulation-relaxations)]
 
-- Global L∞-Norm Triangulation for Omnidirectional Vision, *ICINFA, 2010*. [[Paper](https://ieeexplore.ieee.org/abstract/document/5512216)]<!-- L∞-Norm; a theoretical guarantee of global optimality -->
-
-- L-Infinity Norm Minimization in the Multiview Triangulation, *AICI, 2010*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
 #### **POP for Triangulation**
 *(To be supplemented)*
 
@@ -519,11 +520,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Others**
 
-- Efficient Suboptimal Solutions to the Optimal Triangulation, *IJCV, 2010*. [[Paper](https://link.springer.com/article/10.1007/s11263-010-0378-y)]
+- Efficient Suboptimal Solutions to the Optimal Triangulation, *IJCV, 2010*. [[Paper](https://nlpr.ia.ac.cn/2011papers/gjkw/gk1.pdf)]
 
-- Robust Three-view Triangulation Done Fast, *CVPR, 2014*. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W03/html/Hedborg_Robust_Three-view_Triangulation_2014_CVPR_paper.html)]<!--statistically optimal estimate under the assumption of Gaussian noise;Iterative Optimization -->
+- Optimization without Minimization Search: Constraint Satisfaction by Orthogonal Projection with Applications to Multiview Triangulation, *IEICE TRANSACTIONS on Information and Systems, 2010*. [[Paper](https://www.jstage.jst.go.jp/article/transinf/E93.D/10/E93.D_10_2836/_pdf)]<!-- discuss the optimality-->
 
-- Optimization without Minimization Search: Constraint Satisfaction by Orthogonal Projection with Applications to Multiview Triangulation, *2010*. [[Paper](https://globals.ieice.org/en_transactions/information/10.1587/transinf.E93.D.2836/_p)]<!-- discuss the optimality-->
+- Robust Three-view Triangulation Done Fast, *CVPR, 2014*. [[Paper](https://openaccess.thecvf.com/content_cvpr_workshops_2014/W03/papers/Hedborg_Robust_Three-view_Triangulation_2014_CVPR_paper.pdf)]<!--statistically optimal estimate under the assumption of Gaussian noise;Iterative Optimization -->
+
+- Certifiable Solver for Real-Time N-View Triangulation, *RAL, 2023*. [[Paper](https://mapir.isa.uma.es/papersrepo/2023/2023_mercedes_RAL_Nview_triangulation_paper.pdf)] [[Code](https://github.com/mergarsal/FastNViewTriangulation)]
   
 ##
 
