@@ -546,6 +546,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Semidefinite Relaxations for Robust Multiview Triangulation, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2301.11431)] [[Code](https://github.com/Linusnie/robust-triangulation-relaxations)]
 
+- Global L∞-Norm Triangulation for Omnidirectional Vision, *ICINFA, 2010*. [[Paper](https://ieeexplore.ieee.org/abstract/document/5512216)]<!-- L∞-Norm; a theoretical guarantee of global optimality -->
+
+- L-Infinity Norm Minimization in the Multiview Triangulation, *AICI, 2010*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
 #### **POP for Triangulation**
 *(To be supplemented)*
 
@@ -560,6 +563,14 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Triangulation Method Based on minmaxKKT, *2012*. [[Paper](https://pure.nwpu.edu.cn/en/publications/a-triangulation-method-based-on-minmaxkkt)]
 
+#### **Others**
+
+- Efficient Suboptimal Solutions to the Optimal Triangulation, *IJCV, 2010*. [[Paper](https://link.springer.com/article/10.1007/s11263-010-0378-y)]
+
+- Robust Three-view Triangulation Done Fast, *CVPR, 2014*. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_workshops_2014/W03/html/Hedborg_Robust_Three-view_Triangulation_2014_CVPR_paper.html)]<!--statistically optimal estimate under the assumption of Gaussian noise;Iterative Optimization -->
+
+- Optimization without Minimization Search: Constraint Satisfaction by Orthogonal Projection with Applications to Multiview Triangulation, *2010*. [[Paper](https://globals.ieice.org/en_transactions/information/10.1587/transinf.E93.D.2836/_p)]<!-- discuss the optimality-->
+  
 ##
 
 ### Vanishing Point Estimation
