@@ -17,62 +17,18 @@ This is an active repository, you can watch for following the latest advances. I
     - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
 - [Application](#application)
     - [Rotation Averaging](#rotation-averaging)
-       - [Analysis](#analysis)
-       - [SDP for Rotation Averaging](#sdp-for-rotation-averaging)
-       - [POP for Rotation Averaging](#pop-for-rotation-averaging)
-       - [RANSAC for Rotation Averaging](#ransac-for-rotation-averaging)
-       - [GNC for Rotation Averaging](#gnc-for-rotation-averaging)
-       - [Hybrid for Rotation Averaging](#hybrid-for-rotation-averaging)   
     - [Translation Averaging](#translation-averaging)
-      - [Essential Matrix](#essential-matrix)
-      - [Trifocal Tensor](#trifocal-tensor)
-      - [Convex Relaxation](#convex-relaxation)
-      - [Robust Estimation](#robust-estimation)
-      - [Hybrid for Translation Averaging](#hybrid-for-translation-averaging)
     - [Wahba Problem](#wahba-problem)
-      - [Closed-form](#closed-form)
-      - [BnB for Wahba Problem](#bnb-for-wahba-problem)
-      - [Convex Relaxation](#convex-relaxation)
-      - [POP for Wahba Problem](#pop-for-wahba-problem)
-      - [RANSAC for Wahba Problem](#ransac-for-wahba-problem)
-      - [GNC for Wahba Problem](#gnc-for-wahba-problem)
     - [Absolute Pose Estimation (PnP)](#absolute-pose-estimation-pnp)
-      - [Analysis](#analysis)
-      - [BnB for PnP](#bnb-for-pnp)
-      - [SDP for PnP](#sdp-for-pnp)
-      - [POP for PnP](#pop-for-pnp)
-      - [GNC for PnP](#gnc-for-pnp)
     - [Relative Pose Estimation](#relative-pose-estimation)
-      - [Minimal solvers](#minimal-solvers)
-      - [BnB for Relative Pose Estimation](#bnb-for-relative-pose-estimation)
-      - [SDP for Relative Pose Estimation](#sdp-for-relative-pose-estimation)
-      - [POP for Relative Pose Estimation](#pop-for-relative-pose-estimation)
-      - [GNC for Relative Pose Estimation](#gnc-for-relative-pose-estimation)
-      - [Hybrid for Relative Pose Estimation](#hybrid-for-relative-pose-estimation)
     - [3D Registration](#3d-registration)
-      - [BnB for 3D Registration](#bnb-for-3d-registration)
-      - [SDP for 3D Registration](#sdp-for-3d-registration)
-      - [POP for 3D Registration](#pop-for-3d-registration)
-      - [GNC for 3D Registration](#gnc-for-3d-registration)
     - [Pose Graph Optimization](#pose-graph-optimization)
-      - [SDP for Pose Graph Optimization](#sdp-for-pose-graph-optimization)
-      - [GNC for Pose Graph Optimization](#gnc-for-pose-graph-optimization)
     - [Triangulation](#triangulation)
-      - [BnB for Triangulation](#bnb-for-triangulation)
-      - [SDP for Triangulation](#sdp-for-triangulation)
-      - [RANSAC for Triangulation](#ransac-for-triangulation)
-      - [Hybrid for Triangulation](#hybrid-for-triangulation)
     - [Vanishing Point Estimation](#vanishing-point-estimation)
-      - [BnB for Vanishing Point Estimation](#bnb-for-vanishing-point-estimation)
-      - [SDP for Vanishing Point Estimation](#sdp-for-vanishing-point-estimation)
-      - [Hybrid for Vanishing Point Estimation](#sdp-for-vanishing-point-estimation)
     - [Bundle Adjustment](#bundle-adjustment)
-      - [SDP for Bundle Adjustment](#sdp-for-bundle-adjustment)
     - [SLAM](#slam)
     - [All-in-One](#all-in-one)
-      - [BnB](#bnb)
-      - [SDP](#sdp)
-      - [Others](#others)
+
 
 ---
 ## Theory
@@ -163,7 +119,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Certifiably Optimal Anisotropic Rotation Averaging, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.07353)] [[Code](https://github.com/ylochman/anisotropic-ra)]
 
-- 
 #### **POP for Rotation Averaging**
 
 - Globally Optimal Estimates for Rotation Averaging Problems, *IHMSC, 2014*. [[Paper](https://ieeexplore.ieee.org/document/6911507)]
@@ -254,13 +209,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Closed-form solution of absolute orientation using orthonormal matrices
 
+<!-- - Robust fitting for multiple view geometry, *ECCV, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-33718-5_53)] -->
+
 #### **BnB for Wahba Problem**
 
 - Global Optimization through Rotation Space Search, *IJCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/HartleyKahl:Ematrix.pdf)]
 
 - Globally Optimal Consensus Set Maximization through Rotation Search, *ACCV, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-37444-9_42)]
-
-<!-- - Robust fitting for multiple view geometry, *ECCV, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-33718-5_53)] -->
 
 - Fast Rotation Search with Stereographic Projections for 3D Registration. *CVPR, 2014*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Bustos_Fast_Rotation_Search_2014_CVPR_paper.pdf)]
 
@@ -287,7 +242,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
 
-#### Others
+#### **Others**
 
 - Linearly Solving Robust Rotation Estimation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.11547)] <!-- voting-based approach -->
 
@@ -295,9 +250,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Absolute Pose Estimation (PnP)
 
-#### Analysis
+#### **Analysis**
 
-- EPnP
+- EPnP: An Accurate O(n) Solution to the PnP Problem, *IJCV, 2008*. [[Paper](https://link.springer.com/article/10.1007/s11263-008-0152-6)]
 
 - Minimal Solution for Uncalibrated Absolute Pose Problem with a Known Vanishing Point, *3DV, 2013*. [[Paper](https://www.researchgate.net/profile/Horst-Wildenauer/publication/261262847_Minimal_Solution_for_Uncalibrated_Absolute_Pose_Problem_with_a_Known_Vanishing_Point/links/54e5e6e00cf277664ff1b29f/Minimal-Solution-for-Uncalibrated-Absolute-Pose-Problem-with-a-Known-Vanishing-Point.pdf)]
 
@@ -345,7 +300,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Relative Pose Estimation
 
-#### Minimal solvers
+#### **Minimal solvers**
 
 - In Defense of the Eight-Point Algorithm, *TPAMI, 1997*. [[Paper](https://www.cse.unr.edu/~bebis/CS485/Handouts/hartley.pdf)]
 
@@ -374,7 +329,6 @@ This is an active repository, you can watch for following the latest advances. I
 - Optimal Essential Matrix Estimation via Inlier-Set Maximization, *ECCV, 2014*. [[Paper](https://jlyang.org/eccv14_optimalematrix.pdf)]
 
 - Optimal Relative Pose with Unknown Correspondences, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Fredriksson_Optimal_Relative_Pose_CVPR_2016_paper.html)]
-
 
 #### **SDP for Relative Pose Estimation**
 
@@ -619,16 +573,16 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### All-in-One
 
-#### BnB
+#### **BnB**
 
 - Accelerating Globally Optimal Consensus Maximization in Geometric Vision, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2304.05156)]
 
-#### SDP
+#### **SDP**
 
 - One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers, *NeurIPS, 2020*. [[Paper](https://arxiv.org/pdf/2006.06769)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
 
 - Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/2109.03349)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
 
-#### Others
+#### **Others**
 
 - Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Speciale_Consensus_Maximization_With_CVPR_2017_paper.html)]
