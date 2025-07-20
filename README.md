@@ -47,9 +47,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Nonlinear Programming Algorithm for Solving Semidefinite Programs via Low-rank Factorization, *Mathematical Programming, 2003*. [[Paper](https://sburer.github.io/papers/007-lowrank.pdf)]
 
-- Semidefinite relaxations for optimization problems over rotation matrices, *CDC, 2014*. [[Paper](https://ecse.monash.edu/staff/james/rotationfiles/SPW_rot.pdf)]
+- Semidefinite Relaxations for Optimization Problems over Rotation Matrices, *CDC, 2014*. [[Paper](https://ecse.monash.edu/staff/james/rotationfiles/SPW_rot.pdf)]
 
-- The non-convex Burer-Monteiro approach works on smooth semidefinite programs, *NeurIPS, 2016*. [[Paper](https://arxiv.org/pdf/1606.04970)]
+- The Non-Convex Burer-Monteiro Approach Works on Smooth Semidefinite Programs, *NeurIPS, 2016*. [[Paper](https://arxiv.org/pdf/1606.04970)]
 
 - A Convex Relaxation to Compute the Nearest Structured Rank Deficient Matrix, *SIAM, 2021*. [[Paper](https://arxiv.org/pdf/1904.09661)] [[Code](https://github.com/diegcif/stls_sdp)]
 
@@ -105,9 +105,9 @@ This is an active repository, you can watch for following the latest advances. I
   
 - Simultaneous Multiple Rotation Averaging Using Lagrangian Duality, *ACCV, 2012*. [[Paper](https://scispace.com/pdf/simultaneous-multiple-rotation-averaging-using-lagrangian-1ecpzvpaw8.pdf)]
 
-- Semidefinite relaxations for optimization problems over rotation matrices, *CDC, 2014*. [[Paper](https://ecse.monash.edu/staff/james/rotationfiles/SPW_rot.pdf)]
+- Semidefinite Relaxations for Optimization Problems over Rotation Matrices, *CDC, 2014*. [[Paper](https://ecse.monash.edu/staff/james/rotationfiles/SPW_rot.pdf)]
 
-- Global robust image rotation from combined weighted averaging, *JPRS, 2017*. [[Paper](https://ris.utwente.nl/ws/portalfiles/portal/30048921/Reich2017global.pdf)]
+- Global Robust Image Rotation from Combined Weighted Averaging, *JPRS, 2017*. [[Paper](https://ris.utwente.nl/ws/portalfiles/portal/30048921/Reich2017global.pdf)]
 
 - Rotation Averaging and Strong Duality, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1705.01362)]
 
@@ -294,7 +294,7 @@ This is an active repository, you can watch for following the latest advances. I
  
 #### **GNC for PnP**
 
-- Outliers rejection for robust camera pose estimation using graduated non‐convexity, *IET CV, 2024*. [[Paper](https://www.researchgate.net/publication/387343981_Outliers_rejection_for_robust_camera_pose_estimation_using_graduated_non-convexity)]
+- Outliers Rejection for Robust Camera Pose Estimation using Graduated Non‐Convexity, *IET CV, 2024*. [[Paper](https://www.researchgate.net/publication/387343981_Outliers_rejection_for_robust_camera_pose_estimation_using_graduated_non-convexity)]
 
 ##
 
