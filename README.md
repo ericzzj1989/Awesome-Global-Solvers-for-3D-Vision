@@ -67,7 +67,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Toward Globally Optimal State Estimation Using Automatically Tightened Semidefinite Relaxations, *TRO, 2024*. [[Paper](https://arxiv.org/pdf/2308.05783)] [[Code](https://github.com/utiasASRL/constraint_learning)]
 
-- Exploiting Chordal Sparsity for Fast Global Optimality with Application to Localization, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2406.02365)]
+- Exploiting Chordal Sparsity for Fast Global Optimality with Application to Localization, *WAFR, 2024*. [[Paper](https://arxiv.org/pdf/2406.02365)]
 
 - Fast, Scalable, Warm-Start Semidefinite Programming with Spectral Bundling and Sketching, *ICML, 2024*. [[Paper](https://arxiv.org/pdf/2312.11801)] [[Code](https://github.com/rangell/usbs)]
 
