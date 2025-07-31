@@ -566,7 +566,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Building Rome with Convex Optimization, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2502.04640)] [[Code](https://github.com/ComputationalRobotics/XM-code)] [[Project Page](https://computationalrobotics.seas.harvard.edu/XM/)]
 
-#### ** Others **
+#### **Others**
 
 - Rotation-Only Bundle Adjustment, *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Rotation-Only_Bundle_Adjustment_CVPR_2021_paper.pdf)]
   
