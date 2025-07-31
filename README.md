@@ -284,7 +284,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **BnB for PnP**
 
-- Absolute Pose Estimation With a Known Direction by Motion Decoupling, *TCSVT, 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10093787)] [[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
+- Absolute Pose Estimation With a Known Direction by Motion Decoupling, *TCSVT, 2024*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10093787)] [[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
 
 #### **SDP for PnP**
 
