@@ -290,7 +290,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally Optimal O(n) Solution to the PnP Problem for General Camera Models, *BMVC, 2008*. [[Paper](https://bmva-archive.org.uk/bmvc/2008/papers/31.pdf)]
 
-- CvxPnPL: A Unified Convex Solution to the Absolute Pose Estimation Problem from Point and Line Correspondences, *JMIV, 2023*. [[Paper](https://arxiv.org/abs/1907.10545)] [[Code](https://github.com/SergioRAgostinho/cvxpnpl)]
+- CvxPnPL: A Unified Convex Solution to the Absolute Pose Estimation Problem from Point and Line Correspondences, *JMIV, 2023*. [[Paper](https://arxiv.org/pdf/1907.10545)] [[Code](https://github.com/SergioRAgostinho/cvxpnpl)]
 
 - Optimal and Robust Category-level Perception: Object Pose and Shape Estimation from 2D and 3D Semantic Keypoints, *TRO, 2023*. [[Paper](https://arxiv.org/pdf/2206.12498)] [[Code](https://github.com/MIT-SPARK/PACE)]
 
@@ -316,7 +316,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Recent Developments on Direct Relative Orientation, *JPRS, 2006*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=514fa8d4981cc2b2aecfc02e0e3a8f4be717bcd7)]
 
-- Camera Displacement via Constrained Minimization of the Algebraic Error, *TPAMI, 2009*. [[Paper](https://ieeexplore.ieee.org/document/4731224)]
+- Camera Displacement via Constrained Minimization of the Algebraic Error, *TPAMI, 2009*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4731224)]
 
 - Finding the Exact Rotation between Two Images Independently of the Translation, *ECCV, 2012*. [[Paper](https://people.inf.ethz.ch/pomarc/pubs/KneipECCV12.pdf)]
 
@@ -336,7 +336,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Optimal Essential Matrix Estimation via Inlier-Set Maximization, *ECCV, 2014*. [[Paper](https://jlyang.org/eccv14_optimalematrix.pdf)]
 
-- Optimal Relative Pose with Unknown Correspondences, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/html/Fredriksson_Optimal_Relative_Pose_CVPR_2016_paper.html)]
+- Optimal Relative Pose with Unknown Correspondences, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Fredriksson_Optimal_Relative_Pose_CVPR_2016_paper.pdf)]
 
 #### **SDP for Relative Pose Estimation**
 
@@ -398,7 +398,7 @@ This is an active repository, you can watch for following the latest advances. I
   
 #### **SDP for 3D Registration**
 
-- Guided Search Consensus: Large Scale Point Cloud Registration by Convex Optimization, *ICIP, 2013*. [[Paper](https://ieeexplore.ieee.org/abstract/document/6738033)]
+- Guided Search Consensus: Large Scale Point Cloud Registration by Convex Optimization, *ICIP, 2013*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6738033)]
 
 - Global Registration of Multiple Point Clouds Using Semidefinite Programming, *SIAM Journal on Optimization, 2015*. [[Paper](https://arxiv.org/pdf/1306.5226)]
 
@@ -566,6 +566,10 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Building Rome with Convex Optimization, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2502.04640)] [[Code](https://github.com/ComputationalRobotics/XM-code)] [[Project Page](https://computationalrobotics.seas.harvard.edu/XM/)]
 
+#### ** Others **
+
+- Rotation-Only Bundle Adjustment, *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Rotation-Only_Bundle_Adjustment_CVPR_2021_paper.pdf)]
+  
 ##
 
 ### SLAM
@@ -596,4 +600,4 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Others**
 
-- Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/html/Speciale_Consensus_Maximization_With_CVPR_2017_paper.html)]
+- Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)]
