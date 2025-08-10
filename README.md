@@ -15,7 +15,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## 🔥 News
 
 ---
-## Table of contents
+## Table of Contents
   - [Theory](#theory)
     - [Branch-and-Bound (BnB)](#branch-and-bound-bnb)
     - [Semidefinite Programming (SDP)](#semidefinite-programming-sdp)
