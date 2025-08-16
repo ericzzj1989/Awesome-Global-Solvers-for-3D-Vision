@@ -286,6 +286,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **BnB for PnP**
 
+- Optimal Estimation of Perspective Camera Pose, *ICPR, 2006*. [[Paper](https://www.researchgate.net/profile/Carl-Olsson/publication/224649282_Optimal_Estimation_of_Perspective_Camera_Pose/links/004635350b975b3292000000/Optimal-Estimation-of-Perspective-Camera-Pose.pdf)]
+  
 - Absolute Pose Estimation With a Known Direction by Motion Decoupling, *TCSVT, 2024*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10093787)] [[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
 
 #### **SDP for PnP**
@@ -325,6 +327,8 @@ This is an active repository, you can watch for following the latest advances. I
 - RePoseD: Efficient Relative Pose Estimation With Known Depth Information, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2501.07742)]
 
 #### **BnB for Relative Pose Estimation**
+
+- Global Optimization through Searching Rotation Space and Optimal Estimation of the Essential Matrix, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4408896)]
 
 - Robust Optimal Pose Estimation, *ECCV, 2008*. [[Paper](https://www.researchgate.net/profile/Olof-Enqvist/publication/221304187_Robust_Optimal_Pose_Estimation/links/0f3175371ef676bf33000000/Robust-Optimal-Pose-Estimation.pdf)]
 
