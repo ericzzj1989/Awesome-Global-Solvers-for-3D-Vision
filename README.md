@@ -107,8 +107,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **BnB for Rotation Averaging**
 
-- A Branch-and-Bound Algorithm for Globally Optimal Calibration of a Camera-and-Rotation-Sensor System, *ICCV, 2009*. [[Paper](http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/IEEE_ICCV_2009/contents/pdf/iccv2009_151.pdf)]
-
 #### **SDP for Rotation Averaging**
 
 - Global Motion Estimation from Point Matches, *3DIMPVT, 2012*. [[Paper](https://homes.cs.washington.edu/~kemelmi/sfm_3dimpvt12.pdf)]
@@ -333,6 +331,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Robust Optimal Pose Estimation, *ECCV, 2008*. [[Paper](https://www.researchgate.net/profile/Olof-Enqvist/publication/221304187_Robust_Optimal_Pose_Estimation/links/0f3175371ef676bf33000000/Robust-Optimal-Pose-Estimation.pdf)]
 
 - Two View Geometry Estimation with Outliers, *BMVC, 2009*. [[Paper](https://bmva-archive.org.uk/bmvc/2009/Papers/Paper431/Paper431.pdf)]
+
+- A Branch-and-Bound Algorithm for Globally Optimal Calibration of a Camera-and-Rotation-Sensor System, *ICCV, 2009*. [[Paper](http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/IEEE_ICCV_2009/contents/pdf/iccv2009_151.pdf)]
 
 - Consensus Set Maximization with Guaranteed Global Optimality for Robust Geometry Estimation, *ICCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/iccv09.pdf)]
 
