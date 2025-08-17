@@ -81,8 +81,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Global Optimization with Polynomials and the Problem of Moments, *SIAM Journal on Optimization, 2001*. [[Paper](https://www.researchgate.net/profile/Jean-Bernard-Lasserre/publication/2616595_Global_Optimization_With_Polynomials_And_The_Problem_Of_Moments/links/00b4951a5d937799ce000000/Global-Optimization-With-Polynomials-And-The-Problem-Of-Moments.pdf?origin=publicationDetail&_sg%5B0%5D=Xyl38RCrtJ0aF_kzChsHwdtFj8QBm0yfZVzP71GtkN8FZH415jgfha6L8cJnnhjiCjNDbhUMXkKcVUWHBu7GYg.M0Ma7_6QSgTIehOOwu3f2m5Xcf8A2_GwygeG8yxPrGcm_QIrNT8wDeBLoq4WGwckjoj3baN0OM4tRpf-HJT8IA&_sg%5B1%5D=fC2q7sMrsxepcN2mX_4buByuH8NH1LOWFTCwBBmwvbz9LjZYYpSKO3fd3jLo9ORY5PLtAt3V7LLjg5XBh-fvyatbJLMHnEJz2XGgMoiQ3u7t.M0Ma7_6QSgTIehOOwu3f2m5Xcf8A2_GwygeG8yxPrGcm_QIrNT8wDeBLoq4WGwckjoj3baN0OM4tRpf-HJT8IA&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19)]
 
-- Non-Minimum Essential Matrix Estimation Using Sum of Square Method, *AIAM, 2019*. [[Paper](https://ieeexplore.ieee.org/abstract/document/8950797)]
-
 - Convergence of Lasserre’s hierarchy: the general case, *OL, 2022*. [[Paper](https://arxiv.org/pdf/2011.08139)]
 
 - Finding Global Minima via Kernel Approximations, *Mathematical Programming, 2025*. [[Paper](https://arxiv.org/pdf/2012.11978)]
@@ -371,6 +369,8 @@ This is an active repository, you can watch for following the latest advances. I
 - On Semidefinite Relaxations for Matrix-Weighted State-Estimation Problems in Robotics, *TRO, 2024*. [[Paper](https://arxiv.org/pdf/2308.07275)]
   
 #### **POP for Relative Pose Estimation**
+
+- Non-Minimum Essential Matrix Estimation Using Sum of Square Method, *AIAM, 2019*. [[Paper](https://ieeexplore.ieee.org/abstract/document/8950797)]
 
 - SPLP: A Certifiably Globally Optimal Solution to the Relative Pose Estimation Problem Using Points and Line Pairs, *JIN, 2022*. [[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0219265921430453)]
 
