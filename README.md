@@ -304,13 +304,15 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **POP for PnP**
 
-- A Consistently Fast and Globally Optimal Solution to the Perspective-n-Point Problem, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460460.pdf)] [[Code](https://github.com/terzakig/sqpnp)]
-
 - The Non-Tightness of a Convex Relaxation to Rotation Recovery, *Sensors, 2021*. [[paper](https://pdfs.semanticscholar.org/8443/078e59470deca8fabcb50b5294093e294cb5.pdf)]
  
 #### **GNC for PnP**
 
 - Outliers Rejection for Robust Camera Pose Estimation using Graduated Non‐Convexity, *IET CV, 2024*. [[Paper](https://www.researchgate.net/publication/387343981_Outliers_rejection_for_robust_camera_pose_estimation_using_graduated_non-convexity)]
+
+#### Others
+
+- A Consistently Fast and Globally Optimal Solution to the Perspective-n-Point Problem, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460460.pdf)] [[Code](https://github.com/terzakig/sqpnp)]
 
 ##
 
