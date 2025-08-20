@@ -488,7 +488,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Initialization of 3D Pose Graph Optimization Using Lagrangian Duality, *ICRA, 2017*. [[Paper](https://mapir.isa.uma.es/jbriales/publications/ICRA17+supp.pdf)]
 
-- Convex Relaxations for Pose Graph Optimization With Outliers, *RAL, 2018*. [[Paper](https://arxiv.org/pdf/1801.02112)] 
+- Convex Relaxations for Pose Graph Optimization With Outliers, *RAL, 2018*. [[Paper](https://arxiv.org/pdf/1801.02112)]
+
+- SE-Sync: A Certifiably Correct Algorithm for Synchronization over the Special Euclidean Group, *IJRR, 2019*. [[Paper](https://arxiv.org/pdf/1612.07386)]
 
 - CPL-Sync: Efficient and Guaranteed Planar Pose Graph Optimization Using the Complex Number Representation, *IROS, 2019*. [[Paper](https://par.nsf.gov/servlets/purl/10178619)] [[Code](https://github.com/fantaosha/CPL-Sync)]
 
