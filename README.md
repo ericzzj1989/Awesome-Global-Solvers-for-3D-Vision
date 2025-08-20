@@ -380,6 +380,10 @@ This is an active repository, you can watch for following the latest advances. I
   
 #### **POP for Relative Pose Estimation**
 
+- Rank-Constrained Fundamental Matrix Estimation by Polynomial Global Optimization Versus the Eight-Point Algorithm, *JMIV, 2014*. [[Paper](https://arxiv.org/pdf/1403.4806)]
+
+- A Convex Optimization Approach to Robust Fundamental Matrix Estimation, *CVPR, 2015*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Cheng_A_Convex_Optimization_2015_CVPR_paper.pdf)]
+
 - Non-Minimum Essential Matrix Estimation Using Sum of Square Method, *AIAM, 2019*. [[Paper](https://ieeexplore.ieee.org/abstract/document/8950797)]
 
 - SPLP: A Certifiably Globally Optimal Solution to the Relative Pose Estimation Problem Using Points and Line Pairs, *JIN, 2022*. [[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0219265921430453)]
