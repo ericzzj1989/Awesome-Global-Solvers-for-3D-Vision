@@ -199,8 +199,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Hybrid for Translation Averaging**
 
-- Cartan-Sync: Fast and Global SE(d)-Synchronization, *RAL, 2017*. [[Paper](https://mapir.isa.uma.es/jbriales/publications/RAL17+supp.pdf)] [[Code](https://bitbucket.org/jesusbriales/cartan-sync/src)]
-
 - ARCS: Accurate Rotation and Correspondence Search, *CVPR, 2022*. [Paper](https://arxiv.org/pdf/2203.14493)] [[Code](https://github.com/liangzu/ARCS)] <!--CMax+Riemannian -->
 
 - Revisiting Global Translation Estimation with Feature Tracks, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tao_Revisiting_Global_Translation_Estimation_with_Feature_Tracks_CVPR_2024_paper.pdf)]
@@ -491,6 +489,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Planar Pose Graph Optimization: Duality, Optimal Solutions, and Verification, *TRO, 2016*. [[Paper](https://dellaert.github.io/files/Carlone16tro.pdf)]
 
 - Initialization of 3D Pose Graph Optimization Using Lagrangian Duality, *ICRA, 2017*. [[Paper](https://mapir.isa.uma.es/jbriales/publications/ICRA17+supp.pdf)]
+
+- Cartan-Sync: Fast and Global SE(d)-Synchronization, *RAL, 2017*. [[Paper](https://mapir.isa.uma.es/jbriales/publications/RAL17+supp.pdf)] [[Code](https://bitbucket.org/jesusbriales/cartan-sync/src)]
 
 - Convex Relaxations for Pose Graph Optimization With Outliers, *RAL, 2018*. [[Paper](https://arxiv.org/pdf/1801.02112)]
 
