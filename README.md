@@ -506,6 +506,10 @@ This is an active repository, you can watch for following the latest advances. I
 
 - SIM-Sync: From Certifiably Optimal Synchronization over the 3D Similarity Group to Scene Reconstruction with Learned Depth, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2309.05184)]
 
+- Certifiably Correct Range-Aided SLAM, *TRO, 2024*. [[Paper](https://arxiv.org/pdf/2302.11614)] [[Code](https://github.com/MarineRoboticsGroup/cora)]
+
+- Distributed Certifiably Correct Range-Aided SLAM, *ICRA, 2025*. [Paper](https://arxiv.org/pdf/2503.03192) [[Code](https://github.com/adthoms/dcora)]
+
 #### **POP for Pose Graph Optimization**
 *(To be supplemented)*
 
@@ -516,6 +520,12 @@ This is an active repository, you can watch for following the latest advances. I
 - A Decoupled and Linear Framework for Global Outlier Rejection over Planar Pose Graph, *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2209.08543)]
 
 - Efficient Graduated Non-Convexity for Pose Graph Optimization, *ICCAS, 2024*. [[Paper](https://arxiv.org/pdf/2310.06765)] [[Code](https://github.com/SNU-DLLAB/EGNC-PGO)]
+
+#### **Others**
+
+- A Convex Relaxation for Approximate Global Optimization in Simultaneous Localization and Mapping, *ICRA, 2015*. [[Paper](https://david-m-rosen.github.io/publication/approxglobalslam-icra/ApproxGlobalSLAM-ICRA.pdf)]
+
+- SCORE: A Second-Order Conic Initialization for Range-Aided SLAM, *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2210.03177)] [[Code](https://github.com/MarineRoboticsGroup/score)]
 
 ##
 
@@ -600,22 +610,6 @@ This is an active repository, you can watch for following the latest advances. I
 #### **Others**
 
 - Rotation-Only Bundle Adjustment, *CVPR, 2021*. [[Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Rotation-Only_Bundle_Adjustment_CVPR_2021_paper.pdf)]
-  
-##
-
-### SLAM
-
-- A Convex Relaxation for Approximate Global Optimization in Simultaneous Localization and Mapping, *ICRA, 2015*. [[Paper](https://david-m-rosen.github.io/publication/approxglobalslam-icra/ApproxGlobalSLAM-ICRA.pdf)]
-
-- Accelerating Certifiable Estimation with Preconditioned Eigensolvers, *RAL, 2022*. [Paper](https://arxiv.org/pdf/2207.05257)]
-
-- SCORE: A Second-Order Conic Initialization for Range-Aided SLAM, *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2210.03177)] [[Code](https://github.com/MarineRoboticsGroup/score)]
-
-- Certifiably Correct Range-Aided SLAM, *TRO, 2024*. [[Paper](https://arxiv.org/pdf/2302.11614)] [[Code](https://github.com/MarineRoboticsGroup/cora)]
-
-- Distributed Certifiably Correct Range-Aided SLAM, *ICRA, 2025*. [Paper](https://arxiv.org/pdf/2503.03192) [[Code](https://github.com/adthoms/dcora)]
-
-- Joint State and Noise Covariance Estimation, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2502.04584)]
 
 ##
 
