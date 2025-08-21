@@ -507,7 +507,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Certifiably Correct Range-Aided SLAM, *TRO, 2024*. [[Paper](https://arxiv.org/pdf/2302.11614)] [[Code](https://github.com/MarineRoboticsGroup/cora)]
 
-- Distributed Certifiably Correct Range-Aided SLAM, *ICRA, 2025*. [Paper](https://arxiv.org/pdf/2503.03192) [[Code](https://github.com/adthoms/dcora)]
+- Distributed Certifiably Correct Range-Aided SLAM, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2503.03192)] [[Code](https://github.com/adthoms/dcora)]
 
 #### **POP for Pose Graph Optimization**
 *(To be supplemented)*
