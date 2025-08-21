@@ -32,7 +32,6 @@ This is an active repository, you can watch for following the latest advances. I
     - [Triangulation](#triangulation)
     - [Vanishing Point Estimation](#vanishing-point-estimation)
     - [Bundle Adjustment](#bundle-adjustment)
-    - [SLAM](#slam)
     - [All-in-One](#all-in-one)
 
 
