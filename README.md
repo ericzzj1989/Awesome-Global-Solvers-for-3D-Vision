@@ -404,6 +404,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Polynomial-time Bound for Matching and Registration with Outliers, *CVPR, 2008*. [[Paper](https://scispace.com/pdf/a-polynomial-time-bound-for-matching-and-registration-with-mpk50t5i0e.pdf)]
 
+- Branch-and-Bound Methods for Euclidean Registration Problems, *TPAMI, 2008*. [[Paper](https://www.researchgate.net/profile/Carl-Olsson/publication/24213723_Branch-and-Bound_Methods_for_Euclidean_Registration_Problems/links/004635350b97899adb000000/Branch-and-Bound-Methods-for-Euclidean-Registration-Problems.pdf?origin=publicationDetail&_sg%5B0%5D=ajuD2AkWssFLZdjQIaxRMJBya-sQVgmCcu5V8Nuc-XoW_lExPB_R8jhee9aFwQdfwZCQzlOcw0tkQ_ElaPRTNg.-OfN_lOTgr48aq_BMMF9JBGCr4QQZvYczg3KfX8nErYoVP3kO7AgwpfWGEz46Wy3VlLjFUn9s3rtr52jJW520Q&_sg%5B1%5D=wHJ6Gnp_0TzmSugg4_oLoNNiQkHZDEKArCfLWdn6RTPePC_8Il1lggtSIW_sAAkRzCf_18K9S95lUdObuEt2r0PJ_y1HP99HnxTz4uDumYrA.-OfN_lOTgr48aq_BMMF9JBGCr4QQZvYczg3KfX8nErYoVP3kO7AgwpfWGEz46Wy3VlLjFUn9s3rtr52jJW520Q&_sg%5B2%5D=eoII4B2fO0om69a34AcQrwFsGOaTF5KYPqIN4y4gpGp4vXkGqWGEvROfUfw8Ff8I_xWecC775MeZLtY.1A89mR_cjOO8BxdZR7V-6cs-fHZmSZCJJqO7l8qk-BEEXwvOTQlw5PHkif5bYLX51P4xbZVcXx63UpYDRW3lZQ&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19)]
+
 - Go-ICP: A Globally Optimal Solution to 3D ICP Point-Set Registration, *TPAMI, 2015*. [[Paper](https://arxiv.org/pdf/1605.03344)] [[Code](https://github.com/yangjiaolong/Go-ICP)]
 
 - An Efficient Globally Optimal Algorithm for Asymmetric Point Matching, *TPAMI, 2017*. [[Paper](https://www4.comp.polyu.edu.hk/~cslzhang/APM_files/data/APM.pdf)]
