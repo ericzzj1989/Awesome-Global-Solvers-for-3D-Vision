@@ -482,6 +482,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Pose Graph Optimization in the Complex Domain: Lagrangian Duality, Conditions For Zero Duality Gap, and Optimal Solutions, *arXiv, 2015*. [[Paper](https://arxiv.org/pdf/1505.03437)] [[Code](https://github.com/alpErenSari/poseGraphProject)]
 
+- Duality-based verification techniques for 2D SLAM, *ICRA, 2015*. [[Paper](https://www.dropbox.com/scl/fi/pbpjk3s814eld9ugzsell/2015c-ICRA-duality2D.pdf?rlkey=v417x37w7c9fjowe649k918sr&e=1&dl=0)]
+
 - Fast Global Optimality Verification in 3D SLAM, *IROS, 2016*. [[Paper](https://mapir.isa.uma.es/jbriales/publications/IROS16.pdf)] [[Code](https://github.com/jbriales/PGO-LagInit)]
 
 - Lagrangian Duality in Complex Pose Graph Optimization, *SOIA, 2016*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-42056-1_5)]
