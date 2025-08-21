@@ -58,6 +58,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - The Non-Convex Burer-Monteiro Approach Works on Smooth Semidefinite Programs, *NeurIPS, 2016*. [[Paper](https://arxiv.org/pdf/1606.04970)]
 
+- Block-Coordinate Minimization for Large SDPs with Block-Diagonal Constraints, *arXiv, 2019*. [[Paper](https://arxiv.org/pdf/1903.00597)]
+
 - A Convex Relaxation to Compute the Nearest Structured Rank Deficient Matrix, *SIAM, 2021*. [[Paper](https://arxiv.org/pdf/1904.09661)] [[Code](https://github.com/diegcif/stls_sdp)]
 
 - On the Tightness of Semidefinite Relaxations for Rotation Estimation, *JMIV, 2022*. [[Paper](https://arxiv.org/pdf/2101.02099)]
@@ -114,6 +116,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **SDP for Rotation Averaging**
 
+- Angular synchronization by eigenvectors and semidefinite programming, *Applied and Computational Harmonic Analysis, 2011*. [[Paper](https://arxiv.org/pdf/0905.3174)]
+
 - Global Motion Estimation from Point Matches, *3DIMPVT, 2012*. [[Paper](https://homes.cs.washington.edu/~kemelmi/sfm_3dimpvt12.pdf)]
   
 - Simultaneous Multiple Rotation Averaging Using Lagrangian Duality, *ACCV, 2012*. [[Paper](https://scispace.com/pdf/simultaneous-multiple-rotation-averaging-using-lagrangian-1ecpzvpaw8.pdf)]
@@ -121,6 +125,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Semidefinite Relaxations for Optimization Problems over Rotation Matrices, *CDC, 2014*. [[Paper](https://ecse.monash.edu/staff/james/rotationfiles/SPW_rot.pdf)]
 
 - Global Robust Image Rotation from Combined Weighted Averaging, *JPRS, 2017*. [[Paper](https://ris.utwente.nl/ws/portalfiles/portal/30048921/Reich2017global.pdf)]
+
+- Tightness of the Maximum Likelihood Semidefinite Relaxation for Angular Synchronization, *Mathematical Programming, 2017*. [[Paper](https://arxiv.org/pdf/1411.3272)]
 
 - Rotation Averaging and Strong Duality, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1705.01362)]
 
@@ -481,6 +487,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **SDP for Pose Graph Optimization**
 
+- A convex optimization based approach for pose SLAM problems, *IROS, 2012*. [[Paper](https://ieeexplore.ieee.org/document/6385742)]
+
 - Pose Graph Optimization in the Complex Domain: Lagrangian Duality, Conditions For Zero Duality Gap, and Optimal Solutions, *arXiv, 2015*. [[Paper](https://arxiv.org/pdf/1505.03437)] [[Code](https://github.com/alpErenSari/poseGraphProject)]
 
 - Duality-based verification techniques for 2D SLAM, *ICRA, 2015*. [[Paper](https://www.dropbox.com/scl/fi/pbpjk3s814eld9ugzsell/2015c-ICRA-duality2D.pdf?rlkey=v417x37w7c9fjowe649k918sr&e=1&dl=0)]
@@ -510,15 +518,10 @@ This is an active repository, you can watch for following the latest advances. I
 - Distributed Certifiably Correct Range-Aided SLAM, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2503.03192)] [[Code](https://github.com/adthoms/dcora)]
 
 #### **POP for Pose Graph Optimization**
-*(To be supplemented)*
+
+- Guaranteed Globally Optimal Planar Pose Graph and Landmark SLAM via Sparse-Bounded Sums-of-Squares Programming, *ICRA, 2019*. [[Paper](https://arxiv.org/pdf/1809.07744)]
 
 #### **GNC for Pose Graph Optimization**
-
-- Adaptive Graduated Non-Convexity for Pose Graph Optimization, *IROS Workshop, 2023*. [[Paper](https://arxiv.org/pdf/2308.11444)] [[Code](https://github.com/SNU-DLLAB/AGNC-PGO)]
-
-- A Decoupled and Linear Framework for Global Outlier Rejection over Planar Pose Graph, *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2209.08543)]
-
-- Efficient Graduated Non-Convexity for Pose Graph Optimization, *ICCAS, 2024*. [[Paper](https://arxiv.org/pdf/2310.06765)] [[Code](https://github.com/SNU-DLLAB/EGNC-PGO)]
 
 #### **Others**
 
