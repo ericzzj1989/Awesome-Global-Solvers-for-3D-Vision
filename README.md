@@ -599,6 +599,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### SLAM
 
+- A Convex Relaxation for Approximate Global Optimization in Simultaneous Localization and Mapping, *ICRA, 2015*. [[Paper](https://david-m-rosen.github.io/publication/approxglobalslam-icra/ApproxGlobalSLAM-ICRA.pdf)]
+
 - Accelerating Certifiable Estimation with Preconditioned Eigensolvers, *RAL, 2022*. [Paper](https://arxiv.org/pdf/2207.05257)]
 
 - SCORE: A Second-Order Conic Initialization for Range-Aided SLAM, *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2210.03177)] [[Code](https://github.com/MarineRoboticsGroup/score)]
