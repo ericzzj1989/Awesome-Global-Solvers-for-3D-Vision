@@ -420,6 +420,8 @@ This is an active repository, you can watch for following the latest advances. I
 - A Practical Maximum Clique Algorithm for Matching with Pairwise Constraints, *arXiv, 2019*. [[Paper](https://arxiv.org/pdf/1902.01534)] <!-- Preprocessing for CMax/BnB, Deterministic Outlier Removal--> 
 
 - Scalable 3D Registration via Truncated Entry-wise Absolute Residuals, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2404.00915)] [[Code](https://github.com/tyhuang98/TEAR-release)]
+
+- Fast Globally Optimal Truncated Least Squares Point Cloud Registration with Fixed Rotation Axis, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2508.15613)]
   
 #### **SDP for 3D Registration**
 
