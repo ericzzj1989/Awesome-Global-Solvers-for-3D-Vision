@@ -569,8 +569,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Others**
 
-- Efficient Suboptimal Solutions to the Optimal Triangulation, *IJCV, 2010*. [[Paper](https://nlpr.ia.ac.cn/2011papers/gjkw/gk1.pdf)]
-
 - Optimization without Minimization Search: Constraint Satisfaction by Orthogonal Projection with Applications to Multiview Triangulation, *IEICE TRANSACTIONS on Information and Systems, 2010*. [[Paper](https://www.jstage.jst.go.jp/article/transinf/E93.D/10/E93.D_10_2836/_pdf)]
 
 - L-Infinity Norm Minimization in the Multiview Triangulation, *CCC, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
