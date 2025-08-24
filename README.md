@@ -543,8 +543,6 @@ This is an active repository, you can watch for following the latest advances. I
   
 #### **SDP for Triangulation**
 
-- L-Infinity Norm Minimization in the Multiview Triangulation, *AICI, 2010*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
-
 - A QCQP Approach to Triangulation, *ECCV, 2012*. [[Paper](https://arxiv.org/pdf/1207.7160)]
 
 - Robust multiview $L_2$ triangulation via optimal inlier selection and 3D structure refinement, *PR, 2014*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320314001204)]<!-- Numerical Optimization (DE), SOCP Bound Analysis-->
@@ -570,6 +568,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Efficient Suboptimal Solutions to the Optimal Triangulation, *IJCV, 2010*. [[Paper](https://nlpr.ia.ac.cn/2011papers/gjkw/gk1.pdf)]
 
 - Optimization without Minimization Search: Constraint Satisfaction by Orthogonal Projection with Applications to Multiview Triangulation, *IEICE TRANSACTIONS on Information and Systems, 2010*. [[Paper](https://www.jstage.jst.go.jp/article/transinf/E93.D/10/E93.D_10_2836/_pdf)]
+
+- L-Infinity Norm Minimization in the Multiview Triangulation, *CCC, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
 
 - Triangulation in Omnidirectional Vision under the $L_\infty$-Norm, *ICINFA, 2010*. [[Paper](https://www.researchgate.net/profile/Liwei-Zhang-33/publication/229034491_Triangulation_in_omnidirectional_vision_under_the_L-norm/links/02e7e51c2fb6883acd000000/Triangulation-in-omnidirectional-vision-under-the-L-norm.pdf)]
 
