@@ -86,6 +86,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Convergent SDP‐Relaxations in Polynomial Optimization with Sparsity, *SIAM Journal on Optimization, 2006*. [[Paper](https://www.researchgate.net/profile/Jean-Bernard-Lasserre/publication/221333756_Convergent_SDP-Relaxations_in_Polynomial_Optimization_with_Sparsity/links/00b4951a3bedde534e000000/Convergent-SDP-Relaxations-in-Polynomial-Optimization-with-Sparsity.pdf)]
 
+- Sums of Squares, Moment Matrices and Optimization Over Polynomials, *Emerging Applications of Algebraic Geometry, 2008*. [[Paper](https://homepages.cwi.nl/~monique/files/moment-ima-update-new.pdf)]
+
 - Optimality Conditions and Finite Convergence of Lasserre's Hierarchy, *Mathematical programming, 2014*. [[Paper](https://arxiv.org/pdf/1206.0319)]
 
 - Convergence of Lasserre’s hierarchy: the general case, *OL, 2022*. [[Paper](https://arxiv.org/pdf/2011.08139)]
