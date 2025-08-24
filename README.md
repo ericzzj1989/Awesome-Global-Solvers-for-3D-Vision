@@ -538,10 +538,10 @@ This is an active repository, you can watch for following the latest advances. I
 #### **BnB for Triangulation**
 
 - A Fast Optimal Algorithm for $L_2$ Triangulation, *ACCV, 2007*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-540-76390-1_28)]
-  
-#### **SDP for Triangulation**
 
 - Triangulation of Points, Lines and Conics, *JMIV, 2008*. [[Paper](https://lucris.lub.lu.se/ws/portalfiles/portal/2621089/1245431.pdf)]
+  
+#### **SDP for Triangulation**
 
 - Triangulation in Omnidirectional Vision under the $L_\infty$-Norm, *ICINFA, 2010*. [[Paper](https://www.researchgate.net/profile/Liwei-Zhang-33/publication/229034491_Triangulation_in_omnidirectional_vision_under_the_L-norm/links/02e7e51c2fb6883acd000000/Triangulation-in-omnidirectional-vision-under-the-L-norm.pdf)]<!-- L∞-Norm; a theoretical guarantee of global optimality --> 
 
@@ -637,5 +637,11 @@ This is an active repository, you can watch for following the latest advances. I
 - Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/2109.03349)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
 
 #### **Others**
+
+- Multiple View Geometry and the L-infinity Norm, *ICCV, 2005*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4709597f006ce58ee07043c7d140b8bb93df890f)]
+
+- Multiple-View Geometry Under the L-infinity-Norm, *TPAMI, 2008*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=86e4bfa3dfdc371c9c77447d5577d44c6528a2ac)]
+
+- Quasiconvex Optimization for Robust Geometric Reconstruction, *TPAMI, 2007*. [[Paper](https://www.cs.cmu.edu/~ke/publications/quasiconvex-optimization-PAMI.pdf)]
 
 - Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)]
