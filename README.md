@@ -617,11 +617,11 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **BnB**
 
-- Accelerating Globally Optimal Consensus Maximization in Geometric Vision, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2304.05156)]
-
 - Practical Global Optimization for Multiview Geometry, *ECCV, 2006*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/eccv06_optimal.pdf)]
 
 - Practical Global Optimization for Multiview Geometry, *IJCV, 2008*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/ijcv08_optimal.pdf)]
+
+- Accelerating Globally Optimal Consensus Maximization in Geometric Vision, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2304.05156)]
 
 #### **SDP**
 
