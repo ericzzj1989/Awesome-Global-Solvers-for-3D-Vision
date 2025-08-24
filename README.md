@@ -537,11 +537,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **BnB for Triangulation**
 
-- A Fast Optimal Algorithm for $L_2$ Triangulation, *ACCV, 2007*. [[Paper](https://scispace.com/pdf/a-fast-optimal-algorithm-for-l-2-triangulation-1ivqctiyt4.pdf)]
-
-- On Triangulation Algorithms in Large Scale Camera Network Systems, *ACC, 2012*. [[Paper](https://automatica.dei.unipd.it/old/tl_files/utenti/angelocenedese/PAPERS/2012_Cp_ACC_On%20triangulation%20algorithms%20in%20large%20scale%20camera%20network%20systems.pdf)]
-
-- An Exact Algorithm for the Minimum Dilation Triangulation Problem, *JGO, 2017*. [[Paper](https://link.springer.com/article/10.1007/s10898-017-0517-x)]
+- A Fast Optimal Algorithm for $L_2$ Triangulation, *ACCV, 2007*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-540-76390-1_28)]
   
 #### **SDP for Triangulation**
 
