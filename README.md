@@ -638,9 +638,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Others**
 
-- Multiple View Geometry and the L-infinity Norm, *ICCV, 2005*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4709597f006ce58ee07043c7d140b8bb93df890f)]
+- Multiple View Geometry and the $L_\infty$-Norm, *ICCV, 2005*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4709597f006ce58ee07043c7d140b8bb93df890f)]
 
-- Multiple-View Geometry Under the L-infinity-Norm, *TPAMI, 2008*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=86e4bfa3dfdc371c9c77447d5577d44c6528a2ac)]
+- Multiple-View Geometry Under the $L_\infty$-Norm, *TPAMI, 2008*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=86e4bfa3dfdc371c9c77447d5577d44c6528a2ac)]
 
 - Quasiconvex Optimization for Robust Geometric Reconstruction, *TPAMI, 2007*. [[Paper](https://www.cs.cmu.edu/~ke/publications/quasiconvex-optimization-PAMI.pdf)]
 
