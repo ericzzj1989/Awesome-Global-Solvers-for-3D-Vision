@@ -644,8 +644,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Multiple View Geometry and the $L_\infty$-Norm, *ICCV, 2005*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4709597f006ce58ee07043c7d140b8bb93df890f)] <!--  triangulation, camera resectioning and homography estimation  -->
 
-- Multiple View Geometry Under the $L_\infty$-Norm, *TPAMI, 2008*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=86e4bfa3dfdc371c9c77447d5577d44c6528a2ac)] <!--  triangulation, camera resectioning and homography estimation  -->
-
 - Quasiconvex Optimization for Robust Geometric Reconstruction, *TPAMI, 2007*. [[Paper](https://www.cs.cmu.edu/~ke/publications/quasiconvex-optimization-PAMI.pdf)] <!--  multi-view triangulation and sequential structure from motion and planar homography estimation  -->
+
+- Multiple View Geometry Under the $L_\infty$-Norm, *TPAMI, 2008*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=86e4bfa3dfdc371c9c77447d5577d44c6528a2ac)] <!--  triangulation, camera resectioning and homography estimation  -->
 
 - Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)] <!--  Similarity Transformation and Absolute Pose and Relative Pose  -->
