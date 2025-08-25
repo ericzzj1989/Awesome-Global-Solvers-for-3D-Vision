@@ -413,6 +413,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **BnB for 3D Registration**
 
+- The 3D-3D Registration Problem Revisited, *ICCV, 2007*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/ICCVBBPose_CRC_v12_afterrichard.pdf)]
+
 - A Polynomial-time Bound for Matching and Registration with Outliers, *CVPR, 2008*. [[Paper](https://scispace.com/pdf/a-polynomial-time-bound-for-matching-and-registration-with-mpk50t5i0e.pdf)]
 
 - Branch-and-Bound Methods for Euclidean Registration Problems, *TPAMI, 2008*. [[Paper](https://www.researchgate.net/profile/Carl-Olsson/publication/24213723_Branch-and-Bound_Methods_for_Euclidean_Registration_Problems/links/004635350b97899adb000000/Branch-and-Bound-Methods-for-Euclidean-Registration-Problems.pdf?origin=publicationDetail&_sg%5B0%5D=ajuD2AkWssFLZdjQIaxRMJBya-sQVgmCcu5V8Nuc-XoW_lExPB_R8jhee9aFwQdfwZCQzlOcw0tkQ_ElaPRTNg.-OfN_lOTgr48aq_BMMF9JBGCr4QQZvYczg3KfX8nErYoVP3kO7AgwpfWGEz46Wy3VlLjFUn9s3rtr52jJW520Q&_sg%5B1%5D=wHJ6Gnp_0TzmSugg4_oLoNNiQkHZDEKArCfLWdn6RTPePC_8Il1lggtSIW_sAAkRzCf_18K9S95lUdObuEt2r0PJ_y1HP99HnxTz4uDumYrA.-OfN_lOTgr48aq_BMMF9JBGCr4QQZvYczg3KfX8nErYoVP3kO7AgwpfWGEz46Wy3VlLjFUn9s3rtr52jJW520Q&_sg%5B2%5D=eoII4B2fO0om69a34AcQrwFsGOaTF5KYPqIN4y4gpGp4vXkGqWGEvROfUfw8Ff8I_xWecC775MeZLtY.1A89mR_cjOO8BxdZR7V-6cs-fHZmSZCJJqO7l8qk-BEEXwvOTQlw5PHkif5bYLX51P4xbZVcXx63UpYDRW3lZQ&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19)]
@@ -475,6 +477,8 @@ This is an active repository, you can watch for following the latest advances. I
 #### **Others**
 
 - Robust Reconstruction of Indoor Scenes, *CVPR, 2015*. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Choi_Robust_Reconstruction_of_2015_CVPR_paper.pdf)]<!-- Line- process; Robust estimation-->
+
+- Non-Iterative Rigid 2D/3D Point-Set Registration using Semidefinite Programming, *TIP, 2016*. [[Paper](https://arxiv.org/pdf/1501.00630)]
 
 - Fast Global Registration, *ECCV, 2016*. [[Paper](https://vladlen.info/papers/fast-global-registration.pdf)] [[Code](https://github.com/isl-org/FastGlobalRegistration)]
 
