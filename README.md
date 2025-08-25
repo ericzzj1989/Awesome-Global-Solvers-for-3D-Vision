@@ -569,6 +569,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Others**
 
+- $L_\infty$ Minimization in Geometric Reconstruction Problems, *CVPR, 2004*. [[Paper](https://www.robots.ox.ac.uk/~vgg/publications/2004/Hartley04b/hartley04b.pdf)]
+
 - Optimization without Minimization Search: Constraint Satisfaction by Orthogonal Projection with Applications to Multiview Triangulation, *IEICE TRANSACTIONS on Information and Systems, 2010*. [[Paper](https://www.jstage.jst.go.jp/article/transinf/E93.D/10/E93.D_10_2836/_pdf)]
 
 - L-Infinity Norm Minimization in the Multiview Triangulation, *CCC, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
