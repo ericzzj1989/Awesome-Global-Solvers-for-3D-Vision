@@ -575,8 +575,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - L-Infinity Norm Minimization in the Multiview Triangulation, *CCC, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
 
-- Robust Three-view Triangulation Done Fast, *CVPR, 2014*. [[Paper](https://openaccess.thecvf.com/content_cvpr_workshops_2014/W03/papers/Hedborg_Robust_Three-view_Triangulation_2014_CVPR_paper.pdf)]<!--statistically optimal estimate under the assumption of Gaussian noise;Iterative Optimization -->
-
 - Certifiable Solver for Real-Time N-View Triangulation, *RAL, 2023*. [[Paper](https://mapir.isa.uma.es/papersrepo/2023/2023_mercedes_RAL_Nview_triangulation_paper.pdf)] [[Code](https://github.com/mergarsal/FastNViewTriangulation)]
   
 ##
