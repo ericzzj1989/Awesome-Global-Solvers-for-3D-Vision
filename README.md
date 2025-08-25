@@ -565,7 +565,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Hybrid for Triangulation**
 
-- A Triangulation Method Based on minmaxKKT, *2012*. [[Paper](https://pure.nwpu.edu.cn/en/publications/a-triangulation-method-based-on-minmaxkkt)]
+- Certifiable Solver for Real-Time N-View Triangulation, *RAL, 2023*. [[Paper](https://mapir.isa.uma.es/papersrepo/2023/2023_mercedes_RAL_Nview_triangulation_paper.pdf)] [[Code](https://github.com/mergarsal/FastNViewTriangulation)]
 
 #### **Others**
 
@@ -574,8 +574,6 @@ This is an active repository, you can watch for following the latest advances. I
 - Triangulation in Omnidirectional Vision under the $L_\infty$-Norm, *ICINFA, 2010*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b367f4809c77958ba149c3d69cf96bc7abed3560)]
 
 - L-Infinity Norm Minimization in the Multiview Triangulation, *CCC, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
-
-- Certifiable Solver for Real-Time N-View Triangulation, *RAL, 2023*. [[Paper](https://mapir.isa.uma.es/papersrepo/2023/2023_mercedes_RAL_Nview_triangulation_paper.pdf)] [[Code](https://github.com/mergarsal/FastNViewTriangulation)]
   
 ##
 
