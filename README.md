@@ -632,6 +632,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally Optimal Estimates for Geometric Reconstruction Problems, *ICCV, 2005*. [[Paper](https://vision.cornell.edu/se3/wp-content/uploads/2014/09/iccv05a.pdf)] <!--  triangulation, absolute camera pose, homography estimation, fundamental matrix  -->
 
+- Globally Optimal Estimates for Geometric Reconstruction Problems, *IJCV, 2007*. [[Paper](https://www.cs.ait.ac.th/~mdailey/cvreadings/Kahl-Global.pdf)] <!--  triangulation, absolute camera pose, homography estimation, fundamental matrix  -->
+
 - One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers, *NeurIPS, 2020*. [[Paper](https://arxiv.org/pdf/2006.06769)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception/tree/NeurIPS2020)]
 
 - An Inexact Projected Gradient Method with Rounding and Lifting by Nonlinear Programming for Solving Rank-One Semidefinite Relaxation of Polynomial Optimization, *Mathematical Programming, 2023*, [[Paper](https://arxiv.org/pdf/2105.14033)] [[Code](https://github.com/MIT-SPARK/STRIDE)]
