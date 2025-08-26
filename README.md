@@ -583,7 +583,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally Optimal Inlier Set Maximization for Atlanta Frame Estimation, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Globally_Optimal_Inlier_CVPR_2018_paper.pdf)]
 
-- Globally Optimal Inlier Set Maximization for Atlanta World Understanding, *TPAMI, 2019*. [[Paper]()]
+- Globally Optimal Inlier Set Maximization for Atlanta World Understanding, *TPAMI, 2019*. [[Paper](https://ieeexplore.ieee.org/document/8684265)]
 
 #### **SDP for Vanishing Point Estimation**
 
@@ -595,7 +595,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally Optimal and Efficient Vanishing Point Estimation in Atlanta World, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670154.pdf)]
 
-- Quasi-globally Optimal and Near/True Real-time Vanishing Point Estimation in Manhattan World, *TPAMI, 2022*. [[Paper]()]
+- Quasi-globally Optimal and Near/True Real-time Vanishing Point Estimation in Manhattan World, *TPAMI, 2022*. [[Paper](https://ieeexplore.ieee.org/document/9193899)]
 
 ##
 
