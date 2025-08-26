@@ -355,6 +355,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Optimal Essential Matrix Estimation via Inlier-Set Maximization, *ECCV, 2014*. [[Paper](https://jlyang.org/eccv14_optimalematrix.pdf)]
 
+- Globally Optimal Inlier Set Maximization With Unknown Rotation and Focal Length, *ECCV, 2014*. [[Paper](https://people.inf.ethz.ch/pomarc/pubs/BazinECCV14.pdf)]
+
 - Optimal Relative Pose with Unknown Correspondences, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Fredriksson_Optimal_Relative_Pose_CVPR_2016_paper.pdf)]
 
 - Globally Optimal Consensus Maximization for Relative Pose Estimation With Known Gravity Direction, *RAL, 2021*. [[Paper](https://mediatum.ub.tum.de/doc/1613526/fwd04tq7nzvuegw23cpsnrcq5.Globally_Optimal_Consensus_Maximization_for_Relative_Pose_Estimation_With_Known_Gravity_Direction.pdf)] [[Code](https://github.com/Liu-Yinlong/Globally-Optimal-Consensus-Maximization-for-Relative-Pose-Estimation-with-Known-Gravity-Direction)]
@@ -578,6 +580,10 @@ This is an active repository, you can watch for following the latest advances. I
 - Globally Optimal Manhattan Frame Estimation in Real-time, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Joo_Globally_Optimal_Manhattan_CVPR_2016_paper.pdf)]
 
 - Robust and Globally Optimal Manhattan Frame Estimation in Near Real Time, *TPAMI, 2018*. [[Paper](https://arxiv.org/pdf/1605.03730)]
+
+- Globally Optimal Inlier Set Maximization for Atlanta Frame Estimation, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Globally_Optimal_Inlier_CVPR_2018_paper.pdf)]
+
+- Globally Optimal Inlier Set Maximization for Atlanta World Understanding, *TPAMI, 2019*. [[Paper]()]
 
 #### **SDP for Vanishing Point Estimation**
 
