@@ -575,8 +575,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally Optimal Line Clustering and Vanishing Point Estimation in Manhattan World, *CVPR, 2012*. [[Paper](https://people.inf.ethz.ch/pomarc/pubs/BazinCVPR12.pdf)]
 
-- Rotation Estimation and Vanishing Point Extraction by Omnidirectional Vision in Urban Environment, *IJRR, 2012*. [[Paper](https://www.researchgate.net/profile/Cedric-Demonceaux-2/publication/220122127_Rotation_estimation_and_vanishing_point_extraction_by_omnidirectional_vision_in_urban_environment/links/00b7d5281e2f051991000000/Rotation-estimation-and-vanishing-point-extraction-by-omnidirectional-vision-in-urban-environment.pdf)]
-
 - Globally Optimal Manhattan Frame Estimation in Real-time, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Joo_Globally_Optimal_Manhattan_CVPR_2016_paper.pdf)]
 
 - Robust and Globally Optimal Manhattan Frame Estimation in Near Real Time, *TPAMI, 2019*. [[Paper](https://arxiv.org/pdf/1605.03730)]
