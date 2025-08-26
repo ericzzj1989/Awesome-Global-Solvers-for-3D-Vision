@@ -575,6 +575,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally Optimal Line Clustering and Vanishing Point Estimation in Manhattan World, *CVPR, 2012*. [[Paper](https://people.inf.ethz.ch/pomarc/pubs/BazinCVPR12.pdf)]
 
+- Rotation Estimation and Vanishing Point Extraction by Omnidirectional Vision in Urban Environment, *IJRR, 2012*. [[Paper](https://www.researchgate.net/profile/Cedric-Demonceaux-2/publication/220122127_Rotation_estimation_and_vanishing_point_extraction_by_omnidirectional_vision_in_urban_environment/links/00b7d5281e2f051991000000/Rotation-estimation-and-vanishing-point-extraction-by-omnidirectional-vision-in-urban-environment.pdf)]
+
 - Globally Optimal Manhattan Frame Estimation in Real-time, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Joo_Globally_Optimal_Manhattan_CVPR_2016_paper.pdf)]
 
 - Robust and Globally Optimal Manhattan Frame Estimation in Near Real Time, *TPAMI, 2019*. [[Paper](https://arxiv.org/pdf/1605.03730)]
@@ -613,9 +615,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Practical Global Optimization for Multiview Geometry, *IJCV, 2008*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/ijcv08_optimal.pdf)] <!--  n-view triangulation, camera resectioning and the estimation of general projections  -->
 
-- Globally Optimal Consensus Set Maximization through Rotation Search, *ACCV, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-37444-9_42)] <!--  vanishing point estimation, line clustering and rotation estimation  -->
-
-- Rotation Estimation and Vanishing Point Extraction by Omnidirectional Vision in Urban Environment, *IJRR, 2012*. [[Paper](https://www.researchgate.net/profile/Cedric-Demonceaux-2/publication/220122127_Rotation_estimation_and_vanishing_point_extraction_by_omnidirectional_vision_in_urban_environment/links/00b7d5281e2f051991000000/Rotation-estimation-and-vanishing-point-extraction-by-omnidirectional-vision-in-urban-environment.pdf)]
+- Globally Optimal Consensus Set Maximization through Rotation Search, *ACCV, 2012*. [[Paper](https://d1wqtxts1xzle7.cloudfront.net/84933662/ACCV_2012-libre.pdf?1650946221=&response-content-disposition=inline%3B+filename%3DGlobally_Optimal_Consensus_Set_Maximizat.pdf&Expires=1756227652&Signature=ZZGpssYvDyhCYzfOtcqNvEITWH8b8j5D0JWCDeQaY4q5Cpxq50eDeG9xUt4XoC81UbxK6pAjlqDJV42DPYG--B8N0to9gt5hTpMoo~tseiCQFSq5T7~3LahwAloskJxJFMft~jYOeNPpVc6B9VryXp7eiVdfKs2rNn44AngbaFf-iHcpeSNWp3eZsLymzpMYj-OyRIEdBv0Y3ri9MLTXUCVud8fBj4OXSqTTBJOW7okYbIwVtVATC8U4KIQIJeyAEEOuIPzgfX0KSaePr-XyrAqGfDiAb882nbe2-GoVGvbiI2CkvSBXxEFtJt-a~APoVfcfJ4h09ANzoGPs9sYD4g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)] <!--  vanishing point estimation, line clustering and rotation estimation  -->
 
 - Accelerating Globally Optimal Consensus Maximization in Geometric Vision, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2304.05156)]
 
