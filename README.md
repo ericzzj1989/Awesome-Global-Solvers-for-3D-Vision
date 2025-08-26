@@ -557,16 +557,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Semidefinite Relaxations for Robust Multiview Triangulation, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2301.11431)] [[Code](https://github.com/Linusnie/robust-triangulation-relaxations)]
 
-#### **POP for Triangulation**
-*(To be supplemented)*
-
-#### **GNC for Triangulation**
-*(To be supplemented)*
-
-#### **RANSAC for Triangulation**
-
-
-
 #### **Hybrid for Triangulation**
 
 - Certifiable Solver for Real-Time N-View Triangulation, *RAL, 2023*. [[Paper](https://mapir.isa.uma.es/papersrepo/2023/2023_mercedes_RAL_Nview_triangulation_paper.pdf)] [[Code](https://github.com/mergarsal/FastNViewTriangulation)]
