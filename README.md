@@ -565,7 +565,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **RANSAC for Triangulation**
 
-- Robust Uncertainty-Aware Multiview Triangulation, *arXiv, 2020*. [[Paper](https://arxiv.org/abs/2008.01258)] [[Code](https://github.com/sunghoon031/RobustUncertaintyAwareMultiviewTriangulation)]
+
 
 #### **Hybrid for Triangulation**
 
