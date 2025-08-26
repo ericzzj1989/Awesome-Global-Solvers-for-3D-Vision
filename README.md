@@ -577,7 +577,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally Optimal Manhattan Frame Estimation in Real-time, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Joo_Globally_Optimal_Manhattan_CVPR_2016_paper.pdf)]
 
-- Robust and Globally Optimal Manhattan Frame Estimation in Near Real Time, *TPAMI, 2019*. [[Paper](https://arxiv.org/pdf/1605.03730)]
+- Robust and Globally Optimal Manhattan Frame Estimation in Near Real Time, *TPAMI, 2018*. [[Paper](https://arxiv.org/pdf/1605.03730)]
 
 #### **SDP for Vanishing Point Estimation**
 
