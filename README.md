@@ -236,8 +236,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Global Optimization through Rotation Space Search, *IJCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/HartleyKahl:Ematrix.pdf)]
 
-- Globally Optimal Consensus Set Maximization through Rotation Search, *ACCV, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-37444-9_42)]
-
 - Fast Rotation Search with Stereographic Projections for 3D Registration. *CVPR, 2014*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Bustos_Fast_Rotation_Search_2014_CVPR_paper.pdf)]
 
 #### **Convex Relaxation**
@@ -591,6 +589,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally Optimal and Efficient Vanishing Point Estimation in Atlanta World, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670154.pdf)]
 
+- Quasi-globally Optimal and Near/True Real-time Vanishing Point Estimation in Manhattan World, *TPAMI, 2022*. [[Paper]()]
+
 ##
 
 ### Bundle Adjustment
@@ -612,6 +612,10 @@ This is an active repository, you can watch for following the latest advances. I
 - Practical Global Optimization for Multiview Geometry, *ECCV, 2006*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/eccv06_optimal.pdf)] <!--  n-view triangulation, camera resectioning and the estimation of general projections  -->
 
 - Practical Global Optimization for Multiview Geometry, *IJCV, 2008*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/ijcv08_optimal.pdf)] <!--  n-view triangulation, camera resectioning and the estimation of general projections  -->
+
+- Globally Optimal Consensus Set Maximization through Rotation Search, *ACCV, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-37444-9_42)] <!--  vanishing point estimation, line clustering and rotation estimation  -->
+
+- Rotation Estimation and Vanishing Point Extraction by Omnidirectional Vision in Urban Environment, *IJRR, 2012*. [[Paper](https://www.researchgate.net/profile/Cedric-Demonceaux-2/publication/220122127_Rotation_estimation_and_vanishing_point_extraction_by_omnidirectional_vision_in_urban_environment/links/00b7d5281e2f051991000000/Rotation-estimation-and-vanishing-point-extraction-by-omnidirectional-vision-in-urban-environment.pdf)]
 
 - Accelerating Globally Optimal Consensus Maximization in Geometric Vision, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2304.05156)]
 
