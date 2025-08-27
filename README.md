@@ -381,7 +381,11 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Essential Matrix Estimation using Convex Relaxations in Orthogonal Space, *ICCV, 2023*. [[Paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Karimian_Essential_Matrix_Estimation_using_Convex_Relaxations_in_Orthogonal_Space_ICCV_2023_paper.pdf)] [[Code](https://github.com/armandok/QME)]
 
+- Fast Certifiable Relative Pose Estimation with Gravity Prior, *2023*. [[Paper](https://mapir.isa.uma.es/papersrepo/2023/2023_mercedes_AI_priorRPp_doc.pdf)] [[Code](https://github.com/mergarsal/RedCertRPpPrior)]
+
 - From Correspondences to Pose: Non-minimal Certifiably Optimal Relative Pose without Disambiguation, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2312.05995)] [[Code](https://github.com/javrtg/C2P)] [[Project Page](https://javrtg.github.io/C2P/)]
+
+- Certifiable Planar Relative Pose Estimation with Gravity Prior, *CVIU, 2024*. [[Paper](https://mapir.isa.uma.es/papersrepo/2024/mergarsal_cert_rpp_planar_prior.pdf)] [[Code](https://github.com/mergarsal/RedCertRPpPrior)]
 
 - Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map, *IJRR, 2025*. [[Paper](https://arxiv.org/pdf/2308.12418)]
 
