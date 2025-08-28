@@ -180,8 +180,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Trifocal Tensor**
 
-- Recovering Camera Motion Using $l_{\infty}$ Minimization, *CVPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1640890)]
-
 - Exploiting Loops in the Graph of Trifocal Tensors for Calibrating a Network of Cameras, *ECCV, 2010*. [[Paper](https://imagine.enpc.fr/~monasse/Callisto/pdf/ECCV10Loop.pdf)]
 
 - A Global Linear Method for Camera Pose Registration, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Jiang_A_Global_Linear_2013_ICCV_paper.pdf)]
@@ -211,6 +209,8 @@ This is an active repository, you can watch for following the latest advances. I
 - ARCS: Accurate Rotation and Correspondence Search, *CVPR, 2022*. [Paper](https://arxiv.org/pdf/2203.14493)] [[Code](https://github.com/liangzu/ARCS)] <!--CMax+Riemannian -->
 
 - Revisiting Global Translation Estimation with Feature Tracks, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tao_Revisiting_Global_Translation_Estimation_with_Feature_Tracks_CVPR_2024_paper.pdf)]
+
+#### **Others**
 
 ## 
 
@@ -410,6 +410,10 @@ This is an active repository, you can watch for following the latest advances. I
 #### **Hybrid for Relative Pose Estimation**
 
 - Scalable Distance-based Multi-Agent Relative State Estimation via Block Multiconvex Optimization, *RSS, 2024*.[[Paper](https://arxiv.org/pdf/2405.20883)]
+
+#### **Others**
+
+- Recovering Camera Motion Using $l_{\infty}$ Minimization, *CVPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1640890)]
   
 ##
 
@@ -475,9 +479,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model, *TASE, 2024*. [[Paper](https://arxiv.org/pdf/2308.11573)] [[Code](https://github.com/HKUST-Aerial-Robotics/G3Reg)]
 
-#### **Hybrid for 3D Registration**
-
-
 #### **Others**
 
 - Robust Reconstruction of Indoor Scenes, *CVPR, 2015*. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Choi_Robust_Reconstruction_of_2015_CVPR_paper.pdf)]<!-- Line- process; Robust estimation-->
@@ -534,8 +535,6 @@ This is an active repository, you can watch for following the latest advances. I
 #### **POP for Pose Graph Optimization**
 
 - Guaranteed Globally Optimal Planar Pose Graph and Landmark SLAM via Sparse-Bounded Sums-of-Squares Programming, *ICRA, 2019*. [[Paper](https://arxiv.org/pdf/1809.07744)]
-
-#### **GNC for Pose Graph Optimization**
 
 #### **Others**
 
@@ -634,9 +633,6 @@ This is an active repository, you can watch for following the latest advances. I
 - Globally Optimal Consensus Set Maximization through Rotation Search, *ACCV, 2012*. [[Paper](https://d1wqtxts1xzle7.cloudfront.net/84933662/ACCV_2012-libre.pdf?1650946221=&response-content-disposition=inline%3B+filename%3DGlobally_Optimal_Consensus_Set_Maximizat.pdf&Expires=1756227652&Signature=ZZGpssYvDyhCYzfOtcqNvEITWH8b8j5D0JWCDeQaY4q5Cpxq50eDeG9xUt4XoC81UbxK6pAjlqDJV42DPYG--B8N0to9gt5hTpMoo~tseiCQFSq5T7~3LahwAloskJxJFMft~jYOeNPpVc6B9VryXp7eiVdfKs2rNn44AngbaFf-iHcpeSNWp3eZsLymzpMYj-OyRIEdBv0Y3ri9MLTXUCVud8fBj4OXSqTTBJOW7okYbIwVtVATC8U4KIQIJeyAEEOuIPzgfX0KSaePr-XyrAqGfDiAb882nbe2-GoVGvbiI2CkvSBXxEFtJt-a~APoVfcfJ4h09ANzoGPs9sYD4g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)] <!--  vanishing point estimation, line clustering and rotation estimation  -->
 
 - Accelerating Globally Optimal Consensus Maximization in Geometric Vision, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2304.05156)] <!--  PnP, relative camera pose estimation, 3D registration, and rotation and focal length estimation (Wahba)  -->
-
-#### **SDP**
-
 
 #### **POP**
 
