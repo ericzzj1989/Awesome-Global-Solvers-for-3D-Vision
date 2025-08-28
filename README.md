@@ -617,7 +617,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - expOSE: Accurate Initialization-Free Projective Factorization using Exponential Regularization, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Iglesias_expOSE_Accurate_Initialization-Free_Projective_Factorization_Using_Exponential_Regularization_CVPR_2023_paper.pdf)]
 
-- Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2405.05079)]
+- Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2405.05079)] [[Code](https://github.com/tum-vision/povar)]
 
 - Towards Initialization-free Calibrated Bundle Adjustment, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.23808)]
 
