@@ -627,13 +627,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **BnB**
 
-- Practical Global Optimization for Multiview Geometry, *ECCV, 2006*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/eccv06_optimal.pdf)] <!--  n-view triangulation, camera resectioning and the estimation of general projections  -->
+- Practical Global Optimization for Multiview Geometry, *ECCV, 2006*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/eccv06_optimal.pdf)] <!--  n-view triangulation, PnP and the estimation of general projections  -->
 
-- Practical Global Optimization for Multiview Geometry, *IJCV, 2008*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/ijcv08_optimal.pdf)] <!--  n-view triangulation, camera resectioning and the estimation of general projections  -->
+- Practical Global Optimization for Multiview Geometry, *IJCV, 2008*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/ijcv08_optimal.pdf)] <!--  n-view triangulation, PnP and the estimation of general projections  -->
 
 - Globally Optimal Consensus Set Maximization through Rotation Search, *ACCV, 2012*. [[Paper](https://d1wqtxts1xzle7.cloudfront.net/84933662/ACCV_2012-libre.pdf?1650946221=&response-content-disposition=inline%3B+filename%3DGlobally_Optimal_Consensus_Set_Maximizat.pdf&Expires=1756227652&Signature=ZZGpssYvDyhCYzfOtcqNvEITWH8b8j5D0JWCDeQaY4q5Cpxq50eDeG9xUt4XoC81UbxK6pAjlqDJV42DPYG--B8N0to9gt5hTpMoo~tseiCQFSq5T7~3LahwAloskJxJFMft~jYOeNPpVc6B9VryXp7eiVdfKs2rNn44AngbaFf-iHcpeSNWp3eZsLymzpMYj-OyRIEdBv0Y3ri9MLTXUCVud8fBj4OXSqTTBJOW7okYbIwVtVATC8U4KIQIJeyAEEOuIPzgfX0KSaePr-XyrAqGfDiAb882nbe2-GoVGvbiI2CkvSBXxEFtJt-a~APoVfcfJ4h09ANzoGPs9sYD4g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)] <!--  vanishing point estimation, line clustering and rotation estimation  -->
 
-- Accelerating Globally Optimal Consensus Maximization in Geometric Vision, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2304.05156)]
+- Accelerating Globally Optimal Consensus Maximization in Geometric Vision, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2304.05156)] <!--  PnP, relative camera pose estimation, 3D registration, and rotation and focal length estimation (Wahba)  -->
 
 #### **SDP**
 
@@ -644,11 +644,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally Optimal Estimates for Geometric Reconstruction Problems, *IJCV, 2007*. [[Paper](https://www.cs.ait.ac.th/~mdailey/cvreadings/Kahl-Global.pdf)] <!--  triangulation, absolute camera pose, homography estimation, fundamental matrix  -->
 
-- One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers, *NeurIPS, 2020*. [[Paper](https://arxiv.org/pdf/2006.06769)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception/tree/NeurIPS2020)]
+- One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers, *NeurIPS, 2020*. [[Paper](https://arxiv.org/pdf/2006.06769)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception/tree/NeurIPS2020)] <!--  Single Rotation Averaging, Shape Alignment, Point Cloud Registration, Mesh Registration   -->
 
-- An Inexact Projected Gradient Method with Rounding and Lifting by Nonlinear Programming for Solving Rank-One Semidefinite Relaxation of Polynomial Optimization, *Mathematical Programming, 2023*, [[Paper](https://arxiv.org/pdf/2105.14033)] [[Code](https://github.com/MIT-SPARK/STRIDE)]
-
-- Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/2109.03349)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
+- Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/2109.03349)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)] <!--  Single rotation averaging, Multiple rotation averaging, Point cloud registration, Mesh registration, Absolute pose estimation, Category-Level Object Pose and Shape Estimation -->
 
 #### **Others**
 
