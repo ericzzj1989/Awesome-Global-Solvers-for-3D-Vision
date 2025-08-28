@@ -174,15 +174,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Translation Averaging
 
-#### **Essential Matrix**
-
-- Combining Two-view Constraints For Motion Estimation, *CVPR, 2001*. [[Paper](https://web.archive.org/web/20190307103302id_/http://pdfs.semanticscholar.org/dee5/b339cb49e4d7fef462a36c733b7ad8de28ca.pdf)]
-
 #### **Trifocal Tensor**
-
-- Exploiting Loops in the Graph of Trifocal Tensors for Calibrating a Network of Cameras, *ECCV, 2010*. [[Paper](https://imagine.enpc.fr/~monasse/Callisto/pdf/ECCV10Loop.pdf)]
-
-- A Global Linear Method for Camera Pose Registration, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Jiang_A_Global_Linear_2013_ICCV_paper.pdf)]
 
 - Global Fusion of Relative Motions for Robust, Accurate and Scalable Structure from Motion, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Moulon_Global_Fusion_of_2013_ICCV_paper.pdf)]
 
@@ -206,11 +198,17 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Hybrid for Translation Averaging**
 
-- ARCS: Accurate Rotation and Correspondence Search, *CVPR, 2022*. [Paper](https://arxiv.org/pdf/2203.14493)] [[Code](https://github.com/liangzu/ARCS)] <!--CMax+Riemannian -->
+- ARCS: Accurate Rotation and Correspondence Search, *CVPR, 2022*. [Paper](https://arxiv.org/pdf/2203.14493)] [[Code](https://github.com/liangzu/ARCS)
 
 - Revisiting Global Translation Estimation with Feature Tracks, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tao_Revisiting_Global_Translation_Estimation_with_Feature_Tracks_CVPR_2024_paper.pdf)]
 
 #### **Others**
+
+- Outlier Removal Using Duality, *CVPR, 2010*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-etal-cvpr-10.pdf)] [[Code](https://www.maths.lth.se/matematiklth/personal/calle/Outl_dual/Outl_dual.html)] <!--translation averaging+triangulation -->
+
+- L1-Penalized Robust Estimation for a Class of Inverse Problems Arising in Multiview Geometry, *NeurIPS, 2009*. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2009/file/65ded5353c5ee48d0b7d48c591b8f430-Paper.pdf)] <!--translation averaging+triangulation -->
+
+- Efficient Outlier Removal in Large Scale Global Structure-from-Motion, *arXiv, 2018*. [[Paper](https://arxiv.org/pdf/1808.03041)] <!--translation averaging+triangulation -->
 
 ## 
 
@@ -566,8 +564,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Others**
 
-- $L_\infty$ Minimization in Geometric Reconstruction Problems, *CVPR, 2004*. [[Paper](https://www.robots.ox.ac.uk/~vgg/publications/2004/Hartley04b/hartley04b.pdf)]
-
 - Triangulation in Omnidirectional Vision under the $L_\infty$-Norm, *ICINFA, 2010*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b367f4809c77958ba149c3d69cf96bc7abed3560)]
 
 - L-Infinity Norm Minimization in the Multiview Triangulation, *CCC, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
@@ -645,6 +641,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/2109.03349)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)] <!--  Single rotation averaging, Multiple rotation averaging, Point cloud registration, Mesh registration, Absolute pose estimation, Category-Level Object Pose and Shape Estimation -->
 
 #### **Others**
+
+- $L_\infty$ Minimization in Geometric Reconstruction Problems, *CVPR, 2004*. [[Paper](https://www.robots.ox.ac.uk/~vgg/publications/2004/Hartley04b/hartley04b.pdf)] <!--  triangulation, translation+3d points  -->
 
 - Multiple View Geometry and the $L_\infty$-Norm, *ICCV, 2005*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4709597f006ce58ee07043c7d140b8bb93df890f)] <!--  triangulation, camera resectioning and homography estimation  -->
 
