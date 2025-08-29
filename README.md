@@ -174,41 +174,28 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Translation Averaging
 
-#### **Trifocal Tensor**
-
-- Global Fusion of Relative Motions for Robust, Accurate and Scalable Structure from Motion, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Moulon_Global_Fusion_of_2013_ICCV_paper.pdf)]
-
-#### **Convex Relaxation**
-
-- Linear Global Translation Estimation with Feature Tracks, *BMVC, 2015*. [[Paper](https://arxiv.org/pdf/1503.01832)]
-
-- Robust Camera Location Estimation by Convex Programming, *CVPR, 2015*. [[Paper](https://arxiv.org/pdf/1412.0165)]
-
-- Baseline Desensitizing in Translation Averaging, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1901.00643)]
-
 #### **SDP for Translation Averaging**
 
 - Stable Camera Motion Estimation Using Convex Programming, *SIAM Journal on Imaging Sciences, 2015*. [[Paper](https://arxiv.org/pdf/1312.5047)]
 
-#### **Robust Estimation**
-
-- Robust Global Translations with 1DSfM, *ECCV, 2014*. [[Paper](https://www.cs.cornell.edu/projects/1dsfm/docs/1DSfM_ECCV14.pdf)] [[Code](https://github.com/wilsonkl/SfM_Init)] [[Project Page](https://www.cs.cornell.edu/projects/1dsfm/)]
-  
-- Correspondence Reweighted Translation Averaging, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136930053.pdf)]
-
-#### **Hybrid for Translation Averaging**
-
-- ARCS: Accurate Rotation and Correspondence Search, *CVPR, 2022*. [Paper](https://arxiv.org/pdf/2203.14493)] [[Code](https://github.com/liangzu/ARCS)
-
-- Revisiting Global Translation Estimation with Feature Tracks, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Tao_Revisiting_Global_Translation_Estimation_with_Feature_Tracks_CVPR_2024_paper.pdf)]
-
 #### **Others**
+
+- Global Fusion of Relative Motions for Robust, Accurate and Scalable Structure from Motion, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Moulon_Global_Fusion_of_2013_ICCV_paper.pdf)]
+
+- Linear Global Translation Estimation with Feature Tracks, *BMVC, 2015*. [[Paper](https://arxiv.org/pdf/1503.01832)]
+ 
+- Robust Camera Location Estimation by Convex Programming, *CVPR, 2015*. [[Paper](https://arxiv.org/pdf/1412.0165)]
+
+- Baseline Desensitizing in Translation Averaging, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1901.00643)]
+ 
 
 - Outlier Removal Using Duality, *CVPR, 2010*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-etal-cvpr-10.pdf)] [[Code](https://www.maths.lth.se/matematiklth/personal/calle/Outl_dual/Outl_dual.html)] <!--translation averaging+triangulation -->
 
 - L1-Penalized Robust Estimation for a Class of Inverse Problems Arising in Multiview Geometry, *NeurIPS, 2009*. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2009/file/65ded5353c5ee48d0b7d48c591b8f430-Paper.pdf)] <!--translation averaging+triangulation -->
 
 - Efficient Outlier Removal in Large Scale Global Structure-from-Motion, *arXiv, 2018*. [[Paper](https://arxiv.org/pdf/1808.03041)] <!--translation averaging+triangulation -->
+
+
 
 ## 
 
@@ -257,9 +244,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 - FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
 
+#### **Hybrid for  Wahba Problem**
+
+- ARCS: Accurate Rotation and Correspondence Search, *CVPR, 2022*. [Paper](https://arxiv.org/pdf/2203.14493)] [[Code](https://github.com/liangzu/ARCS)
+
 #### **Others**
 
-- Linearly Solving Robust Rotation Estimation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.11547)] <!-- voting-based approach -->
+- Linearly Solving Robust Rotation Estimation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.11547)]
 
 ##
 
