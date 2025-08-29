@@ -232,8 +232,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **BnB for Wahba Problem**
 
-- Global Optimization through Rotation Space Search, *IJCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/HartleyKahl:Ematrix.pdf)]
-
 - Fast Rotation Search with Stereographic Projections for 3D Registration. *CVPR, 2014*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Bustos_Fast_Rotation_Search_2014_CVPR_paper.pdf)]
 
 #### **Convex Relaxation**
