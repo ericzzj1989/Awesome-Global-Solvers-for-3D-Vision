@@ -186,6 +186,8 @@ This is an active repository, you can watch for following the latest advances. I
  
 - Robust Camera Location Estimation by Convex Programming, *CVPR, 2015*. [[Paper](https://arxiv.org/pdf/1412.0165)]
 
+- ShapeFit and ShapeKick for Robust, Scalable Structure from Motion, *ECCV, 2016*. [[Paper](https://arxiv.org/pdf/1608.02165)]
+
 - Baseline Desensitizing in Translation Averaging, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1901.00643)]
 
 #### **Translation Averaging with Structure (a.k.a. Known Rotations)**
