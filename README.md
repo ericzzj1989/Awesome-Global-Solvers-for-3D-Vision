@@ -530,6 +530,8 @@ This is an active repository, you can watch for following the latest advances. I
   
 #### **SDP for Triangulation**
 
+- Multi-View Structure Computation without Explicitly Estimating Motion, *CVPR, 2010*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/cvpr10a.pdf)]
+
 - A QCQP Approach to Triangulation, *ECCV, 2012*. [[Paper](https://arxiv.org/pdf/1207.7160)]
 
 - Robust multiview $L_2$ triangulation via optimal inlier selection and 3D structure refinement, *PR, 2014*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320314001204)]<!-- Numerical Optimization (DE), SOCP Bound Analysis-->
