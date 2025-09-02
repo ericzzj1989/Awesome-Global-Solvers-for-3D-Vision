@@ -381,7 +381,7 @@ This is an active repository, you can watch for following the latest advances. I
   
 #### **Hybrid for Relative Pose Estimation**
 
-- Scalable Distance-based Multi-Agent Relative State Estimation via Block Multiconvex Optimization, *RSS, 2024*.[[Paper](https://arxiv.org/pdf/2405.20883)]
+- Scalable Distance-based Multi-Agent Relative State Estimation via Block Multiconvex Optimization, *RSS, 2024*. [[Paper](https://arxiv.org/pdf/2405.20883)]
 
 ##
 
