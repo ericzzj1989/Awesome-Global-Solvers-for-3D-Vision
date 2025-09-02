@@ -309,22 +309,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Relative Pose Estimation
 
-<!--   
-#### **Minimal solvers**
-
-- In Defense of the Eight-Point Algorithm, *TPAMI, 1997*. [[Paper](https://www.cse.unr.edu/~bebis/CS485/Handouts/hartley.pdf)]
-
-- An Efficient Solution to the Five-Point Relative Pose Problem, *TPAMI, 2004*. [[Paper](https://www-users.cse.umn.edu/~hspark/CSci5980/nister.pdf)]
-
-- Recent Developments on Direct Relative Orientation, *JPRS, 2006*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=514fa8d4981cc2b2aecfc02e0e3a8f4be717bcd7)]
-
-- Camera Displacement via Constrained Minimization of the Algebraic Error, *TPAMI, 2009*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=4731224)]
-
-- Finding the Exact Rotation between Two Images Independently of the Translation, *ECCV, 2012*. [[Paper](https://people.inf.ethz.ch/pomarc/pubs/KneipECCV12.pdf)]
-
-- RePoseD: Efficient Relative Pose Estimation With Known Depth Information, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2501.07742)]
--->
-
 #### **BnB for Relative Pose Estimation**
 
 - Global Optimization through Searching Rotation Space and Optimal Estimation of the Essential Matrix, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4408896)]
