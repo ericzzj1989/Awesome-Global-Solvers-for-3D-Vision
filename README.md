@@ -154,7 +154,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Adaptive Annealing for Robust Averaging, *ECCV, 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08834.pdf)]
 
-#### **Hybrid for Rotation Averaging**
+#### ** for Rotation Averaging**
 
 - Shonan Rotation Averaging: Global Optimality by Surfing $SO(p)^n$, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.02737)] [[Code](https://github.com/dellaert/ShonanAveraging)] [[Project Page](https://dellaert.github.io/ShonanAveraging/index.html)]
 
@@ -245,7 +245,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Hybrid for  Wahba Problem**
 
-- ARCS: Accurate Rotation and Correspondence Search, *CVPR, 2022*. [Paper](https://arxiv.org/pdf/2203.14493)] [[Code](https://github.com/liangzu/ARCS)
+- ARCS: Accurate Rotation and Correspondence Search, *CVPR, 2022*. [Paper](https://arxiv.org/pdf/2203.14493)] [[Code](https://github.com/liangzu/ARCS)]
 
 #### **Others**
 
