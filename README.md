@@ -481,12 +481,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Pose Graph Optimization
 
-#### **BnB for Pose Graph Optimization**
-*(To be supplemented)*
-
 #### **SDP for Pose Graph Optimization**
 
-- A convex optimization based approach for pose SLAM problems, *IROS, 2012*. [[Paper](https://ieeexplore.ieee.org/document/6385742)]
+- A Convex Optimization based Approach for Pose SLAM Problems, *IROS, 2012*. [[Paper](https://ieeexplore.ieee.org/document/6385742)]
 
 - Pose Graph Optimization in the Complex Domain: Lagrangian Duality, Conditions For Zero Duality Gap, and Optimal Solutions, *arXiv, 2015*. [[Paper](https://arxiv.org/pdf/1505.03437)] [[Code](https://github.com/alpErenSari/poseGraphProject)]
 
