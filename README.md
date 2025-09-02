@@ -309,6 +309,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Relative Pose Estimation
 
+<!--   
 #### **Minimal solvers**
 
 - In Defense of the Eight-Point Algorithm, *TPAMI, 1997*. [[Paper](https://www.cse.unr.edu/~bebis/CS485/Handouts/hartley.pdf)]
@@ -322,6 +323,7 @@ This is an active repository, you can watch for following the latest advances. I
 - Finding the Exact Rotation between Two Images Independently of the Translation, *ECCV, 2012*. [[Paper](https://people.inf.ethz.ch/pomarc/pubs/KneipECCV12.pdf)]
 
 - RePoseD: Efficient Relative Pose Estimation With Known Depth Information, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2501.07742)]
+-->
 
 #### **BnB for Relative Pose Estimation**
 
@@ -609,44 +611,43 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **BnB**
 
-- Practical Global Optimization for Multiview Geometry, *ECCV, 2006*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/eccv06_optimal.pdf)] <!--  n-view triangulation, PnP and the estimation of general projections  -->
+- Practical Global Optimization for Multiview Geometry, *ECCV, 2006*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/eccv06_optimal.pdf)]
 
-- Practical Global Optimization for Multiview Geometry, *IJCV, 2008*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/ijcv08_optimal.pdf)] <!--  n-view triangulation, PnP and the estimation of general projections  -->
+- Practical Global Optimization for Multiview Geometry, *IJCV, 2008*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/ijcv08_optimal.pdf)]
 
-- Globally Optimal Consensus Set Maximization through Rotation Search, *ACCV, 2012*. [[Paper](https://d1wqtxts1xzle7.cloudfront.net/84933662/ACCV_2012-libre.pdf?1650946221=&response-content-disposition=inline%3B+filename%3DGlobally_Optimal_Consensus_Set_Maximizat.pdf&Expires=1756227652&Signature=ZZGpssYvDyhCYzfOtcqNvEITWH8b8j5D0JWCDeQaY4q5Cpxq50eDeG9xUt4XoC81UbxK6pAjlqDJV42DPYG--B8N0to9gt5hTpMoo~tseiCQFSq5T7~3LahwAloskJxJFMft~jYOeNPpVc6B9VryXp7eiVdfKs2rNn44AngbaFf-iHcpeSNWp3eZsLymzpMYj-OyRIEdBv0Y3ri9MLTXUCVud8fBj4OXSqTTBJOW7okYbIwVtVATC8U4KIQIJeyAEEOuIPzgfX0KSaePr-XyrAqGfDiAb882nbe2-GoVGvbiI2CkvSBXxEFtJt-a~APoVfcfJ4h09ANzoGPs9sYD4g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)] <!--  vanishing point estimation, line clustering and rotation estimation  -->
+- Globally Optimal Consensus Set Maximization through Rotation Search, *ACCV, 2012*. [[Paper](https://d1wqtxts1xzle7.cloudfront.net/84933662/ACCV_2012-libre.pdf?1650946221=&response-content-disposition=inline%3B+filename%3DGlobally_Optimal_Consensus_Set_Maximizat.pdf&Expires=1756227652&Signature=ZZGpssYvDyhCYzfOtcqNvEITWH8b8j5D0JWCDeQaY4q5Cpxq50eDeG9xUt4XoC81UbxK6pAjlqDJV42DPYG--B8N0to9gt5hTpMoo~tseiCQFSq5T7~3LahwAloskJxJFMft~jYOeNPpVc6B9VryXp7eiVdfKs2rNn44AngbaFf-iHcpeSNWp3eZsLymzpMYj-OyRIEdBv0Y3ri9MLTXUCVud8fBj4OXSqTTBJOW7okYbIwVtVATC8U4KIQIJeyAEEOuIPzgfX0KSaePr-XyrAqGfDiAb882nbe2-GoVGvbiI2CkvSBXxEFtJt-a~APoVfcfJ4h09ANzoGPs9sYD4g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
 
-- Accelerating Globally Optimal Consensus Maximization in Geometric Vision, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2304.05156)] <!--  PnP, relative camera pose estimation, 3D registration, and rotation and focal length estimation (Wahba)  -->
+- Accelerating Globally Optimal Consensus Maximization in Geometric Vision, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2304.05156)]
 
 #### **POP**
 
-- Globally Optimal Estimates for Geometric Reconstruction Problems, *ICCV, 2005*. [[Paper](https://vision.cornell.edu/se3/wp-content/uploads/2014/09/iccv05a.pdf)] <!--  triangulation, absolute camera pose, homography estimation, fundamental matrix  -->
+- Globally Optimal Estimates for Geometric Reconstruction Problems, *ICCV, 2005*. [[Paper](https://vision.cornell.edu/se3/wp-content/uploads/2014/09/iccv05a.pdf)]
 
-- Globally Optimal Estimates for Geometric Reconstruction Problems, *IJCV, 2007*. [[Paper](https://www.cs.ait.ac.th/~mdailey/cvreadings/Kahl-Global.pdf)] <!--  triangulation, absolute camera pose, homography estimation, fundamental matrix  -->
+- Globally Optimal Estimates for Geometric Reconstruction Problems, *IJCV, 2007*. [[Paper](https://www.cs.ait.ac.th/~mdailey/cvreadings/Kahl-Global.pdf)]
 
-- One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers, *NeurIPS, 2020*. [[Paper](https://arxiv.org/pdf/2006.06769)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception/tree/NeurIPS2020)] <!--  Single Rotation Averaging, Shape Alignment, Point Cloud Registration, Mesh Registration   -->
+- One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers, *NeurIPS, 2020*. [[Paper](https://arxiv.org/pdf/2006.06769)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception/tree/NeurIPS2020)]
 
-- Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/2109.03349)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)] <!--  Single rotation averaging, Multiple rotation averaging, Point cloud registration, Mesh registration, Absolute pose estimation, Category-Level Object Pose and Shape Estimation -->
+- Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/2109.03349)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
 
 #### **Others**
 
-- $L_\infty$ Minimization in Geometric Reconstruction Problems, *CVPR, 2004*. [[Paper](https://www.robots.ox.ac.uk/~vgg/publications/2004/Hartley04b/hartley04b.pdf)] <!--  triangulation, translation averaging+3d points  -->
+- $L_\infty$ Minimization in Geometric Reconstruction Problems, *CVPR, 2004*. [[Paper](https://www.robots.ox.ac.uk/~vgg/publications/2004/Hartley04b/hartley04b.pdf)]
 
-- Multiple View Geometry and the $L_\infty$-Norm, *ICCV, 2005*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4709597f006ce58ee07043c7d140b8bb93df890f)] <!--  triangulation, PnP and homography estimation  -->
+- Multiple View Geometry and the $L_\infty$-Norm, *ICCV, 2005*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4709597f006ce58ee07043c7d140b8bb93df890f)]
 
-- Removing Outliers Using The $L_\infty$ Norm, *CVPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1640796)] <!--  triangulation, PnP, translation averaging+3d points  -->
+- Removing Outliers Using The $L_\infty$ Norm, *CVPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1640796)]
 
-- Efficient Optimization for $L_\infty$-problems Using Pseudoconvexity, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4409087)] <!--  triangulation, PnP, homography estimation, translation averaging+3d points  -->
+- Efficient Optimization for $L_\infty$-problems Using Pseudoconvexity, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4409087)]
 
-- A Fast Method to Minimize $L_\infty$ Error Norm for Geometric Vision Problems, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4408913)] <!--  triangulation, PnP, translation averaging+3d points  -->
+- A Fast Method to Minimize $L_\infty$ Error Norm for Geometric Vision Problems, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4408913)]
 
-- Quasiconvex Optimization for Robust Geometric Reconstruction, *TPAMI, 2007*. [[Paper](https://www.cs.cmu.edu/~ke/publications/quasiconvex-optimization-PAMI.pdf)] <!--  multi-view triangulation and sequential structure from motion and planar homography estimation  -->
+- Quasiconvex Optimization for Robust Geometric Reconstruction, *TPAMI, 2007*. [[Paper](https://www.cs.cmu.edu/~ke/publications/quasiconvex-optimization-PAMI.pdf)]
 
 - Fast Algorithms for $L_\infty$ Problems in Multiview Geometry, *CVPR, 2008*. [[Paper](https://homes.cs.washington.edu/~sagarwal/gfp.pdf)]
 
-- Multiple-View Geometry Under the $L_\infty$-Norm, *TPAMI, 2008*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4385722&casa_token=RMj0FtymfNwAAAAA:QvSo2fMH6ILIauWl96KHR4P4wbqpeMON_IADNiLA5i2PTiAlI9abZ8VyV3K_R3ngx46Ij0hQqVM)] <!--  triangulation, camera resectioning and homography estimation  -->
+- Multiple-View Geometry Under the $L_\infty$-Norm, *TPAMI, 2008*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4385722&casa_token=RMj0FtymfNwAAAAA:QvSo2fMH6ILIauWl96KHR4P4wbqpeMON_IADNiLA5i2PTiAlI9abZ8VyV3K_R3ngx46Ij0hQqVM)]
+- Efficient Reduction of L-infinity Geometry Problems, *CVPR, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/1289.pdf)]
 
-- Efficient Reduction of L-infinity Geometry Problems, *CVPR, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/1289.pdf)] <!--  triangulation, homography estimation  -->
+- Outlier Removal Using Duality, *CVPR, 2010*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-etal-cvpr-10.pdf)] [[Code](https://www.maths.lth.se/matematiklth/personal/calle/Outl_dual/Outl_dual.html)]
 
-- Outlier Removal Using Duality, *CVPR, 2010*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-etal-cvpr-10.pdf)] [[Code](https://www.maths.lth.se/matematiklth/personal/calle/Outl_dual/Outl_dual.html)] <!--translation averaging+3d points, Homography Estimati -->
-
-- Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)] <!--  Similarity Transformation and Absolute Pose and Relative Pose  -->
+- Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)]
