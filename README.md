@@ -245,7 +245,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Hybrid for  Wahba Problem**
 
-- ARCS: Accurate Rotation and Correspondence Search, *CVPR, 2022*. [Paper](https://arxiv.org/pdf/2203.14493)] [[Code](https://github.com/liangzu/ARCS)]
+- ARCS: Accurate Rotation and Correspondence Search, *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2203.14493)] [[Code](https://github.com/liangzu/ARCS)]
 
 #### **Others**
 
