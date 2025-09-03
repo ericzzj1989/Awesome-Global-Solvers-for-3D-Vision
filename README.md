@@ -106,7 +106,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Outlier-Robust Spatial Perception: Hardness, General-Purpose Algorithms, and Guarantees, *IROS, 2019*. [[Paper](https://arxiv.org/pdf/1903.11683)]
 
-- Outlier-Robust Estimation: Hardness, Minimally Tuned Algorithms, and Applications, *TRO, 2021*, [[Pape](https://arxiv.org/pdf/2007.15109)] [[Code](https://github.com/MIT-SPARK/GNC-and-ADAPT)]
+- Outlier-Robust Estimation: Hardness, Minimally Tuned Algorithms, and Applications, *TRO, 2021*. [[Pape](https://arxiv.org/pdf/2007.15109)] [[Code](https://github.com/MIT-SPARK/GNC-and-ADAPT)]
 
 ---
 
