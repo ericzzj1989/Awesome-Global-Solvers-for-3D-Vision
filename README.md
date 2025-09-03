@@ -20,7 +20,7 @@ This is an active repository, you can watch for following the latest advances. I
     - [Branch-and-Bound (BnB)](#branch-and-bound-bnb)
     - [Semidefinite Programming (SDP)](#semidefinite-programming-sdp)
     - [Polynomial Optimization (POP)](#polynomial-optimization-pop)
-    - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
+    - [Graduated Non-Convexity (GNC) and Adaptive Trimming (ADAPT)](#graduated-non-convexity-gnc-and-adaptive-trimming-adapt)
 - [Application](#application)
     - [Rotation Averaging](#rotation-averaging)
     - [Translation Averaging](#translation-averaging)
