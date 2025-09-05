@@ -97,6 +97,10 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Graduated Non-Convexity (GNC)
 
+- On the Unification Line Processes, Outlier Rejection, and Robust Statistics with Applications in Early Vision, *IJCV, 1996*. [[Paper](https://www.cise.ufl.edu/~anand/pdf/ijcv.pdf)]
+
+- On the Link between Gaussian Homotopy Continuation and Convex Envelopes, *CVPRW, 2015*. [[Paper](https://people.csail.mit.edu/hmobahi/pubs/gaussian_convenv_2015.pdf)]
+
 - Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection, *RAL, 2020*. [[Paper](https://arxiv.org/pdf/1909.08605)] [[Code](https://github.com/MIT-SPARK/GNC-and-ADAPT)]
 
 - Adaptive Annealing for Robust Geometric Estimation, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sidhartha_Adaptive_Annealing_for_Robust_Geometric_Estimation_CVPR_2023_paper.pdf)]
