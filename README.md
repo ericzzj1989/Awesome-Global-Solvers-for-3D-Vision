@@ -20,7 +20,8 @@ This is an active repository, you can watch for following the latest advances. I
     - [Branch-and-Bound (BnB)](#branch-and-bound-bnb)
     - [Semidefinite Programming (SDP)](#semidefinite-programming-sdp)
     - [Polynomial Optimization (POP)](#polynomial-optimization-pop)
-    - [Graduated Non-Convexity (GNC) and Adaptive Trimming (ADAPT)](#graduated-non-convexity-gnc-and-adaptive-trimming-adapt)
+    - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
+    - [Adaptive Trimming (ADAPT)](#adaptive-trimming-adapt)
 - [Application](#application)
     - [Rotation Averaging](#rotation-averaging)
     - [Translation Averaging](#translation-averaging)
@@ -94,15 +95,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Finding Global Minima via Kernel Approximations, *Mathematical Programming, 2025*. [[Paper](https://arxiv.org/pdf/2012.11978)]
 
-### Graduated Non-Convexity (GNC) and Adaptive Trimming (ADAPT)
-
-#### **GNC**
+### Graduated Non-Convexity (GNC)
 
 - Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection, *RAL, 2020*. [[Paper](https://arxiv.org/pdf/1909.08605)] [[Code](https://github.com/MIT-SPARK/GNC-and-ADAPT)]
 
 - Adaptive Annealing for Robust Geometric Estimation, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sidhartha_Adaptive_Annealing_for_Robust_Geometric_Estimation_CVPR_2023_paper.pdf)]
 
-#### **ADAPT**
+### Adaptive Trimming (ADAPT)
 
 - Outlier-Robust Spatial Perception: Hardness, General-Purpose Algorithms, and Guarantees, *IROS, 2019*. [[Paper](https://arxiv.org/pdf/1903.11683)]
 
