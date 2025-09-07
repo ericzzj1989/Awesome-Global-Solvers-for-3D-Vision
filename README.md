@@ -400,7 +400,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Branch-and-Bound Methods for Euclidean Registration Problems, *TPMAI, 2008*. [[Paper](https://ieeexplore.ieee.org/document/4531744)]
 
-- Go-ICP: Solving 3D Registration Efficiently and Globally Optimally, *ICCV, 2013*. [[Paper](https://arxiv.org/pdf/1605.03344)] [[Code](https://github.com/yangjiaolong/Go-ICP)]
+- Go-ICP: Solving 3D Registration Efficiently and Globally Optimally, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Yang_Go-ICP_Solving_3D_2013_ICCV_paper.pdf)] [[Code](https://github.com/yangjiaolong/Go-ICP)]
 
 - Go-ICP: A Globally Optimal Solution to 3D ICP Point-Set Registration, *TPAMI, 2015*. [[Paper](https://arxiv.org/pdf/1605.03344)] [[Code](https://github.com/yangjiaolong/Go-ICP)]
 
