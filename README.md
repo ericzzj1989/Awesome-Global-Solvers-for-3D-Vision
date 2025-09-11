@@ -43,8 +43,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Consensus Set Maximization with Guaranteed Global Optimality for Robust Geometry Estimation, *ICCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/iccv09.pdf)]
 
-- GOGMA: Globally-Optimal Gaussian Mixture Alignment, *CVPR, 2016*. [[Paper](https://arxiv.org/pdf/1603.00150)]
-
 - The Alignment of the Spheres: Globally-Optimal Spherical Mixture Alignment for Camera Pose Estimation, *CVPR, 2019*. [[Paper](https://arxiv.org/pdf/1812.01232)]
 
 ### Semidefinite Programming (SDP)
@@ -403,6 +401,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Go-ICP: Solving 3D Registration Efficiently and Globally Optimally, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Yang_Go-ICP_Solving_3D_2013_ICCV_paper.pdf)] [[Code](https://github.com/yangjiaolong/Go-ICP)]
 
 - Go-ICP: A Globally Optimal Solution to 3D ICP Point-Set Registration, *TPAMI, 2015*. [[Paper](https://arxiv.org/pdf/1605.03344)] [[Code](https://github.com/yangjiaolong/Go-ICP)]
+
+- GOGMA: Globally-Optimal Gaussian Mixture Alignment, *CVPR, 2016*. [[Paper](https://arxiv.org/pdf/1603.00150)]
 
 - An Efficient Globally Optimal Algorithm for Asymmetric Point Matching, *TPAMI, 2017*. [[Paper](https://www4.comp.polyu.edu.hk/~cslzhang/APM_files/data/APM.pdf)]
 
