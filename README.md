@@ -63,8 +63,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Accelerating Certifiable Estimation with Preconditioned Eigensolvers, *RAL, 2022*. [[Paper](https://arxiv.org/pdf/2207.05257)]
 
-- On the Convergence of IRLS and Its Variants in Outlier-Robust Estimation, *CVPR, 2023*. [[Paper](http://openaccess.thecvf.com/content/CVPR2023/html/Peng_On_the_Convergence_of_IRLS_and_Its_Variants_in_Outlier-Robust_CVPR_2023_paper.html)] [[Code](https://github.com/liangzu/IRLS-CVPR2023)]
-
 - An Overview of the Burer-Monteiro Method for Certifiable Robot Perception, *RSS Workshop, 2024*. [[Paper](https://arxiv.org/pdf/2410.00117)]
 
 - Toward Globally Optimal State Estimation Using Automatically Tightened Semidefinite Relaxations, *TRO, 2024*. [[Paper](https://arxiv.org/pdf/2308.05783)] [[Code](https://github.com/utiasASRL/constraint_learning)]
@@ -448,7 +446,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Adaptive Annealing for Robust Geometric Estimation, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sidhartha_Adaptive_Annealing_for_Robust_Geometric_Estimation_CVPR_2023_paper.pdf)]
 
-- On the Convergence of IRLS and Its Variants in Outlier-Robust Estimation, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_On_the_Convergence_of_IRLS_and_Its_Variants_in_Outlier-Robust_CVPR_2023_paper.pdf)]
+- On the Convergence of IRLS and Its Variants in Outlier-Robust Estimation, *CVPR, 2023*. [[Paper](http://openaccess.thecvf.com/content/CVPR2023/html/Peng_On_the_Convergence_of_IRLS_and_Its_Variants_in_Outlier-Robust_CVPR_2023_paper.html)] [[Code](https://github.com/liangzu/IRLS-CVPR2023)]
 
 - G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model, *TASE, 2024*. [[Paper](https://arxiv.org/pdf/2308.11573)] [[Code](https://github.com/HKUST-Aerial-Robotics/G3Reg)]
 
