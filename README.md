@@ -65,7 +65,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search: Tight or Not, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830655.pdf)]
 
-- Accelerating Certifiable Estimation with Preconditioned Eigensolvers, *RAL, 2022*. [Paper](https://arxiv.org/pdf/2207.05257)]
+- Accelerating Certifiable Estimation with Preconditioned Eigensolvers, *RAL, 2022*. [[Paper](https://arxiv.org/pdf/2207.05257)]
 
 - On the Convergence of IRLS and Its Variants in Outlier-Robust Estimation, *CVPR, 2023*. [[Paper](http://openaccess.thecvf.com/content/CVPR2023/html/Peng_On_the_Convergence_of_IRLS_and_Its_Variants_in_Outlier-Robust_CVPR_2023_paper.html)] [[Code](https://github.com/liangzu/IRLS-CVPR2023)]
 
