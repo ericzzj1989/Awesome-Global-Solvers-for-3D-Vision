@@ -1,4 +1,4 @@
-# Global Optimization for Multiple View Geometry
+# :sunglasses: Awesome Global Optimization for Geometric Vision
 [![GitHub](https://img.shields.io/github/stars/ericzzj1989/Global-Optimization-for-Multiple-View-Geometry?style=social)](https://github.com/ericzzj1989/Global-Optimization-for-Multiple-View-Geometry)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mayuelala.Awesome-Global-Optimization-for-Multiple-View-Geometry&left_color=green&right_color=red)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -16,13 +16,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 ---
 ## Table of Contents
-  - [Theory](#theory)
+  - [**Theory**](#theory)
     - [Branch-and-Bound (BnB)](#branch-and-bound-bnb)
     - [Semidefinite Programming (SDP)](#semidefinite-programming-sdp)
     - [Polynomial Optimization (POP)](#polynomial-optimization-pop)
     - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
     - [Adaptive Trimming (ADAPT)](#adaptive-trimming-adapt)
-- [Application](#application)
+- [**Application**](#application)
     - [Rotation Averaging](#rotation-averaging)
     - [Translation Averaging](#translation-averaging)
     - [Wahba Problem](#wahba-problem)
@@ -31,9 +31,14 @@ This is an active repository, you can watch for following the latest advances. I
     - [3D Registration](#3d-registration)
     - [Pose Graph Optimization](#pose-graph-optimization)
     - [Triangulation](#triangulation)
-    - [Vanishing Point Estimation](#vanishing-point-estimation)
     - [Bundle Adjustment](#bundle-adjustment)
+    - [Vanishing Point Estimation](#vanishing-point-estimation)
     - [All-in-One](#all-in-one)
+  - [**Other Resources**](#other-resources)
+    - [Workshops](#workshops)
+    - [Tutorials](#tutorials)
+    - [Lectures](#lectures)
+    - [Talks \& Seminars](#talks--seminars)
 
 
 ---
@@ -543,7 +548,27 @@ This is an active repository, you can watch for following the latest advances. I
 - Triangulation in Omnidirectional Vision under the $L_\infty$-Norm, *ICINFA, 2010*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b367f4809c77958ba149c3d69cf96bc7abed3560)]
 
 - L-Infinity Norm Minimization in the Multiview Triangulation, *CCC, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
-  
+
+##
+
+### Bundle Adjustment
+
+#### **SDP for Bundle Adjustment**
+
+- Building Rome with Convex Optimization, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2502.04640)] [[Code](https://github.com/ComputationalRobotics/XM-code)] [[Project Page](https://computationalrobotics.seas.harvard.edu/XM/)]
+
+#### **Others**
+
+- Projective Bundle Adjustment from Arbitrary Initialization using the Variable Projection Method， *ECCV, 2016*. [[Paper](https://core.ac.uk/download/pdf/83939266.pdf)]
+
+- pOSE: Pseudo Object Space Error for Initialization-Free Bundle Adjustment, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_pOSE_Pseudo_Object_CVPR_2018_paper.pdf)]
+
+- expOSE: Accurate Initialization-Free Projective Factorization using Exponential Regularization, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Iglesias_expOSE_Accurate_Initialization-Free_Projective_Factorization_Using_Exponential_Regularization_CVPR_2023_paper.pdf)]
+
+- Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2405.05079)] [[Code](https://github.com/tum-vision/povar)]
+
+- Towards Initialization-free Calibrated Bundle Adjustment, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.23808)]
+
 ##
 
 ### Vanishing Point Estimation
@@ -571,26 +596,6 @@ This is an active repository, you can watch for following the latest advances. I
 - Globally Optimal and Efficient Vanishing Point Estimation in Atlanta World, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670154.pdf)]
 
 - Quasi-globally Optimal and Near/True Real-time Vanishing Point Estimation in Manhattan World, *TPAMI, 2022*. [[Paper](https://ieeexplore.ieee.org/document/9193899)]
-
-##
-
-### Bundle Adjustment
-
-#### **SDP for Bundle Adjustment**
-
-- Building Rome with Convex Optimization, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2502.04640)] [[Code](https://github.com/ComputationalRobotics/XM-code)] [[Project Page](https://computationalrobotics.seas.harvard.edu/XM/)]
-
-#### **Others**
-
-- Projective Bundle Adjustment from Arbitrary Initialization using the Variable Projection Method， *ECCV, 2016*. [[Paper](https://core.ac.uk/download/pdf/83939266.pdf)]
-
-- pOSE: Pseudo Object Space Error for Initialization-Free Bundle Adjustment, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_pOSE_Pseudo_Object_CVPR_2018_paper.pdf)]
-
-- expOSE: Accurate Initialization-Free Projective Factorization using Exponential Regularization, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Iglesias_expOSE_Accurate_Initialization-Free_Projective_Factorization_Using_Exponential_Regularization_CVPR_2023_paper.pdf)]
-
-- Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2405.05079)] [[Code](https://github.com/tum-vision/povar)]
-
-- Towards Initialization-free Calibrated Bundle Adjustment, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.23808)]
 
 ##
 
@@ -633,8 +638,34 @@ This is an active repository, you can watch for following the latest advances. I
 - Fast Algorithms for $L_\infty$ Problems in Multiview Geometry, *CVPR, 2008*. [[Paper](https://homes.cs.washington.edu/~sagarwal/gfp.pdf)]
 
 - Multiple-View Geometry Under the $L_\infty$-Norm, *TPAMI, 2008*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4385722&casa_token=RMj0FtymfNwAAAAA:QvSo2fMH6ILIauWl96KHR4P4wbqpeMON_IADNiLA5i2PTiAlI9abZ8VyV3K_R3ngx46Ij0hQqVM)]
+
 - Efficient Reduction of L-infinity Geometry Problems, *CVPR, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/1289.pdf)]
 
 - Outlier Removal Using Duality, *CVPR, 2010*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-etal-cvpr-10.pdf)] [[Code](https://www.maths.lth.se/matematiklth/personal/calle/Outl_dual/Outl_dual.html)]
 
 - Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)]
+
+
+## Other Resources
+
+### Workshops
+
+- Frontiers of Optimization for Robotics workshop, *RSS, 2024*. [[Website](https://sites.google.com/robotics.utias.utoronto.ca/frontiers-optimization-rss24/home)]
+
+### Tutorials
+
+- Global Optimization for Geometric Understanding with Provable Guarantees, *ICCV, 2019*. [[Website](https://mit-spark.github.io/GlobalOptimization-ICCV2019/)]
+
+- Certifiable Robot Perception: from Global Optimization to Safer Robots, *RSS, 2020*. [[Website](https://mit-spark.github.io/CertifiablePerception-RSS2020/)] [[Video](https://www.youtube.com/watch?v=hA7W80bBTMU)]
+
+- RANSAC in 2020, *CVPR, 2020*. [[Website](https://cmp.felk.cvut.cz/cvpr2020-ransac-tutorial/)]
+
+### Lectures
+
+- Semidefinite Optimization and Relaxation. [[Website](https://hankyang.seas.harvard.edu/Semidefinite/)]
+
+### Talks & Seminars
+
+- Towards Globally Optimal State Estimation. [[Video](https://www.youtube.com/watch?v=vA8pCuMY_2E)]
+
+- Certifiable Outlier-Robust Geometric Perception. [[Video](https://www.youtube.com/watch?v=hpqnBPL9lH4)]
