@@ -34,7 +34,7 @@ This is an active repository, you can watch for following the latest advances. I
     - [Bundle Adjustment](#bundle-adjustment)
     - [Vanishing Point Estimation](#vanishing-point-estimation)
     - [All-in-One](#all-in-one)
-  - [**Other Resources**](#other-resources)
+- [**Other Resources**](#other-resources)
     - [Workshops](#workshops)
     - [Tutorials](#tutorials)
     - [Lectures](#lectures)
