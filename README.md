@@ -645,12 +645,15 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)]
 
+---
 
 ## Other Resources
 
 ### Workshops
 
 - Frontiers of Optimization for Robotics workshop, *RSS, 2024*. [[Website](https://sites.google.com/robotics.utias.utoronto.ca/frontiers-optimization-rss24/home)]
+
+##
 
 ### Tutorials
 
@@ -660,9 +663,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 - RANSAC in 2020, *CVPR, 2020*. [[Website](https://cmp.felk.cvut.cz/cvpr2020-ransac-tutorial/)]
 
+##
+
 ### Lectures
 
 - Semidefinite Optimization and Relaxation. [[Website](https://hankyang.seas.harvard.edu/Semidefinite/)]
+
+##
 
 ### Talks & Seminars
 
