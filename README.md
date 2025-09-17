@@ -288,7 +288,11 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Optimal Estimation of Perspective Camera Pose, *ICPR, 2006*. [[Paper](https://www.researchgate.net/profile/Carl-Olsson/publication/224649282_Optimal_Estimation_of_Perspective_Camera_Pose/links/004635350b975b3292000000/Optimal-Estimation-of-Perspective-Camera-Pose.pdf)]
 
+- Globally-Optimal Inlier Set Maximisation for Simultaneous Camera Pose and Feature Correspondence, *ICCV, 2017*. [[Paper](https://arxiv.org/pdf/1709.09384)]
+
 - The Alignment of the Spheres: Globally-Optimal Spherical Mixture Alignment for Camera Pose Estimation, *CVPR, 2019*. [[Paper](https://arxiv.org/pdf/1812.01232)]
+
+- Globally-Optimal Inlier Set Maximisation for Camera Pose and Correspondence Estimation, *TPAMI, 2020*. [[Paper](https://ieeexplore.ieee.org/document/8388302)]
 
 - Absolute Pose Estimation With a Known Direction by Motion Decoupling, *TCSVT, 2024*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10093787)] [[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
 
@@ -333,6 +337,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Optimal Relative Pose with Unknown Correspondences, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Fredriksson_Optimal_Relative_Pose_CVPR_2016_paper.pdf)]
 
 - Globally Optimal Consensus Maximization for Relative Pose Estimation With Known Gravity Direction, *RAL, 2021*. [[Paper](https://mediatum.ub.tum.de/doc/1613526/fwd04tq7nzvuegw23cpsnrcq5.Globally_Optimal_Consensus_Maximization_for_Relative_Pose_Estimation_With_Known_Gravity_Direction.pdf)] [[Code](https://github.com/Liu-Yinlong/Globally-Optimal-Consensus-Maximization-for-Relative-Pose-Estimation-with-Known-Gravity-Direction)]
+
+- Globally-Optimal Inlier Maximization for Relative Pose Estimation Under Planar Motion, *Frontiers in Neurorobotics, 2022*. [[Paper](https://mediatum.ub.tum.de/doc/1649876/ldzwfew4eb3e2m1r71ktg6szj.fnbot-16-820703.pdf)]
 
 #### **SDP for Relative Pose Estimation**
 
@@ -389,6 +395,8 @@ This is an active repository, you can watch for following the latest advances. I
 ### 3D Registration
 
 #### **BnB for 3D Registration**
+
+- The Registration Problem Revisited: Optimal Solutions From Points, Lines and Planes, *CVPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1640887)]
 
 - The 3D-3D Registration Problem Revisited, *ICCV, 2007*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/ICCVBBPose_CRC_v12_afterrichard.pdf)]
 
@@ -454,7 +462,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - 3D Registration with Maximal Cliques, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2305.10854)] [[Code](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques)]<!-- MAC has variants; Robust Estimation -->
 
-#### **Robust Improvement for Wahba Problem**
+#### **Robust Improvement for 3D Registration**
 
 ##### **GNC**
 
