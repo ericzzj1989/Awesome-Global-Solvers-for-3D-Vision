@@ -46,9 +46,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Branch-and-Bound (BnB)
 
-- Consensus Set Maximization with Guaranteed Global Optimality for Robust Geometry Estimation, *ICCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/iccv09.pdf)]
+- An Automatic Method of Solving Discrete Programming Problems, *Econometrica, 1960*. [[Paper](https://jmvidal.cse.sc.edu/library/land60a.pdf)]
 
-- The Alignment of the Spheres: Globally-Optimal Spherical Mixture Alignment for Camera Pose Estimation, *CVPR, 2019*. [[Paper](https://arxiv.org/pdf/1812.01232)]
+- Branch and Bound Algorithms-Principles and Examples, *1999*. [[Paper](https://janders.eecg.toronto.edu/1387/readings/b_and_b.pdf)]
 
 ### Semidefinite Programming (SDP)
 
@@ -282,7 +282,9 @@ This is an active repository, you can watch for following the latest advances. I
 #### **BnB for PnP**
 
 - Optimal Estimation of Perspective Camera Pose, *ICPR, 2006*. [[Paper](https://www.researchgate.net/profile/Carl-Olsson/publication/224649282_Optimal_Estimation_of_Perspective_Camera_Pose/links/004635350b975b3292000000/Optimal-Estimation-of-Perspective-Camera-Pose.pdf)]
-  
+
+- The Alignment of the Spheres: Globally-Optimal Spherical Mixture Alignment for Camera Pose Estimation, *CVPR, 2019*. [[Paper](https://arxiv.org/pdf/1812.01232)]
+
 - Absolute Pose Estimation With a Known Direction by Motion Decoupling, *TCSVT, 2024*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10093787)] [[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
 
 #### **SDP for PnP**
@@ -311,17 +313,11 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **BnB for Relative Pose Estimation**
 
-- Global Optimization through Searching Rotation Space and Optimal Estimation of the Essential Matrix, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4408896)]
-
 - Robust Optimal Pose Estimation, *ECCV, 2008*. [[Paper](https://www.researchgate.net/profile/Olof-Enqvist/publication/221304187_Robust_Optimal_Pose_Estimation/links/0f3175371ef676bf33000000/Robust-Optimal-Pose-Estimation.pdf)]
 
 - Two View Geometry Estimation with Outliers, *BMVC, 2009*. [[Paper](https://bmva-archive.org.uk/bmvc/2009/Papers/Paper431/Paper431.pdf)]
 
 - A Branch-and-Bound Algorithm for Globally Optimal Calibration of a Camera-and-Rotation-Sensor System, *ICCV, 2009*. [[Paper](http://vigir.missouri.edu/~gdesouza/Research/Conference_CDs/IEEE_ICCV_2009/contents/pdf/iccv2009_151.pdf)]
-
-- Consensus Set Maximization with Guaranteed Global Optimality for Robust Geometry Estimation, *ICCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/iccv09.pdf)]
-
-- Global Optimization through Rotation Space Search, *IJCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/HartleyKahl:Ematrix.pdf)]
 
 - Direct Optimization of Frame-to-Frame Rotation, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Kneip_Direct_Optimization_of_2013_ICCV_paper.pdf)]
 
@@ -391,11 +387,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - The 3D-3D Registration Problem Revisited, *ICCV, 2007*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/ICCVBBPose_CRC_v12_afterrichard.pdf)]
 
-- A Polynomial-time Bound for Matching and Registration with Outliers, *CVPR, 2008*. [[Paper](https://scispace.com/pdf/a-polynomial-time-bound-for-matching-and-registration-with-mpk50t5i0e.pdf)]
-
 - Branch-and-Bound Methods for Euclidean Registration Problems, *TPAMI, 2008*. [[Paper](https://www.researchgate.net/profile/Carl-Olsson/publication/24213723_Branch-and-Bound_Methods_for_Euclidean_Registration_Problems/links/004635350b97899adb000000/Branch-and-Bound-Methods-for-Euclidean-Registration-Problems.pdf?origin=publicationDetail&_sg%5B0%5D=ajuD2AkWssFLZdjQIaxRMJBya-sQVgmCcu5V8Nuc-XoW_lExPB_R8jhee9aFwQdfwZCQzlOcw0tkQ_ElaPRTNg.-OfN_lOTgr48aq_BMMF9JBGCr4QQZvYczg3KfX8nErYoVP3kO7AgwpfWGEz46Wy3VlLjFUn9s3rtr52jJW520Q&_sg%5B1%5D=wHJ6Gnp_0TzmSugg4_oLoNNiQkHZDEKArCfLWdn6RTPePC_8Il1lggtSIW_sAAkRzCf_18K9S95lUdObuEt2r0PJ_y1HP99HnxTz4uDumYrA.-OfN_lOTgr48aq_BMMF9JBGCr4QQZvYczg3KfX8nErYoVP3kO7AgwpfWGEz46Wy3VlLjFUn9s3rtr52jJW520Q&_sg%5B2%5D=eoII4B2fO0om69a34AcQrwFsGOaTF5KYPqIN4y4gpGp4vXkGqWGEvROfUfw8Ff8I_xWecC775MeZLtY.1A89mR_cjOO8BxdZR7V-6cs-fHZmSZCJJqO7l8qk-BEEXwvOTQlw5PHkif5bYLX51P4xbZVcXx63UpYDRW3lZQ&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19)]
-
-- Branch-and-Bound Methods for Euclidean Registration Problems, *TPMAI, 2008*. [[Paper](https://ieeexplore.ieee.org/document/4531744)]
 
 - Go-ICP: Solving 3D Registration Efficiently and Globally Optimally, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Yang_Go-ICP_Solving_3D_2013_ICCV_paper.pdf)] [[Code](https://github.com/yangjiaolong/Go-ICP)]
 
@@ -456,6 +448,8 @@ This is an active repository, you can watch for following the latest advances. I
 - G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model, *TASE, 2024*. [[Paper](https://arxiv.org/pdf/2308.11573)] [[Code](https://github.com/HKUST-Aerial-Robotics/G3Reg)]
 
 #### **Others**
+
+- A Polynomial-time Bound for Matching and Registration with Outliers, *CVPR, 2008*. [[Paper](https://scispace.com/pdf/a-polynomial-time-bound-for-matching-and-registration-with-mpk50t5i0e.pdf)]
 
 - Robust Reconstruction of Indoor Scenes, *CVPR, 2015*. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Choi_Robust_Reconstruction_of_2015_CVPR_paper.pdf)]<!-- Line- process; Robust estimation-->
 
@@ -605,7 +599,11 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Practical Global Optimization for Multiview Geometry, *ECCV, 2006*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/eccv06_optimal.pdf)]
 
+- Global Optimization through Searching Rotation Space and Optimal Estimation of the Essential Matrix, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4408896)]
+
 - Practical Global Optimization for Multiview Geometry, *IJCV, 2008*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/ijcv08_optimal.pdf)]
+
+- Global Optimization through Rotation Space Search, *IJCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/HartleyKahl:Ematrix.pdf)]
 
 - Globally Optimal Consensus Set Maximization through Rotation Search, *ACCV, 2012*. [[Paper](https://d1wqtxts1xzle7.cloudfront.net/84933662/ACCV_2012-libre.pdf?1650946221=&response-content-disposition=inline%3B+filename%3DGlobally_Optimal_Consensus_Set_Maximizat.pdf&Expires=1756227652&Signature=ZZGpssYvDyhCYzfOtcqNvEITWH8b8j5D0JWCDeQaY4q5Cpxq50eDeG9xUt4XoC81UbxK6pAjlqDJV42DPYG--B8N0to9gt5hTpMoo~tseiCQFSq5T7~3LahwAloskJxJFMft~jYOeNPpVc6B9VryXp7eiVdfKs2rNn44AngbaFf-iHcpeSNWp3eZsLymzpMYj-OyRIEdBv0Y3ri9MLTXUCVud8fBj4OXSqTTBJOW7okYbIwVtVATC8U4KIQIJeyAEEOuIPzgfX0KSaePr-XyrAqGfDiAb882nbe2-GoVGvbiI2CkvSBXxEFtJt-a~APoVfcfJ4h09ANzoGPs9sYD4g__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)]
 
