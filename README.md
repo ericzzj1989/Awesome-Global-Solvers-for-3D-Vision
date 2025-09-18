@@ -432,6 +432,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Scalable 3D Registration via Truncated Entry-wise Absolute Residuals, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2404.00915)] [[Code](https://github.com/tyhuang98/TEAR-release)]
 
+- Efficient and Deterministic Search Strategy Based on Residual Projections for Point Cloud Registration with Correspondences, *TIV, 2024*. [[Paper](https://arxiv.org/pdf/2305.11716)]
+
 - Fast Globally Optimal Truncated Least Squares Point Cloud Registration with Fixed Rotation Axis, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2508.15613)]
   
 #### **SDP for 3D Registration**
