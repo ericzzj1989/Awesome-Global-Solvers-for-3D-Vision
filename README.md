@@ -92,6 +92,16 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Finding Global Minima via Kernel Approximations, *Mathematical Programming, 2025*. [[Paper](https://arxiv.org/pdf/2012.11978)]
 
+### Consensus Maximization (CM)
+
+- Efficient Globally Optimal Consensus Maximisation with Tree Search, *2015, CVPR*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Chin_Efficient_Globally_Optimal_2015_CVPR_paper.pdf)]
+
+- Robust Fitting in Computer Vision: Easy or Hard?, *ECCV, 2018*. [[Paper](https://arxiv.org/pdf/1802.06464)]
+
+- Deterministic Consensus Maximization with Biconvex Programming, *ECCV, 2018*. [[Paper](https://arxiv.org/pdf/1807.09436)] [[Code](https://github.com/ZhipengCai/Demo---Deterministic-consensus-maximization-with-biconvex-programming)]
+
+- Consensus Maximization Tree Search Revisited, *2019, ICCV*. [[Paper](https://arxiv.org/pdf/1908.02021)] [[Code](https://github.com/ZhipengCai/MaxConTreeSearch)]
+
 ### Graduated Non-Convexity (GNC)
 
 - On the Unification Line Processes, Outlier Rejection, and Robust Statistics with Applications in Early Vision, *IJCV, 1996*. [[Paper](https://www.cise.ufl.edu/~anand/pdf/ijcv.pdf)]
