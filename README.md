@@ -222,6 +222,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Fast Rotation Search with Stereographic Projections for 3D Registration. *CVPR, 2014*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Bustos_Fast_Rotation_Search_2014_CVPR_paper.pdf)]
 
+- Fast Rotation Search with Stereographic Projections for 3D Registration, *TPAMI, 2016*. [[Paper](https://ieeexplore.ieee.org/document/7381673)]
+
 #### **SDP for Wahba Problem**
 
 - Semidefinite Relaxation of a Robust Static Attitude Determination Problem, *CDC-ECC, 2011*. [[Paper](https://skoge.folk.ntnu.no/prost/proceedings/cdc-ecc-2011/data/papers/0926.pdf)]
