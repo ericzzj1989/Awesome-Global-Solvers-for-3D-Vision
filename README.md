@@ -416,7 +416,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - GOGMA: Globally-Optimal Gaussian Mixture Alignment, *CVPR, 2016*. [[Paper](https://arxiv.org/pdf/1603.00150)]
 
-- An Efficient Globally Optimal Algorithm for Asymmetric Point Matching, *TPAMI, 2017*. [[Paper](https://www4.comp.polyu.edu.hk/~cslzhang/APM_files/data/APM.pdf)]
+- An Efficient Globally Optimal Algorithm for Asymmetric Point Matching, *TPAMI, 2016*. [[Paper](https://www4.comp.polyu.edu.hk/~cslzhang/APM_files/data/APM.pdf)]
 
 - Efficient Global Point Cloud Registration by Matching Rotation Invariant Features Through Translation Search, *ECCV, 2018*. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yinlong_Liu_Efficient_Global_Point_ECCV_2018_paper.pdf)]
 
