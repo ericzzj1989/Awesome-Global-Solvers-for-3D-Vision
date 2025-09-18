@@ -414,6 +414,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Practical Optimal Registration of Terrestrial LiDAR Scan Pairs, *ISPRS Journal of Photogrammetry and Remote Sensing, 2019*. [[Paper](https://arxiv.org/pdf/1811.09962)]
 
+- Globally Optimal Point Set Registration by Joint Symmetry Plane Fitting, *JMIV, 2021*. [[Paper](https://link.springer.com/content/pdf/10.1007/s10851-021-01024-4.pdf)]
+
 - Scalable 3D Registration via Truncated Entry-wise Absolute Residuals, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2404.00915)] [[Code](https://github.com/tyhuang98/TEAR-release)]
 
 - Fast Globally Optimal Truncated Least Squares Point Cloud Registration with Fixed Rotation Axis, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2508.15613)]
