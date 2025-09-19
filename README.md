@@ -424,6 +424,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Efficient Global Point Cloud Alignment using Bayesian Nonparametric Mixtures, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Straub_Efficient_Global_Point_CVPR_2017_paper.pdf)]
 
+- Guaranteed Outlier Removal for Point Cloud Registration with Correspondences, *TPAMI, 2017*. [[Paper](https://arxiv.org/pdf/1711.10209)]
+
 - Efficient Global Point Cloud Registration by Matching Rotation Invariant Features Through Translation Search, *ECCV, 2018*. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yinlong_Liu_Efficient_Global_Point_ECCV_2018_paper.pdf)]
 
 - A Practical Maximum Clique Algorithm for Matching with Pairwise Constraints, *arXiv, 2019*. [[Paper](https://arxiv.org/pdf/1902.01534)]
@@ -505,8 +507,6 @@ This is an active repository, you can watch for following the latest advances. I
 - G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model, *TASE, 2024*. [[Paper](https://arxiv.org/pdf/2308.11573)] [[Code](https://github.com/HKUST-Aerial-Robotics/G3Reg)]
 
 ##### **Others**
-
-- Guaranteed Outlier Removal for Point Cloud Registration with Correspondences, *TPAMI, 2017*. [[Paper](https://arxiv.org/pdf/1711.10209)]
 
 ##
 
