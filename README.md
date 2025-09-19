@@ -428,6 +428,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Go-ICP: A Globally Optimal Solution to 3D ICP Point-Set Registration, *TPAMI, 2015*. [[Paper](https://arxiv.org/pdf/1605.03344)] [[Code](https://github.com/yangjiaolong/Go-ICP)]
 
+- Robust and Optimal Sum-of-Squares-Based Point-to-Plane Registration of Image Sets and Structured Scenes, *ICCV, 2015*. [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Paudel_Robust_and_Optimal_ICCV_2015_paper.pdf)]
+
 - GOGMA: Globally-Optimal Gaussian Mixture Alignment, *CVPR, 2016*. [[Paper](https://arxiv.org/pdf/1603.00150)]
 
 - An Efficient Globally Optimal Algorithm for Asymmetric Point Matching, *TPAMI, 2016*. [[Paper](https://www4.comp.polyu.edu.hk/~cslzhang/APM_files/data/APM.pdf)]
