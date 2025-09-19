@@ -66,6 +66,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Block-Coordinate Minimization for Large SDPs with Block-Diagonal Constraints, *arXiv, 2019*. [[Paper](https://arxiv.org/pdf/1903.00597)]
 
+- Scalable Low-Rank Semidefinite Programming for Certifiably Correct Machine Perception, *WAFR, 2020*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-66723-8_33)]
+
 - On the Local Stability of Semidefinite Relaxations, *MP, 2022*. [[Paper](https://arxiv.org/pdf/1710.04287)]
 
 - Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search: Tight or Not, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830655.pdf)]
