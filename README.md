@@ -48,6 +48,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - An Automatic Method of Solving Discrete Programming Problems, *Econometrica, 1960*. [[Paper](https://jmvidal.cse.sc.edu/library/land60a.pdf)]
 
+- Branch-and-Bound Methods: A Survey, *Operations research, 1966*. [[Paper](https://pubsonline.informs.org/doi/abs/10.1287/opre.14.4.699)]
+
 - Branch and Bound Algorithms-Principles and Examples, *1999*. [[Paper](https://janders.eecg.toronto.edu/1387/readings/b_and_b.pdf)]
 
 ### Semidefinite Programming (SDP)
