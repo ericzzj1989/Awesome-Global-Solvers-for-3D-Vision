@@ -446,6 +446,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Efficient and Deterministic Search Strategy Based on Residual Projections for Point Cloud Registration with Correspondences, *TIV, 2024*. [[Paper](https://arxiv.org/pdf/2305.11716)]
 
+- Hierarchical and Validated Branch-and-Bound Method for Global Point Cloud Registration, *TII, 2025*. [[Paper](https://ieeexplore.ieee.org/document/10716206)]
+
 - Fast Globally Optimal Truncated Least Squares Point Cloud Registration with Fixed Rotation Axis, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2508.15613)]
   
 #### **SDP for 3D Registration**
