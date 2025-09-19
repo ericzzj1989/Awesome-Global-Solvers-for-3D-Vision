@@ -634,11 +634,11 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **BnB**
 
-- Practical Global Optimization for Multiview Geometry, *ECCV, 2006*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/eccv06_optimal.pdf)]
+- Practical Global Optimization for Multiview Geometry, *ECCV, 2006*. [[Paper](https://homes.cs.washington.edu/~sagarwal/optimal.pdf)]
 
 - Global Optimization through Searching Rotation Space and Optimal Estimation of the Essential Matrix, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4408896)]
 
-- Practical Global Optimization for Multiview Geometry, *IJCV, 2008*. [[Paper](https://cseweb.ucsd.edu/~mkchandraker/pdf/ijcv08_optimal.pdf)]
+- Practical Global Optimization for Multiview Geometry, *IJCV, 2008*. [[Paper](https://homes.cs.washington.edu/~sagarwal/kahl-agarwal-etal-ijcv-07.pdf)]
 
 - Global Optimization through Rotation Space Search, *IJCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/HartleyKahl:Ematrix.pdf)]
 
