@@ -306,6 +306,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally-Optimal Inlier Set Maximisation for Camera Pose and Correspondence Estimation, *TPAMI, 2020*. [[Paper](https://ieeexplore.ieee.org/document/8388302)]
 
+- Absolute Pose Estimation With a Known Direction by Motion Decoupling, *TCSVT, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10093787)] [[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
+
 - Absolute Pose Estimation With a Known Direction by Motion Decoupling, *TCSVT, 2024*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10093787)] [[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
 
 #### **SDP for PnP**
@@ -433,6 +435,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Globally Optimal Point Set Registration by Joint Symmetry Plane Fitting, *JMIV, 2021*. [[Paper](https://link.springer.com/content/pdf/10.1007/s10851-021-01024-4.pdf)]
 
 - A Chebyshev Metamodel Based BnB Approach to Efficiently Search Global Optimum for 3D ICP Point Set Registration, *Computer Aided Geometric Design, 2023*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167839623000109)]
+
+- Fast and Deterministic (3+1)DOF Point Set Registration with Gravity Prior, *ISPRS Journal of Photogrammetry and Remote Sensing, 2023*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000825)] [[Code](https://github.com/Xinyi-tum/Fast-and-Deterministic-Registration)]
 
 - Scalable 3D Registration via Truncated Entry-wise Absolute Residuals, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2404.00915)] [[Code](https://github.com/tyhuang98/TEAR-release)]
 
