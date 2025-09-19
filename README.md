@@ -108,6 +108,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Consensus Maximization Tree Search Revisited, *2019, ICCV*. [[Paper](https://arxiv.org/pdf/1908.02021)] [[Code](https://github.com/ZhipengCai/MaxConTreeSearch)]
 
+- Deterministic Approximate Methods for Maximum Consensus Robust Fitting, *2019, TPAMI*. [[Paper](https://arxiv.org/pdf/1710.10003)]
+
 ### Graduated Non-Convexity (GNC)
 
 - On the Unification Line Processes, Outlier Rejection, and Robust Statistics with Applications in Early Vision, *IJCV, 1996*. [[Paper](https://www.cise.ufl.edu/~anand/pdf/ijcv.pdf)]
@@ -490,7 +492,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Polynomial-time Bound for Matching and Registration with Outliers, *CVPR, 2008*. [[Paper](https://scispace.com/pdf/a-polynomial-time-bound-for-matching-and-registration-with-mpk50t5i0e.pdf)]
 
-- Robust Reconstruction of Indoor Scenes, *CVPR, 2015*. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Choi_Robust_Reconstruction_of_2015_CVPR_paper.pdf)]<!-- Line- process; Robust estimation-->
+- Robust Reconstruction of Indoor Scenes, *CVPR, 2015*. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Choi_Robust_Reconstruction_of_2015_CVPR_paper.pdf)]
 
 - Non-Iterative Rigid 2D/3D Point-Set Registration using Semidefinite Programming, *TIP, 2016*. [[Paper](https://arxiv.org/pdf/1501.00630)]
 
@@ -498,9 +500,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Maximizing Robustness of Point-Set Registration by Leveraging Non-Convexity, *arXiv, 2020*. [[Paper](https://arxiv.org/pdf/2004.08772)]
 
-- A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/2205.07404)] [[Code](https://github.com/WPC-WHU/GROR)]<!-- Graph-based Reliable Outlier Removal; Robust Estimation-->
+- A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/2205.07404)] [[Code](https://github.com/WPC-WHU/GROR)]
 
-- 3D Registration with Maximal Cliques, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2305.10854)] [[Code](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques)]<!-- MAC has variants; Robust Estimation -->
+- 3D Registration with Maximal Cliques, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2305.10854)] [[Code](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques)]
 
 #### **Robust Improvement for 3D Registration**
 
@@ -661,6 +663,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Global Optimization through Rotation Space Search, *IJCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/HartleyKahl:Ematrix.pdf)]
 
 - Consensus Set Maximization with Guaranteed Global Optimality for Robust Geometry Estimation, *ICCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/iccv09.pdf)]
+
+- Deterministically Maximizing Feasible Subsystem for Robust Model Fitting with Unit Norm Constraint, *CVPR, 2011*. [[Paper](http://www.cvpapers.com/papers/1494.pdf)]
 
 - Accelerating Globally Optimal Consensus Maximization in Geometric Vision, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2304.05156)]
 
