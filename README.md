@@ -60,6 +60,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Semidefinite Relaxations for Optimization Problems over Rotation Matrices, *CDC, 2014*. [[Paper](https://ecse.monash.edu/staff/james/rotationfiles/SPW_rot.pdf)]
 
+- SDPNAL+: A Majorized Semismooth Newton-CG Augmented Lagrangian Method for Semidefinite Programming with Nonnegative Constraints, *Mathematical Programming Computation, 2015*. [[Paper](https://arxiv.org/pdf/1406.0942)]
+
 - The Non-Convex Burer-Monteiro Approach Works on Smooth Semidefinite Programs, *NeurIPS, 2016*. [[Paper](https://arxiv.org/pdf/1606.04970)]
 
 - Block-Coordinate Minimization for Large SDPs with Block-Diagonal Constraints, *arXiv, 2019*. [[Paper](https://arxiv.org/pdf/1903.00597)]
