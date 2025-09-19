@@ -244,6 +244,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Semidefinite Relaxation-Based Algorithm for Robust Attitude Estimation, *TSP, 2012*. [[Paper](https://spiral.imperial.ac.uk/server/api/core/bitstreams/69456b59-58b5-470a-9352-22321a0b02f4/content)]
 
+- Exact Recovery with Symmetries for Procrustes Matching, *SIAM Journal on Optimization, 2017*. [[Paper](https://arxiv.org/pdf/1606.01548)]
+
 - A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers, *ICCV, 2019*. [[Paper](https://arxiv.org/pdf/1905.12536)]
 
 - Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search: Tight or Not, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830655.pdf)]
