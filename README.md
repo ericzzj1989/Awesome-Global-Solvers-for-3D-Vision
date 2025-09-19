@@ -184,9 +184,11 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Others**
 
+- Exact and Stable Recovery of Rotations for Robust Synchronization, *Information and Inference: A Journal of the IMA, 2013*. [[Paper](https://arxiv.org/pdf/1211.2441)]
+
 - Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs, *ICCV, 2021*. [[Paper](https://arxiv.org/pdf/2109.08046)] <!-- empirically global optimum;primal-dual -->
 
-- Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.01940)] [[Code](https://github.com/ylochman/acd)] [[Project page](https://ylochman.github.io/acd)]<!-- bridge the gap between optimality, robustness and efficiency of anisotropic rotation averaging --> 
+- Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.01940)] [[Code](https://github.com/ylochman/acd)] [[Project page](https://ylochman.github.io/acd)
 
 ##
 
