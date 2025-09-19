@@ -436,6 +436,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally Optimal Point Set Registration by Joint Symmetry Plane Fitting, *JMIV, 2021*. [[Paper](https://link.springer.com/content/pdf/10.1007/s10851-021-01024-4.pdf)]
 
+- Deterministic Point Cloud Registration via Novel Transformation Decomposition, *CVPR, 2022*. [[Paper](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Deterministic_Point_Cloud_Registration_via_Novel_Transformation_Decomposition_CVPR_2022_paper.pdf)]
+
 - A Chebyshev Metamodel Based BnB Approach to Efficiently Search Global Optimum for 3D ICP Point Set Registration, *Computer Aided Geometric Design, 2023*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167839623000109)]
 
 - Fast and Deterministic (3+1)DOF Point Set Registration with Gravity Prior, *ISPRS Journal of Photogrammetry and Remote Sensing, 2023*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000825)] [[Code](https://github.com/Xinyi-tum/Fast-and-Deterministic-Registration)]
