@@ -464,8 +464,6 @@ This is an active repository, you can watch for following the latest advances. I
   
 #### **SDP for 3D Registration**
 
-- Guided Search Consensus: Large Scale Point Cloud Registration by Convex Optimization, *ICIP, 2013*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6738033)]
-
 - Global Registration of Multiple Point Clouds Using Semidefinite Programming, *SIAM Journal on Optimization, 2015*. [[Paper](https://arxiv.org/pdf/1306.5226)]
 
 - Non-Iterative Rigid 2D/3D Point-Set Registration Using Semidefinite Programming, *TIP, 2015*. [[Paper](https://arxiv.org/pdf/1501.00630)]
@@ -495,6 +493,8 @@ This is an active repository, you can watch for following the latest advances. I
 #### **Others**
 
 - A Polynomial-time Bound for Matching and Registration with Outliers, *CVPR, 2008*. [[Paper](https://scispace.com/pdf/a-polynomial-time-bound-for-matching-and-registration-with-mpk50t5i0e.pdf)]
+
+- Guided Search Consensus: Large Scale Point Cloud Registration by Convex Optimization, *ICIP, 2013*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6738033)]
 
 - Robust Reconstruction of Indoor Scenes, *CVPR, 2015*. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Choi_Robust_Reconstruction_of_2015_CVPR_paper.pdf)]
 
