@@ -494,6 +494,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Polynomial-time Bound for Matching and Registration with Outliers, *CVPR, 2008*. [[Paper](https://scispace.com/pdf/a-polynomial-time-bound-for-matching-and-registration-with-mpk50t5i0e.pdf)]
 
+- Solving Quadratically Constrained Geometrical Problems using Lagrangian Duality, *ICPR, 2009*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-icpr-08.pdf)]
+
 - Guided Search Consensus: Large Scale Point Cloud Registration by Convex Optimization, *ICIP, 2013*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6738033)]
 
 - Robust Reconstruction of Indoor Scenes, *CVPR, 2015*. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Choi_Robust_Reconstruction_of_2015_CVPR_paper.pdf)]
