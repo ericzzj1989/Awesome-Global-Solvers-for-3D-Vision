@@ -488,8 +488,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Polynomial-time Solution for Robust Registration with Extreme Outlier Rates, *RSS, 2019*. [[Paper](https://arxiv.org/pdf/1903.08588)]
 
-- SDRSAC: Semidefinite-Based Randomized Approach for Robust Point Cloud Registration without Correspondences, *2019, CVPR*. [[Paper](https://arxiv.org/pdf/1904.03483)] [[Code](https://github.com/intellhave/SDRSAC)]
-
 - Global Optimality for Point Set Registration Using Semidefinite Programming, *CVPR, 2020*. [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Iglesias_Global_Optimality_for_Point_Set_Registration_Using_Semidefinite_Programming_CVPR_2020_paper.pdf)]
 
 - TEASER: Fast and Certifiable Point Cloud Registration, *TRO, 2020*. [[Paper](https://arxiv.org/pdf/2001.07715)] [[Code](https://github.com/MIT-SPARK/TEASER-plusplus)]
