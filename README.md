@@ -54,6 +54,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Semidefinite Programming (SDP)
 
+- Semidefinite Programming Relaxations of Nonconvex Quadratic Optimization, *Handbook of Semidefinite Programming, 2000*. [[Paper](https://www.math.uwaterloo.ca/~hwolkowi/henry/reports/chapqqps.pdf)]
+
 - A Nonlinear Programming Algorithm for Solving Semidefinite Programs via Low-rank Factorization, *Mathematical Programming, 2003*. [[Paper](https://sburer.github.io/papers/007-lowrank.pdf)]
 
 - On Convex Relaxations for Quadratically Constrained Quadratic Programming, *Mathematical Programming, 2012*, [[Paper](https://optimization-online.org/wp-content/uploads/2010/08/2699.pdf)]
