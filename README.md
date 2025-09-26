@@ -464,6 +464,8 @@ This is an active repository, you can watch for following the latest advances. I
   
 #### **SDP for 3D Registration**
 
+- Solving Quadratically Constrained Geometrical Problems using Lagrangian Duality, *ICPR, 2009*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-icpr-08.pdf)]
+
 - Global Registration of Multiple Point Clouds Using Semidefinite Programming, *SIAM Journal on Optimization, 2015*. [[Paper](https://arxiv.org/pdf/1306.5226)]
 
 - Non-Iterative Rigid 2D/3D Point-Set Registration Using Semidefinite Programming, *TIP, 2015*. [[Paper](https://arxiv.org/pdf/1501.00630)]
@@ -493,8 +495,6 @@ This is an active repository, you can watch for following the latest advances. I
 #### **Others**
 
 - A Polynomial-time Bound for Matching and Registration with Outliers, *CVPR, 2008*. [[Paper](https://scispace.com/pdf/a-polynomial-time-bound-for-matching-and-registration-with-mpk50t5i0e.pdf)]
-
-- Solving Quadratically Constrained Geometrical Problems using Lagrangian Duality, *ICPR, 2009*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-icpr-08.pdf)]
 
 - Guided Search Consensus: Large Scale Point Cloud Registration by Convex Optimization, *ICIP, 2013*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6738033)]
 
