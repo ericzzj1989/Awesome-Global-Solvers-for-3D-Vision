@@ -58,6 +58,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Nonlinear Programming Algorithm for Solving Semidefinite Programs via Low-rank Factorization, *Mathematical Programming, 2003*. [[Paper](https://sburer.github.io/papers/007-lowrank.pdf)]
 
+- Exploiting Sparsity in Semidefinite Programming via Matrix Completion I: General Framework, *SIAM Journal on Optimization, 2006*. [[Paper](https://pages.cs.wisc.edu/~nathanae/nonlinproj/fukada.pdf)]
+
 - Semidefinite Relaxation of Quadratic Optimization Problems, *Signal Processing Magazine, 2010*. [[Paper](https://www1.se.cuhk.edu.hk/~manchoso/papers/sdrapp-SPM.pdf)]
 
 - On Convex Relaxations for Quadratically Constrained Quadratic Programming, *Mathematical Programming, 2012*. [[Paper](https://optimization-online.org/wp-content/uploads/2010/08/2699.pdf)]
