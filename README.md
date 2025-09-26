@@ -470,7 +470,7 @@ This is an active repository, you can watch for following the latest advances. I
   
 #### **SDP for 3D Registration**
 
-- Solving Quadratically Constrained Geometrical Problems using Lagrangian Duality, *ICPR, 2009*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-icpr-08.pdf)]
+- Solving Quadratically Constrained Geometrical Problems using Lagrangian Duality, *ICPR, 2008*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-icpr-08.pdf)]
 
 - Global Registration of Multiple Point Clouds Using Semidefinite Programming, *SIAM Journal on Optimization, 2015*. [[Paper](https://arxiv.org/pdf/1306.5226)]
 
