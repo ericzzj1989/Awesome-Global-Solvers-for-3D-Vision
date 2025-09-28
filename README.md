@@ -494,8 +494,6 @@ This is an active repository, you can watch for following the latest advances. I
   
 #### **POP for 3D Registration**
 
-- Geometry of 3D Environments and Sum of Squares Polynomials, *RSS, 2013*. [[Paper](https://arxiv.org/pdf/1611.07369)]
-
 - A Novel Quaternion-based 2D-3D Registration Algorithm with Line Correspondence, *TIJEE, 2014*. [[Paper](https://journal.esperg.com/index.php/TIJEE/article/view/3203)]
  
 - Robust and Optimal Registration of Image Sets and Structured Scenes via Sum-of-Squares Polynomials, *IJCV, 2018*. [[Paper](https://hal.science/hal-02113657v1/document)]
