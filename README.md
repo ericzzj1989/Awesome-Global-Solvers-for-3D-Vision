@@ -540,8 +540,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - G3Reg: Pyramid Graph-based Global Registration using Gaussian Ellipsoid Model, *TASE, 2024*. [[Paper](https://arxiv.org/pdf/2308.11573)] [[Code](https://github.com/HKUST-Aerial-Robotics/G3Reg)]
 
-##### **Others**
-
 ##
 
 ### Pose Graph Optimization
