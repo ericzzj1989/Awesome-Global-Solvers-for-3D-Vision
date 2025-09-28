@@ -522,11 +522,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Guaranteed Outlier Removal for Point Cloud Registration with Correspondences, *TPAMI, 2017*. [[Paper](https://arxiv.org/pdf/1711.10209)]
 
-##### **M-estimation**
+##### **GNC**
 
 - Fast Global Registration, *ECCV, 2016*. [[Paper](https://vladlen.info/papers/fast-global-registration.pdf)] [[Code](https://github.com/isl-org/FastGlobalRegistration)]
-
-##### **GNC**
 
 - Practical, Fast and Robust Point Cloud Registration for 3D Scene Stitching and Object Localization, *Access, 2021*. [[Paper](https://arxiv.org/pdf/2111.04228)]
 
