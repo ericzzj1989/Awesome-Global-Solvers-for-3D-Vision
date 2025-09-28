@@ -324,9 +324,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Optimal Estimation of Perspective Camera Pose, *ICPR, 2006*. [[Paper](https://www.researchgate.net/profile/Carl-Olsson/publication/224649282_Optimal_Estimation_of_Perspective_Camera_Pose/links/004635350b975b3292000000/Optimal-Estimation-of-Perspective-Camera-Pose.pdf)]
 
+- Globally Optimal 2D-3D Registration from Points or Lines Without Correspondences, *ICCV, 2015*. [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Brown_Globally_Optimal_2D-3D_ICCV_2015_paper.pdf)]
+
 - Globally-Optimal Inlier Set Maximisation for Simultaneous Camera Pose and Feature Correspondence, *ICCV, 2017*. [[Paper](https://arxiv.org/pdf/1709.09384)]
 
 - The Alignment of the Spheres: Globally-Optimal Spherical Mixture Alignment for Camera Pose Estimation, *CVPR, 2019*. [[Paper](https://arxiv.org/pdf/1812.01232)]
+
+- 2D-3D Point Set Registration Based on Global Rotation Search, *TIP, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8579206)]
 
 - Globally-Optimal Inlier Set Maximisation for Camera Pose and Correspondence Estimation, *TPAMI, 2020*. [[Paper](https://ieeexplore.ieee.org/document/8388302)]
 
