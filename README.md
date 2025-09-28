@@ -454,6 +454,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Efficient Global Point Cloud Registration by Matching Rotation Invariant Features Through Translation Search, *ECCV, 2018*. [[Paper](https://openaccess.thecvf.com/content_ECCV_2018/papers/Yinlong_Liu_Efficient_Global_Point_ECCV_2018_paper.pdf)]
 
+- Robust and Optimal Registration of Image Sets and Structured Scenes via Sum-of-Squares Polynomials, *IJCV, 2018*. [[Paper](https://hal.science/hal-02113657v1/document)]
+
 - Fast and Globally Optimal Rigid Registration of 3D Point Sets by Transformation Decomposition, *arXiv, 2018*. [[Paper](https://arxiv.org/pdf/1903.08588)]
 
 - Practical Optimal Registration of Terrestrial LiDAR Scan Pairs, *ISPRS Journal of Photogrammetry and Remote Sensing, 2019*. [[Paper](https://arxiv.org/pdf/1811.09962)]
@@ -498,7 +500,7 @@ This is an active repository, you can watch for following the latest advances. I
   
 #### **POP for 3D Registration**
  
-- Robust and Optimal Registration of Image Sets and Structured Scenes via Sum-of-Squares Polynomials, *IJCV, 2018*. [[Paper](https://hal.science/hal-02113657v1/document)]
+
 
 #### **Others**
 
