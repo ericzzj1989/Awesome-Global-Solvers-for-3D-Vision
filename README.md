@@ -280,6 +280,10 @@ This is an active repository, you can watch for following the latest advances. I
 
 - ARCS: Accurate Rotation and Correspondence Search, *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2203.14493)] [[Code](https://github.com/liangzu/ARCS)]
 
+##### **M-estimation**
+
+- Optimal Geometric Fitting Under the Truncated $L_2$-Norm, *CVPR, 2013*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Ask_Optimal_Geometric_Fitting_2013_CVPR_paper.pdf)]
+
 ##### **GNC**
 
 - FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
