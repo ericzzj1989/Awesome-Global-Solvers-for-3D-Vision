@@ -508,10 +508,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Others**
 
-- Non-Iterative Rigid 2D/3D Point-Set Registration using Semidefinite Programming, *TIP, 2016*. [[Paper](https://arxiv.org/pdf/1501.00630)]
-
-- Fast Global Registration, *ECCV, 2016*. [[Paper](https://vladlen.info/papers/fast-global-registration.pdf)] [[Code](https://github.com/isl-org/FastGlobalRegistration)]
-
 - Global multiview registration using non-convex ADMM, *ICIP, 2017*. [[Paper](https://ieeexplore.ieee.org/document/8296429)]
 
 - Maximizing Robustness of Point-Set Registration by Leveraging Non-Convexity, *arXiv, 2020*. [[Paper](https://arxiv.org/pdf/2004.08772)]
@@ -525,6 +521,10 @@ This is an active repository, you can watch for following the latest advances. I
 ##### **Consensus Maximization**
 
 - Guaranteed Outlier Removal for Point Cloud Registration with Correspondences, *TPAMI, 2017*. [[Paper](https://arxiv.org/pdf/1711.10209)]
+
+##### **M-estimation**
+
+- Fast Global Registration, *ECCV, 2016*. [[Paper](https://vladlen.info/papers/fast-global-registration.pdf)] [[Code](https://github.com/isl-org/FastGlobalRegistration)]
 
 ##### **GNC**
 
@@ -677,6 +677,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Global Optimization through Searching Rotation Space and Optimal Estimation of the Essential Matrix, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4408896)]
 
 - Practical Global Optimization for Multiview Geometry, *IJCV, 2008*. [[Paper](https://homes.cs.washington.edu/~sagarwal/kahl-agarwal-etal-ijcv-07.pdf)]
+
+- Optimal Correspondences from Pairwise Constraints, *ICCV, 2009*. [[Paper](https://lup.lub.lu.se/search/files/4311163/1454018.pdf)]
 
 - Global Optimization through Rotation Space Search, *IJCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/HartleyKahl:Ematrix.pdf)]
 
