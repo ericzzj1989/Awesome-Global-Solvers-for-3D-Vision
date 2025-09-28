@@ -510,8 +510,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Global multiview registration using non-convex ADMM, *ICIP, 2017*. [[Paper](https://ieeexplore.ieee.org/document/8296429)]
 
-- Maximizing Robustness of Point-Set Registration by Leveraging Non-Convexity, *arXiv, 2020*. [[Paper](https://arxiv.org/pdf/2004.08772)]
-
 - A New Outlier Removal Strategy Based on Reliability of Correspondence Graph for Fast Point Cloud Registration, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/2205.07404)] [[Code](https://github.com/WPC-WHU/GROR)]
 
 - 3D Registration with Maximal Cliques, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2305.10854)] [[Code](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques)]
