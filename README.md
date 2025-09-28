@@ -504,8 +504,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Others**
 
-- Guided Search Consensus: Large Scale Point Cloud Registration by Convex Optimization, *ICIP, 2013*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6738033)]
-
 - Robust Reconstruction of Indoor Scenes, *CVPR, 2015*. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Choi_Robust_Reconstruction_of_2015_CVPR_paper.pdf)]
 
 - Non-Iterative Rigid 2D/3D Point-Set Registration using Semidefinite Programming, *TIP, 2016*. [[Paper](https://arxiv.org/pdf/1501.00630)]
