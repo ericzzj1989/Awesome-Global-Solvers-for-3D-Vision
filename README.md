@@ -504,8 +504,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Others**
 
-- A Polynomial-time Bound for Matching and Registration with Outliers, *CVPR, 2008*. [[Paper](https://scispace.com/pdf/a-polynomial-time-bound-for-matching-and-registration-with-mpk50t5i0e.pdf)]
-
 - Guided Search Consensus: Large Scale Point Cloud Registration by Convex Optimization, *ICIP, 2013*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6738033)]
 
 - Robust Reconstruction of Indoor Scenes, *CVPR, 2015*. [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Choi_Robust_Reconstruction_of_2015_CVPR_paper.pdf)]
@@ -711,6 +709,8 @@ This is an active repository, you can watch for following the latest advances. I
 - A Fast Method to Minimize $L_\infty$ Error Norm for Geometric Vision Problems, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4408913)]
 
 - Quasiconvex Optimization for Robust Geometric Reconstruction, *TPAMI, 2007*. [[Paper](https://www.cs.cmu.edu/~ke/publications/quasiconvex-optimization-PAMI.pdf)]
+
+- A Polynomial-time Bound for Matching and Registration with Outliers, *CVPR, 2008*. [[Paper](https://scispace.com/pdf/a-polynomial-time-bound-for-matching-and-registration-with-mpk50t5i0e.pdf)]
 
 - Fast Algorithms for $L_\infty$ Problems in Multiview Geometry, *CVPR, 2008*. [[Paper](https://homes.cs.washington.edu/~sagarwal/gfp.pdf)]
 
