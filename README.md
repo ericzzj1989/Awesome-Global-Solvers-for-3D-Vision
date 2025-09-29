@@ -512,10 +512,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Robust Improvement for 3D Registration**
 
-##### **Consensus Maximization**
-
-- Guaranteed Outlier Removal for Point Cloud Registration with Correspondences, *TPAMI, 2017*. [[Paper](https://arxiv.org/pdf/1711.10209)]
-
 ##### **GNC**
 
 - Fast Global Registration, *ECCV, 2016*. [[Paper](https://vladlen.info/papers/fast-global-registration.pdf)] [[Code](https://github.com/isl-org/FastGlobalRegistration)]
