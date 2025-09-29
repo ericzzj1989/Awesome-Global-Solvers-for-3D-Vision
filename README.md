@@ -704,6 +704,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)]
 
+- Efficient Algorithms for Maximum Consensus Robust Fitting, *TRO, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8870243&casa_token=-j8fL-PdwLQAAAAA:w00l-vjtIGldKkgRjz29_jRUhlF3okPnkCMRevOhIyqBkROp2j4wK49DGOT3QQpiPLHF4wzcAzI)]
+
 ---
 
 ## Other Resources
