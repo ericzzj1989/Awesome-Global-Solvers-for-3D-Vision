@@ -510,8 +510,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Global multiview registration using non-convex ADMM, *ICIP, 2017*. [[Paper](https://ieeexplore.ieee.org/document/8296429)]
 
-- 3D Registration with Maximal Cliques, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2305.10854)] [[Code](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques)]
-
 #### **Robust Improvement for 3D Registration**
 
 ##### **Consensus Maximization**
