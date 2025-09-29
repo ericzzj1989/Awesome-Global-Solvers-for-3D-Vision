@@ -20,6 +20,7 @@ This is an active repository, you can watch for following the latest advances. I
     - [Branch-and-Bound (BnB)](#branch-and-bound-bnb)
     - [Semidefinite Programming (SDP)](#semidefinite-programming-sdp)
     - [Polynomial Optimization (POP)](#polynomial-optimization-pop)
+    - [Consensus Maximization (CM)](#consensus-maximization-cm)
     - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
     - [Adaptive Trimming (ADAPT)](#adaptive-trimming-adapt)
 - [**Application**](#application)
