@@ -280,10 +280,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - ARCS: Accurate Rotation and Correspondence Search, *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2203.14493)] [[Code](https://github.com/liangzu/ARCS)]
 
-##### **M-estimation**
-
-- Optimal Geometric Fitting Under the Truncated $L_2$-Norm, *CVPR, 2013*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Ask_Optimal_Geometric_Fitting_2013_CVPR_paper.pdf)]
-
 ##### **GNC**
 
 - FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
@@ -514,13 +510,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ##### **GNC**
 
-- Fast Global Registration, *ECCV, 2016*. [[Paper](https://vladlen.info/papers/fast-global-registration.pdf)] [[Code](https://github.com/isl-org/FastGlobalRegistration)]
-
-- Practical, Fast and Robust Point Cloud Registration for 3D Scene Stitching and Object Localization, *Access, 2021*. [[Paper](https://arxiv.org/pdf/2111.04228)]
-
 - Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap, *IROS, 2023*. [[Paper](https://arxiv.org/pdf/2307.12116)] [[Code](https://github.com/HKUST-Aerial-Robotics/Pagor)]
-
-- Adaptive Annealing for Robust Geometric Estimation, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sidhartha_Adaptive_Annealing_for_Robust_Geometric_Estimation_CVPR_2023_paper.pdf)]
 
 - On the Convergence of IRLS and Its Variants in Outlier-Robust Estimation, *CVPR, 2023*. [[Paper](http://openaccess.thecvf.com/content/CVPR2023/html/Peng_On_the_Convergence_of_IRLS_and_Its_Variants_in_Outlier-Robust_CVPR_2023_paper.html)] [[Code](https://github.com/liangzu/IRLS-CVPR2023)]
 
@@ -709,6 +699,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Efficient Reduction of L-infinity Geometry Problems, *CVPR, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/1289.pdf)]
 
 - Outlier Removal Using Duality, *CVPR, 2010*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-etal-cvpr-10.pdf)] [[Code](https://www.maths.lth.se/matematiklth/personal/calle/Outl_dual/Outl_dual.html)]
+
+- Optimal Geometric Fitting Under the Truncated $L_2$-Norm, *CVPR, 2013*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Ask_Optimal_Geometric_Fitting_2013_CVPR_paper.pdf)]
 
 - Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)]
 
