@@ -289,6 +289,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Others**
 
+- Linear-Matrix-Inequality-Based Solution to Wahba’s Problem, *Journal of Guidance, Control, and Dynamics, 2015*. [[Paper](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/140644/1.g000132.pdf?sequence=1)]
+
 - Linearly Solving Robust Rotation Estimation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.11547)]
 
 ##
@@ -698,6 +700,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Outlier Removal Using Duality, *CVPR, 2010*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-etal-cvpr-10.pdf)] [[Code](https://www.maths.lth.se/matematiklth/personal/calle/Outl_dual/Outl_dual.html)]
 
 - Optimal Geometric Fitting Under the Truncated $L_2$-Norm, *CVPR, 2013*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Ask_Optimal_Geometric_Fitting_2013_CVPR_paper.pdf)]
+
+- Convex Relaxations of SE(2) and SE(3) for Visual Pose Estimation, *ICRA, 2014*. [[Paper](https://arxiv.org/pdf/1401.3700)]
 
 - Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)]
 
