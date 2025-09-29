@@ -116,6 +116,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Deterministic Approximate Methods for Maximum Consensus Robust Fitting, *2019, TPAMI*. [[Paper](https://arxiv.org/pdf/1710.10003)]
 
+- Efficient Algorithms for Maximum Consensus Robust Fitting, *TRO, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8870243&casa_token=-j8fL-PdwLQAAAAA:w00l-vjtIGldKkgRjz29_jRUhlF3okPnkCMRevOhIyqBkROp2j4wK49DGOT3QQpiPLHF4wzcAzI)]
+
 ### Graduated Non-Convexity (GNC)
 
 - On the Unification Line Processes, Outlier Rejection, and Robust Statistics with Applications in Early Vision, *IJCV, 1996*. [[Paper](https://www.cise.ufl.edu/~anand/pdf/ijcv.pdf)]
@@ -703,8 +705,6 @@ This is an active repository, you can watch for following the latest advances. I
 - Optimal Geometric Fitting Under the Truncated $L_2$-Norm, *CVPR, 2013*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Ask_Optimal_Geometric_Fitting_2013_CVPR_paper.pdf)]
 
 - Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)]
-
-- Efficient Algorithms for Maximum Consensus Robust Fitting, *TRO, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8870243&casa_token=-j8fL-PdwLQAAAAA:w00l-vjtIGldKkgRjz29_jRUhlF3okPnkCMRevOhIyqBkROp2j4wK49DGOT3QQpiPLHF4wzcAzI)]
 
 ---
 
