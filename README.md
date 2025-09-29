@@ -199,6 +199,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs, *ICCV, 2021*. [[Paper](https://arxiv.org/pdf/2109.08046)] <!-- empirically global optimum;primal-dual -->
 
+- Robust Group Synchronization via Quadratic Programming, *ICML, 2022*. [[Paper](https://arxiv.org/pdf/2206.08994)] [[Code](https://github.com/ColeWyeth/DESC)]
+
 - Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.01940)] [[Code](https://github.com/ylochman/acd)] [[Project page](https://ylochman.github.io/acd)
 
 ##
