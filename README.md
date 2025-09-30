@@ -707,6 +707,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)]
 
+- Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM, *ICRA, 2022*. [[Paper](https://arxiv.org/pdf/2201.03773)]
+
 ---
 
 ## Other Resources
