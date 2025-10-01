@@ -149,10 +149,6 @@ This is an active repository, you can watch for following the latest advances. I
   
 - Simultaneous Multiple Rotation Averaging Using Lagrangian Duality, *ACCV, 2012*. [[Paper](https://scispace.com/pdf/simultaneous-multiple-rotation-averaging-using-lagrangian-1ecpzvpaw8.pdf)]
 
-- Semidefinite Relaxations for Optimization Problems over Rotation Matrices, *CDC, 2014*. [[Paper](https://ecse.monash.edu/staff/james/rotationfiles/SPW_rot.pdf)]
-
-- Global Robust Image Rotation from Combined Weighted Averaging, *JPRS, 2017*. [[Paper](https://ris.utwente.nl/ws/portalfiles/portal/30048921/Reich2017global.pdf)]
-
 - Tightness of the Maximum Likelihood Semidefinite Relaxation for Angular Synchronization, *Mathematical Programming, 2017*. [[Paper](https://arxiv.org/pdf/1411.3272)]
 
 - Rotation Averaging and Strong Duality, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1705.01362)]
@@ -190,6 +186,12 @@ This is an active repository, you can watch for following the latest advances. I
 - HARA: A Hierarchical Approach for Robust Rotation Averaging. *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2111.08831)] [[Code](https://github.com/sunghoon031/HARA)]
 
 #### **Others**
+
+- Semidefinite Relaxations for Optimization Problems over Rotation Matrices, *CDC, 2014*. [[Paper](https://ecse.monash.edu/staff/james/rotationfiles/SPW_rot.pdf)]
+
+- Global Robust Image Rotation from Combined Weighted Averaging, *JPRS, 2017*. [[Paper](https://ris.utwente.nl/ws/portalfiles/portal/30048921/Reich2017global.pdf)]
+
+#### **Unknown**
 
 - Rotation Averaging and Weak Convexity, *International Symposium on Mathematical Theory of Networks and Systems, 2010*. [[Paper](https://trumpf.id.au/pubs/hartley_trumpf_dai_MTNS2010.pdf)]
 
