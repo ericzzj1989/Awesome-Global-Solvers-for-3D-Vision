@@ -151,6 +151,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Tightness of the Maximum Likelihood Semidefinite Relaxation for Angular Synchronization, *Mathematical Programming, 2017*. [[Paper](https://arxiv.org/pdf/1411.3272)]
 
+- Near-Optimal Bounds for Phase Synchronization, *SIAM Journal on Optimization, 2018*. [[Paper](https://arxiv.org/pdf/1703.06605)]
+
 - Rotation Averaging and Strong Duality, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1705.01362)]
 
 - Rotation Averaging with the Chordal Distance: Global Minimizers and Strong Duality, *TPAMI, 2019*. [[Paper](https://ieeexplore.ieee.org/document/8770111)]
