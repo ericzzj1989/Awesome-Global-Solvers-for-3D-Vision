@@ -157,7 +157,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Rotation Averaging and Strong Duality, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1705.01362)]
 
-- Rotation Averaging with the Chordal Distance: Global Minimizers and Strong Duality, *TPAMI, 2019*. [[Paper]([https://ieeexplore.ieee.org/abstract/document/8770111](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8770111&casa_token=borHvcQlsxsAAAAA:7L1NfoltTSAyD5vgR_np1LzZZ56Ovno5MFNH22I257o17wTE8R6F_WPB1i-bR1NZ1A-ECcL5TjI&tag=1))]
+- Rotation Averaging with the Chordal Distance: Global Minimizers and Strong Duality, *TPAMI, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8770111&casa_token=borHvcQlsxsAAAAA:7L1NfoltTSAyD5vgR_np1LzZZ56Ovno5MFNH22I257o17wTE8R6F_WPB1i-bR1NZ1A-ECcL5TjI&tag=1)]
 
 - Rotation Coordinate Descent for Fast Globally Optimal Rotation Averaging, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2103.08292)] [[Code](https://github.com/sfchng/Rotation_Coordinate_Descent)]
 
