@@ -143,7 +143,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **SDP for Rotation Averaging**
 
-- Angular synchronization by eigenvectors and semidefinite programming, *Applied and Computational Harmonic Analysis, 2011*. [[Paper](https://arxiv.org/pdf/0905.3174)]
+- Angular Synchronization by Eigenvectors and Semidefinite Programming, *Applied and Computational Harmonic Analysis, 2011*. [[Paper](https://arxiv.org/pdf/0905.3174)]
 
 - Global Motion Estimation from Point Matches, *3DIMPVT, 2012*. [[Paper](https://homes.cs.washington.edu/~kemelmi/sfm_3dimpvt12.pdf)]
   
