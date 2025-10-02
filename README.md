@@ -169,10 +169,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **GNC for Rotation Averaging**
 
-- Pushing the Envelope of Rotation Averaging for Visual SLAM, *arXiv, 2020*. [[Paper](https://arxiv.org/pdf/2011.01163)]
-
-- Adaptive Annealing for Robust Averaging, *ECCV, 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08834.pdf)]
-
 #### **Hybrid for Rotation Averaging**
 
 - Shonan Rotation Averaging: Global Optimality by Surfing $SO(p)^n$, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.02737)] [[Code](https://github.com/dellaert/ShonanAveraging)] [[Project Page](https://dellaert.github.io/ShonanAveraging/index.html)]
