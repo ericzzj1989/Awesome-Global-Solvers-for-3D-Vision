@@ -167,8 +167,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **RANSAC for Rotation Averaging**
 
-- Revisiting Rotation Averaging: Uncertainties and Robust Losses, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2303.05195)] [[Code](https://github.com/zhangganlin/GlobalSfMpy)]
-
 #### **GNC for Rotation Averaging**
 
 - Pushing the Envelope of Rotation Averaging for Visual SLAM, *arXiv, 2020*. [[Paper](https://arxiv.org/pdf/2011.01163)]
