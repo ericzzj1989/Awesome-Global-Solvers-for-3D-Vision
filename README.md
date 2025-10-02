@@ -173,19 +173,19 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Global Robust Image Rotation from Combined Weighted Averaging, *JPRS, 2017*. [[Paper](https://ris.utwente.nl/ws/portalfiles/portal/30048921/Reich2017global.pdf)]
 
-#### **RANSAC for Rotation Averaging**
-
-#### **GNC for Rotation Averaging**
-
 #### **Hybrid for Rotation Averaging**
 
 - Shonan Rotation Averaging: Global Optimality by Surfing $SO(p)^n$, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.02737)] [[Code](https://github.com/dellaert/ShonanAveraging)] [[Project Page](https://dellaert.github.io/ShonanAveraging/index.html)]
 
 - Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2101.09116)] [[Code](https://github.com/ethz-asl/hybrid-rotation-averaging)]
 
-#### **Robust Estimation**
 
-- HARA: A Hierarchical Approach for Robust Rotation Averaging. *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2111.08831)] [[Code](https://github.com/sunghoon031/HARA)]
+#### **RANSAC for Rotation Averaging**
+
+#### **GNC for Rotation Averaging**
+
+
+#### **Robust Estimation**
 
 
 #### **Unknown**
