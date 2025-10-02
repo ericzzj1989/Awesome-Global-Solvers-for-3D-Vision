@@ -167,8 +167,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **RANSAC for Rotation Averaging**
 
-- Hierarchical RANSAC-Based Rotation Averaging, *SPL, 2020*. [[Paper](https://ieeexplore.ieee.org/document/9234640)]
-
 - Revisiting Rotation Averaging: Uncertainties and Robust Losses, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2303.05195)] [[Code](https://github.com/zhangganlin/GlobalSfMpy)]
 
 #### **GNC for Rotation Averaging**
