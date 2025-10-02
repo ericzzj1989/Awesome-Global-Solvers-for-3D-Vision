@@ -165,6 +165,14 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally Optimal Estimates for Rotation Averaging Problems, *IHMSC, 2014*. [[Paper](https://ieeexplore.ieee.org/document/6911507)]
 
+#### **Others**
+
+- Exact and Stable Recovery of Rotations for Robust Synchronization, *Information and Inference: A Journal of the IMA, 2013*. [[Paper](https://arxiv.org/pdf/1211.2441)]
+
+- Semidefinite Relaxations for Optimization Problems over Rotation Matrices, *CDC, 2014*. [[Paper](https://ecse.monash.edu/staff/james/rotationfiles/SPW_rot.pdf)]
+
+- Global Robust Image Rotation from Combined Weighted Averaging, *JPRS, 2017*. [[Paper](https://ris.utwente.nl/ws/portalfiles/portal/30048921/Reich2017global.pdf)]
+
 #### **RANSAC for Rotation Averaging**
 
 #### **GNC for Rotation Averaging**
@@ -179,17 +187,10 @@ This is an active repository, you can watch for following the latest advances. I
 
 - HARA: A Hierarchical Approach for Robust Rotation Averaging. *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2111.08831)] [[Code](https://github.com/sunghoon031/HARA)]
 
-#### **Others**
-
-- Semidefinite Relaxations for Optimization Problems over Rotation Matrices, *CDC, 2014*. [[Paper](https://ecse.monash.edu/staff/james/rotationfiles/SPW_rot.pdf)]
-
-- Global Robust Image Rotation from Combined Weighted Averaging, *JPRS, 2017*. [[Paper](https://ris.utwente.nl/ws/portalfiles/portal/30048921/Reich2017global.pdf)]
 
 #### **Unknown**
 
 - Rotation Averaging and Weak Convexity, *International Symposium on Mathematical Theory of Networks and Systems, 2010*. [[Paper](https://trumpf.id.au/pubs/hartley_trumpf_dai_MTNS2010.pdf)]
-
-- Exact and Stable Recovery of Rotations for Robust Synchronization, *Information and Inference: A Journal of the IMA, 2013*. [[Paper](https://arxiv.org/pdf/1211.2441)]
 
 - Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs, *ICCV, 2021*. [[Paper](https://arxiv.org/pdf/2109.08046)] <!-- empirically global optimum;primal-dual -->
 
