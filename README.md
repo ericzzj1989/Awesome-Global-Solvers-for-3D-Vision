@@ -159,6 +159,10 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Rotation Coordinate Descent for Fast Globally Optimal Rotation Averaging, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2103.08292)] [[Code](https://github.com/sfchng/Rotation_Coordinate_Descent)]
 
+- Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs, *ICCV, 2021*. [[Paper](https://arxiv.org/pdf/2109.08046)] [[Code](https://github.com/gabmoreira/maks)]
+
+- Rotation Averaging: A Primal-Dual Method and Closed-Forms in Cycle Graphs, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2406.18564)] [[Code](https://github.com/gabmoreira/maks)]
+
 - Certifiably Optimal Anisotropic Rotation Averaging, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.07353)] [[Code](https://github.com/ylochman/anisotropic-ra)] [[Project Page](https://ylochman.github.io/anisotropic-ra)]
 
 #### **POP for Rotation Averaging**
@@ -191,8 +195,6 @@ This is an active repository, you can watch for following the latest advances. I
 #### **Unknown**
 
 - Rotation Averaging and Weak Convexity, *International Symposium on Mathematical Theory of Networks and Systems, 2010*. [[Paper](https://trumpf.id.au/pubs/hartley_trumpf_dai_MTNS2010.pdf)]
-
-- Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs, *ICCV, 2021*. [[Paper](https://arxiv.org/pdf/2109.08046)] <!-- empirically global optimum;primal-dual -->
 
 - Robust Group Synchronization via Quadratic Programming, *ICML, 2022*. [[Paper](https://arxiv.org/pdf/2206.08994)] [[Code](https://github.com/ColeWyeth/DESC)]
 
