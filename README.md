@@ -241,7 +241,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Semidefinite Descriptions of the Convex Hull of Rotation Matrices, *arXiv, 2014*. [[Paper](https://arxiv.org/pdf/1403.4914)]
 
-- Fast Rotation Search with Stereographic Projections for 3D Registration. *CVPR, 2014*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Bustos_Fast_Rotation_Search_2014_CVPR_paper.pdf)]
+- Fast Rotation Search with Stereographic Projections for 3D Registration, *CVPR, 2014*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2014/papers/Bustos_Fast_Rotation_Search_2014_CVPR_paper.pdf)]
 
 - Fast Rotation Search with Stereographic Projections for 3D Registration, *TPAMI, 2016*. [[Paper](https://ieeexplore.ieee.org/document/7381673)]
 
