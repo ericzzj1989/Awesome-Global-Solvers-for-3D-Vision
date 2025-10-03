@@ -65,8 +65,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - On Convex Relaxations for Quadratically Constrained Quadratic Programming, *Mathematical Programming, 2012*. [[Paper](https://optimization-online.org/wp-content/uploads/2010/08/2699.pdf)]
 
-- Semidefinite Relaxations for Optimization Problems over Rotation Matrices, *CDC, 2014*. [[Paper](https://ecse.monash.edu/staff/james/rotationfiles/SPW_rot.pdf)]
-
 - SDPNAL+: A Majorized Semismooth Newton-CG Augmented Lagrangian Method for Semidefinite Programming with Nonnegative Constraints, *Mathematical Programming Computation, 2015*. [[Paper](https://arxiv.org/pdf/1406.0942)]
 
 - The Non-Convex Burer-Monteiro Approach Works on Smooth Semidefinite Programs, *NeurIPS, 2016*. [[Paper](https://arxiv.org/pdf/1606.04970)]
