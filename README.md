@@ -71,6 +71,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - The Non-Convex Burer-Monteiro Approach Works on Smooth Semidefinite Programs, *NeurIPS, 2016*. [[Paper](https://arxiv.org/pdf/1606.04970)]
 
+- Random Laplacian Matrices and Convex Relaxations, *Foundations of Computational Mathematics, 2018*. [[Paper](https://arxiv.org/pdf/1504.03987)]
+
 - Block-Coordinate Minimization for Large SDPs with Block-Diagonal Constraints, *arXiv, 2019*. [[Paper](https://arxiv.org/pdf/1903.00597)]
 
 - Scalable Low-Rank Semidefinite Programming for Certifiably Correct Machine Perception, *WAFR, 2020*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-030-66723-8_33)]
@@ -171,34 +173,21 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Others**
 
+- Rotation Averaging and Weak Convexity, *International Symposium on Mathematical Theory of Networks and Systems, 2010*. [[Paper](https://trumpf.id.au/pubs/hartley_trumpf_dai_MTNS2010.pdf)]
+
 - Exact and Stable Recovery of Rotations for Robust Synchronization, *Information and Inference: A Journal of the IMA, 2013*. [[Paper](https://arxiv.org/pdf/1211.2441)]
 
 - Semidefinite Relaxations for Optimization Problems over Rotation Matrices, *CDC, 2014*. [[Paper](https://ecse.monash.edu/staff/james/rotationfiles/SPW_rot.pdf)]
 
 - Global Robust Image Rotation from Combined Weighted Averaging, *JPRS, 2017*. [[Paper](https://ris.utwente.nl/ws/portalfiles/portal/30048921/Reich2017global.pdf)]
 
+- Robust Group Synchronization via Quadratic Programming, *ICML, 2022*. [[Paper](https://arxiv.org/pdf/2206.08994)] [[Code](https://github.com/ColeWyeth/DESC)]
+
 #### **Hybrid for Rotation Averaging**
 
 - Shonan Rotation Averaging: Global Optimality by Surfing $SO(p)^n$, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.02737)] [[Code](https://github.com/dellaert/ShonanAveraging)] [[Project Page](https://dellaert.github.io/ShonanAveraging/index.html)]
 
 - Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2101.09116)] [[Code](https://github.com/ethz-asl/hybrid-rotation-averaging)]
-
-
-#### **RANSAC for Rotation Averaging**
-
-#### **GNC for Rotation Averaging**
-
-
-#### **Robust Estimation**
-
-
-#### **Unknown**
-
-- Rotation Averaging and Weak Convexity, *International Symposium on Mathematical Theory of Networks and Systems, 2010*. [[Paper](https://trumpf.id.au/pubs/hartley_trumpf_dai_MTNS2010.pdf)]
-
-- Robust Group Synchronization via Quadratic Programming, *ICML, 2022*. [[Paper](https://arxiv.org/pdf/2206.08994)] [[Code](https://github.com/ColeWyeth/DESC)]
-
-- Fast and Robust Rotation Averaging with Anisotropic Coordinate Descent, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.01940)] [[Code](https://github.com/ylochman/acd)] [[Project page](https://ylochman.github.io/acd)
 
 ##
 
