@@ -243,7 +243,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **SDP for Wahba Problem**
 
-- Semidefinite Relaxation of a Robust Static Attitude Determination Problem, *CDC-ECC, 2011*. [[Paper](https://skoge.folk.ntnu.no/prost/proceedings/cdc-ecc-2011/data/papers/0926.pdf)]
+- Semidefinite Relaxation of a Robust Static Attitude Determination Problem, *CDC, 2011*. [[Paper](https://skoge.folk.ntnu.no/prost/proceedings/cdc-ecc-2011/data/papers/0926.pdf)]
 
 - A Semidefinite Relaxation-Based Algorithm for Robust Attitude Estimation, *TSP, 2012*. [[Paper](https://spiral.imperial.ac.uk/server/api/core/bitstreams/69456b59-58b5-470a-9352-22321a0b02f4/content)]
 
