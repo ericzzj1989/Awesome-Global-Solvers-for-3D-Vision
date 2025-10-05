@@ -532,9 +532,11 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Convex Relaxations for Pose Graph Optimization With Outliers, *RAL, 2018*. [[Paper](https://arxiv.org/pdf/1801.02112)]
 
-- SE-Sync: A Certifiably Correct Algorithm for Synchronization over the Special Euclidean Group, *IJRR, 2019*. [[Paper](https://arxiv.org/pdf/1612.07386)] [[Code](https://github.com/david-m-rosen/SE-Sync)]
-
 - CPL-Sync: Efficient and Guaranteed Planar Pose Graph Optimization Using the Complex Number Representation, *IROS, 2019*. [[Paper](https://par.nsf.gov/servlets/purl/10178619)] [[Code](https://github.com/fantaosha/CPL-Sync)]
+
+- Modeling Perceptual Aliasing in SLAM via Discrete-Continuous Graphical Models, *RAL, 2019*. [[Paper](https://arxiv.org/pdf/1810.11692)]
+
+- SE-Sync: A Certifiably Correct Algorithm for Synchronization over the Special Euclidean Group, *IJRR, 2019*. [[Paper](https://arxiv.org/pdf/1612.07386)] [[Code](https://github.com/david-m-rosen/SE-Sync)]
 
 - Distributed Certifiably Correct Pose-Graph Optimization, *TRO, 2019*. [[Paper](https://arxiv.org/pdf/1911.03721)] [[Code](https://github.com/mit-acl/dpgo)]
 
