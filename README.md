@@ -512,6 +512,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Convex Optimization based Approach for Pose SLAM Problems, *IROS, 2012*. [[Paper](https://ieeexplore.ieee.org/document/6385742)]
 
+- Lagrangian Duality in 3D SLAM: Verification Techniques and Optimal Solutions, *IROS, 2015*. [[Paper](https://arxiv.org/pdf/1506.00746)]
+
 - Pose Graph Optimization in the Complex Domain: Lagrangian Duality, Conditions For Zero Duality Gap, and Optimal Solutions, *arXiv, 2015*. [[Paper](https://arxiv.org/pdf/1505.03437)] [[Code](https://github.com/alpErenSari/poseGraphProject)]
 
 - Duality-based verification techniques for 2D SLAM, *ICRA, 2015*. [[Paper](https://www.dropbox.com/scl/fi/pbpjk3s814eld9ugzsell/2015c-ICRA-duality2D.pdf?rlkey=v417x37w7c9fjowe649k918sr&e=1&dl=0)]
