@@ -245,29 +245,17 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Towards Understanding The Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search, *arXiv, 2022*. [[Paper](https://arxiv.org/pdf/2207.08350)]
 
-#### **Robust Improvement for Wahba Problem**
-
-##### **Consensus Maximization**
-
-- Guaranteed Outlier Removal for Rotation Search, *ICCV, 2015*. [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Bustos_Guaranteed_Outlier_Removal_ICCV_2015_paper.pdf)]
-
-- ARCS: Accurate Rotation and Correspondence Search, *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2203.14493)] [[Code](https://github.com/liangzu/ARCS)]
-
-##### **GNC**
-
-
-
 #### **Others**
 
 - Semidefinite Descriptions of the Convex Hull of Rotation Matrices, *arXiv, 2014*. [[Paper](https://arxiv.org/pdf/1403.4914)]
 
 - Linear-Matrix-Inequality-Based Solution to Wahba’s Problem, *Journal of Guidance, Control, and Dynamics, 2015*. [[Paper](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/140644/1.g000132.pdf?sequence=1)]
 
-#### **Unknown**
+#### **Robust Improvement for Wahba Problem**
 
+- Guaranteed Outlier Removal for Rotation Search, *ICCV, 2015*. [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Bustos_Guaranteed_Outlier_Removal_ICCV_2015_paper.pdf)]
 
-
-- Linearly Solving Robust Rotation Estimation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.11547)]
+- ARCS: Accurate Rotation and Correspondence Search, *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2203.14493)] [[Code](https://github.com/liangzu/ARCS)]
 
 ##
 
