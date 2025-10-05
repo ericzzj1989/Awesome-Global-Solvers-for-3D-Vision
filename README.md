@@ -255,7 +255,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ##### **GNC**
 
-- FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
+
 
 #### **Others**
 
@@ -687,6 +687,8 @@ This is an active repository, you can watch for following the latest advances. I
 - On the Tightness of Semidefinite Relaxations for Rotation Estimation, *JMIV, 2022*. [[Paper](https://arxiv.org/pdf/2101.02099)]
 
 - Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM, *ICRA, 2022*. [[Paper](https://arxiv.org/pdf/2201.03773)]
+
+- FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
 
 ---
 
