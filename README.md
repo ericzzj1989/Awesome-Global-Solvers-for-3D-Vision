@@ -257,7 +257,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search: Tight or Not, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830655.pdf)]
 
-- Towards Understanding The Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search, *ECCV, 2022*. [[Paper](https://arxiv.org/pdf/2207.08350)]
+- Towards Understanding The Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search, *arXiv, 2022*. [[Paper](https://arxiv.org/pdf/2207.08350)]
 
 #### **Robust Improvement for Wahba Problem**
 
