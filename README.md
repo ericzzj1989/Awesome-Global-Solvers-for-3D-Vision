@@ -261,10 +261,11 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Semidefinite Descriptions of the Convex Hull of Rotation Matrices, *arXiv, 2014*. [[Paper](https://arxiv.org/pdf/1403.4914)]
 
+- Linear-Matrix-Inequality-Based Solution to Wahba’s Problem, *Journal of Guidance, Control, and Dynamics, 2015*. [[Paper](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/140644/1.g000132.pdf?sequence=1)]
 
 #### **Unknown**
 
-- Linear-Matrix-Inequality-Based Solution to Wahba’s Problem, *Journal of Guidance, Control, and Dynamics, 2015*. [[Paper](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/140644/1.g000132.pdf?sequence=1)]
+
 
 - Linearly Solving Robust Rotation Estimation, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.11547)]
 
@@ -312,7 +313,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Absolute Pose Estimation With a Known Direction by Motion Decoupling, *TCSVT, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10093787)] [[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
 
-- Absolute Pose Estimation With a Known Direction by Motion Decoupling, *TCSVT, 2024*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10093787)] [[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
+- Efficient and Globally Optimal Camera Orientation Estimation With Line Correspondences, *RAL, 2024*. [[Paper](https://ieeexplore.ieee.org/document/10702548)] [[Code](https://github.com/tyhuang98/EGO_PnL)]
 
 #### **SDP for PnP**
 
