@@ -247,6 +247,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Semidefinite Relaxation-Based Algorithm for Robust Attitude Estimation, *TSP, 2012*. [[Paper](https://spiral.imperial.ac.uk/server/api/core/bitstreams/69456b59-58b5-470a-9352-22321a0b02f4/content)]
 
+- Point Registration via Efficient Convex Relaxation, *TOG, 2016*. [[Paper](https://haggaim.github.io/projects/point_registration/PMSDP_final_light.pdf)] [[Code](https://github.com/Haggaim/PM-SDP)]
+
 - Exact Recovery with Symmetries for Procrustes Matching, *SIAM Journal on Optimization, 2017*. [[Paper](https://arxiv.org/pdf/1606.01548)]
 
 - A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers, *ICCV, 2019*. [[Paper](https://arxiv.org/pdf/1905.12536)]
@@ -481,8 +483,6 @@ This is an active repository, you can watch for following the latest advances. I
 - Solving Quadratically Constrained Geometrical Problems using Lagrangian Duality, *ICPR, 2008*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-icpr-08.pdf)]
 
 - Global Registration of Multiple Point Clouds Using Semidefinite Programming, *SIAM Journal on Optimization, 2015*. [[Paper](https://arxiv.org/pdf/1306.5226)]
-
-- Point Registration via Efficient Convex Relaxation, *TOG, 2016*. [[Paper](https://haggaim.github.io/projects/point_registration/PMSDP_final_light.pdf)] [[Code](https://github.com/Haggaim/PM-SDP)]
 
 - Convex Global 3D Registration with Lagrangian Duality, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Briales_Convex_Global_3D_CVPR_2017_paper.pdf)] [[Code](https://github.com/jbriales/CVPR17)]
 
