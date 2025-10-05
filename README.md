@@ -253,6 +253,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Quaternion-based Certifiably Optimal Solution to the Wahba Problem with Outliers, *ICCV, 2019*. [[Paper](https://arxiv.org/pdf/1905.12536)]
 
+- Near-Optimal Bounds for Generalized Orthogonal Procrustes Problem via Generalized Power Method, *arXiv, 2021*. [[Paper](https://arxiv.org/pdf/2112.13725)]
+
 - Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search: Tight or Not, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830655.pdf)]
 
 - Towards Understanding The Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search, *ECCV, 2022*. [[Paper](https://arxiv.org/pdf/2207.08350)]
