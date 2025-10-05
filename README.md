@@ -457,6 +457,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Scalable 3D Registration via Truncated Entry-wise Absolute Residuals, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2404.00915)] [[Code](https://github.com/tyhuang98/TEAR-release)]
 
+- Efficient and Robust Point Cloud Registration via Heuristics-Guided Parameter Search, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2404.06155)] [[Code](https://github.com/tyhuang98/HERE-release)]
+
 - Efficient and Deterministic Search Strategy Based on Residual Projections for Point Cloud Registration with Correspondences, *TIV, 2024*. [[Paper](https://arxiv.org/pdf/2305.11716)]
 
 - Hierarchical and Validated Branch-and-Bound Method for Global Point Cloud Registration, *TII, 2025*. [[Paper](https://ieeexplore.ieee.org/document/10716206)]
