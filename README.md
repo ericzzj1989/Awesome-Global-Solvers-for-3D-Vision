@@ -129,6 +129,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Adaptive Annealing for Robust Geometric Estimation, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sidhartha_Adaptive_Annealing_for_Robust_Geometric_Estimation_CVPR_2023_paper.pdf)]
 
+- Adaptive Annealing for Robust Averaging, *ECCV, 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08834.pdf)]
+
 ### Adaptive Trimming (ADAPT)
 
 - Outlier-Robust Spatial Perception: Hardness, General-Purpose Algorithms, and Guarantees, *IROS, 2019*. [[Paper](https://arxiv.org/pdf/1903.11683)]
@@ -244,10 +246,6 @@ This is an active repository, you can watch for following the latest advances. I
 - Towards Understanding The Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search, *arXiv, 2022*. [[Paper](https://arxiv.org/pdf/2207.08350)]
 
 #### **Robust Improvement for Wahba Problem**
-
-##### **RANSAC**
-
-- RANSIC: Fast and Highly Robust Estimation for Rotation Search and Point Cloud Registration Using Invariant Compatibility, *RAL, 2021*. [[Paper](https://arxiv.org/pdf/2104.09133)] [[Code](https://github.com/lukascher/RANSIC)]
 
 ##### **Consensus Maximization**
 
