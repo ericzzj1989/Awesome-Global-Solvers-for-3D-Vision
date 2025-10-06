@@ -452,6 +452,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Hierarchical and Validated Branch-and-Bound Method for Global Point Cloud Registration, *TII, 2025*. [[Paper](https://ieeexplore.ieee.org/document/10716206)]
 
 - Fast Globally Optimal Truncated Least Squares Point Cloud Registration with Fixed Rotation Axis, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2508.15613)]
+
+- Robust Point Cloud Registration via Geometric Overlapping Guided Rotation Search, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2508.17427)] [[Code](https://github.com/Bitzhaozheng/GMOR)]
   
 #### **SDP for 3D Registration**
 
