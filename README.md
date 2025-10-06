@@ -443,6 +443,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Fast and Deterministic (3+1)DOF Point Set Registration with Gravity Prior, *ISPRS Journal of Photogrammetry and Remote Sensing, 2023*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000825)] [[Code](https://github.com/Xinyi-tum/Fast-and-Deterministic-Registration)]
 
+- QGORE: Quadratic-Time Guaranteed Outlier Removal for Point Cloud Registration, *TPAMI, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10091912)]
+
 - Scalable 3D Registration via Truncated Entry-wise Absolute Residuals, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2404.00915)] [[Code](https://github.com/tyhuang98/TEAR-release)]
 
 - Efficient and Robust Point Cloud Registration via Heuristics-Guided Parameter Search, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2404.06155)] [[Code](https://github.com/tyhuang98/HERE-release)]
