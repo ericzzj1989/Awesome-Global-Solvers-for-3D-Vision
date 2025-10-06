@@ -53,6 +53,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Branch and Bound Algorithms-Principles and Examples, *1999*. [[Paper](https://janders.eecg.toronto.edu/1387/readings/b_and_b.pdf)]
 
+- Branch-and-Bound Algorithms: A Survey of Recent Advances in Searching, Branching, and Pruning, *Discrete Optimization, 2016*. [[Paper](https://www.sciencedirect.com/science/article/pii/S1572528616000062)]
+
 ### Semidefinite Programming (SDP)
 
 - Semidefinite Programming Relaxations of Nonconvex Quadratic Optimization, *Handbook of Semidefinite Programming, 2000*. [[Paper](https://www.math.uwaterloo.ca/~hwolkowi/henry/reports/chapqqps.pdf)]
