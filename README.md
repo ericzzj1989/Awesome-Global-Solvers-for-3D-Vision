@@ -299,6 +299,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally-Optimal Inlier Set Maximisation for Camera Pose and Correspondence Estimation, *TPAMI, 2020*. [[Paper](https://ieeexplore.ieee.org/document/8388302)]
 
+- Efficient and Outlier-Robust Simultaneous Pose and Correspondence Determination by Branch-and-Bound and Transformation Decomposition, *TPAMI, 2021*. [[Paper](https://ieeexplore.ieee.org/document/9485090)]
+
 - Absolute Pose Estimation With a Known Direction by Motion Decoupling, *TCSVT, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10093787)] [[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
 
 - Efficient and Globally Optimal Camera Orientation Estimation With Line Correspondences, *RAL, 2024*. [[Paper](https://ieeexplore.ieee.org/document/10702548)] [[Code](https://github.com/tyhuang98/EGO_PnL)]
