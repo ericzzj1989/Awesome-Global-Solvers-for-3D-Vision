@@ -639,6 +639,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Deterministically Maximizing Feasible Subsystem for Robust Model Fitting with Unit Norm Constraint, *CVPR, 2011*. [[Paper](http://www.cvpapers.com/papers/1494.pdf)]
 
+- Globally Optimal Linear Model Fitting with Unit-Norm Constraint, *IJCV, 2022*. [[Paper](https://link.springer.com/article/10.1007/s11263-022-01574-z)]
+
 - Accelerating Globally Optimal Consensus Maximization in Geometric Vision, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2304.05156)]
 
 #### **POP**
