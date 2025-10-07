@@ -289,7 +289,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **BnB for PnP**
 
-- Optimal Estimation of Perspective Camera Pose, *ICPR, 2006*. [[Paper](https://www.researchgate.net/profile/Carl-Olsson/publication/224649282_Optimal_Estimation_of_Perspective_Camera_Pose/links/004635350b975b3292000000/Optimal-Estimation-of-Perspective-Camera-Pose.pdf)]
+- Optimal Estimation of Perspective Camera Pose, *ICPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1699135)]
 
 - Robust Optimal Pose Estimation, *ECCV, 2008*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-540-88682-2_12)]
 
