@@ -291,6 +291,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Optimal Estimation of Perspective Camera Pose, *ICPR, 2006*. [[Paper](https://www.researchgate.net/profile/Carl-Olsson/publication/224649282_Optimal_Estimation_of_Perspective_Camera_Pose/links/004635350b975b3292000000/Optimal-Estimation-of-Perspective-Camera-Pose.pdf)]
 
+- Robust Optimal Pose Estimation, *ECCV, 2008*. [[Paper](https://www.researchgate.net/profile/Olof-Enqvist/publication/221304187_Robust_Optimal_Pose_Estimation/links/0f3175371ef676bf33000000/Robust-Optimal-Pose-Estimation.pdf)]
+
 - Linear Relaxation for Global Pose Estimation, *WCICA, 2010*. [[Paper](https://ieeexplore.ieee.org/document/5554370)]
 
 - Globally Optimal 2D-3D Registration from Points or Lines Without Correspondences, *ICCV, 2015*. [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Brown_Globally_Optimal_2D-3D_ICCV_2015_paper.pdf)]
@@ -338,8 +340,6 @@ This is an active repository, you can watch for following the latest advances. I
 ### Relative Pose Estimation
 
 #### **BnB for Relative Pose Estimation**
-
-- Robust Optimal Pose Estimation, *ECCV, 2008*. [[Paper](https://www.researchgate.net/profile/Olof-Enqvist/publication/221304187_Robust_Optimal_Pose_Estimation/links/0f3175371ef676bf33000000/Robust-Optimal-Pose-Estimation.pdf)]
 
 - Two View Geometry Estimation with Outliers, *BMVC, 2009*. [[Paper](https://bmva-archive.org.uk/bmvc/2009/Papers/Paper431/Paper431.pdf)]
 
