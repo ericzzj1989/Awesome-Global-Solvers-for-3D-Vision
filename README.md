@@ -291,7 +291,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Optimal Estimation of Perspective Camera Pose, *ICPR, 2006*. [[Paper](https://www.researchgate.net/profile/Carl-Olsson/publication/224649282_Optimal_Estimation_of_Perspective_Camera_Pose/links/004635350b975b3292000000/Optimal-Estimation-of-Perspective-Camera-Pose.pdf)]
 
-- Robust Optimal Pose Estimation, *ECCV, 2008*. [[Paper](https://www.researchgate.net/profile/Olof-Enqvist/publication/221304187_Robust_Optimal_Pose_Estimation/links/0f3175371ef676bf33000000/Robust-Optimal-Pose-Estimation.pdf)]
+- Robust Optimal Pose Estimation, *ECCV, 2008*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-540-88682-2_12)]
 
 - Linear Relaxation for Global Pose Estimation, *WCICA, 2010*. [[Paper](https://ieeexplore.ieee.org/document/5554370)]
 
