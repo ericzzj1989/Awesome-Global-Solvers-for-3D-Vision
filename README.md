@@ -303,7 +303,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - 2D-3D Point Set Registration Based on Global Rotation Search, *TIP, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8579206)]
 
-- A family of globally optimal branch-and-bound algorithms for 2D–3D correspondence-free registration, *PR, 2019*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320319301426)]
+- A Family of Globally Optimal Branch-and-Bound Algorithms for 2D–3D Correspondence-Free Registration, *PR, 2019*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320319301426)]
 
 - Globally-Optimal Inlier Set Maximisation for Camera Pose and Correspondence Estimation, *TPAMI, 2020*. [[Paper](https://ieeexplore.ieee.org/document/8388302)]
 
@@ -342,6 +342,8 @@ This is an active repository, you can watch for following the latest advances. I
 ### Relative Pose Estimation
 
 #### **BnB for Relative Pose Estimation**
+
+- Motion Estimation for Multi-Camera Systems using Global Optimization, *CVPR, 2008*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/KimLiHartley:CVPR08.pdf)]
 
 - Two View Geometry Estimation with Outliers, *BMVC, 2009*. [[Paper](https://bmva-archive.org.uk/bmvc/2009/Papers/Paper431/Paper431.pdf)]
 
