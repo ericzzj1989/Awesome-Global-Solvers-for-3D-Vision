@@ -299,13 +299,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally-Optimal Inlier Set Maximisation for Simultaneous Camera Pose and Feature Correspondence, *ICCV, 2017*. [[Paper](https://arxiv.org/pdf/1709.09384)]
 
+- Globally-Optimal Inlier Set Maximisation for Camera Pose and Correspondence Estimation, *TPAMI, 2018*. [[Paper](https://ieeexplore.ieee.org/document/8388302)]
+
 - The Alignment of the Spheres: Globally-Optimal Spherical Mixture Alignment for Camera Pose Estimation, *CVPR, 2019*. [[Paper](https://arxiv.org/pdf/1812.01232)]
 
 - 2D-3D Point Set Registration Based on Global Rotation Search, *TIP, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8579206)]
 
 - A Family of Globally Optimal Branch-and-Bound Algorithms for 2D–3D Correspondence-Free Registration, *PR, 2019*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320319301426)]
-
-- Globally-Optimal Inlier Set Maximisation for Camera Pose and Correspondence Estimation, *TPAMI, 2020*. [[Paper](https://ieeexplore.ieee.org/document/8388302)]
 
 - Efficient and Outlier-Robust Simultaneous Pose and Correspondence Determination by Branch-and-Bound and Transformation Decomposition, *TPAMI, 2021*. [[Paper](https://ieeexplore.ieee.org/document/9485090)]
 
