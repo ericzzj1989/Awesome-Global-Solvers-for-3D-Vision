@@ -303,6 +303,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - 2D-3D Point Set Registration Based on Global Rotation Search, *TIP, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8579206)]
 
+- A family of globally optimal branch-and-bound algorithms for 2D–3D correspondence-free registration, *PR, 2019*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320319301426)]
+
 - Globally-Optimal Inlier Set Maximisation for Camera Pose and Correspondence Estimation, *TPAMI, 2020*. [[Paper](https://ieeexplore.ieee.org/document/8388302)]
 
 - Efficient and Outlier-Robust Simultaneous Pose and Correspondence Determination by Branch-and-Bound and Transformation Decomposition, *TPAMI, 2021*. [[Paper](https://ieeexplore.ieee.org/document/9485090)]
