@@ -359,6 +359,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Optimal Relative Pose with Unknown Correspondences, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Fredriksson_Optimal_Relative_Pose_CVPR_2016_paper.pdf)]
 
+- Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles, *ICRA, 2020*. [[Paper](https://arxiv.org/pdf/2203.00291)]
+
 - Globally Optimal Consensus Maximization for Relative Pose Estimation With Known Gravity Direction, *RAL, 2021*. [[Paper](https://mediatum.ub.tum.de/doc/1613526/fwd04tq7nzvuegw23cpsnrcq5.Globally_Optimal_Consensus_Maximization_for_Relative_Pose_Estimation_With_Known_Gravity_Direction.pdf)] [[Code](https://github.com/Liu-Yinlong/Globally-Optimal-Consensus-Maximization-for-Relative-Pose-Estimation-with-Known-Gravity-Direction)]
 
 - Globally-Optimal Inlier Maximization for Relative Pose Estimation Under Planar Motion, *Frontiers in Neurorobotics, 2022*. [[Paper](https://mediatum.ub.tum.de/doc/1649876/ldzwfew4eb3e2m1r71ktg6szj.fnbot-16-820703.pdf)]
@@ -446,8 +448,6 @@ This is an active repository, you can watch for following the latest advances. I
 - Practical Optimal Registration of Terrestrial LiDAR Scan Pairs, *ISPRS Journal of Photogrammetry and Remote Sensing, 2019*. [[Paper](https://arxiv.org/pdf/1811.09962)]
 
 - A Practical Maximum Clique Algorithm for Matching with Pairwise Constraints, *arXiv, 2019*. [[Paper](https://arxiv.org/pdf/1902.01534)]
-
-- Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles, *ICRA, 2020*. [[Paper](https://arxiv.org/pdf/2203.00291)]
 
 - Globally Optimal Point Set Registration by Joint Symmetry Plane Fitting, *JMIV, 2021*. [[Paper](https://link.springer.com/content/pdf/10.1007/s10851-021-01024-4.pdf)]
 
