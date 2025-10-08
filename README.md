@@ -309,6 +309,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Efficient and Globally Optimal Camera Orientation Estimation With Line Correspondences, *RAL, 2024*. [[Paper](https://ieeexplore.ieee.org/document/10702548)] [[Code](https://github.com/tyhuang98/EGO_PnL)]
 
+- BnB-Based Robust PnP Pose Estimation Method for Outliers, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11011668)]
+
 #### **SDP for PnP**
 
 - Globally Optimal O(n) Solution to the PnP Problem for General Camera Models, *BMVC, 2008*. [[Paper](https://bmva-archive.org.uk/bmvc/2008/papers/31.pdf)]
