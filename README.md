@@ -269,8 +269,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Minimal Solution for Uncalibrated Absolute Pose Problem with a Known Vanishing Point, *3DV, 2013*. [[Paper](https://www.researchgate.net/profile/Horst-Wildenauer/publication/261262847_Minimal_Solution_for_Uncalibrated_Absolute_Pose_Problem_with_a_Known_Vanishing_Point/links/54e5e6e00cf277664ff1b29f/Minimal-Solution-for-Uncalibrated-Absolute-Pose-Problem-with-a-Known-Vanishing-Point.pdf)]
 
-- Revisiting the PnP Problem: A Fast, General and Optimal Solution, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Zheng_Revisiting_the_PnP_2013_ICCV_paper.pdf)] [[Code](https://github.com/danini/absolute-pose-from-oriented-and-scaled-features)]
-
 - UPnP: An Optimal O(n) Solution to the Absolute Pose Problem with Universal Applicability, *ECCV, 2014*. [[Paper](https://openreview.net/pdf?id=PbMNl2kC0u)]
 
 - Globally Optimal DLS Method for PnP Problem with Cayley parameterization, *BMVC, 2015*. [[Paper](https://www.bmva-archive.org.uk/bmvc/2015/papers/paper078/paper078.pdf)] [[Code](https://github.com/g9nkn/pnp_problem)]
@@ -332,6 +330,11 @@ This is an active repository, you can watch for following the latest advances. I
 - Outliers Rejection for Robust Camera Pose Estimation using Graduated Non‐Convexity, *IET CV, 2024*. [[Paper](https://www.researchgate.net/publication/387343981_Outliers_rejection_for_robust_camera_pose_estimation_using_graduated_non-convexity)]
 
 #### Others
+
+- Revisiting the PnP Problem: A Fast, General and Optimal Solution, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Zheng_Revisiting_the_PnP_2013_ICCV_paper.pdf)]
+
+
+#### Unknowns
 
 - A Novel Quaternion-based 2D-3D Registration Algorithm with Line Correspondence, *TIJEE, 2014*. [[Paper](https://journal.esperg.com/index.php/TIJEE/article/view/3203)]
 
