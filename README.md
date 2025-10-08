@@ -303,6 +303,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Family of Globally Optimal Branch-and-Bound Algorithms for 2D-3D Correspondence-Free Registration, *PR, 2019*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320319301426)]
 
+- Globally Optimal Camera Orientation Estimation from Line Correspondences by BnB algorithm, *RAL, 2020*. [[Paper](https://mediatum.ub.tum.de/doc/1578987/d940lkg94pulffrppfh5kvequ.Globally_Optimal_Camera_Orientation_Estimation_from_Line_Correspondences_by_BnB_algorithm.pdf)]
+
 - Efficient and Outlier-Robust Simultaneous Pose and Correspondence Determination by Branch-and-Bound and Transformation Decomposition, *TPAMI, 2021*. [[Paper](https://ieeexplore.ieee.org/document/9485090)]
 
 - Absolute Pose Estimation With a Known Direction by Motion Decoupling, *TCSVT, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10093787)] [[Code](https://github.com/Liu-Yinlong/algorithm-for-PnP-with-known-vertical-direction)]
