@@ -317,8 +317,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **SDP for PnP**
 
-- Globally Optimal O(n) Solution to the PnP Problem for General Camera Models, *BMVC, 2008*. [[Paper](https://bmva-archive.org.uk/bmvc/2008/papers/31.pdf)]
-
 - Non-Iterative Rigid 2D/3D Point-Set Registration Using Semidefinite Programming, *TIP, 2016*. [[Paper](https://arxiv.org/pdf/1501.00630)]
 
 - CvxPnPL: A Unified Convex Solution to the Absolute Pose Estimation Problem from Point and Line Correspondences, *JMIV, 2023*. [[Paper](https://arxiv.org/pdf/1907.10545)] [[Code](https://github.com/SergioRAgostinho/cvxpnpl)]
@@ -326,6 +324,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Efficient Solution to PnP Problem Based on Vision Geometry, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10319768)]
 
 #### **POP for PnP**
+
+- Globally Optimal O(n) Solution to the PnP Problem for General Camera Models, *BMVC, 2008*. [[Paper](https://bmva-archive.org.uk/bmvc/2008/papers/31.pdf)]
 
 - The Non-Tightness of a Convex Relaxation to Rotation Recovery, *Sensors, 2021*. [[paper](https://pdfs.semanticscholar.org/8443/078e59470deca8fabcb50b5294093e294cb5.pdf)]
  
