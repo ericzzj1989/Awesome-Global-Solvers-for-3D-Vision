@@ -325,8 +325,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Efficient Solution to PnP Problem Based on Vision Geometry, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10319768)]
 
-- Optimal and Robust Category-level Perception: Object Pose and Shape Estimation from 2D and 3D Semantic Keypoints, *TRO, 2023*. [[Paper](https://arxiv.org/pdf/2206.12498)] [[Code](https://github.com/MIT-SPARK/PACE)]
-
 #### **POP for PnP**
 
 - The Non-Tightness of a Convex Relaxation to Rotation Recovery, *Sensors, 2021*. [[paper](https://pdfs.semanticscholar.org/8443/078e59470deca8fabcb50b5294093e294cb5.pdf)]
