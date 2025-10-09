@@ -323,6 +323,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - CvxPnPL: A Unified Convex Solution to the Absolute Pose Estimation Problem from Point and Line Correspondences, *JMIV, 2023*. [[Paper](https://arxiv.org/pdf/1907.10545)] [[Code](https://github.com/SergioRAgostinho/cvxpnpl)]
 
+- Efficient Solution to PnP Problem Based on Vision Geometry, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10319768)]
+
 - Optimal and Robust Category-level Perception: Object Pose and Shape Estimation from 2D and 3D Semantic Keypoints, *TRO, 2023*. [[Paper](https://arxiv.org/pdf/2206.12498)] [[Code](https://github.com/MIT-SPARK/PACE)]
 
 #### **POP for PnP**
