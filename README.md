@@ -335,6 +335,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### Others
 
+- Globally Optimal Pose Estimation from Line Correspondences, *ICAR, 2011*. [[Paper](https://www-users.cse.umn.edu/~stergios/papers/ICRA-2011-Line2Line.pdf)]
+
 - Revisiting the PnP Problem: A Fast, General and Optimal Solution, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Zheng_Revisiting_the_PnP_2013_ICCV_paper.pdf)]
 
 - UPnP: An Optimal O(n) Solution to the Absolute Pose Problem with Universal Applicability, *ECCV, 2014*. [[Paper](https://openreview.net/pdf?id=PbMNl2kC0u)]
