@@ -347,6 +347,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Consistently Fast and Globally Optimal Solution to the Perspective-n-Point Problem, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460460.pdf)] [[Code](https://github.com/terzakig/sqpnp)]
 
+- Fast Certifiable Algorithm for the Absolute Pose Estimation of a Camera, *SIAM Journal on Imaging Sciences, 2024*. [[Paper](https://mapir.isa.uma.es/papersrepo/2024/mergarsal_cert_pnp.pdf)]
+
 ##
 
 ### Relative Pose Estimation
