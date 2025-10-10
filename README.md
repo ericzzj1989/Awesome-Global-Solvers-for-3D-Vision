@@ -351,7 +351,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Fast Certifiable Algorithm for the Absolute Pose Estimation of a Camera, *SIAM Journal on Imaging Sciences, 2024*. [[Paper](https://mapir.isa.uma.es/papersrepo/2024/mergarsal_cert_pnp.pdf)]
 
-- A robust o (n) solution to the perspective-n-point problem, *TPAMI, 2012*. [[Paper]()]
+- A robust o (n) solution to the perspective-n-point problem, *TPAMI, 2012*.
+
+- Very fast solution to the pnp problem with algebraic outlier rejection, *CVPR, 2014*.
 
 ##
 
