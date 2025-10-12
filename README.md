@@ -319,8 +319,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - CvxPnPL: A Unified Convex Solution to the Absolute Pose Estimation Problem from Point and Line Correspondences, *JMIV, 2023*. [[Paper](https://arxiv.org/pdf/1907.10545)] [[Code](https://github.com/SergioRAgostinho/cvxpnpl)]
 
-- Efficient Solution to PnP Problem Based on Vision Geometry, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10319768)]
-
 #### **POP for PnP**
 
 - Globally Optimal O(n) Solution to the PnP Problem for General Camera Models, *BMVC, 2008*. [[Paper](https://bmva-archive.org.uk/bmvc/2008/papers/31.pdf)]
@@ -342,6 +340,8 @@ This is an active repository, you can watch for following the latest advances. I
 - UPnP: An Optimal O(n) Solution to the Absolute Pose Problem with Universal Applicability, *ECCV, 2014*. [[Paper](https://openreview.net/pdf?id=PbMNl2kC0u)]
 
 - Non-Iterative Rigid 2D/3D Point-Set Registration Using Semidefinite Programming, *TIP, 2016*. [[Paper](https://arxiv.org/pdf/1501.00630)]
+
+- Efficient Solution to PnP Problem Based on Vision Geometry, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10319768)]
 
 #### Unknowns
 
