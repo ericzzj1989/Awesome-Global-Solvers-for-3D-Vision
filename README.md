@@ -253,7 +253,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Linear-Matrix-Inequality-Based Solution to Wahba’s Problem, *Journal of Guidance, Control, and Dynamics, 2015*. [[Paper](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/140644/1.g000132.pdf?sequence=1)]
 
-#### **Robust Improvement for Wahba Problem**
+#### **Robust Improvement**
 
 - Guaranteed Outlier Removal for Rotation Search, *ICCV, 2015*. [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Bustos_Guaranteed_Outlier_Removal_ICCV_2015_paper.pdf)]
 
@@ -325,7 +325,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - The Non-Tightness of a Convex Relaxation to Rotation Recovery, *Sensors, 2021*. [[paper](https://pdfs.semanticscholar.org/8443/078e59470deca8fabcb50b5294093e294cb5.pdf)]
  
-#### **GNC for PnP**
+#### **Robust Improvement**
 
 - Outliers Rejection for Robust Camera Pose Estimation using Graduated Non‐Convexity, *IET CV, 2024*. [[Paper](https://www.researchgate.net/publication/387343981_Outliers_rejection_for_robust_camera_pose_estimation_using_graduated_non-convexity)]
 
