@@ -346,11 +346,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Robust**
 
-- Outliers Rejection for Robust Camera Pose Estimation using Graduated Non‐Convexity, *IET CV, 2024*. [[Paper](https://www.researchgate.net/publication/387343981_Outliers_rejection_for_robust_camera_pose_estimation_using_graduated_non-convexity)]
-
-##### 
-Certifiably optimal and robust camera pose estimation from points and lines
-Quadratic pose estimation problems: Globally optimal solutions, solvability/observability analysis, and uncertainty description
+- Outliers Rejection for Robust Camera Pose Estimation using Graduated Non‐Convexity, *IET CV, 2024*. [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/cvi2.12330)]
 
 ##
 
@@ -715,6 +711,8 @@ Quadratic pose estimation problems: Globally optimal solutions, solvability/obse
 - On the Tightness of Semidefinite Relaxations for Rotation Estimation, *JMIV, 2022*. [[Paper](https://arxiv.org/pdf/2101.02099)]
 
 - Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM, *ICRA, 2022*. [[Paper](https://arxiv.org/pdf/2201.03773)]
+
+- Quadratic Pose Estimation Problems: Globally Optimal Solutions, Solvability/Observability Analysis, and Uncertainty Description, *TRO, 2022*. [[Paper](https://gogojjh.github.io/assets/pdf/wu2022quadratic.pdf)]
 
 - FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
 
