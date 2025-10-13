@@ -344,10 +344,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### Unknowns
 
-- A Robust O(n) Solution to the Perspective-n-Point Problem, *TPAMI, 2012*.
-
-- Very fast solution to the pnp problem with algebraic outlier rejection, *CVPR, 2014*.
-
 - A Simple, Robust and Fast Method for the Perspective-n-Point Problem, *PRL, 2018*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865518300692)]
 
 - Fast Certifiable Algorithm for the Absolute Pose Estimation of a Camera, *SIAM Journal on Imaging Sciences, 2024*. [[Paper](https://mapir.isa.uma.es/papersrepo/2024/mergarsal_cert_pnp.pdf)]
