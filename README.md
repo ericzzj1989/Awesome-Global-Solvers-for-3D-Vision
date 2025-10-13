@@ -274,7 +274,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Absolute Pose from One or Two Scaled and Oriented Features, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ventura_Absolute_Pose_from_One_or_Two_Scaled_and_Oriented_Features_CVPR_2024_paper.pdf)] [[Code](https://github.com/danini/absolute-pose-from-oriented-and-scaled-features)]
 
-#### **BnB for PnP**
+#### **BnB**
 
 - Optimal Estimation of Perspective Camera Pose, *ICPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1699135)]
 
@@ -306,21 +306,19 @@ This is an active repository, you can watch for following the latest advances. I
 
 - BnB-Based Robust PnP Pose Estimation Method for Outliers, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11011668)]
 
-#### **SDP for PnP**
+#### **SDR**
 
 - Optimal Non-Iterative Pose Estimation via Convex Relaxation, *Image and Vision Computing, 2010*. [[Paper](https://pdf.sciencedirectassets.com/271526/1-s2.0-S0262885610X00099/1-s2.0-S0262885610000442/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICRH2lxYhMsZDcttsfTScodS4H%2BEitLwOSj%2B1CNCg0DeAiBAAsR8%2F%2F39bE27HY04Y1KpJkZ1WWvZSvZ%2BBrnaO03xoCqzBQg0EAUaDDA1OTAwMzU0Njg2NSIMd6VyY%2BeGsdVTM%2F1aKpAF%2BRN2tJai1WBGR75POrMZpfZuCAmoAxp3S19sumKaUJUXfdCfROvFiDh7NCd2iCMDtI5ujfjA2is%2BC0oaYAueh5ZY29cXedOGqV5zJV3EVzcqKhyn1xIGUkZsLHUcHA8xb%2FMNSMpp393kiYC%2FmrCGLQDdz%2F9nCAavpeGwAwjfp51g6fS0%2FtniEP%2FhphBh5nAlIjiYwqqPM3blXZt4h8CfxbNIUzaO8OqTrbc1LXYvsdQuO5BhAS%2FOfMUC0eauC%2FUHub7Zy0hmS83idrEzDsP34NPwmJhcFadum4KqltKSfUiU75%2BxQ14JTyRpsRn6MQto5qT18fSJY3BKuE3wE2fvRKhhegLWLe6k1owTvBloAa2SKLuTpvQLil6lVUvbD%2BMEXhFmoS%2Bd4suGRl7%2F%2BJzTrjVEpbaaf4Ydv%2FTfaivZkHKGCRVZNtPEAWNjLblx8Z6QBZQWqNZR7dKftcXFCx35wV%2BnB3RCz%2Bj2Hq1x5qopqY%2BIjzV2X0T93YTtST7mbQ3qQXKQOkMpn9xVUfRfgPm9F8%2Fqbvm8qctmKk1WYYyEMzV3DqaZGazDG%2FBqm4y4e790QvP%2FYvEB%2BnqXLbPZLGe6HGKlZQqakULWPaIXIIakkiftl6MnwzVOwPEPhVd6bo5XpJpqHrpFprzRGs6SDQaP7Av02cXsnm2G98o9pyV6no01DG8f9eYeph8i9ixWhmWzzUGIc%2FlxrgJeBxhnlVKaDrbu71XhcAOyQ4SGFHgK%2F0pfpnrALNbV0Cudl75xqOUBhbmNfTFpQEof35j%2BINgQOs5lNae6pkiIbuGuUPDdqc%2F%2BQ3tvGMe6IATU9eLoeHEorxqfIjJFHEnw1gBFYbqV2cpF%2FWji%2BnZPx0E%2Fa5GR%2FYcwheyvxwY6sgFJF%2FQFjun0sV%2BECxOL%2FTuVzHq694OWgVoSgNDx4WluNXzjamfXyHvCKwlmMHfw0iU9V7ss%2FE5Q7qMpF%2BVEQpksEYBhTxMrVqgj1iqEtqJkeG07woDm8hgI6GfH6dKxPZS3XuMPq0tE1oKzBl29djNDQOHqpA0ryMSvORX%2BiIuV25Gpr8CCNiZvVDvyry8DGqKMbVFGg6dJBHiSevXO6wN4ywZqvh6vk%2BezL7V5SfQcLeJS&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251012T191728Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY4HAWZ54J%2F20251012%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f33e149fdbd6d12c067d0beb13314028b7209deda67f57ada1cc624dc5cf6316&hash=bf4dc2c21e39e90bb23c4eb02824e843075ad095d3ce8ec80a8058f74873e8a1&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0262885610000442&tid=spdf-d573f53d-a765-481d-818e-a16a9beb0ffb&sid=e6681d6173191544dc3a37793234a1d314c1gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1f175c5b0b5609575354&rr=98d8f00638d70146&cc=es)]
 
 - CvxPnPL: A Unified Convex Solution to the Absolute Pose Estimation Problem from Point and Line Correspondences, *JMIV, 2023*. [[Paper](https://arxiv.org/pdf/1907.10545)] [[Code](https://github.com/SergioRAgostinho/cvxpnpl)]
 
-#### **POP for PnP**
+#### **POP**
 
 - Globally Optimal O(n) Solution to the PnP Problem for General Camera Models, *BMVC, 2008*. [[Paper](https://bmva-archive.org.uk/bmvc/2008/papers/31.pdf)]
 
-- The Non-Tightness of a Convex Relaxation to Rotation Recovery, *Sensors, 2021*. [[paper](https://pdfs.semanticscholar.org/8443/078e59470deca8fabcb50b5294093e294cb5.pdf)]
- 
-#### **Robust Improvement**
+- Certifiably Optimal and Robust Camera Pose Estimation From Points and Lines, *Access, 2020*. [[Paper](https://ieeexplore.ieee.org/document/9129691)]
 
-- Outliers Rejection for Robust Camera Pose Estimation using Graduated Non‐Convexity, *IET CV, 2024*. [[Paper](https://www.researchgate.net/publication/387343981_Outliers_rejection_for_robust_camera_pose_estimation_using_graduated_non-convexity)]
+- The Non-Tightness of a Convex Relaxation to Rotation Recovery, *Sensors, 2021*. [[paper](https://pdfs.semanticscholar.org/8443/078e59470deca8fabcb50b5294093e294cb5.pdf)]
 
 #### Others
 
@@ -342,11 +340,17 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Efficient Solution to PnP Problem Based on Vision Geometry, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10319768)]
 
-#### Unknowns
-
-- A Simple, Robust and Fast Method for the Perspective-n-Point Problem, *PRL, 2018*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865518300692)]
+#### **Hybrid**
 
 - Fast Certifiable Algorithm for the Absolute Pose Estimation of a Camera, *SIAM Journal on Imaging Sciences, 2024*. [[Paper](https://mapir.isa.uma.es/papersrepo/2024/mergarsal_cert_pnp.pdf)]
+
+#### **Robust**
+
+- Outliers Rejection for Robust Camera Pose Estimation using Graduated Non‐Convexity, *IET CV, 2024*. [[Paper](https://www.researchgate.net/publication/387343981_Outliers_rejection_for_robust_camera_pose_estimation_using_graduated_non-convexity)]
+
+##### 
+Certifiably optimal and robust camera pose estimation from points and lines
+Quadratic pose estimation problems: Globally optimal solutions, solvability/observability analysis, and uncertainty description
 
 ##
 
@@ -515,6 +519,8 @@ This is an active repository, you can watch for following the latest advances. I
 - A Convex Optimization based Approach for Pose SLAM Problems, *IROS, 2012*. [[Paper](https://ieeexplore.ieee.org/document/6385742)]
 
 - Lagrangian Duality in 3D SLAM: Verification Techniques and Optimal Solutions, *IROS, 2015*. [[Paper](https://arxiv.org/pdf/1506.00746)]
+
+- On the Inclusion of Determinant Constraints in Lagrangian Duality for 3D SLAM, *RSS Workshop, 2015*. [[Paper](https://www.yasirlatif.info/movingsensors/cameraReady/paper08.pdf)]
 
 - Pose Graph Optimization in the Complex Domain: Lagrangian Duality, Conditions For Zero Duality Gap, and Optimal Solutions, *arXiv, 2015*. [[Paper](https://arxiv.org/pdf/1505.03437)] [[Code](https://github.com/alpErenSari/poseGraphProject)]
 
