@@ -265,15 +265,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Analysis**
 
-- EPnP: An Accurate O(n) Solution to the PnP Problem, *IJCV, 2008*. [[Paper](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Images/team_lepetit/publications/lepetit_ijcv08.pdf)]
-
-- Minimal Solution for Uncalibrated Absolute Pose Problem with a Known Vanishing Point, *3DV, 2013*. [[Paper](https://www.researchgate.net/profile/Horst-Wildenauer/publication/261262847_Minimal_Solution_for_Uncalibrated_Absolute_Pose_Problem_with_a_Known_Vanishing_Point/links/54e5e6e00cf277664ff1b29f/Minimal-Solution-for-Uncalibrated-Absolute-Pose-Problem-with-a-Known-Vanishing-Point.pdf)]
-
-- A Versatile Approach for Solving PnP, PnPf, and PnPfr Problems, *ECCV, 2016*. [[Paper](https://jpn.nec.com/rd/people/docs/eccv2016_nakano.pdf)] [[Code](https://github.com/g9nkn/pnpfr_problem)]
 
 - Fast and robust absolute camera pose estimation with known focal length, *NCA, 2018*. [[Paper](https://link.springer.com/article/10.1007/s00521-017-3032-6)]
- 
-- A Simple, Robust and Fast Method for the Perspective-n-Point Problem, *PRL, 2018*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865518300692)]
 
 - A Universal, Closed-Form Approach for Absolute Pose Problems, *CVIU, 2018*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314218300572)]
 
@@ -341,11 +334,15 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally Optimal DLS Method for PnP Problem with Cayley Parameterization, *BMVC, 2015*. [[Paper](https://www.bmva-archive.org.uk/bmvc/2015/papers/paper078/paper078.pdf)] [[Code](https://github.com/g9nkn/pnp_problem)]
 
+- A Versatile Approach for Solving PnP, PnPf, and PnPfr Problems, *ECCV, 2016*. [[Paper](https://jpn.nec.com/rd/people/docs/eccv2016_nakano.pdf)] [[Code](https://github.com/g9nkn/pnpfr_problem)]
+
 - Non-Iterative Rigid 2D/3D Point-Set Registration Using Semidefinite Programming, *TIP, 2016*. [[Paper](https://arxiv.org/pdf/1501.00630)]
 
 - Efficient Solution to PnP Problem Based on Vision Geometry, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10319768)]
 
 #### Unknowns
+
+- EPnP: An Accurate O(n) Solution to the PnP Problem, *IJCV, 2008*. [[Paper](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Images/team_lepetit/publications/lepetit_ijcv08.pdf)]
 
 - A Novel Quaternion-based 2D-3D Registration Algorithm with Line Correspondence, *TIJEE, 2014*. [[Paper](https://journal.esperg.com/index.php/TIJEE/article/view/3203)]
 
@@ -353,9 +350,11 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Fast Certifiable Algorithm for the Absolute Pose Estimation of a Camera, *SIAM Journal on Imaging Sciences, 2024*. [[Paper](https://mapir.isa.uma.es/papersrepo/2024/mergarsal_cert_pnp.pdf)]
 
-- A robust o (n) solution to the perspective-n-point problem, *TPAMI, 2012*.
+- A Robust O(n) Solution to the Perspective-n-Point Problem, *TPAMI, 2012*.
 
 - Very fast solution to the pnp problem with algebraic outlier rejection, *CVPR, 2014*.
+
+- A Simple, Robust and Fast Method for the Perspective-n-Point Problem, *PRL, 2018*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865518300692)]
 
 ##
 
