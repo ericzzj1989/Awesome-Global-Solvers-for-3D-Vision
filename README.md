@@ -311,6 +311,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### Others
 
+- EPnP: An Accurate O(n) Solution to the PnP Problem, *IJCV, 2009*. [[Paper](https://www.tugraz.at/fileadmin/user_upload/Institute/ICG/Images/team_lepetit/publications/lepetit_ijcv08.pdf)]
+
 - A Direct Least-Squares (DLS) Method for PnP, *ICCV, 2011*. [[Paper](https://www-users.cse.umn.edu/~stergios/papers/ICCV-11-DLS-PnP.pdf)]
 
 - Globally Optimal Pose Estimation from Line Correspondences, *ICAR, 2011*. [[Paper](https://www-users.cse.umn.edu/~stergios/papers/ICRA-2011-Line2Line.pdf)]
