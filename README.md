@@ -339,6 +339,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Consistently Fast and Globally Optimal Solution to the Perspective-n-Point Problem, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460460.pdf)] [[Code](https://github.com/terzakig/sqpnp)]
 
+- Uncertainty-Aware Camera Pose Estimation from Points and Lines, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2107.03890)] [[Code](https://github.com/alexandervakhitov/uncertain-pnp)]
+
 - Efficient Solution to PnP Problem Based on Vision Geometry, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10319768)]
 
 #### **Hybrid**
