@@ -263,13 +263,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Absolute Pose Estimation (PnP)
 
-#### **Analysis**
-
-
-- An Efficient and Accurate Algorithm for the Perspecitve-n-Point Problem, *IROS, 2019*. [[Paper](https://www.cs.cmu.edu/~kaess/pub/Zhou19iros.pdf)]
-
-- Absolute Pose from One or Two Scaled and Oriented Features, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ventura_Absolute_Pose_from_One_or_Two_Scaled_and_Oriented_Features_CVPR_2024_paper.pdf)] [[Code](https://github.com/danini/absolute-pose-from-oriented-and-scaled-features)]
-
 #### **BnB**
 
 - Optimal Estimation of Perspective Camera Pose, *ICPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1699135)]
