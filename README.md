@@ -266,10 +266,6 @@ This is an active repository, you can watch for following the latest advances. I
 #### **Analysis**
 
 
-- Fast and robust absolute camera pose estimation with known focal length, *NCA, 2018*. [[Paper](https://link.springer.com/article/10.1007/s00521-017-3032-6)]
-
-- A Universal, Closed-Form Approach for Absolute Pose Problems, *CVIU, 2018*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314218300572)]
-
 - An Efficient and Accurate Algorithm for the Perspecitve-n-Point Problem, *IROS, 2019*. [[Paper](https://www.cs.cmu.edu/~kaess/pub/Zhou19iros.pdf)]
 
 - Absolute Pose from One or Two Scaled and Oriented Features, *CVPR, 2024*. [[Paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Ventura_Absolute_Pose_from_One_or_Two_Scaled_and_Oriented_Features_CVPR_2024_paper.pdf)] [[Code](https://github.com/danini/absolute-pose-from-oriented-and-scaled-features)]
@@ -330,11 +326,19 @@ This is an active repository, you can watch for following the latest advances. I
 
 - UPnP: An Optimal O(n) Solution to the Absolute Pose Problem with Universal Applicability, *ECCV, 2014*. [[Paper](https://openreview.net/pdf?id=PbMNl2kC0u)]
 
+- gDLS: A Scalable Solution to the Generalized Pose and Scale Problem, *ECCV, 2014*. [[Paper](https://vfragoso.com/pdfs/gdls_eccv_14.pdf)]
+
 - Globally Optimal DLS Method for PnP Problem with Cayley Parameterization, *BMVC, 2015*. [[Paper](https://www.bmva-archive.org.uk/bmvc/2015/papers/paper078/paper078.pdf)] [[Code](https://github.com/g9nkn/pnp_problem)]
 
 - A Versatile Approach for Solving PnP, PnPf, and PnPfr Problems, *ECCV, 2016*. [[Paper](https://jpn.nec.com/rd/people/docs/eccv2016_nakano.pdf)] [[Code](https://github.com/g9nkn/pnpfr_problem)]
 
+- Unifying Algebraic Solvers for Scaled Euclidean Registration from Point, Line and Plane Constraints, *ACCV, 2016*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-54193-8_4)]
+
 - Non-Iterative Rigid 2D/3D Point-Set Registration Using Semidefinite Programming, *TIP, 2016*. [[Paper](https://arxiv.org/pdf/1501.00630)]
+
+- A Universal, Closed-Form Approach for Absolute Pose Problems, *CVIU, 2018*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314218300572)]
+
+- gDLS*: Generalized Pose-and-Scale Estimation Given Scale and Gravity Priors, *CVPR, 2020*. [[Paper](https://arxiv.org/pdf/2004.02052)]
 
 - A Consistently Fast and Globally Optimal Solution to the Perspective-n-Point Problem, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460460.pdf)] [[Code](https://github.com/terzakig/sqpnp)]
 
