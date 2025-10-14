@@ -330,6 +330,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally Optimal DLS Method for PnP Problem with Cayley Parameterization, *BMVC, 2015*. [[Paper](https://www.bmva-archive.org.uk/bmvc/2015/papers/paper078/paper078.pdf)] [[Code](https://github.com/g9nkn/pnp_problem)]
 
+- Large Scale SfM with the Distributed Camera Model, *3DV, 2016*. [[Paper](https://arxiv.org/pdf/1607.03949)]
+
 - A Versatile Approach for Solving PnP, PnPf, and PnPfr Problems, *ECCV, 2016*. [[Paper](https://jpn.nec.com/rd/people/docs/eccv2016_nakano.pdf)] [[Code](https://github.com/g9nkn/pnpfr_problem)]
 
 - Unifying Algebraic Solvers for Scaled Euclidean Registration from Point, Line and Plane Constraints, *ACCV, 2016*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-54193-8_4)]
