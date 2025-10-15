@@ -32,8 +32,8 @@ This is an active repository, you can watch for following the latest advances. I
     - [3D Registration](#3d-registration)
     - [Pose Graph Optimization](#pose-graph-optimization)
     - [Triangulation](#triangulation)
-    - [Bundle Adjustment](#bundle-adjustment)
     - [Vanishing Point Estimation](#vanishing-point-estimation)
+    - [Bundle Adjustment](#bundle-adjustment)
     - [All-in-One](#all-in-one)
 - [**Other Resources**](#other-resources)
     - [Workshops](#workshops)
@@ -595,26 +595,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 ##
 
-### Bundle Adjustment
-
-#### **SDP for Bundle Adjustment**
-
-- Building Rome with Convex Optimization, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2502.04640)] [[Code](https://github.com/ComputationalRobotics/XM-code)] [[Project Page](https://computationalrobotics.seas.harvard.edu/XM/)]
-
-#### **Others**
-
-- Projective Bundle Adjustment from Arbitrary Initialization using the Variable Projection Method， *ECCV, 2016*. [[Paper](https://core.ac.uk/download/pdf/83939266.pdf)]
-
-- pOSE: Pseudo Object Space Error for Initialization-Free Bundle Adjustment, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_pOSE_Pseudo_Object_CVPR_2018_paper.pdf)]
-
-- expOSE: Accurate Initialization-Free Projective Factorization using Exponential Regularization, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Iglesias_expOSE_Accurate_Initialization-Free_Projective_Factorization_Using_Exponential_Regularization_CVPR_2023_paper.pdf)]
-
-- Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2405.05079)] [[Code](https://github.com/tum-vision/povar)]
-
-- Towards Initialization-free Calibrated Bundle Adjustment, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.23808)]
-
-##
-
 ### Vanishing Point Estimation
 
 #### **BnB for Vanishing Point Estimation**
@@ -642,6 +622,26 @@ This is an active repository, you can watch for following the latest advances. I
 - Globally Optimal and Efficient Vanishing Point Estimation in Atlanta World, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670154.pdf)]
 
 - Quasi-globally Optimal and Near/True Real-time Vanishing Point Estimation in Manhattan World, *TPAMI, 2022*. [[Paper](https://ieeexplore.ieee.org/document/9193899)]
+
+##
+
+### Bundle Adjustment
+
+#### **SDP for Bundle Adjustment**
+
+- Building Rome with Convex Optimization, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2502.04640)] [[Code](https://github.com/ComputationalRobotics/XM-code)] [[Project Page](https://computationalrobotics.seas.harvard.edu/XM/)]
+
+#### **Others**
+
+- Projective Bundle Adjustment from Arbitrary Initialization using the Variable Projection Method， *ECCV, 2016*. [[Paper](https://core.ac.uk/download/pdf/83939266.pdf)]
+
+- pOSE: Pseudo Object Space Error for Initialization-Free Bundle Adjustment, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_pOSE_Pseudo_Object_CVPR_2018_paper.pdf)]
+
+- expOSE: Accurate Initialization-Free Projective Factorization using Exponential Regularization, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Iglesias_expOSE_Accurate_Initialization-Free_Projective_Factorization_Using_Exponential_Regularization_CVPR_2023_paper.pdf)]
+
+- Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2405.05079)] [[Code](https://github.com/tum-vision/povar)]
+
+- Towards Initialization-free Calibrated Bundle Adjustment, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.23808)]
 
 ##
 
