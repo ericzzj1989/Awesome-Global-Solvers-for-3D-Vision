@@ -79,8 +79,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - On the Local Stability of Semidefinite Relaxations, *Mathematical Programming, 2022*. [[Paper](https://arxiv.org/pdf/1710.04287)]
 
-- Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search: Tight or Not, *ECCV, 2022*. [[Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136830655.pdf)]
-
 - Accelerating Certifiable Estimation with Preconditioned Eigensolvers, *RAL, 2022*. [[Paper](https://arxiv.org/pdf/2207.05257)]
 
 - An Overview of the Burer-Monteiro Method for Certifiable Robot Perception, *RSS Workshop, 2024*. [[Paper](https://arxiv.org/pdf/2410.00117)]
