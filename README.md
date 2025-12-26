@@ -373,9 +373,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally-Optimal Inlier Maximization for Relative Pose Estimation Under Planar Motion, *Frontiers in Neurorobotics, 2022*. [[Paper](https://mediatum.ub.tum.de/doc/1649876/ldzwfew4eb3e2m1r71ktg6szj.fnbot-16-820703.pdf)]
 
-#### **SDP for Relative Pose Estimation**
-
-- Finding the Exact Rotation between Two Images Independently of the Translation, *ECCV, 2012*. [[Paper](https://people.inf.ethz.ch/pomarc/pubs/KneipECCV12.pdf)]
+#### **Shor’s relaxation for Relative Pose Estimation**
 
 - A Certifiably Globally Optimal Solution to the Non-Minimal Relative Pose Problem, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3968.pdf)]
 
@@ -384,6 +382,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Robot-to-Robot Relative Pose Estimation based on Semidefinite Relaxation Optimization, *IROS, 2020*. [[Paper](https://freeformrobotics.org/wp-content/uploads/2022/02/IROS20_0234_FI.pdf)]
 
 - Certifiable Relative Pose Estimation, *IVC, 2021*. [[Paper](https://arxiv.org/pdf/2003.13732)]
+
+- Fast and Robust Certifiable Estimation of the Relative Pose Between Two Calibrated Cameras, *JMIV, 2021*. [[Paper](https://arxiv.org/pdf/2101.08524)] [[Code](https://github.com/mergarsal/FastCertRelPose)]
 
 - An Efficient Solution to Non-Minimal Case Essential Matrix Estimation, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/1903.09067)] [[Code](https://github.com/jizhaox/npt-pose)]
 
@@ -401,15 +401,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map, *IJRR, 2025*. [[Paper](https://arxiv.org/pdf/2308.12418)]
   
-#### **POP for Relative Pose Estimation**
+#### **Moment-SOS Relaxation for Relative Pose Estimation**
 
 - Estimating the Fundamental Matrix via Constrained Least-Squares: A Convex Approach, *TPAMI, 2002*. [[Paper](https://mi.eng.cam.ac.uk/~cipolla/publications/article/2002-PAMI-fundamental.pdf)]
 
 - SDP Relaxations for Quadratic Optimization Problems Derived from Polynomial Optimization Problems, *APJOR, 2010*. [[Paper](https://s3.us.cloud-object-storage.appdomain.cloud/res-files/1885-MKqop.pdf)]
 
 - Rank-Constrained Fundamental Matrix Estimation by Polynomial Global Optimization Versus the Eight-Point Algorithm, *JMIV, 2014*. [[Paper](https://arxiv.org/pdf/1403.4806)]
-
-- 
 
 - A Convex Optimization Approach to Robust Fundamental Matrix Estimation, *CVPR, 2015*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Cheng_A_Convex_Optimization_2015_CVPR_paper.pdf)]
 
@@ -419,16 +417,19 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **GNC for Relative Pose Estimation**
 
-- Fast and Robust Certifiable Estimation of the Relative Pose Between Two Calibrated Cameras, *JMIV, 2021*. [[Paper](https://arxiv.org/pdf/2101.08524)] [[Code](https://github.com/mergarsal/FastCertRelPose)]
+
   
 #### **Hybrid for Relative Pose Estimation**
 
-- Scalable Distance-based Multi-Agent Relative State Estimation via Block Multiconvex Optimization, *RSS, 2024*. [[Paper](https://arxiv.org/pdf/2405.20883)]
+
+
 
 
 #### **Unknown**
 
 - Camera Displacement via Constrained Minimization of the Algebraic Error, *TPAMI,2009*. [[Paper](https://ieeexplore.ieee.org/abstract/document/4731224)]
+
+- Globally Optimal Relative Pose Estimation Using Affine Correspondences With Known Vertical Direction, *TIM, 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10121337)]
 
 ##
 
