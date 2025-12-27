@@ -371,8 +371,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Optimal Relative Pose with Unknown Correspondences, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Fredriksson_Optimal_Relative_Pose_CVPR_2016_paper.pdf)]
 
-- Motion Estimation for Multi-Camera Systems using Global Optimization, *CVPR, 2008*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/KimLiHartley:CVPR08.pdf)]
-
 - Globally Optimal Inlier Set Maximization With Unknown Rotation and Focal Length, *ECCV, 2014*. [[Paper](https://people.inf.ethz.ch/pomarc/pubs/BazinECCV14.pdf)]
 
 - Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles, *ICRA, 2020*. [[Paper](https://arxiv.org/pdf/2203.00291)]
