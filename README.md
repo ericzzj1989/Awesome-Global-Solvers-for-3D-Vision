@@ -357,6 +357,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally Optimal Affine Epipolar Geometry from Apparent Contours, *ICCV, 2009*. [[Paper](https://ieeexplore.ieee.org/document/5459147)]
 
+- Motion Estimation for Nonoverlapping Multicamera Rigs: Linear Algebraic and $L_\infty$ Geometric Solutions, *TPAMI, 2009*. [[Paper](https://users.cecs.anu.edu.au/~jaehak/paper/Kim_et_al_TPAMI2010.pdf)]
+
 - A Branch and Contract Algorithm for Globally Optimal Fundamental Matrix Estimation, *CVPR, 2011*. [[Paper](https://ieeexplore.ieee.org/document/5995352)]
 
 - Direct Optimization of Frame-to-Frame Rotation, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Kneip_Direct_Optimization_of_2013_ICCV_paper.pdf)]
