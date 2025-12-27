@@ -355,6 +355,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **BnB for Relative Pose Estimation**
 
+- Global Optimization through Searching Rotation Space and Optimal Estimation of the Essential Matrix, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4408896)]
+
 - Motion Estimation for Multi-Camera Systems using Global Optimization, *CVPR, 2008*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/KimLiHartley:CVPR08.pdf)]
 
 - Two View Geometry Estimation with Outliers, *BMVC, 2009*. [[Paper](https://bmva-archive.org.uk/bmvc/2009/Papers/Paper431/Paper431.pdf)]
@@ -667,8 +669,6 @@ This is an active repository, you can watch for following the latest advances. I
 #### **BnB**
 
 - Practical Global Optimization for Multiview Geometry, *ECCV, 2006*. [[Paper](https://homes.cs.washington.edu/~sagarwal/optimal.pdf)]
-
-- Global Optimization through Searching Rotation Space and Optimal Estimation of the Essential Matrix, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4408896)]
 
 - Practical Global Optimization for Multiview Geometry, *IJCV, 2008*. [[Paper](https://homes.cs.washington.edu/~sagarwal/kahl-agarwal-etal-ijcv-07.pdf)]
 
