@@ -353,6 +353,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **BnB for Relative Pose Estimation**
 
+- Motion Estimation for Multi-Camera Systems using Global Optimization, *CVPR, 2008*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/KimLiHartley:CVPR08.pdf)]
+
 - Two View Geometry Estimation with Outliers, *BMVC, 2009*. [[Paper](https://bmva-archive.org.uk/bmvc/2009/Papers/Paper431/Paper431.pdf)]
 
 - Globally Optimal Affine Epipolar Geometry from Apparent Contours, *ICCV, 2009*. [[Paper](https://ieeexplore.ieee.org/document/5459147)]
