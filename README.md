@@ -419,8 +419,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 - SPLP: A Certifiably Globally Optimal Solution to the Relative Pose Estimation Problem Using Points and Line Pairs, *JIN, 2022*. [[Paper](https://www.worldscientific.com/doi/abs/10.1142/S0219265921430453)]
 
-#### **GNC for Relative Pose Estimation**
+#### **Other relaxation for Relative Pose Estimation**
 
+- Visual Odometry for Non-Overlapping Views Using Second-Order Cone Programming, *ACCV, 2007*. [[Paper](https://users.cecs.anu.edu.au/~jaehak/paper/Kim_et_al_ACCV2007.pdf)]
 
   
 #### **Hybrid for Relative Pose Estimation**
