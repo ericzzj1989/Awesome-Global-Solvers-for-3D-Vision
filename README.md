@@ -713,6 +713,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Outlier Removal Using Duality, *CVPR, 2010*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-etal-cvpr-10.pdf)] [[Code](https://www.maths.lth.se/matematiklth/personal/calle/Outl_dual/Outl_dual.html)]
 
+- An Adversarial Optimization Approach to Efficient Outlier Removal, *ICCV, 2011*. [[Paper](https://media.adelaide.edu.au/acvt/Publications/2011/2011-An%20Adversarial%20Optimization%20Approach%20to%20Efficient%20Outlier%20Removal.pdf)]
+
 - Optimal Geometric Fitting Under the Truncated $L_2$-Norm, *CVPR, 2013*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Ask_Optimal_Geometric_Fitting_2013_CVPR_paper.pdf)]
 
 - Convex Relaxations of SE(2) and SE(3) for Visual Pose Estimation, *ICRA, 2014*. [[Paper](https://arxiv.org/pdf/1401.3700)]
