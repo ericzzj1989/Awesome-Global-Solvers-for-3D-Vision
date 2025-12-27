@@ -377,6 +377,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles, *ICRA, 2020*. [[Paper](https://arxiv.org/pdf/2203.00291)]
 
+- Globally Optimal Relative Pose Estimation for Camera on a Selfie Stick, *ICRA, 2020*. [[Paper](https://ieeexplore.ieee.org/document/9196921)]
+
 - Globally Optimal Consensus Maximization for Relative Pose Estimation With Known Gravity Direction, *RAL, 2021*. [[Paper](https://mediatum.ub.tum.de/doc/1613526/fwd04tq7nzvuegw23cpsnrcq5.Globally_Optimal_Consensus_Maximization_for_Relative_Pose_Estimation_With_Known_Gravity_Direction.pdf)] [[Code](https://github.com/Liu-Yinlong/Globally-Optimal-Consensus-Maximization-for-Relative-Pose-Estimation-with-Known-Gravity-Direction)]
 
 - Globally-Optimal Inlier Maximization for Relative Pose Estimation Under Planar Motion, *Frontiers in Neurorobotics, 2022*. [[Paper](https://mediatum.ub.tum.de/doc/1649876/ldzwfew4eb3e2m1r71ktg6szj.fnbot-16-820703.pdf)]
