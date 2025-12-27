@@ -369,11 +369,11 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Optimal Essential Matrix Estimation via Inlier-Set Maximization, *ECCV, 2014*. [[Paper](https://jlyang.org/eccv14_optimalematrix.pdf)]
 
+- Globally Optimal Inlier Set Maximization With Unknown Rotation and Focal Length, *ECCV, 2014*. [[Paper](https://people.inf.ethz.ch/pomarc/pubs/BazinECCV14.pdf)]
+
 - Practical Robust Two-View Translation Estimation, *CVPR, 2015*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Fredriksson_Practical_Robust_Two-View_2015_CVPR_paper.pdf)]
 
 - Optimal Relative Pose with Unknown Correspondences, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Fredriksson_Optimal_Relative_Pose_CVPR_2016_paper.pdf)]
-
-- Globally Optimal Inlier Set Maximization With Unknown Rotation and Focal Length, *ECCV, 2014*. [[Paper](https://people.inf.ethz.ch/pomarc/pubs/BazinECCV14.pdf)]
 
 - Efficient Globally-Optimal Correspondence-Less Visual Odometry for Planar Ground Vehicles, *ICRA, 2020*. [[Paper](https://arxiv.org/pdf/2203.00291)]
 
