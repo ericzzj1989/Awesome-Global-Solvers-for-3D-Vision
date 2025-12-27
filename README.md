@@ -55,6 +55,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Branch-and-Bound Algorithms: A Survey of Recent Advances in Searching, Branching, and Pruning, *Discrete Optimization, 2016*. [[Paper](https://www.sciencedirect.com/science/article/pii/S1572528616000062)]
 
+- A Generic Interval Branch and Bound Algorithm for Parameter Estimation, *Journal of Global Optimization, 2019*. [[Paper](https://www.lirmm.fr/~trombetton/publis/bbestim_jogo_2018.pdf)]
+
 ### Semidefinite Programming (SDP)
 
 - Semidefinite Programming Relaxations of Nonconvex Quadratic Optimization, *Handbook of Semidefinite Programming, 2000*. [[Paper](https://www.math.uwaterloo.ca/~hwolkowi/henry/reports/chapqqps.pdf)]
