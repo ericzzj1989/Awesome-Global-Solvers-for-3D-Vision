@@ -417,6 +417,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Estimating the Fundamental Matrix via Constrained Least-Squares: A Convex Approach, *TPAMI, 2002*. [[Paper](https://mi.eng.cam.ac.uk/~cipolla/publications/article/2002-PAMI-fundamental.pdf)]
 
+- New Fundamental Matrix Estimation Method Using Global Optimization, *ICCASM, 2010*. [[Paper](https://ieeexplore.ieee.org/document/5620116)]
+
 - Rank-Constrained Fundamental Matrix Estimation by Polynomial Global Optimization Versus the Eight-Point Algorithm, *JMIV, 2014*. [[Paper](https://arxiv.org/pdf/1403.4806)]
 
 - A Convex Optimization Approach to Robust Fundamental Matrix Estimation, *CVPR, 2015*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Cheng_A_Convex_Optimization_2015_CVPR_paper.pdf)]
