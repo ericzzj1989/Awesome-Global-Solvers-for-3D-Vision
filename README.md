@@ -431,18 +431,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Visual Odometry for Non-Overlapping Views Using Second-Order Cone Programming, *ACCV, 2007*. [[Paper](https://users.cecs.anu.edu.au/~jaehak/paper/Kim_et_al_ACCV2007.pdf)]
 
-  
-#### **Hybrid for Relative Pose Estimation**
-
-
-
-
-
-#### **Unknown**
-
 - Camera Displacement via Constrained Minimization of the Algebraic Error, *TPAMI,2009*. [[Paper](https://ieeexplore.ieee.org/abstract/document/4731224)]
-
-- Globally Optimal Relative Pose Estimation Using Affine Correspondences With Known Vertical Direction, *TIM, 2023*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10121337)]
 
 ##
 
