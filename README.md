@@ -409,8 +409,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Certifiable Planar Relative Pose Estimation with Gravity Prior, *CVIU, 2024*. [[Paper](https://mapir.isa.uma.es/papersrepo/2024/mergarsal_cert_rpp_planar_prior.pdf)] [[Code](https://github.com/mergarsal/RedCertRPpPrior)]
 
-- On Semidefinite Relaxations for Matrix-Weighted State-Estimation Problems in Robotics, *TRO, 2024*. [[Paper](https://arxiv.org/pdf/2308.07275)]
-
 - Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map, *IJRR, 2025*. [[Paper](https://arxiv.org/pdf/2308.12418)]
   
 #### **Moment-SOS Relaxation for Relative Pose Estimation**
@@ -683,6 +681,10 @@ This is an active repository, you can watch for following the latest advances. I
 - Globally Optimal Linear Model Fitting with Unit-Norm Constraint, *IJCV, 2022*. [[Paper](https://link.springer.com/article/10.1007/s11263-022-01574-z)]
 
 - Accelerating Globally Optimal Consensus Maximization in Geometric Vision, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2304.05156)]
+
+#### **Shor’s Relaxation**
+
+- On Semidefinite Relaxations for Matrix-Weighted State-Estimation Problems in Robotics, *TRO, 2024*. [[Paper](https://arxiv.org/pdf/2308.07275)]
 
 #### **POP**
 
