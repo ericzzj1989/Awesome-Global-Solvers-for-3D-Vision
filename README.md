@@ -560,6 +560,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Distributed Certifiably Correct Pose-Graph Optimization, *TRO, 2019*. [[Paper](https://arxiv.org/pdf/1911.03721)] [[Code](https://github.com/mit-acl/dpgo)]
 
+- An Efficient Global Optimality Certificate for Landmark-Based SLAM, *RAL, 2023*. [[Paper](https://arxiv.org/pdf/2206.12961)]
+
 - SIM-Sync: From Certifiably Optimal Synchronization over the 3D Similarity Group to Scene Reconstruction with Learned Depth, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2309.05184)]
 
 - Certifiably Correct Range-Aided SLAM, *TRO, 2024*. [[Paper](https://arxiv.org/pdf/2302.11614)] [[Code](https://github.com/MarineRoboticsGroup/cora)]
