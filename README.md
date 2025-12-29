@@ -18,7 +18,7 @@ This is an active repository, you can watch for following the latest advances. I
 ## Table of Contents
   - [**Theory**](#theory)
     - [Branch-and-Bound (BnB)](#branch-and-bound-bnb)
-    - [Shor’s Relaxation](#shor's-relaxation)
+    - [Shor’s Relaxation](#shors-relaxation)
     - [Moment–SOS Relaxation](#moment-sos-relaxation)
     - [Consensus Maximization (CM)](#consensus-maximization-cm)
     - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
