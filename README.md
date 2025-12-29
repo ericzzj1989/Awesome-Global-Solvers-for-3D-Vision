@@ -18,8 +18,8 @@ This is an active repository, you can watch for following the latest advances. I
 ## Table of Contents
   - [**Theory**](#theory)
     - [Branch-and-Bound (BnB)](#branch-and-bound-bnb)
-    - [Semidefinite Programming (SDP)](#semidefinite-programming-sdp)
-    - [Polynomial Optimization (POP)](#polynomial-optimization-pop)
+    - [Shor’s Relaxation](#shor's-relaxation)
+    - [Moment–SOS Relaxation](#moment-sos-relaxation)
     - [Consensus Maximization (CM)](#consensus-maximization-cm)
     - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
     - [Adaptive Trimming (ADAPT)](#adaptive-trimming-adapt)
@@ -57,7 +57,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Generic Interval Branch and Bound Algorithm for Parameter Estimation, *Journal of Global Optimization, 2019*. [[Paper](https://www.lirmm.fr/~trombetton/publis/bbestim_jogo_2018.pdf)]
 
-### Semidefinite Programming (SDP)
+### Shor’s Relaxation
 
 - Semidefinite Programming Relaxations of Nonconvex Quadratic Optimization, *Handbook of Semidefinite Programming, 2000*. [[Paper](https://www.math.uwaterloo.ca/~hwolkowi/henry/reports/chapqqps.pdf)]
 
@@ -91,7 +91,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Fast, Scalable, Warm-Start Semidefinite Programming with Spectral Bundling and Sketching, *ICML, 2024*. [[Paper](https://arxiv.org/pdf/2312.11801)] [[Code](https://github.com/rangell/usbs)]
 
-### Polynomial Optimization (POP)
+### Moment–SOS Relaxation
 
 - Global Optimization with Polynomials and the Problem of Moments, *SIAM Journal on Optimization, 2001*. [[Paper](https://www.researchgate.net/profile/Jean-Bernard-Lasserre/publication/2616595_Global_Optimization_With_Polynomials_And_The_Problem_Of_Moments/links/00b4951a5d937799ce000000/Global-Optimization-With-Polynomials-And-The-Problem-Of-Moments.pdf?origin=publicationDetail&_sg%5B0%5D=Xyl38RCrtJ0aF_kzChsHwdtFj8QBm0yfZVzP71GtkN8FZH415jgfha6L8cJnnhjiCjNDbhUMXkKcVUWHBu7GYg.M0Ma7_6QSgTIehOOwu3f2m5Xcf8A2_GwygeG8yxPrGcm_QIrNT8wDeBLoq4WGwckjoj3baN0OM4tRpf-HJT8IA&_sg%5B1%5D=fC2q7sMrsxepcN2mX_4buByuH8NH1LOWFTCwBBmwvbz9LjZYYpSKO3fd3jLo9ORY5PLtAt3V7LLjg5XBh-fvyatbJLMHnEJz2XGgMoiQ3u7t.M0Ma7_6QSgTIehOOwu3f2m5Xcf8A2_GwygeG8yxPrGcm_QIrNT8wDeBLoq4WGwckjoj3baN0OM4tRpf-HJT8IA&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19)]
 
@@ -100,6 +100,8 @@ This is an active repository, you can watch for following the latest advances. I
 - Convergent SDP‐Relaxations in Polynomial Optimization with Sparsity, *SIAM Journal on Optimization, 2006*. [[Paper](https://www.researchgate.net/profile/Jean-Bernard-Lasserre/publication/221333756_Convergent_SDP-Relaxations_in_Polynomial_Optimization_with_Sparsity/links/00b4951a3bedde534e000000/Convergent-SDP-Relaxations-in-Polynomial-Optimization-with-Sparsity.pdf)]
 
 - Sums of Squares, Moment Matrices and Optimization Over Polynomials, *Emerging Applications of Algebraic Geometry, 2008*. [[Paper](https://homepages.cwi.nl/~monique/files/moment-ima-update-new.pdf)]
+
+- SDP Relaxations for Quadratic Optimization Problems Derived from Polynomial Optimization Problems, *APJOR, 2010*. [[Paper](https://s3.us.cloud-object-storage.appdomain.cloud/res-files/1885-MKqop.pdf)]
 
 - Optimality Conditions and Finite Convergence of Lasserre's Hierarchy, *Mathematical programming, 2014*. [[Paper](https://arxiv.org/pdf/1206.0319)]
 
@@ -414,8 +416,6 @@ This is an active repository, you can watch for following the latest advances. I
 #### **Moment-SOS Relaxation for Relative Pose Estimation**
 
 - Estimating the Fundamental Matrix via Constrained Least-Squares: A Convex Approach, *TPAMI, 2002*. [[Paper](https://mi.eng.cam.ac.uk/~cipolla/publications/article/2002-PAMI-fundamental.pdf)]
-
-- SDP Relaxations for Quadratic Optimization Problems Derived from Polynomial Optimization Problems, *APJOR, 2010*. [[Paper](https://s3.us.cloud-object-storage.appdomain.cloud/res-files/1885-MKqop.pdf)]
 
 - Rank-Constrained Fundamental Matrix Estimation by Polynomial Global Optimization Versus the Eight-Point Algorithm, *JMIV, 2014*. [[Paper](https://arxiv.org/pdf/1403.4806)]
 
