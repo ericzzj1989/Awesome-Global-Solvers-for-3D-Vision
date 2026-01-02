@@ -417,6 +417,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Estimating the Fundamental Matrix via Constrained Least-Squares: A Convex Approach, *TPAMI, 2002*. [[Paper](https://mi.eng.cam.ac.uk/~cipolla/publications/article/2002-PAMI-fundamental.pdf)]
 
+- Camera Displacement via Constrained Minimization of the Algebraic Error, *TPAMI, 2009*. [[Paper](https://ieeexplore.ieee.org/abstract/document/4731224)]
+
 - New Fundamental Matrix Estimation Method Using Global Optimization, *ICCASM, 2010*. [[Paper](https://ieeexplore.ieee.org/document/5620116)]
 
 - Rank-Constrained Fundamental Matrix Estimation by Polynomial Global Optimization Versus the Eight-Point Algorithm, *JMIV, 2014*. [[Paper](https://arxiv.org/pdf/1403.4806)]
@@ -430,8 +432,6 @@ This is an active repository, you can watch for following the latest advances. I
 #### **Other relaxation for Relative Pose Estimation**
 
 - Visual Odometry for Non-Overlapping Views Using Second-Order Cone Programming, *ACCV, 2007*. [[Paper](https://users.cecs.anu.edu.au/~jaehak/paper/Kim_et_al_ACCV2007.pdf)]
-
-- Camera Displacement via Constrained Minimization of the Algebraic Error, *TPAMI, 2009*. [[Paper](https://ieeexplore.ieee.org/abstract/document/4731224)]
 
 ##
 
