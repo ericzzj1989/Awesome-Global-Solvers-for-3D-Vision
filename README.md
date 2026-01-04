@@ -163,7 +163,11 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Rotation Averaging with the Chordal Distance: Global Minimizers and Strong Duality, *TPAMI, 2019*. [[Paper](https://ieeexplore.ieee.org/document/8770111)]
 
+- Shonan Rotation Averaging: Global Optimality by Surfing $SO(p)^n$, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.02737)] [[Code](https://github.com/dellaert/ShonanAveraging)] [[Project Page](https://dellaert.github.io/ShonanAveraging/index.html)]
+
 - Rotation Coordinate Descent for Fast Globally Optimal Rotation Averaging, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2103.08292)] [[Code](https://github.com/sfchng/Rotation_Coordinate_Descent)]
+
+- Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2101.09116)] [[Code](https://github.com/ethz-asl/hybrid-rotation-averaging)]
 
 - Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs, *ICCV, 2021*. [[Paper](https://arxiv.org/pdf/2109.08046)] [[Code](https://github.com/gabmoreira/maks)]
 
@@ -177,7 +181,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally Optimal Estimates for Rotation Averaging Problems, *IHMSC, 2014*. [[Paper](https://ieeexplore.ieee.org/document/6911507)]
 
-#### **Others**
+#### **Other Relaxation for Rotation Averaging**
 
 - Rotation Averaging and Weak Convexity, *International Symposium on Mathematical Theory of Networks and Systems, 2010*. [[Paper](https://trumpf.id.au/pubs/hartley_trumpf_dai_MTNS2010.pdf)]
 
@@ -189,21 +193,15 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Robust Group Synchronization via Quadratic Programming, *ICML, 2022*. [[Paper](https://arxiv.org/pdf/2206.08994)] [[Code](https://github.com/ColeWyeth/DESC)]
 
-#### **Hybrid for Rotation Averaging**
-
-- Shonan Rotation Averaging: Global Optimality by Surfing $SO(p)^n$, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.02737)] [[Code](https://github.com/dellaert/ShonanAveraging)] [[Project Page](https://dellaert.github.io/ShonanAveraging/index.html)]
-
-- Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2101.09116)] [[Code](https://github.com/ethz-asl/hybrid-rotation-averaging)]
-
 ##
 
 ### Translation Averaging
 
-#### **SDP for Translation Averaging**
+#### **Shor’s Relaxation for Translation Averaging**
 
 - Stable Camera Motion Estimation Using Convex Programming, *SIAM Journal on Imaging Sciences, 2015*. [[Paper](https://arxiv.org/pdf/1312.5047)]
 
-#### **Others**
+#### **Other Relaxation for Translation Averaging**
 
 - Recovering Camera Motion Using $l_{\infty}$ Minimization, *CVPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1640890)]
 
