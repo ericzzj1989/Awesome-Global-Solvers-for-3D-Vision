@@ -147,7 +147,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Rotation Averaging
 
-#### **SDP for Rotation Averaging**
+#### **Shor’s Relaxation for Rotation Averaging**
 
 - Angular Synchronization by Eigenvectors and Semidefinite Programming, *Applied and Computational Harmonic Analysis, 2011*. [[Paper](https://arxiv.org/pdf/0905.3174)]
 
@@ -173,7 +173,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Certifiably Optimal Anisotropic Rotation Averaging, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.07353)] [[Code](https://github.com/ylochman/anisotropic-ra)] [[Project Page](https://ylochman.github.io/anisotropic-ra)]
 
-#### **POP for Rotation Averaging**
+#### **Moment-SOS Relaxation for Rotation Averaging**
 
 - Globally Optimal Estimates for Rotation Averaging Problems, *IHMSC, 2014*. [[Paper](https://ieeexplore.ieee.org/document/6911507)]
 
