@@ -389,7 +389,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally-Optimal Inlier Maximization for Relative Pose Estimation Under Planar Motion, *Frontiers in Neurorobotics, 2022*. [[Paper](https://mediatum.ub.tum.de/doc/1649876/ldzwfew4eb3e2m1r71ktg6szj.fnbot-16-820703.pdf)]
 
-#### **Shor’s relaxation for Relative Pose Estimation**
+#### **Shor’s Relaxation for Relative Pose Estimation**
 
 - A Certifiably Globally Optimal Solution to the Non-Minimal Relative Pose Problem, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3968.pdf)]
 
@@ -475,8 +475,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Fast and Deterministic (3+1)DOF Point Set Registration with Gravity Prior, *ISPRS Journal of Photogrammetry and Remote Sensing, 2023*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271623000825)] [[Code](https://github.com/Xinyi-tum/Fast-and-Deterministic-Registration)]
 
-- QGORE: Quadratic-Time Guaranteed Outlier Removal for Point Cloud Registration, *TPAMI, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10091912)]
-
 - Scalable 3D Registration via Truncated Entry-wise Absolute Residuals, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2404.00915)] [[Code](https://github.com/tyhuang98/TEAR-release)]
 
 - Efficient and Robust Point Cloud Registration via Heuristics-Guided Parameter Search, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2404.06155)] [[Code](https://github.com/tyhuang98/HERE-release)]
@@ -489,7 +487,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Robust Point Cloud Registration via Geometric Overlapping Guided Rotation Search, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2508.17427)] [[Code](https://github.com/Bitzhaozheng/GMOR)]
   
-#### **SDP for 3D Registration**
+#### **Shor's Relaxation for 3D Registration**
 
 - Solving Quadratically Constrained Geometrical Problems using Lagrangian Duality, *ICPR, 2008*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-icpr-08.pdf)]
 
@@ -505,15 +503,19 @@ This is an active repository, you can watch for following the latest advances. I
 
 - GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2407.13537)] [[Code](https://github.com/WU-CVGL/GlobalPointer)] [[Project Page](https://bangyan101.github.io/GlobalPointer/)]
 
-#### **Others**
+#### **Other Relaxation for 3D Registration**
 
 - Global multiview registration using non-convex ADMM, *ICIP, 2017*. [[Paper](https://ieeexplore.ieee.org/document/8296429)]
 
-#### **Robust Improvement for 3D Registration**
+#### **GNC for 3D Registration**
+
+- On the Convergence of IRLS and Its Variants in Outlier-Robust Estimation, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_On_the_Convergence_of_IRLS_and_Its_Variants_in_Outlier-Robust_CVPR_2023_paper.pdf)] [[Code](https://github.com/liangzu/IRLS-CVPR2023)]
+
+#### **Robust Preprocessing for 3D Registration**
 
 - Guaranteed Outlier Removal for Point Cloud Registration with Correspondences, *TPAMI, 2017*. [[Paper](https://arxiv.org/pdf/1711.10209)]
 
-- On the Convergence of IRLS and Its Variants in Outlier-Robust Estimation, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_On_the_Convergence_of_IRLS_and_Its_Variants_in_Outlier-Robust_CVPR_2023_paper.pdf)] [[Code](https://github.com/liangzu/IRLS-CVPR2023)]
+- QGORE: Quadratic-Time Guaranteed Outlier Removal for Point Cloud Registration, *TPAMI, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10091912)]
 
 ##
 
