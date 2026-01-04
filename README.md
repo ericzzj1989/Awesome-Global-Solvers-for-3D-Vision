@@ -513,7 +513,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Guaranteed Outlier Removal for Point Cloud Registration with Correspondences, *TPAMI, 2017*. [[Paper](https://arxiv.org/pdf/1711.10209)]
 
-- On the Convergence of IRLS and Its Variants in Outlier-Robust Estimation, *CVPR, 2023*. [[Paper](http://openaccess.thecvf.com/content/CVPR2023/html/Peng_On_the_Convergence_of_IRLS_and_Its_Variants_in_Outlier-Robust_CVPR_2023_paper.html)] [[Code](https://github.com/liangzu/IRLS-CVPR2023)]
+- On the Convergence of IRLS and Its Variants in Outlier-Robust Estimation, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Peng_On_the_Convergence_of_IRLS_and_Its_Variants_in_Outlier-Robust_CVPR_2023_paper.pdf)] [[Code](https://github.com/liangzu/IRLS-CVPR2023)]
 
 ##
 
