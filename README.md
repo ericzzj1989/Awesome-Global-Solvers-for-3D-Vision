@@ -589,11 +589,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Semidefinite Relaxations for Robust Multiview Triangulation, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2301.11431)] [[Code](https://github.com/Linusnie/robust-triangulation-relaxations)]
 
-#### **Hybrid for Triangulation**
-
-- Certifiable Solver for Real-Time N-View Triangulation, *RAL, 2023*. [[Paper](https://mapir.isa.uma.es/papersrepo/2023/2023_mercedes_RAL_Nview_triangulation_paper.pdf)] [[Code](https://github.com/mergarsal/FastNViewTriangulation)]
-
-#### **Others**
+#### **Other Relaxation for Triangulation**
 
 - A Practical Algorithm for $L_\infty$ Triangulation with Outliers, *CVPR, 2007*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/Linfty_CameraReady_ver3.9.pdf)]
 
@@ -602,6 +598,8 @@ This is an active repository, you can watch for following the latest advances. I
 - L-Infinity Norm Minimization in the Multiview Triangulation, *AICI, 2010*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
 
 - Robust multiview $L_2$ triangulation via optimal inlier selection and 3D structure refinement, *PR, 2014*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320314001204)]
+
+- Certifiable Solver for Real-Time N-View Triangulation, *RAL, 2023*. [[Paper](https://mapir.isa.uma.es/papersrepo/2023/2023_mercedes_RAL_Nview_triangulation_paper.pdf)] [[Code](https://github.com/mergarsal/FastNViewTriangulation)]
 
 ##
 
