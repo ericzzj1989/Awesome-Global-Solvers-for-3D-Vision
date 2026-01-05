@@ -599,7 +599,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Triangulation in Omnidirectional Vision under the $L_\infty$-Norm, *ICINFA, 2010*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b367f4809c77958ba149c3d69cf96bc7abed3560)]
 
-- L-Infinity Norm Minimization in the Multiview Triangulation, *CCC, 2012*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
+- L-Infinity Norm Minimization in the Multiview Triangulation, *AICI, 2010*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
 
 - Robust multiview $L_2$ triangulation via optimal inlier selection and 3D structure refinement, *PR, 2014*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320314001204)]
 
