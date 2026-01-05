@@ -679,7 +679,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - On Semidefinite Relaxations for Matrix-Weighted State-Estimation Problems in Robotics, *TRO, 2024*. [[Paper](https://arxiv.org/pdf/2308.07275)]
 
-#### **POP**
+#### **Moment-SOS Relaxation**
 
 - Globally Optimal Estimates for Geometric Reconstruction Problems, *ICCV, 2005*. [[Paper](https://vision.cornell.edu/se3/wp-content/uploads/2014/09/iccv05a.pdf)]
 
