@@ -579,7 +579,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Triangulation of Points, Lines and Conics, *JMIV, 2008*. [[Paper](https://lucris.lub.lu.se/ws/portalfiles/portal/2621089/1245431.pdf)]
   
-#### **SDP for Triangulation**
+#### **Shor’s Relaxation for Triangulation**
 
 - Multi-View Structure Computation without Explicitly Estimating Motion, *CVPR, 2010*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/cvpr10a.pdf)]
 
