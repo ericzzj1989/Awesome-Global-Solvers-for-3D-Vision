@@ -641,7 +641,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 #### **Others**
 
-- Projective Bundle Adjustment from Arbitrary Initialization using the Variable Projection Method， *ECCV, 2016*. [[Paper](https://core.ac.uk/download/pdf/83939266.pdf)]
+- Projective Bundle Adjustment from Arbitrary Initialization using the Variable Projection Method, *ECCV, 2016*. [[Paper](https://core.ac.uk/download/pdf/83939266.pdf)]
 
 - pOSE: Pseudo Object Space Error for Initialization-Free Bundle Adjustment, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_pOSE_Pseudo_Object_CVPR_2018_paper.pdf)]
 
