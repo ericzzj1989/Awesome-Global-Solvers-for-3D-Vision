@@ -719,6 +719,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Convex Relaxations of SE(2) and SE(3) for Visual Pose Estimation, *ICRA, 2014*. [[Paper](https://arxiv.org/pdf/1401.3700)]
 
+- Guaranteed Outlier Removal with Mixed Integer Linear Programs, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Chin_Guaranteed_Outlier_Removal_CVPR_2016_paper.pdf)]
+
 - Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)]
 
 - On the Tightness of Semidefinite Relaxations for Rotation Estimation, *JMIV, 2022*. [[Paper](https://arxiv.org/pdf/2101.02099)]
