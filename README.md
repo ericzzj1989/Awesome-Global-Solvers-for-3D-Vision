@@ -26,16 +26,16 @@ This is an active repository, you can watch for following the latest advances. I
     - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
     - [Adaptive Trimming (ADAPT)](#adaptive-trimming-adapt)
 - [**Application**](#application)
-    - [Rotation Averaging](#rotation-averaging)
-    - [Translation Averaging](#translation-averaging)
     - [Wahba Problem](#wahba-problem)
     - [Absolute Pose Estimation (PnP)](#absolute-pose-estimation-pnp)
     - [Relative Pose Estimation](#relative-pose-estimation)
     - [3D Registration](#3d-registration)
-    - [Pose Graph Optimization](#pose-graph-optimization)
+    - [Rotation Averaging](#rotation-averaging)
+    - [Translation Averaging](#translation-averaging)
     - [Triangulation](#triangulation)
-    - [Vanishing Point Estimation](#vanishing-point-estimation)
+    - [Pose Graph Optimization](#pose-graph-optimization)
     - [Bundle Adjustment](#bundle-adjustment)
+    - [Vanishing Point Estimation](#vanishing-point-estimation)
     - [All-in-One](#all-in-one)
 - [**Companion Tutorial Code**](#companion-tutorial-code)
 - [**Other Resources**](#other-resources)
@@ -43,7 +43,6 @@ This is an active repository, you can watch for following the latest advances. I
     - [Tutorials](#tutorials)
     - [Lectures](#lectures)
     - [Talks \& Seminars](#talks--seminars)
-
 
 ---
 
@@ -148,82 +147,6 @@ This is an active repository, you can watch for following the latest advances. I
 ---
 
 ## Application
-
-### Rotation Averaging
-
-#### **Shor’s Relaxation for Rotation Averaging**
-
-- Angular Synchronization by Eigenvectors and Semidefinite Programming, *Applied and Computational Harmonic Analysis, 2011*. [[Paper](https://arxiv.org/pdf/0905.3174)]
-
-- Global Motion Estimation from Point Matches, *3DIMPVT, 2012*. [[Paper](https://homes.cs.washington.edu/~kemelmi/sfm_3dimpvt12.pdf)]
-  
-- Simultaneous Multiple Rotation Averaging Using Lagrangian Duality, *ACCV, 2012*. [[Paper](https://scispace.com/pdf/simultaneous-multiple-rotation-averaging-using-lagrangian-1ecpzvpaw8.pdf)]
-
-- Tightness of the Maximum Likelihood Semidefinite Relaxation for Angular Synchronization, *Mathematical Programming, 2017*. [[Paper](https://arxiv.org/pdf/1411.3272)]
-
-- Near-Optimal Bounds for Phase Synchronization, *SIAM Journal on Optimization, 2018*. [[Paper](https://arxiv.org/pdf/1703.06605)]
-
-- Rotation Averaging and Strong Duality, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1705.01362)]
-
-- Rotation Averaging with the Chordal Distance: Global Minimizers and Strong Duality, *TPAMI, 2019*. [[Paper](https://ieeexplore.ieee.org/document/8770111)]
-
-- Shonan Rotation Averaging: Global Optimality by Surfing $SO(p)^n$, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.02737)] [[Code](https://github.com/dellaert/ShonanAveraging)] [[Project Page](https://dellaert.github.io/ShonanAveraging/index.html)]
-
-- Rotation Coordinate Descent for Fast Globally Optimal Rotation Averaging, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2103.08292)] [[Code](https://github.com/sfchng/Rotation_Coordinate_Descent)]
-
-- Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2101.09116)] [[Code](https://github.com/ethz-asl/hybrid-rotation-averaging)]
-
-- Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs, *ICCV, 2021*. [[Paper](https://arxiv.org/pdf/2109.08046)] [[Code](https://github.com/gabmoreira/maks)]
-
-- Rotation Averaging: A Primal-Dual Method and Closed-Forms in Cycle Graphs, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2406.18564)] [[Code](https://github.com/gabmoreira/maks)]
-
-- Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map, *IJRR, 2025*. [[Paper](https://arxiv.org/pdf/2308.12418)]
-
-- Certifiably Optimal Anisotropic Rotation Averaging, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.07353)] [[Code](https://github.com/ylochman/anisotropic-ra)] [[Project Page](https://ylochman.github.io/anisotropic-ra)]
-
-#### **Moment-SOS Relaxation for Rotation Averaging**
-
-- Globally Optimal Estimates for Rotation Averaging Problems, *IHMSC, 2014*. [[Paper](https://ieeexplore.ieee.org/document/6911507)]
-
-#### **Other Relaxation for Rotation Averaging**
-
-- Rotation Averaging and Weak Convexity, *International Symposium on Mathematical Theory of Networks and Systems, 2010*. [[Paper](https://trumpf.id.au/pubs/hartley_trumpf_dai_MTNS2010.pdf)]
-
-- Exact and Stable Recovery of Rotations for Robust Synchronization, *Information and Inference: A Journal of the IMA, 2013*. [[Paper](https://arxiv.org/pdf/1211.2441)]
-
-- Semidefinite Relaxations for Optimization Problems over Rotation Matrices, *CDC, 2014*. [[Paper](https://ecse.monash.edu/staff/james/rotationfiles/SPW_rot.pdf)]
-
-- Global Robust Image Rotation from Combined Weighted Averaging, *JPRS, 2017*. [[Paper](https://ris.utwente.nl/ws/portalfiles/portal/30048921/Reich2017global.pdf)]
-
-- Robust Group Synchronization via Quadratic Programming, *ICML, 2022*. [[Paper](https://arxiv.org/pdf/2206.08994)] [[Code](https://github.com/ColeWyeth/DESC)]
-
-##
-
-### Translation Averaging
-
-#### **Shor’s Relaxation for Translation Averaging**
-
-- Stable Camera Motion Estimation Using Convex Programming, *SIAM Journal on Imaging Sciences, 2015*. [[Paper](https://arxiv.org/pdf/1312.5047)]
-
-#### **Other Relaxation for Translation Averaging**
-
-- Recovering Camera Motion Using $l_{\infty}$ Minimization, *CVPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1640890)]
-
-- Global Fusion of Relative Motions for Robust, Accurate and Scalable Structure from Motion, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Moulon_Global_Fusion_of_2013_ICCV_paper.pdf)]
- 
-- Robust Camera Location Estimation by Convex Programming, *CVPR, 2015*. [[Paper](https://arxiv.org/pdf/1412.0165)]
-
-- ShapeFit and ShapeKick for Robust, Scalable Structure from Motion, *ECCV, 2016*. [[Paper](https://arxiv.org/pdf/1608.02165)]
-
-- Baseline Desensitizing in Translation Averaging, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1901.00643)]
-
-#### **Translation Averaging with Structure (a.k.a. Known Rotations)**
-
-- L1-Penalized Robust Estimation for a Class of Inverse Problems Arising in Multiview Geometry, *NeurIPS, 2009*. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2009/file/65ded5353c5ee48d0b7d48c591b8f430-Paper.pdf)]
-
-- Efficient Outlier Removal in Large Scale Global Structure-from-Motion, *arXiv, 2018*. [[Paper](https://arxiv.org/pdf/1808.03041)]
-
-## 
 
 ### Wahba Problem
 
@@ -521,6 +444,114 @@ This is an active repository, you can watch for following the latest advances. I
 
 ##
 
+### Rotation Averaging
+
+#### **Shor’s Relaxation for Rotation Averaging**
+
+- Angular Synchronization by Eigenvectors and Semidefinite Programming, *Applied and Computational Harmonic Analysis, 2011*. [[Paper](https://arxiv.org/pdf/0905.3174)]
+
+- Global Motion Estimation from Point Matches, *3DIMPVT, 2012*. [[Paper](https://homes.cs.washington.edu/~kemelmi/sfm_3dimpvt12.pdf)]
+  
+- Simultaneous Multiple Rotation Averaging Using Lagrangian Duality, *ACCV, 2012*. [[Paper](https://scispace.com/pdf/simultaneous-multiple-rotation-averaging-using-lagrangian-1ecpzvpaw8.pdf)]
+
+- Tightness of the Maximum Likelihood Semidefinite Relaxation for Angular Synchronization, *Mathematical Programming, 2017*. [[Paper](https://arxiv.org/pdf/1411.3272)]
+
+- Near-Optimal Bounds for Phase Synchronization, *SIAM Journal on Optimization, 2018*. [[Paper](https://arxiv.org/pdf/1703.06605)]
+
+- Rotation Averaging and Strong Duality, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1705.01362)]
+
+- Rotation Averaging with the Chordal Distance: Global Minimizers and Strong Duality, *TPAMI, 2019*. [[Paper](https://ieeexplore.ieee.org/document/8770111)]
+
+- Shonan Rotation Averaging: Global Optimality by Surfing $SO(p)^n$, *ECCV, 2020*. [[Paper](https://arxiv.org/pdf/2008.02737)] [[Code](https://github.com/dellaert/ShonanAveraging)] [[Project Page](https://dellaert.github.io/ShonanAveraging/index.html)]
+
+- Rotation Coordinate Descent for Fast Globally Optimal Rotation Averaging, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2103.08292)] [[Code](https://github.com/sfchng/Rotation_Coordinate_Descent)]
+
+- Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2101.09116)] [[Code](https://github.com/ethz-asl/hybrid-rotation-averaging)]
+
+- Rotation Averaging in a Split Second: A Primal-Dual Method and a Closed-Form for Cycle Graphs, *ICCV, 2021*. [[Paper](https://arxiv.org/pdf/2109.08046)] [[Code](https://github.com/gabmoreira/maks)]
+
+- Rotation Averaging: A Primal-Dual Method and Closed-Forms in Cycle Graphs, *arXiv, 2024*. [[Paper](https://arxiv.org/pdf/2406.18564)] [[Code](https://github.com/gabmoreira/maks)]
+
+- Certifiably Optimal Rotation and Pose Estimation Based on the Cayley Map, *IJRR, 2025*. [[Paper](https://arxiv.org/pdf/2308.12418)]
+
+- Certifiably Optimal Anisotropic Rotation Averaging, *ICCV, 2025*. [[Paper](https://arxiv.org/pdf/2503.07353)] [[Code](https://github.com/ylochman/anisotropic-ra)] [[Project Page](https://ylochman.github.io/anisotropic-ra)]
+
+#### **Moment-SOS Relaxation for Rotation Averaging**
+
+- Globally Optimal Estimates for Rotation Averaging Problems, *IHMSC, 2014*. [[Paper](https://ieeexplore.ieee.org/document/6911507)]
+
+#### **Other Relaxation for Rotation Averaging**
+
+- Rotation Averaging and Weak Convexity, *International Symposium on Mathematical Theory of Networks and Systems, 2010*. [[Paper](https://trumpf.id.au/pubs/hartley_trumpf_dai_MTNS2010.pdf)]
+
+- Exact and Stable Recovery of Rotations for Robust Synchronization, *Information and Inference: A Journal of the IMA, 2013*. [[Paper](https://arxiv.org/pdf/1211.2441)]
+
+- Semidefinite Relaxations for Optimization Problems over Rotation Matrices, *CDC, 2014*. [[Paper](https://ecse.monash.edu/staff/james/rotationfiles/SPW_rot.pdf)]
+
+- Global Robust Image Rotation from Combined Weighted Averaging, *JPRS, 2017*. [[Paper](https://ris.utwente.nl/ws/portalfiles/portal/30048921/Reich2017global.pdf)]
+
+- Robust Group Synchronization via Quadratic Programming, *ICML, 2022*. [[Paper](https://arxiv.org/pdf/2206.08994)] [[Code](https://github.com/ColeWyeth/DESC)]
+
+##
+
+### Translation Averaging
+
+#### **Shor’s Relaxation for Translation Averaging**
+
+- Stable Camera Motion Estimation Using Convex Programming, *SIAM Journal on Imaging Sciences, 2015*. [[Paper](https://arxiv.org/pdf/1312.5047)]
+
+#### **Other Relaxation for Translation Averaging**
+
+- Recovering Camera Motion Using $l_{\infty}$ Minimization, *CVPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1640890)]
+
+- Global Fusion of Relative Motions for Robust, Accurate and Scalable Structure from Motion, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Moulon_Global_Fusion_of_2013_ICCV_paper.pdf)]
+ 
+- Robust Camera Location Estimation by Convex Programming, *CVPR, 2015*. [[Paper](https://arxiv.org/pdf/1412.0165)]
+
+- ShapeFit and ShapeKick for Robust, Scalable Structure from Motion, *ECCV, 2016*. [[Paper](https://arxiv.org/pdf/1608.02165)]
+
+- Baseline Desensitizing in Translation Averaging, *CVPR, 2018*. [[Paper](https://arxiv.org/pdf/1901.00643)]
+
+#### **Translation Averaging with Structure (a.k.a. Known Rotations)**
+
+- L1-Penalized Robust Estimation for a Class of Inverse Problems Arising in Multiview Geometry, *NeurIPS, 2009*. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2009/file/65ded5353c5ee48d0b7d48c591b8f430-Paper.pdf)]
+
+- Efficient Outlier Removal in Large Scale Global Structure-from-Motion, *arXiv, 2018*. [[Paper](https://arxiv.org/pdf/1808.03041)]
+
+##
+
+### Triangulation
+
+#### **BnB for Triangulation**
+
+- A Fast Optimal Algorithm for $L_2$ Triangulation, *ACCV, 2007*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-540-76390-1_28)]
+
+- Triangulation of Points, Lines and Conics, *JMIV, 2008*. [[Paper](https://lucris.lub.lu.se/ws/portalfiles/portal/2621089/1245431.pdf)]
+  
+#### **Shor’s Relaxation for Triangulation**
+
+- Multi-View Structure Computation without Explicitly Estimating Motion, *CVPR, 2010*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/cvpr10a.pdf)]
+
+- A QCQP Approach to Triangulation, *ECCV, 2012*. [[Paper](https://arxiv.org/pdf/1207.7160)]
+
+- A Convex Relaxation to Compute the Nearest Structured Rank Deficient Matrix, *SIAM, 2021*. [[Paper](https://arxiv.org/pdf/1904.09661)] [[Code](https://github.com/diegcif/stls_sdp)]
+
+- Semidefinite Relaxations for Robust Multiview Triangulation, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2301.11431)] [[Code](https://github.com/Linusnie/robust-triangulation-relaxations)]
+
+#### **Other Relaxation for Triangulation**
+
+- A Practical Algorithm for $L_\infty$ Triangulation with Outliers, *CVPR, 2007*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/Linfty_CameraReady_ver3.9.pdf)]
+
+- Triangulation in Omnidirectional Vision under the $L_\infty$-Norm, *ICINFA, 2010*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b367f4809c77958ba149c3d69cf96bc7abed3560)]
+
+- L-Infinity Norm Minimization in the Multiview Triangulation, *AICI, 2010*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
+
+- Robust multiview $L_2$ triangulation via optimal inlier selection and 3D structure refinement, *PR, 2014*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320314001204)]
+
+- Certifiable Solver for Real-Time N-View Triangulation, *RAL, 2023*. [[Paper](https://mapir.isa.uma.es/papersrepo/2023/2023_mercedes_RAL_Nview_triangulation_paper.pdf)] [[Code](https://github.com/mergarsal/FastNViewTriangulation)]
+
+##
+
 ### Pose Graph Optimization
 
 #### **SDP for Pose Graph Optimization**
@@ -575,35 +606,23 @@ This is an active repository, you can watch for following the latest advances. I
 
 ##
 
-### Triangulation
+### Bundle Adjustment
 
-#### **BnB for Triangulation**
+#### **SDP for Bundle Adjustment**
 
-- A Fast Optimal Algorithm for $L_2$ Triangulation, *ACCV, 2007*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-540-76390-1_28)]
+- Building Rome with Convex Optimization, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2502.04640)] [[Code](https://github.com/ComputationalRobotics/XM-code)] [[Project Page](https://computationalrobotics.seas.harvard.edu/XM/)]
 
-- Triangulation of Points, Lines and Conics, *JMIV, 2008*. [[Paper](https://lucris.lub.lu.se/ws/portalfiles/portal/2621089/1245431.pdf)]
-  
-#### **Shor’s Relaxation for Triangulation**
+#### **Others**
 
-- Multi-View Structure Computation without Explicitly Estimating Motion, *CVPR, 2010*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/cvpr10a.pdf)]
+- Projective Bundle Adjustment from Arbitrary Initialization using the Variable Projection Method, *ECCV, 2016*. [[Paper](https://core.ac.uk/download/pdf/83939266.pdf)]
 
-- A QCQP Approach to Triangulation, *ECCV, 2012*. [[Paper](https://arxiv.org/pdf/1207.7160)]
+- pOSE: Pseudo Object Space Error for Initialization-Free Bundle Adjustment, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_pOSE_Pseudo_Object_CVPR_2018_paper.pdf)]
 
-- A Convex Relaxation to Compute the Nearest Structured Rank Deficient Matrix, *SIAM, 2021*. [[Paper](https://arxiv.org/pdf/1904.09661)] [[Code](https://github.com/diegcif/stls_sdp)]
+- expOSE: Accurate Initialization-Free Projective Factorization using Exponential Regularization, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Iglesias_expOSE_Accurate_Initialization-Free_Projective_Factorization_Using_Exponential_Regularization_CVPR_2023_paper.pdf)]
 
-- Semidefinite Relaxations for Robust Multiview Triangulation, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2301.11431)] [[Code](https://github.com/Linusnie/robust-triangulation-relaxations)]
+- Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2405.05079)] [[Code](https://github.com/tum-vision/povar)]
 
-#### **Other Relaxation for Triangulation**
-
-- A Practical Algorithm for $L_\infty$ Triangulation with Outliers, *CVPR, 2007*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/Linfty_CameraReady_ver3.9.pdf)]
-
-- Triangulation in Omnidirectional Vision under the $L_\infty$-Norm, *ICINFA, 2010*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b367f4809c77958ba149c3d69cf96bc7abed3560)]
-
-- L-Infinity Norm Minimization in the Multiview Triangulation, *AICI, 2010*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
-
-- Robust multiview $L_2$ triangulation via optimal inlier selection and 3D structure refinement, *PR, 2014*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320314001204)]
-
-- Certifiable Solver for Real-Time N-View Triangulation, *RAL, 2023*. [[Paper](https://mapir.isa.uma.es/papersrepo/2023/2023_mercedes_RAL_Nview_triangulation_paper.pdf)] [[Code](https://github.com/mergarsal/FastNViewTriangulation)]
+- Towards Initialization-free Calibrated Bundle Adjustment, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.23808)]
 
 ##
 
@@ -634,26 +653,6 @@ This is an active repository, you can watch for following the latest advances. I
 - Globally Optimal and Efficient Vanishing Point Estimation in Atlanta World, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670154.pdf)]
 
 - Quasi-globally Optimal and Near/True Real-time Vanishing Point Estimation in Manhattan World, *TPAMI, 2022*. [[Paper](https://ieeexplore.ieee.org/document/9193899)]
-
-##
-
-### Bundle Adjustment
-
-#### **SDP for Bundle Adjustment**
-
-- Building Rome with Convex Optimization, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2502.04640)] [[Code](https://github.com/ComputationalRobotics/XM-code)] [[Project Page](https://computationalrobotics.seas.harvard.edu/XM/)]
-
-#### **Others**
-
-- Projective Bundle Adjustment from Arbitrary Initialization using the Variable Projection Method, *ECCV, 2016*. [[Paper](https://core.ac.uk/download/pdf/83939266.pdf)]
-
-- pOSE: Pseudo Object Space Error for Initialization-Free Bundle Adjustment, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Hong_pOSE_Pseudo_Object_CVPR_2018_paper.pdf)]
-
-- expOSE: Accurate Initialization-Free Projective Factorization using Exponential Regularization, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Iglesias_expOSE_Accurate_Initialization-Free_Projective_Factorization_Using_Exponential_Regularization_CVPR_2023_paper.pdf)]
-
-- Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2405.05079)] [[Code](https://github.com/tum-vision/povar)]
-
-- Towards Initialization-free Calibrated Bundle Adjustment, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.23808)]
 
 ##
 
