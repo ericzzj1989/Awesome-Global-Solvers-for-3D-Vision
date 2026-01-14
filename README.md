@@ -22,7 +22,7 @@ This is an active repository, you can watch for following the latest advances. I
     - [Moment–SOS Relaxation](#moment-sos-relaxation)
     - [Other Relaxation Methods](#other-relaxation-techniques)
     - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
-    - [Consensus Maximization (CM)](#consensus-maximization-cm)
+    - [Consensus Maximization](#consensus-maximization)
 - [**Application**](#application)
     - [Wahba Problem](#wahba-problem)
     - [Absolute Pose Estimation (PnP)](#absolute-pose-estimation-pnp)
@@ -201,7 +201,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Outlier-Robust Estimation: Hardness, Minimally Tuned Algorithms, and Applications, *TRO, 2021*. [[Pape](https://arxiv.org/pdf/2007.15109)] [[Code](https://github.com/MIT-SPARK/GNC-and-ADAPT)]
 
-### Consensus Maximization (CM)
+### Consensus Maximization
 
 - Efficient Globally Optimal Consensus Maximisation with Tree Search, *2015, CVPR*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Chin_Efficient_Globally_Optimal_2015_CVPR_paper.pdf)]
 
