@@ -34,7 +34,6 @@ This is an active repository, you can watch for following the latest advances. I
     - [Pose Graph Optimization](#pose-graph-optimization)
     - [Bundle Adjustment](#bundle-adjustment)
     - [Vanishing Point Estimation](#vanishing-point-estimation)
-    - [All-in-One](#all-in-one)
 - [**Companion Tutorial Code**](#companion-tutorial-code)
 - [**Other Resources**](#other-resources)
     - [Workshops](#workshops)
@@ -728,18 +727,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ##
 
-### All-in-One
-
-
-
-
-#### **Moment-SOS Relaxation**
-
-
-
-
 ---
-
 ## Companion Tutorial Code
 
 We provide practical tutorial code demonstrating how to formulate and solve convex relaxations for representative geometric vision problems. These tutorials are designed to be easy to use and educational, showing the step-by-step process from problem formulation to certification of global optimality.
