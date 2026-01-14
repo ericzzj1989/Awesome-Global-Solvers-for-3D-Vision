@@ -12,9 +12,11 @@ This repository contains a curative list of papers on **Global Optimization for 
 This is an active repository, you can watch for following the latest advances. If you find this repository useful, please consider [citing](#citation) 📝 and STARing ⭐ this list. Feel free to share this list with others!
 
 ---
+
 ## 🔥 News
 
 ---
+
 ## Table of Contents
   - [**Theory**](#theory)
     - [Branch-and-Bound (BnB)](#branch-and-bound-bnb)
@@ -35,6 +37,7 @@ This is an active repository, you can watch for following the latest advances. I
     - [Vanishing Point Estimation](#vanishing-point-estimation)
     - [Bundle Adjustment](#bundle-adjustment)
     - [All-in-One](#all-in-one)
+- [**Companion Tutorial Code**](#companion-tutorial-code)
 - [**Other Resources**](#other-resources)
     - [Workshops](#workshops)
     - [Tutorials](#tutorials)
@@ -43,6 +46,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 
 ---
+
 ## Theory
 
 ### Branch-and-Bound (BnB)
@@ -730,6 +734,53 @@ This is an active repository, you can watch for following the latest advances. I
 - Quadratic Pose Estimation Problems: Globally Optimal Solutions, Solvability/Observability Analysis, and Uncertainty Description, *TRO, 2022*. [[Paper](https://gogojjh.github.io/assets/pdf/wu2022quadratic.pdf)]
 
 - FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
+
+---
+
+## Companion Tutorial Code
+
+We provide practical tutorial code demonstrating how to formulate and solve convex relaxations for representative geometric vision problems. These tutorials are designed to be easy to use and educational, showing the step-by-step process from problem formulation to certification of global optimality.
+
+### Available Examples
+
+The tutorials use the [SPOT package](https://github.com/ComputationalRobotics/SPOT) developed by the [Computational Robotics Group](https://computationalrobotics.seas.harvard.edu/) at Harvard University, which provides symbolic formulation of polynomial optimization problems and automatic generation of semidefinite programming (SDP) relaxations. For installation, documentation, and citation information, please visit the [SPOT package](https://github.com/ComputationalRobotics/SPOT).
+
+**Current tutorials include**:
+- **PnP (Perspective-n-Point)**: Outlier-free pose estimation with quadratic cost
+- **Outlier-Robust Wahba**: Rotation estimation with truncated least squares (TLS) cost and sparse Moment-SOS relaxation
+- **Vanishing Point Estimation**: With outlier handling capabilities
+
+**Key features**:
+- 🔧 **Plug-and-play**: Symbolically define problems using SymPy, SPOT handles the rest
+- 🎯 **Certifiable**: Automatic extraction of solutions and global optimality verification
+- 📚 **Educational**: Clear examples showing formulation, relaxation, and certification
+- ⚡ **Scalable**: Sparse Moment-SOS formulations handle realistic problem sizes
+
+### Getting Started
+
+**Tutorial Repository**: [SPOT GeometricVision Examples](https://github.com/ComputationalRobotics/SPOT/tree/GeometricVision/GeometricPerception)
+
+**Quick start**:
+1. Install SPOT and its dependencies (MOSEK, SymPy)
+2. Run example scripts (e.g., `sdp_pnp.py`, `example_outlier-robust_wahba.py`)
+3. Modify for your own problems following the provided templates
+
+**Example usage** (PnP):
+```python
+import sympy as sp
+from spot import SPOT
+
+# Define problem symbolically
+rotation = sp.symbols('r11:34')  # 3x3 rotation matrix
+translation = sp.symbols('t1:4')  # 3D translation vector
+
+# Define constraints (orthonormality, etc.)
+# SPOT automatically generates SDP relaxation
+
+# Solve and certify
+result = spot_solver.solve()
+is_optimal = verify_global_optimality(result)
+```
 
 ---
 
