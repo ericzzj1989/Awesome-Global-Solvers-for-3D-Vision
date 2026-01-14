@@ -1,4 +1,4 @@
-# :sunglasses: Awesome Global Optimization for Geometric Vision
+# :sunglasses: Awesome Global Solvers for 3D Vision
 [![GitHub](https://img.shields.io/github/stars/ericzzj1989/Global-Optimization-for-Multiple-View-Geometry?style=social)](https://github.com/ericzzj1989/Global-Optimization-for-Multiple-View-Geometry)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mayuelala.Awesome-Global-Optimization-for-Multiple-View-Geometry&left_color=green&right_color=red)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
@@ -12,19 +12,17 @@ This repository contains a curative list of papers on **Global Optimization for 
 This is an active repository, you can watch for following the latest advances. If you find this repository useful, please consider [citing](#citation) 📝 and STARing ⭐ this list. Feel free to share this list with others!
 
 ---
-
 ## 🔥 News
 
 ---
-
 ## Table of Contents
   - [**Theory**](#theory)
     - [Branch-and-Bound (BnB)](#branch-and-bound-bnb)
     - [Shor’s Relaxation](#shors-relaxation)
     - [Moment–SOS Relaxation](#moment-sos-relaxation)
-    - [Consensus Maximization (CM)](#consensus-maximization-cm)
+    - [Other Relaxation Methods](#other-relaxation-techniques)
     - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
-    - [Adaptive Trimming (ADAPT)](#adaptive-trimming-adapt)
+    - [Consensus Maximization (CM)](#consensus-maximization-cm)
 - [**Application**](#application)
     - [Wahba Problem](#wahba-problem)
     - [Absolute Pose Estimation (PnP)](#absolute-pose-estimation-pnp)
@@ -45,10 +43,11 @@ This is an active repository, you can watch for following the latest advances. I
     - [Talks \& Seminars](#talks--seminars)
 
 ---
-
 ## Theory
 
 ### Branch-and-Bound (BnB)
+
+#### Foundational Papers
 
 - An Automatic Method of Solving Discrete Programming Problems, *Econometrica, 1960*. [[Paper](https://jmvidal.cse.sc.edu/library/land60a.pdf)]
 
@@ -60,7 +59,27 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Generic Interval Branch and Bound Algorithm for Parameter Estimation, *Journal of Global Optimization, 2019*. [[Paper](https://www.lirmm.fr/~trombetton/publis/bbestim_jogo_2018.pdf)]
 
+#### General Frameworks for Multiple Tasks
+
+- Practical Global Optimization for Multiview Geometry, *ECCV, 2006*. [[Paper](https://homes.cs.washington.edu/~sagarwal/optimal.pdf)]
+
+- Practical Global Optimization for Multiview Geometry, *IJCV, 2008*. [[Paper](https://homes.cs.washington.edu/~sagarwal/kahl-agarwal-etal-ijcv-07.pdf)]
+
+- Optimal Correspondences from Pairwise Constraints, *ICCV, 2009*. [[Paper](https://lup.lub.lu.se/search/files/4311163/1454018.pdf)]
+
+- Global Optimization through Rotation Space Search, *IJCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/HartleyKahl:Ematrix.pdf)]
+
+- Consensus Set Maximization with Guaranteed Global Optimality for Robust Geometry Estimation, *ICCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/iccv09.pdf)]
+
+- Deterministically Maximizing Feasible Subsystem for Robust Model Fitting with Unit Norm Constraint, *CVPR, 2011*. [[Paper](http://www.cvpapers.com/papers/1494.pdf)]
+
+- Globally Optimal Linear Model Fitting with Unit-Norm Constraint, *IJCV, 2022*. [[Paper](https://link.springer.com/article/10.1007/s11263-022-01574-z)]
+
+- Accelerating Globally Optimal Consensus Maximization in Geometric Vision, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2304.05156)]
+
 ### Shor’s Relaxation
+
+#### Foundational Papers
 
 - Semidefinite Programming Relaxations of Nonconvex Quadratic Optimization, *Handbook of Semidefinite Programming, 2000*. [[Paper](https://www.math.uwaterloo.ca/~hwolkowi/henry/reports/chapqqps.pdf)]
 
@@ -94,7 +113,15 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Fast, Scalable, Warm-Start Semidefinite Programming with Spectral Bundling and Sketching, *ICML, 2024*. [[Paper](https://arxiv.org/pdf/2312.11801)] [[Code](https://github.com/rangell/usbs)]
 
+#### General Frameworks for Multiple Tasks
+
+- On the Tightness of Semidefinite Relaxations for Rotation Estimation, *JMIV, 2022*. [[Paper](https://arxiv.org/pdf/2101.02099)]
+
+- On Semidefinite Relaxations for Matrix-Weighted State-Estimation Problems in Robotics, *TRO, 2024*. [[Paper](https://arxiv.org/pdf/2308.07275)]
+
 ### Moment–SOS Relaxation
+
+#### Foundational Papers
 
 - Global Optimization with Polynomials and the Problem of Moments, *SIAM Journal on Optimization, 2001*. [[Paper](https://www.researchgate.net/profile/Jean-Bernard-Lasserre/publication/2616595_Global_Optimization_With_Polynomials_And_The_Problem_Of_Moments/links/00b4951a5d937799ce000000/Global-Optimization-With-Polynomials-And-The-Problem-Of-Moments.pdf?origin=publicationDetail&_sg%5B0%5D=Xyl38RCrtJ0aF_kzChsHwdtFj8QBm0yfZVzP71GtkN8FZH415jgfha6L8cJnnhjiCjNDbhUMXkKcVUWHBu7GYg.M0Ma7_6QSgTIehOOwu3f2m5Xcf8A2_GwygeG8yxPrGcm_QIrNT8wDeBLoq4WGwckjoj3baN0OM4tRpf-HJT8IA&_sg%5B1%5D=fC2q7sMrsxepcN2mX_4buByuH8NH1LOWFTCwBBmwvbz9LjZYYpSKO3fd3jLo9ORY5PLtAt3V7LLjg5XBh-fvyatbJLMHnEJz2XGgMoiQ3u7t.M0Ma7_6QSgTIehOOwu3f2m5Xcf8A2_GwygeG8yxPrGcm_QIrNT8wDeBLoq4WGwckjoj3baN0OM4tRpf-HJT8IA&_iepl=&_rtd=eyJjb250ZW50SW50ZW50IjoibWFpbkl0ZW0ifQ%3D%3D&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6InB1YmxpY2F0aW9uIiwicGFnZSI6InB1YmxpY2F0aW9uIiwicG9zaXRpb24iOiJwYWdlSGVhZGVyIn19)]
 
@@ -112,6 +139,68 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Finding Global Minima via Kernel Approximations, *Mathematical Programming, 2025*. [[Paper](https://arxiv.org/pdf/2012.11978)]
 
+#### General Frameworks for Multiple Tasks
+
+- Globally Optimal Estimates for Geometric Reconstruction Problems, *ICCV, 2005*. [[Paper](https://vision.cornell.edu/se3/wp-content/uploads/2014/09/iccv05a.pdf)]
+
+- Globally Optimal Estimates for Geometric Reconstruction Problems, *IJCV, 2007*. [[Paper](https://www.cs.ait.ac.th/~mdailey/cvreadings/Kahl-Global.pdf)]
+
+- Convex Relaxations for Consensus and Non-Minimal Problems in 3D Vision, *ICCV, 2019*. [[Paper](https://arxiv.org/pdf/1909.12034)]
+
+- One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers, *NeurIPS, 2020*. [[Paper](https://arxiv.org/pdf/2006.06769)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception/tree/NeurIPS2020)]
+
+- Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/2109.03349)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
+
+### Other Relaxation Techniques
+
+- $L_\infty$ Minimization in Geometric Reconstruction Problems, *CVPR, 2004*. [[Paper](https://www.robots.ox.ac.uk/~vgg/publications/2004/Hartley04b/hartley04b.pdf)]
+
+- Multiple View Geometry and the $L_\infty$-Norm, *ICCV, 2005*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4709597f006ce58ee07043c7d140b8bb93df890f)]
+
+- Removing Outliers Using the $L_\infty$ Norm, *CVPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1640796)]
+
+- Efficient Optimization for $L_\infty$-problems Using Pseudoconvexity, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4409087)]
+
+- A Fast Method to Minimize $L_\infty$ Error Norm for Geometric Vision Problems, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4408913)]
+
+- Quasiconvex Optimization for Robust Geometric Reconstruction, *TPAMI, 2007*. [[Paper](https://www.cs.cmu.edu/~ke/publications/quasiconvex-optimization-PAMI.pdf)]
+
+- Fast Algorithms for $L_\infty$ Problems in Multiview Geometry, *CVPR, 2008*. [[Paper](https://homes.cs.washington.edu/~sagarwal/gfp.pdf)]
+
+- Multiple-View Geometry Under the $L_\infty$-Norm, *TPAMI, 2008*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4385722&casa_token=RMj0FtymfNwAAAAA:QvSo2fMH6ILIauWl96KHR4P4wbqpeMON_IADNiLA5i2PTiAlI9abZ8VyV3K_R3ngx46Ij0hQqVM)]
+
+- Efficient Reduction of L-infinity Geometry Problems, *CVPR, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/1289.pdf)]
+
+- Outlier Removal Using Duality, *CVPR, 2010*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-etal-cvpr-10.pdf)] [[Code](https://www.maths.lth.se/matematiklth/personal/calle/Outl_dual/Outl_dual.html)]
+
+- Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)]
+
+- FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
+
+#### Unsolved
+
+- Optimal Geometric Fitting Under the Truncated $L_2$-Norm, *CVPR, 2013*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Ask_Optimal_Geometric_Fitting_2013_CVPR_paper.pdf)]
+
+- A Polynomial-time Bound for Matching and Registration with Outliers, *CVPR, 2008*. [[Paper](https://scispace.com/pdf/a-polynomial-time-bound-for-matching-and-registration-with-mpk50t5i0e.pdf)]
+
+### Graduated Non-Convexity (GNC)
+
+- On the Unification Line Processes, Outlier Rejection, and Robust Statistics with Applications in Early Vision, *IJCV, 1996*. [[Paper](https://www.cise.ufl.edu/~anand/pdf/ijcv.pdf)]
+
+- On the Link between Gaussian Homotopy Continuation and Convex Envelopes, *CVPRW, 2015*. [[Paper](https://people.csail.mit.edu/hmobahi/pubs/gaussian_convenv_2015.pdf)]
+
+- Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection, *RAL, 2020*. [[Paper](https://arxiv.org/pdf/1909.08605)] [[Code](https://github.com/MIT-SPARK/GNC-and-ADAPT)]
+
+- Adaptive Annealing for Robust Geometric Estimation, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sidhartha_Adaptive_Annealing_for_Robust_Geometric_Estimation_CVPR_2023_paper.pdf)]
+
+- Adaptive Annealing for Robust Averaging, *ECCV, 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08834.pdf)]
+
+#### Robust Variants: Adaptive Trimming (ADAPT)
+
+- Outlier-Robust Spatial Perception: Hardness, General-Purpose Algorithms, and Guarantees, *IROS, 2019*. [[Paper](https://arxiv.org/pdf/1903.11683)]
+
+- Outlier-Robust Estimation: Hardness, Minimally Tuned Algorithms, and Applications, *TRO, 2021*. [[Pape](https://arxiv.org/pdf/2007.15109)] [[Code](https://github.com/MIT-SPARK/GNC-and-ADAPT)]
+
 ### Consensus Maximization (CM)
 
 - Efficient Globally Optimal Consensus Maximisation with Tree Search, *2015, CVPR*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2015/papers/Chin_Efficient_Globally_Optimal_2015_CVPR_paper.pdf)]
@@ -126,26 +215,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Efficient Algorithms for Maximum Consensus Robust Fitting, *TRO, 2019*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8870243&casa_token=-j8fL-PdwLQAAAAA:w00l-vjtIGldKkgRjz29_jRUhlF3okPnkCMRevOhIyqBkROp2j4wK49DGOT3QQpiPLHF4wzcAzI)]
 
-### Graduated Non-Convexity (GNC)
-
-- On the Unification Line Processes, Outlier Rejection, and Robust Statistics with Applications in Early Vision, *IJCV, 1996*. [[Paper](https://www.cise.ufl.edu/~anand/pdf/ijcv.pdf)]
-
-- On the Link between Gaussian Homotopy Continuation and Convex Envelopes, *CVPRW, 2015*. [[Paper](https://people.csail.mit.edu/hmobahi/pubs/gaussian_convenv_2015.pdf)]
-
-- Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection, *RAL, 2020*. [[Paper](https://arxiv.org/pdf/1909.08605)] [[Code](https://github.com/MIT-SPARK/GNC-and-ADAPT)]
-
-- Adaptive Annealing for Robust Geometric Estimation, *CVPR, 2023*. [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sidhartha_Adaptive_Annealing_for_Robust_Geometric_Estimation_CVPR_2023_paper.pdf)]
-
-- Adaptive Annealing for Robust Averaging, *ECCV, 2024*. [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08834.pdf)]
-
-### Adaptive Trimming (ADAPT)
-
-- Outlier-Robust Spatial Perception: Hardness, General-Purpose Algorithms, and Guarantees, *IROS, 2019*. [[Paper](https://arxiv.org/pdf/1903.11683)]
-
-- Outlier-Robust Estimation: Hardness, Minimally Tuned Algorithms, and Applications, *TRO, 2021*. [[Pape](https://arxiv.org/pdf/2007.15109)] [[Code](https://github.com/MIT-SPARK/GNC-and-ADAPT)]
-
 ---
-
 ## Application
 
 ### Wahba Problem
@@ -249,6 +319,8 @@ This is an active repository, you can watch for following the latest advances. I
 - UPnP: An Optimal O(n) Solution to the Absolute Pose Problem with Universal Applicability, *ECCV, 2014*. [[Paper](https://openreview.net/pdf?id=PbMNl2kC0u)]
 
 - gDLS: A Scalable Solution to the Generalized Pose and Scale Problem, *ECCV, 2014*. [[Paper](https://vfragoso.com/pdfs/gdls_eccv_14.pdf)]
+
+- Convex Relaxations of SE(2) and SE(3) for Visual Pose Estimation, *ICRA, 2014*. [[Paper](https://arxiv.org/pdf/1401.3700)]
 
 - Globally Optimal DLS Method for PnP Problem with Cayley Parameterization, *BMVC, 2015*. [[Paper](https://www.bmva-archive.org.uk/bmvc/2015/papers/paper078/paper078.pdf)] [[Code](https://github.com/g9nkn/pnp_problem)]
 
@@ -658,81 +730,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### All-in-One
 
-#### **BnB**
 
-- Practical Global Optimization for Multiview Geometry, *ECCV, 2006*. [[Paper](https://homes.cs.washington.edu/~sagarwal/optimal.pdf)]
 
-- Practical Global Optimization for Multiview Geometry, *IJCV, 2008*. [[Paper](https://homes.cs.washington.edu/~sagarwal/kahl-agarwal-etal-ijcv-07.pdf)]
-
-- Optimal Correspondences from Pairwise Constraints, *ICCV, 2009*. [[Paper](https://lup.lub.lu.se/search/files/4311163/1454018.pdf)]
-
-- Global Optimization through Rotation Space Search, *IJCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hartley/Papers/PDF/HartleyKahl:Ematrix.pdf)]
-
-- Consensus Set Maximization with Guaranteed Global Optimality for Robust Geometry Estimation, *ICCV, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/iccv09.pdf)]
-
-- Deterministically Maximizing Feasible Subsystem for Robust Model Fitting with Unit Norm Constraint, *CVPR, 2011*. [[Paper](http://www.cvpapers.com/papers/1494.pdf)]
-
-- Globally Optimal Linear Model Fitting with Unit-Norm Constraint, *IJCV, 2022*. [[Paper](https://link.springer.com/article/10.1007/s11263-022-01574-z)]
-
-- Accelerating Globally Optimal Consensus Maximization in Geometric Vision, *TPAMI, 2024*. [[Paper](https://arxiv.org/pdf/2304.05156)]
-
-#### **Shor’s Relaxation**
-
-- On Semidefinite Relaxations for Matrix-Weighted State-Estimation Problems in Robotics, *TRO, 2024*. [[Paper](https://arxiv.org/pdf/2308.07275)]
 
 #### **Moment-SOS Relaxation**
 
-- Globally Optimal Estimates for Geometric Reconstruction Problems, *ICCV, 2005*. [[Paper](https://vision.cornell.edu/se3/wp-content/uploads/2014/09/iccv05a.pdf)]
 
-- Globally Optimal Estimates for Geometric Reconstruction Problems, *IJCV, 2007*. [[Paper](https://www.cs.ait.ac.th/~mdailey/cvreadings/Kahl-Global.pdf)]
 
-- Convex Relaxations for Consensus and Non-Minimal Problems in 3D Vision, *ICCV, 2019*. [[Paper](https://arxiv.org/pdf/1909.12034)]
-
-- One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers, *NeurIPS, 2020*. [[Paper](https://arxiv.org/pdf/2006.06769)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception/tree/NeurIPS2020)]
-
-- Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/2109.03349)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
-
-#### **Others**
-
-- $L_\infty$ Minimization in Geometric Reconstruction Problems, *CVPR, 2004*. [[Paper](https://www.robots.ox.ac.uk/~vgg/publications/2004/Hartley04b/hartley04b.pdf)]
-
-- Multiple View Geometry and the $L_\infty$-Norm, *ICCV, 2005*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=4709597f006ce58ee07043c7d140b8bb93df890f)]
-
-- Removing Outliers Using The $L_\infty$ Norm, *CVPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1640796)]
-
-- Efficient Optimization for $L_\infty$-problems Using Pseudoconvexity, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4409087)]
-
-- A Fast Method to Minimize $L_\infty$ Error Norm for Geometric Vision Problems, *ICCV, 2007*. [[Paper](https://ieeexplore.ieee.org/document/4408913)]
-
-- Quasiconvex Optimization for Robust Geometric Reconstruction, *TPAMI, 2007*. [[Paper](https://www.cs.cmu.edu/~ke/publications/quasiconvex-optimization-PAMI.pdf)]
-
-- A Polynomial-time Bound for Matching and Registration with Outliers, *CVPR, 2008*. [[Paper](https://scispace.com/pdf/a-polynomial-time-bound-for-matching-and-registration-with-mpk50t5i0e.pdf)]
-
-- Fast Algorithms for $L_\infty$ Problems in Multiview Geometry, *CVPR, 2008*. [[Paper](https://homes.cs.washington.edu/~sagarwal/gfp.pdf)]
-
-- Multiple-View Geometry Under the $L_\infty$-Norm, *TPAMI, 2008*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4385722&casa_token=RMj0FtymfNwAAAAA:QvSo2fMH6ILIauWl96KHR4P4wbqpeMON_IADNiLA5i2PTiAlI9abZ8VyV3K_R3ngx46Ij0hQqVM)]
-
-- Efficient Reduction of L-infinity Geometry Problems, *CVPR, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/1289.pdf)]
-
-- Outlier Removal Using Duality, *CVPR, 2010*. [[Paper](http://aeriksson.net/papers/olsson-eriksson-etal-cvpr-10.pdf)] [[Code](https://www.maths.lth.se/matematiklth/personal/calle/Outl_dual/Outl_dual.html)]
-
-- An Adversarial Optimization Approach to Efficient Outlier Removal, *ICCV, 2011*. [[Paper](https://media.adelaide.edu.au/acvt/Publications/2011/2011-An%20Adversarial%20Optimization%20Approach%20to%20Efficient%20Outlier%20Removal.pdf)]
-
-- Optimal Geometric Fitting Under the Truncated $L_2$-Norm, *CVPR, 2013*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Ask_Optimal_Geometric_Fitting_2013_CVPR_paper.pdf)]
-
-- Convex Relaxations of SE(2) and SE(3) for Visual Pose Estimation, *ICRA, 2014*. [[Paper](https://arxiv.org/pdf/1401.3700)]
-
-- Guaranteed Outlier Removal with Mixed Integer Linear Programs, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Chin_Guaranteed_Outlier_Removal_CVPR_2016_paper.pdf)]
-
-- Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)]
-
-- On the Tightness of Semidefinite Relaxations for Rotation Estimation, *JMIV, 2022*. [[Paper](https://arxiv.org/pdf/2101.02099)]
-
-- Performance Guarantees for Spectral Initialization in Rotation Averaging and Pose-Graph SLAM, *ICRA, 2022*. [[Paper](https://arxiv.org/pdf/2201.03773)]
-
-- Quadratic Pose Estimation Problems: Globally Optimal Solutions, Solvability/Observability Analysis, and Uncertainty Description, *TRO, 2022*. [[Paper](https://gogojjh.github.io/assets/pdf/wu2022quadratic.pdf)]
-
-- FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
 
 ---
 
