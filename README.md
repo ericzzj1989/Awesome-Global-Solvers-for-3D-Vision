@@ -19,7 +19,7 @@ This is an active repository, you can watch for following the latest advances. I
   - [**Theory**](#theory)
     - [Branch-and-Bound (BnB)](#branch-and-bound-bnb)
     - [Shor’s Relaxation](#shors-relaxation)
-    - [Moment–SOS Relaxation](#moment-sos-relaxation)
+    - [Moment-SOS Relaxation](#moment-sos-relaxation)
     - [Other Relaxation Techniques](#other-relaxation-techniques)
     - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
     - [Consensus Maximization](#consensus-maximization)
@@ -121,7 +121,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - On Semidefinite Relaxations for Matrix-Weighted State-Estimation Problems in Robotics, *TRO, 2024*. [[Paper](https://arxiv.org/pdf/2308.07275)]
 
-### Moment–SOS Relaxation
+### Moment-SOS Relaxation
 
 #### Foundational Papers
 
@@ -153,7 +153,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/2109.03349)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
 
-###  Techniques
+###  Other Relaxation Techniques
 
 - $L_\infty$ Minimization in Geometric Reconstruction Problems, *CVPR, 2004*. [[Paper](https://www.robots.ox.ac.uk/~vgg/publications/2004/Hartley04b/hartley04b.pdf)]
 
