@@ -5,11 +5,20 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
 
-
 ## 🏠 Introduction
-This repository contains a curative list of papers on **Global Optimization for Multiple View Geometry**. Please feel free to send us [pull requests](https://github.com/ericzzj1989/Global-Optimization-for-Multiple-View-Geometry/blob/main/how-to-PR.md) or [email](mailto:ericzzj89@gmail.com) to add papers! <br>
+This repository serves as a comprehensive resource hub for **Global Solvers for 3D Vision**. 
 
-This is an active repository, you can watch for following the latest advances. If you find this repository useful, please consider [citing](#citation) 📝 and STARing ⭐ this list. Feel free to share this list with others!
+**What's included**:
+- 📚 **Curated paper list**: Systematic organization of 250+ papers on global optimization methods for geometric vision
+- 💻 **Tutorial code**: Hands-on examples demonstrating convex relaxation formulations using the SPOT package
+- 🎓 **Educational resources**: Workshops, tutorials, lectures, and talks from leading researchers
+
+This work accompanies our survey paper [*Advances in Global Solvers for 3D Vision*]() and is actively maintained with the latest research developments.
+
+Please feel free to send us [pull requests](https://github.com/ericzzj1989/Global-Optimization-for-Multiple-View-Geometry/blob/main/how-to-PR.md) or [email](mailto:ericzzj89@gmail.com) to add papers, suggest improvements, or contribute resources!
+
+This is an actively maintained repository. You can watch for the latest advances in global optimization methods for geometric vision. If you find this repository useful, please consider [citing](#citation) 📝 and STARing ⭐ this list. Feel free to share this list with others!
+
 
 ---
 ## 🔥 News
@@ -698,8 +707,6 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Convex Relaxation for Robust Vanishing Point Estimation in Manhattan World, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2505.04788)] [[Code](https://github.com/WU-CVGL/GlobustVP/)]
 
-##
-
 ---
 ## Companion Tutorial Code
 
@@ -747,7 +754,6 @@ is_optimal = verify_global_optimality(result)
 ```
 
 ---
-
 ## Other Resources
 
 ### Workshops
