@@ -1,6 +1,6 @@
 # :sunglasses: Awesome Global Solvers for 3D Vision
-[![GitHub](https://img.shields.io/github/stars/ericzzj1989/Global-Optimization-for-Multiple-View-Geometry?style=social)](https://github.com/ericzzj1989/Global-Optimization-for-Multiple-View-Geometry)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mayuelala.Awesome-Global-Optimization-for-Multiple-View-Geometry&left_color=green&right_color=red)
+[![GitHub](https://img.shields.io/github/stars/ericzzj1989/Awesome-Global-Solvers-for-3D-Vision?style=social)](https://github.com/ericzzj1989/Awesome-Global-Solvers-for-3D-Vision)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ericzzj1989.Awesome-Global-Solvers-for-3D-Vision&left_color=green&right_color=red)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
 [![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
@@ -9,16 +9,15 @@
 This repository serves as a comprehensive resource hub for **Global Solvers for 3D Vision**. 
 
 **What's included**:
-- 📚 **Curated paper list**: Systematic organization of 250+ papers on global optimization methods for geometric vision
+- 📚 **Curated paper list**: Systematic organization of 250+ papers on global optimization methods for 3D vision
 - 💻 **Tutorial code**: Hands-on examples demonstrating convex relaxation formulations using the SPOT package
 - 🎓 **Educational resources**: Workshops, tutorials, lectures, and talks from leading researchers
 
 This work accompanies our survey paper [*Advances in Global Solvers for 3D Vision*]() and is actively maintained with the latest research developments.
 
-Please feel free to send us [pull requests](https://github.com/ericzzj1989/Global-Optimization-for-Multiple-View-Geometry/blob/main/how-to-PR.md) or [email](mailto:ericzzj89@gmail.com) to add papers, suggest improvements, or contribute resources!
+Please feel free to send us [pull requests](https://github.com/ericzzj1989/Awesome-Global-Solvers-for-3D-Vision/blob/main/how-to-PR.md) or [email](mailto:ericzzj89@gmail.com) to add papers, suggest improvements, or contribute resources!
 
-This is an actively maintained repository. You can watch for the latest advances in global optimization methods for geometric vision. If you find this repository useful, please consider [citing](#citation) 📝 and STARing ⭐ this list. Feel free to share this list with others!
-
+This is an actively maintained repository. You can watch for the latest advances in global optimization methods for 3D vision. If you find this repository useful, please consider [citing](#citation) 📝 and STARing ⭐ this list. Feel free to share this list with others!
 
 ---
 ## 🔥 News
