@@ -150,7 +150,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Certifiably Optimal Outlier-Robust Geometric Perception: Semidefinite Relaxations and Scalable Global Optimization, *TPAMI, 2022*. [[Paper](https://arxiv.org/pdf/2109.03349)] [[Code](https://github.com/MIT-SPARK/CertifiablyRobustPerception)]
 
-### Other Relaxation Techniques
+###  Techniques
 
 - $L_\infty$ Minimization in Geometric Reconstruction Problems, *CVPR, 2004*. [[Paper](https://www.robots.ox.ac.uk/~vgg/publications/2004/Hartley04b/hartley04b.pdf)]
 
@@ -223,7 +223,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Fast Rotation Search with Stereographic Projections for 3D Registration, *TPAMI, 2016*. [[Paper](https://ieeexplore.ieee.org/document/7381673)]
 
-#### **SDP for Wahba Problem**
+#### **Shor’s Relaxation for Wahba Problem**
 
 - Semidefinite Relaxation of a Robust Static Attitude Determination Problem, *CDC, 2011*. [[Paper](https://skoge.folk.ntnu.no/prost/proceedings/cdc-ecc-2011/data/papers/0926.pdf)]
 
@@ -241,13 +241,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Towards Understanding The Semidefinite Relaxations of Truncated Least-Squares in Robust Rotation Search, *arXiv, 2022*. [[Paper](https://arxiv.org/pdf/2207.08350)]
 
-#### **Others**
+#### **Other Relaxation for Wahba Problem**
 
 - Semidefinite Descriptions of the Convex Hull of Rotation Matrices, *arXiv, 2014*. [[Paper](https://arxiv.org/pdf/1403.4914)]
 
 - Linear-Matrix-Inequality-Based Solution to Wahba’s Problem, *Journal of Guidance, Control, and Dynamics, 2015*. [[Paper](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/140644/1.g000132.pdf?sequence=1)]
 
-#### **Robust Improvement**
+#### **Robust Preprocessing**
 
 - Guaranteed Outlier Removal for Rotation Search, *ICCV, 2015*. [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Bustos_Guaranteed_Outlier_Removal_ICCV_2015_paper.pdf)]
 
@@ -257,7 +257,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Absolute Pose Estimation (PnP)
 
-#### **BnB**
+#### **BnB for PnP**
 
 - Optimal Estimation of Perspective Camera Pose, *ICPR, 2006*. [[Paper](https://ieeexplore.ieee.org/document/1699135)]
 
@@ -289,13 +289,13 @@ This is an active repository, you can watch for following the latest advances. I
 
 - BnB-Based Robust PnP Pose Estimation Method for Outliers, *RAL, 2025*. [[Paper](https://ieeexplore.ieee.org/document/11011668)]
 
-#### **SDR**
+#### **Shor’s Relaxation for PnP**
 
 - Optimal Non-Iterative Pose Estimation via Convex Relaxation, *Image and Vision Computing, 2010*. [[Paper](https://pdf.sciencedirectassets.com/271526/1-s2.0-S0262885610X00099/1-s2.0-S0262885610000442/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEIv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICRH2lxYhMsZDcttsfTScodS4H%2BEitLwOSj%2B1CNCg0DeAiBAAsR8%2F%2F39bE27HY04Y1KpJkZ1WWvZSvZ%2BBrnaO03xoCqzBQg0EAUaDDA1OTAwMzU0Njg2NSIMd6VyY%2BeGsdVTM%2F1aKpAF%2BRN2tJai1WBGR75POrMZpfZuCAmoAxp3S19sumKaUJUXfdCfROvFiDh7NCd2iCMDtI5ujfjA2is%2BC0oaYAueh5ZY29cXedOGqV5zJV3EVzcqKhyn1xIGUkZsLHUcHA8xb%2FMNSMpp393kiYC%2FmrCGLQDdz%2F9nCAavpeGwAwjfp51g6fS0%2FtniEP%2FhphBh5nAlIjiYwqqPM3blXZt4h8CfxbNIUzaO8OqTrbc1LXYvsdQuO5BhAS%2FOfMUC0eauC%2FUHub7Zy0hmS83idrEzDsP34NPwmJhcFadum4KqltKSfUiU75%2BxQ14JTyRpsRn6MQto5qT18fSJY3BKuE3wE2fvRKhhegLWLe6k1owTvBloAa2SKLuTpvQLil6lVUvbD%2BMEXhFmoS%2Bd4suGRl7%2F%2BJzTrjVEpbaaf4Ydv%2FTfaivZkHKGCRVZNtPEAWNjLblx8Z6QBZQWqNZR7dKftcXFCx35wV%2BnB3RCz%2Bj2Hq1x5qopqY%2BIjzV2X0T93YTtST7mbQ3qQXKQOkMpn9xVUfRfgPm9F8%2Fqbvm8qctmKk1WYYyEMzV3DqaZGazDG%2FBqm4y4e790QvP%2FYvEB%2BnqXLbPZLGe6HGKlZQqakULWPaIXIIakkiftl6MnwzVOwPEPhVd6bo5XpJpqHrpFprzRGs6SDQaP7Av02cXsnm2G98o9pyV6no01DG8f9eYeph8i9ixWhmWzzUGIc%2FlxrgJeBxhnlVKaDrbu71XhcAOyQ4SGFHgK%2F0pfpnrALNbV0Cudl75xqOUBhbmNfTFpQEof35j%2BINgQOs5lNae6pkiIbuGuUPDdqc%2F%2BQ3tvGMe6IATU9eLoeHEorxqfIjJFHEnw1gBFYbqV2cpF%2FWji%2BnZPx0E%2Fa5GR%2FYcwheyvxwY6sgFJF%2FQFjun0sV%2BECxOL%2FTuVzHq694OWgVoSgNDx4WluNXzjamfXyHvCKwlmMHfw0iU9V7ss%2FE5Q7qMpF%2BVEQpksEYBhTxMrVqgj1iqEtqJkeG07woDm8hgI6GfH6dKxPZS3XuMPq0tE1oKzBl29djNDQOHqpA0ryMSvORX%2BiIuV25Gpr8CCNiZvVDvyry8DGqKMbVFGg6dJBHiSevXO6wN4ywZqvh6vk%2BezL7V5SfQcLeJS&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20251012T191728Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY4HAWZ54J%2F20251012%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=f33e149fdbd6d12c067d0beb13314028b7209deda67f57ada1cc624dc5cf6316&hash=bf4dc2c21e39e90bb23c4eb02824e843075ad095d3ce8ec80a8058f74873e8a1&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0262885610000442&tid=spdf-d573f53d-a765-481d-818e-a16a9beb0ffb&sid=e6681d6173191544dc3a37793234a1d314c1gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1f175c5b0b5609575354&rr=98d8f00638d70146&cc=es)]
 
 - CvxPnPL: A Unified Convex Solution to the Absolute Pose Estimation Problem from Point and Line Correspondences, *JMIV, 2023*. [[Paper](https://arxiv.org/pdf/1907.10545)] [[Code](https://github.com/SergioRAgostinho/cvxpnpl)]
 
-#### **POP**
+#### **Moment–SOS Relaxation for PnP**
 
 - Globally Optimal O(n) Solution to the PnP Problem for General Camera Models, *BMVC, 2008*. [[Paper](https://bmva-archive.org.uk/bmvc/2008/papers/31.pdf)]
 
@@ -303,45 +303,21 @@ This is an active repository, you can watch for following the latest advances. I
 
 - The Non-Tightness of a Convex Relaxation to Rotation Recovery, *Sensors, 2021*. [[paper](https://pdfs.semanticscholar.org/8443/078e59470deca8fabcb50b5294093e294cb5.pdf)]
 
-#### Others
-
-- A Direct Least-Squares (DLS) Method for PnP, *ICCV, 2011*. [[Paper](https://www-users.cse.umn.edu/~stergios/papers/ICCV-11-DLS-PnP.pdf)]
-
-- Globally Optimal Pose Estimation from Line Correspondences, *ICAR, 2011*. [[Paper](https://www-users.cse.umn.edu/~stergios/papers/ICRA-2011-Line2Line.pdf)]
-
-- Revisiting the PnP Problem: A Fast, General and Optimal Solution, *ICCV, 2013*. [[Paper](https://openaccess.thecvf.com/content_iccv_2013/papers/Zheng_Revisiting_the_PnP_2013_ICCV_paper.pdf)]
-
-- UPnP: An Optimal O(n) Solution to the Absolute Pose Problem with Universal Applicability, *ECCV, 2014*. [[Paper](https://openreview.net/pdf?id=PbMNl2kC0u)]
-
-- gDLS: A Scalable Solution to the Generalized Pose and Scale Problem, *ECCV, 2014*. [[Paper](https://vfragoso.com/pdfs/gdls_eccv_14.pdf)]
+#### **Other Relaxation for PnP**
 
 - Convex Relaxations of SE(2) and SE(3) for Visual Pose Estimation, *ICRA, 2014*. [[Paper](https://arxiv.org/pdf/1401.3700)]
 
-- Globally Optimal DLS Method for PnP Problem with Cayley Parameterization, *BMVC, 2015*. [[Paper](https://www.bmva-archive.org.uk/bmvc/2015/papers/paper078/paper078.pdf)] [[Code](https://github.com/g9nkn/pnp_problem)]
-
-- Large Scale SfM with the Distributed Camera Model, *3DV, 2016*. [[Paper](https://arxiv.org/pdf/1607.03949)]
-
-- A Versatile Approach for Solving PnP, PnPf, and PnPfr Problems, *ECCV, 2016*. [[Paper](https://jpn.nec.com/rd/people/docs/eccv2016_nakano.pdf)] [[Code](https://github.com/g9nkn/pnpfr_problem)]
-
-- Unifying Algebraic Solvers for Scaled Euclidean Registration from Point, Line and Plane Constraints, *ACCV, 2016*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-319-54193-8_4)]
-
 - Non-Iterative Rigid 2D/3D Point-Set Registration Using Semidefinite Programming, *TIP, 2016*. [[Paper](https://arxiv.org/pdf/1501.00630)]
-
-- A Universal, Closed-Form Approach for Absolute Pose Problems, *CVIU, 2018*. [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S1077314218300572)]
-
-- gDLS*: Generalized Pose-and-Scale Estimation Given Scale and Gravity Priors, *CVPR, 2020*. [[Paper](https://arxiv.org/pdf/2004.02052)]
 
 - A Consistently Fast and Globally Optimal Solution to the Perspective-n-Point Problem, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123460460.pdf)] [[Code](https://github.com/terzakig/sqpnp)]
 
-- Uncertainty-Aware Camera Pose Estimation from Points and Lines, *CVPR, 2021*. [[Paper](https://arxiv.org/pdf/2107.03890)] [[Code](https://github.com/alexandervakhitov/uncertain-pnp)]
-
 - Efficient Solution to PnP Problem Based on Vision Geometry, *RAL, 2023*. [[Paper](https://ieeexplore.ieee.org/document/10319768)]
-
-#### **Hybrid**
 
 - Fast Certifiable Algorithm for the Absolute Pose Estimation of a Camera, *SIAM Journal on Imaging Sciences, 2024*. [[Paper](https://mapir.isa.uma.es/papersrepo/2024/mergarsal_cert_pnp.pdf)]
 
-#### **Robust**
+#### **GNC for PnP**
+
+- Certifiably Optimal and Robust Camera Pose Estimation From Points and Lines, *Access, 2020*. [[Paper](https://ieeexplore.ieee.org/document/9129691)]
 
 - Outliers Rejection for Robust Camera Pose Estimation using Graduated Non‐Convexity, *IET CV, 2024*. [[Paper](https://ietresearch.onlinelibrary.wiley.com/doi/pdfdirect/10.1049/cvi2.12330)]
 
@@ -609,9 +585,9 @@ This is an active repository, you can watch for following the latest advances. I
 
 - A Practical Algorithm for $L_\infty$ Triangulation with Outliers, *CVPR, 2007*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/Linfty_CameraReady_ver3.9.pdf)]
 
-- Triangulation in Omnidirectional Vision under the $L_\infty$-Norm, *ICINFA, 2010*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b367f4809c77958ba149c3d69cf96bc7abed3560)]
-
 - L-Infinity Norm Minimization in the Multiview Triangulation, *AICI, 2010*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-642-16530-6_58)]
+
+- Triangulation in Omnidirectional Vision under the $L_\infty$-Norm, *ICINFA, 2010*. [[Paper](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b367f4809c77958ba149c3d69cf96bc7abed3560)]
 
 - Robust multiview $L_2$ triangulation via optimal inlier selection and 3D structure refinement, *PR, 2014*. [[Paper](https://www.sciencedirect.com/science/article/pii/S0031320314001204)]
 
@@ -621,7 +597,7 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Pose Graph Optimization
 
-#### **SDP for Pose Graph Optimization**
+#### **Shor’s Relaxation for Pose Graph Optimization**
 
 - A Convex Optimization based Approach for Pose SLAM Problems, *IROS, 2012*. [[Paper](https://ieeexplore.ieee.org/document/6385742)]
 
@@ -661,11 +637,11 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Distributed Certifiably Correct Range-Aided SLAM, *ICRA, 2025*. [[Paper](https://arxiv.org/pdf/2503.03192)] [[Code](https://github.com/adthoms/dcora)]
 
-#### **POP for Pose Graph Optimization**
+#### **Moment-SOS Relaxation for Pose Graph Optimization**
 
 - Guaranteed Globally Optimal Planar Pose Graph and Landmark SLAM via Sparse-Bounded Sums-of-Squares Programming, *ICRA, 2019*. [[Paper](https://arxiv.org/pdf/1809.07744)]
 
-#### **Others**
+#### **Other Relaxation for Pose Graph Optimization**
 
 - A Convex Relaxation for Approximate Global Optimization in Simultaneous Localization and Mapping, *ICRA, 2015*. [[Paper](https://david-m-rosen.github.io/publication/approxglobalslam-icra/ApproxGlobalSLAM-ICRA.pdf)]
 
@@ -675,11 +651,11 @@ This is an active repository, you can watch for following the latest advances. I
 
 ### Bundle Adjustment
 
-#### **SDP for Bundle Adjustment**
+#### **Shor’s Relaxation for Bundle Adjustment**
 
 - Building Rome with Convex Optimization, *RSS, 2025*. [[Paper](https://arxiv.org/pdf/2502.04640)] [[Code](https://github.com/ComputationalRobotics/XM-code)] [[Project Page](https://computationalrobotics.seas.harvard.edu/XM/)]
 
-#### **Others**
+#### **Other Global Method for Bundle Adjustment**
 
 - Projective Bundle Adjustment from Arbitrary Initialization using the Variable Projection Method, *ECCV, 2016*. [[Paper](https://core.ac.uk/download/pdf/83939266.pdf)]
 
@@ -707,19 +683,17 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Globally Optimal Inlier Set Maximization for Atlanta World Understanding, *TPAMI, 2019*. [[Paper](https://ieeexplore.ieee.org/document/8684265)]
 
-- Globally Optimal Vertical Direction Estimation in Atlanta World, *TPAMI, 2020*. [[Paper](https://mediatum.ub.tum.de/doc/1575108/sbpjj4tkp2hgx5o95u2wotkzw.GlobalVerticallyCorrect.pdf)] [[Code](https://github.com/Liu-Yinlong/Globally-optimal-vertical-direction-estimation-in-Atlanta-world)]
-
-#### **SDP for Vanishing Point Estimation**
-
-- Convex Relaxation for Robust Vanishing Point Estimation in Manhattan World, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2505.04788)] [[Code](https://github.com/WU-CVGL/GlobustVP/)]
-
-#### **Hybrid for Vanishing Point Estimation**
-
 - Quasi-globally Optimal and Efficient Vanishing Point Estimation in Manhattan World, *ICCV, 2019*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Quasi-Globally_Optimal_and_Efficient_Vanishing_Point_Estimation_in_Manhattan_World_ICCV_2019_paper.pdf)]
 
 - Globally Optimal and Efficient Vanishing Point Estimation in Atlanta World, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670154.pdf)]
 
+- Globally Optimal Vertical Direction Estimation in Atlanta World, *TPAMI, 2020*. [[Paper](https://mediatum.ub.tum.de/doc/1575108/sbpjj4tkp2hgx5o95u2wotkzw.GlobalVerticallyCorrect.pdf)] [[Code](https://github.com/Liu-Yinlong/Globally-optimal-vertical-direction-estimation-in-Atlanta-world)]
+
 - Quasi-globally Optimal and Near/True Real-time Vanishing Point Estimation in Manhattan World, *TPAMI, 2022*. [[Paper](https://ieeexplore.ieee.org/document/9193899)]
+
+#### **Shor’s Relaxation for Vanishing Point Estimation**
+
+- Convex Relaxation for Robust Vanishing Point Estimation in Manhattan World, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2505.04788)] [[Code](https://github.com/WU-CVGL/GlobustVP/)]
 
 ##
 
