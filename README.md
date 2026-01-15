@@ -23,6 +23,7 @@ This is an active repository, you can watch for following the latest advances. I
     - [Other Relaxation Techniques](#other-relaxation-techniques)
     - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
     - [Consensus Maximization](#consensus-maximization)
+
 - [**Application**](#application)
     - [Wahba Problem](#wahba-problem)
     - [Absolute Pose Estimation (PnP)](#absolute-pose-estimation-pnp)
@@ -34,7 +35,9 @@ This is an active repository, you can watch for following the latest advances. I
     - [Pose Graph Optimization](#pose-graph-optimization)
     - [Bundle Adjustment](#bundle-adjustment)
     - [Vanishing Point Estimation](#vanishing-point-estimation)
+
 - [**Companion Tutorial Code**](#companion-tutorial-code)
+
 - [**Other Resources**](#other-resources)
     - [Workshops](#workshops)
     - [Tutorials](#tutorials)
