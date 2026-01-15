@@ -20,7 +20,7 @@ This is an active repository, you can watch for following the latest advances. I
     - [Branch-and-Bound (BnB)](#branch-and-bound-bnb)
     - [Shor’s Relaxation](#shors-relaxation)
     - [Moment–SOS Relaxation](#moment-sos-relaxation)
-    - [Other Relaxation Methods](#other-relaxation-techniques)
+    - [Other Relaxation Techniques](#other-relaxation-techniques)
     - [Graduated Non-Convexity (GNC)](#graduated-non-convexity-gnc)
     - [Consensus Maximization](#consensus-maximization)
 - [**Application**](#application)
@@ -166,6 +166,8 @@ This is an active repository, you can watch for following the latest advances. I
 
 - Fast Algorithms for $L_\infty$ Problems in Multiview Geometry, *CVPR, 2008*. [[Paper](https://homes.cs.washington.edu/~sagarwal/gfp.pdf)]
 
+- A Polynomial-time Bound for Matching and Registration with Outliers, *CVPR, 2008*. [[Paper](https://scispace.com/pdf/a-polynomial-time-bound-for-matching-and-registration-with-mpk50t5i0e.pdf)]
+
 - Multiple-View Geometry Under the $L_\infty$-Norm, *TPAMI, 2008*. [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4385722&casa_token=RMj0FtymfNwAAAAA:QvSo2fMH6ILIauWl96KHR4P4wbqpeMON_IADNiLA5i2PTiAlI9abZ8VyV3K_R3ngx46Ij0hQqVM)]
 
 - Efficient Reduction of L-infinity Geometry Problems, *CVPR, 2009*. [[Paper](https://users.cecs.anu.edu.au/~hongdong/1289.pdf)]
@@ -175,12 +177,6 @@ This is an active repository, you can watch for following the latest advances. I
 - Consensus Maximization with Linear Matrix Inequality Constraints, *CVPR, 2017*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)]
 
 - FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator, *RAL, 2024*. [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)]
-
-#### Unsolved
-
-- Optimal Geometric Fitting Under the Truncated $L_2$-Norm, *CVPR, 2013*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2013/papers/Ask_Optimal_Geometric_Fitting_2013_CVPR_paper.pdf)]
-
-- A Polynomial-time Bound for Matching and Registration with Outliers, *CVPR, 2008*. [[Paper](https://scispace.com/pdf/a-polynomial-time-bound-for-matching-and-registration-with-mpk50t5i0e.pdf)]
 
 ### Graduated Non-Convexity (GNC)
 
