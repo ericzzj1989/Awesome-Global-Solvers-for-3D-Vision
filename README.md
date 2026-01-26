@@ -34,6 +34,7 @@ This is an actively maintained repository. You can watch for the latest advances
 
 - [**Application**](#application)
     - [Wahba Problem](#wahba-problem)
+    - [Vanishing Point Estimation](#vanishing-point-estimation)
     - [Absolute Pose Estimation (PnP)](#absolute-pose-estimation-pnp)
     - [Relative Pose Estimation](#relative-pose-estimation)
     - [3D Registration](#3d-registration)
@@ -42,7 +43,6 @@ This is an actively maintained repository. You can watch for the latest advances
     - [Triangulation](#triangulation)
     - [Pose Graph Optimization](#pose-graph-optimization)
     - [Bundle Adjustment](#bundle-adjustment)
-    - [Vanishing Point Estimation](#vanishing-point-estimation)
 
 - [**Companion Tutorial Code**](#companion-tutorial-code)
 
@@ -263,6 +263,34 @@ This is an actively maintained repository. You can watch for the latest advances
 - Guaranteed Outlier Removal for Rotation Search, *ICCV, 2015*. [[Paper](https://openaccess.thecvf.com/content_iccv_2015/papers/Bustos_Guaranteed_Outlier_Removal_ICCV_2015_paper.pdf)]
 
 - ARCS: Accurate Rotation and Correspondence Search, *CVPR, 2022*. [[Paper](https://arxiv.org/pdf/2203.14493)] [[Code](https://github.com/liangzu/ARCS)]
+
+##
+
+### Vanishing Point Estimation
+
+#### **BnB for Vanishing Point Estimation**
+
+- Globally Optimal Line Clustering and Vanishing Point Estimation in Manhattan World, *CVPR, 2012*. [[Paper](https://people.inf.ethz.ch/pomarc/pubs/BazinCVPR12.pdf)]
+
+- Globally Optimal Manhattan Frame Estimation in Real-time, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Joo_Globally_Optimal_Manhattan_CVPR_2016_paper.pdf)]
+
+- Robust and Globally Optimal Manhattan Frame Estimation in Near Real Time, *TPAMI, 2018*. [[Paper](https://arxiv.org/pdf/1605.03730)]
+
+- Globally Optimal Inlier Set Maximization for Atlanta Frame Estimation, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Globally_Optimal_Inlier_CVPR_2018_paper.pdf)]
+
+- Globally Optimal Inlier Set Maximization for Atlanta World Understanding, *TPAMI, 2019*. [[Paper](https://ieeexplore.ieee.org/document/8684265)]
+
+- Quasi-globally Optimal and Efficient Vanishing Point Estimation in Manhattan World, *ICCV, 2019*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Quasi-Globally_Optimal_and_Efficient_Vanishing_Point_Estimation_in_Manhattan_World_ICCV_2019_paper.pdf)]
+
+- Globally Optimal and Efficient Vanishing Point Estimation in Atlanta World, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670154.pdf)]
+
+- Globally Optimal Vertical Direction Estimation in Atlanta World, *TPAMI, 2020*. [[Paper](https://mediatum.ub.tum.de/doc/1575108/sbpjj4tkp2hgx5o95u2wotkzw.GlobalVerticallyCorrect.pdf)] [[Code](https://github.com/Liu-Yinlong/Globally-optimal-vertical-direction-estimation-in-Atlanta-world)]
+
+- Quasi-globally Optimal and Near/True Real-time Vanishing Point Estimation in Manhattan World, *TPAMI, 2022*. [[Paper](https://ieeexplore.ieee.org/document/9193899)]
+
+#### **Shor’s Relaxation for Vanishing Point Estimation**
+
+- Convex Relaxation for Robust Vanishing Point Estimation in Manhattan World, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2505.04788)] [[Code](https://github.com/WU-CVGL/GlobustVP/)]
 
 ##
 
@@ -677,34 +705,6 @@ This is an actively maintained repository. You can watch for the latest advances
 - Power Variable Projection for Initialization-Free Large-Scale Bundle Adjustment, *ECCV, 2024*. [[Paper](https://arxiv.org/pdf/2405.05079)] [[Code](https://github.com/tum-vision/povar)]
 
 - Towards Initialization-free Calibrated Bundle Adjustment, *arXiv, 2025*. [[Paper](https://arxiv.org/pdf/2506.23808)]
-
-##
-
-### Vanishing Point Estimation
-
-#### **BnB for Vanishing Point Estimation**
-
-- Globally Optimal Line Clustering and Vanishing Point Estimation in Manhattan World, *CVPR, 2012*. [[Paper](https://people.inf.ethz.ch/pomarc/pubs/BazinCVPR12.pdf)]
-
-- Globally Optimal Manhattan Frame Estimation in Real-time, *CVPR, 2016*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2016/papers/Joo_Globally_Optimal_Manhattan_CVPR_2016_paper.pdf)]
-
-- Robust and Globally Optimal Manhattan Frame Estimation in Near Real Time, *TPAMI, 2018*. [[Paper](https://arxiv.org/pdf/1605.03730)]
-
-- Globally Optimal Inlier Set Maximization for Atlanta Frame Estimation, *CVPR, 2018*. [[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Joo_Globally_Optimal_Inlier_CVPR_2018_paper.pdf)]
-
-- Globally Optimal Inlier Set Maximization for Atlanta World Understanding, *TPAMI, 2019*. [[Paper](https://ieeexplore.ieee.org/document/8684265)]
-
-- Quasi-globally Optimal and Efficient Vanishing Point Estimation in Manhattan World, *ICCV, 2019*. [[Paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Li_Quasi-Globally_Optimal_and_Efficient_Vanishing_Point_Estimation_in_Manhattan_World_ICCV_2019_paper.pdf)]
-
-- Globally Optimal and Efficient Vanishing Point Estimation in Atlanta World, *ECCV, 2020*. [[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123670154.pdf)]
-
-- Globally Optimal Vertical Direction Estimation in Atlanta World, *TPAMI, 2020*. [[Paper](https://mediatum.ub.tum.de/doc/1575108/sbpjj4tkp2hgx5o95u2wotkzw.GlobalVerticallyCorrect.pdf)] [[Code](https://github.com/Liu-Yinlong/Globally-optimal-vertical-direction-estimation-in-Atlanta-world)]
-
-- Quasi-globally Optimal and Near/True Real-time Vanishing Point Estimation in Manhattan World, *TPAMI, 2022*. [[Paper](https://ieeexplore.ieee.org/document/9193899)]
-
-#### **Shor’s Relaxation for Vanishing Point Estimation**
-
-- Convex Relaxation for Robust Vanishing Point Estimation in Manhattan World, *CVPR, 2025*. [[Paper](https://arxiv.org/pdf/2505.04788)] [[Code](https://github.com/WU-CVGL/GlobustVP/)]
 
 ---
 ## Companion Tutorial Code
