@@ -757,7 +757,9 @@ is_optimal = verify_global_optimality(result)
 
 ### Workshops
 
-- Frontiers of Optimization for Robotics workshop, *RSS, 2024*. [[Website](https://sites.google.com/robotics.utias.utoronto.ca/frontiers-optimization-rss24/home)]
+- Frontiers of Optimization for Robotics, *RSS, 2024*. [[Website](https://sites.google.com/robotics.utias.utoronto.ca/frontiers-optimization-rss24/home)]
+
+- Frontiers of Optimization for Robotics, *ICRA, 2026*. [[Website](https://sites.google.com/robotics.utias.utoronto.ca/icra26-frontiers-optimization/home)]
 
 ##
 
