@@ -467,7 +467,7 @@ This is an actively maintained repository. You can watch for the latest advances
 
 - Robust and Optimal Registration of Image Sets and Structured Scenes via Sum-of-Squares Polynomials, *IJCV, 2018*. [[Paper](https://hal.science/hal-02113657v1/document)]
 
-- Fast and Globally Optimal Rigid Registration of 3D Point Sets by Transformation Decomposition, *arXiv, 2018*. [[Paper](https://arxiv.org/pdf/1903.08588)]
+- Fast and Globally Optimal Rigid Registration of 3D Point Sets by Transformation Decomposition, *arXiv, 2018*. [[Paper](https://arxiv.org/pdf/1812.11307)]
 
 - Practical Optimal Registration of Terrestrial LiDAR Scan Pairs, *ISPRS Journal of Photogrammetry and Remote Sensing, 2019*. [[Paper](https://arxiv.org/pdf/1811.09962)]
 
