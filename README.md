@@ -27,7 +27,9 @@
 
 <br>
 
-<sup>1</sup>University of Zaragoza &nbsp;&nbsp; <sup>2</sup>Harvard University &nbsp;&nbsp; <sup>3</sup>Westlake University &nbsp;&nbsp; <sup>4</sup>Hunan University &nbsp;&nbsp; <sup>5</sup>Wuhan University &nbsp;&nbsp; <sup>6</sup>HKUST(GZ)
+<sup>1</sup>University of Zaragoza &nbsp;&nbsp; <sup>2</sup>Harvard University &nbsp;&nbsp; <sup>3</sup>Westlake University
+<br>
+<sup>4</sup>Hunan University &nbsp;&nbsp; <sup>5</sup>Wuhan University &nbsp;&nbsp; <sup>6</sup>HKUST(GZ)
 
 </div>
 
