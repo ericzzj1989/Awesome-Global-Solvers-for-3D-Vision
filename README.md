@@ -44,12 +44,11 @@
 
 <br>
 
-<!-- TODO: Replace with the actual overview figure from your survey paper -->
-<!-- <p align="center">
-<img src="./assets/overview.png" width="90%">
-</p> -->
+<p align="center">
+<img src="./assets/taxonomy.png" width="90%">
+</p>
 
-<!-- **<p align="center"> Overview of Global Optimization Paradigms for 3D Vision </p>** -->
+**<p align="center"> Taxonomy of our survey on global solvers for 3D vision </p>**
 
 ---
 
@@ -275,6 +274,12 @@ If you find our survey helpful for your research, please consider citing:
 ---
 
 ## Application
+
+<p align="center">
+<img src="./assets/tasks.png" width="90%">
+</p>
+
+**<p align="center"> Geometric illustration of the 10 fundamental 3D vision tasks covered in our survey </p>**
 
 ### Wahba Problem
 
