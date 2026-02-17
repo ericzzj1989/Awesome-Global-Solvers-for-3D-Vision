@@ -13,7 +13,7 @@ This repository serves as a comprehensive resource hub for **Global Solvers for 
 - 💻 **Tutorial code**: Hands-on examples demonstrating convex relaxation formulations using the SPOT package
 - 🎓 **Educational resources**: Workshops, tutorials, lectures, and talks from leading researchers
 
-This work accompanies our survey paper [*Advances in Global Solvers for 3D Vision*]() and is actively maintained with the latest research developments.
+This work accompanies our survey paper [*Advances in Global Solvers for 3D Vision*](https://arxiv.org/abs/2602.14662) and is actively maintained with the latest research developments.
 
 Please feel free to send us [pull requests](https://github.com/ericzzj1989/Awesome-Global-Solvers-for-3D-Vision/blob/main/how-to-PR.md) or [email](mailto:ericzzj89@gmail.com) to add papers, suggest improvements, or contribute resources!
 
