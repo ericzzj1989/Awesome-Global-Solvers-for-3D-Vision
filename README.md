@@ -771,6 +771,8 @@ is_optimal = verify_global_optimality(result)
 
 - RANSAC in 2020, *CVPR, 2020*. [[Website](https://cmp.felk.cvut.cz/cvpr2020-ransac-tutorial/)]
 
+- RANSAC in 2025, *ICCV, 2025*. [[Website](https://danini.github.io/ransac-2025-tutorial/)]
+
 ##
 
 ### Lectures
