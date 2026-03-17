@@ -171,6 +171,8 @@ If you find our survey helpful for your research, please consider citing:
 | 2011 | CVPR | Deterministically Maximizing Feasible Subsystem for Robust Model Fitting with Unit Norm Constraint | [[Paper](http://www.cvpapers.com/papers/1494.pdf)] |
 | 2022 | IJCV | Globally Optimal Linear Model Fitting with Unit-Norm Constraint | [[Paper](https://link.springer.com/article/10.1007/s11263-022-01574-z)] |
 | 2024 | TPAMI | Accelerating Globally Optimal Consensus Maximization in Geometric Vision | [[Paper](https://arxiv.org/pdf/2304.05156)] |
+| 2026 | arXiv | Global Truncated Loss Minimization for Robust and Threshold-Resilient Geometric Estimation
+ | [[Paper](https://arxiv.org/pdf/2603.14796)] |
 
 ### Shor's Relaxation
 
@@ -254,6 +256,7 @@ If you find our survey helpful for your research, please consider citing:
 | 2020 | RAL | Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection | [[Paper](https://arxiv.org/pdf/1909.08605)] [[Code](https://github.com/MIT-SPARK/GNC-and-ADAPT)] |
 | 2023 | CVPR | Adaptive Annealing for Robust Geometric Estimation | [[Paper](https://openaccess.thecvf.com/content/CVPR2023/papers/Sidhartha_Adaptive_Annealing_for_Robust_Geometric_Estimation_CVPR_2023_paper.pdf)] |
 | 2024 | ECCV | Adaptive Annealing for Robust Averaging | [[Paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/08834.pdf)] |
+| 2025 | ICCV | SAC-GNC: SAmple Consensus for adaptive Graduated Non-Convexity | [[Paper](https://openaccess.thecvf.com/content/ICCV2025/papers/Piedade_SAC-GNC_SAmple_Consensus_for_adaptive_Graduated_Non-Convexity_ICCV_2025_paper.pdf)] |
 
 #### Robust Variants: Adaptive Trimming (ADAPT)
 
@@ -629,6 +632,7 @@ If you find our survey helpful for your research, please consider citing:
 | 2024 | RAL | SIM-Sync: From Certifiably Optimal Synchronization over the 3D Similarity Group to Scene Reconstruction with Learned Depth | [[Paper](https://arxiv.org/pdf/2309.05184)] |
 | 2024 | TRO | Certifiably Correct Range-Aided SLAM | [[Paper](https://arxiv.org/pdf/2302.11614)] [[Code](https://github.com/MarineRoboticsGroup/cora)] |
 | 2025 | ICRA | Distributed Certifiably Correct Range-Aided SLAM | [[Paper](https://arxiv.org/pdf/2503.03192)] [[Code](https://github.com/adthoms/dcora)] |
+| 2026 | arXiv | Certifiable Estimation with Factor Graphs | [[Paper](https://arxiv.org/pdf/2603.01267)] |
 
 #### Moment-SOS Relaxation for Pose Graph Optimization
 
