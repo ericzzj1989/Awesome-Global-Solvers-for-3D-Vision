@@ -171,8 +171,7 @@ If you find our survey helpful for your research, please consider citing:
 | 2011 | CVPR | Deterministically Maximizing Feasible Subsystem for Robust Model Fitting with Unit Norm Constraint | [[Paper](http://www.cvpapers.com/papers/1494.pdf)] |
 | 2022 | IJCV | Globally Optimal Linear Model Fitting with Unit-Norm Constraint | [[Paper](https://link.springer.com/article/10.1007/s11263-022-01574-z)] |
 | 2024 | TPAMI | Accelerating Globally Optimal Consensus Maximization in Geometric Vision | [[Paper](https://arxiv.org/pdf/2304.05156)] |
-| 2026 | arXiv | Global Truncated Loss Minimization for Robust and Threshold-Resilient Geometric Estimation
- | [[Paper](https://arxiv.org/pdf/2603.14796)] |
+| 2026 | arXiv | Global Truncated Loss Minimization for Robust and Threshold-Resilient Geometric Estimation | [[Paper](https://arxiv.org/pdf/2603.14796)] |
 
 ### Shor's Relaxation
 
