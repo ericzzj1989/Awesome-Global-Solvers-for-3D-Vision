@@ -202,6 +202,7 @@ If you find our survey helpful for your research, please consider citing:
 |:----:|:------|:------|:------|
 | 2022 | JMIV | On the Tightness of Semidefinite Relaxations for Rotation Estimation | [[Paper](https://arxiv.org/pdf/2101.02099)] |
 | 2024 | TRO | On Semidefinite Relaxations for Matrix-Weighted State-Estimation Problems in Robotics | [[Paper](https://arxiv.org/pdf/2308.07275)] |
+| 2025 | ICRA Workshop | Simplifying Certifiable Estimation: A Factor Graph Optimization Approach | [[Paper](https://dartmouthrobotics.github.io/icra-2025-robots-wild/spotlight-papers/icra-2025-robots-wild-16.pdf)] [[Code](https://github.com/NEU-RAL/CertifiableFactors)] |
 
 ### Moment-SOS Relaxation
 
@@ -614,7 +615,7 @@ If you find our survey helpful for your research, please consider citing:
 |:----:|:------|:------|:------|
 | 2012 | IROS | A Convex Optimization based Approach for Pose SLAM Problems | [[Paper](https://ieeexplore.ieee.org/document/6385742)] |
 | 2015 | IROS | Lagrangian Duality in 3D SLAM: Verification Techniques and Optimal Solutions | [[Paper](https://arxiv.org/pdf/1506.00746)] |
-| 2015 | RSS Workshop | On the Inclusion of Determinant Constraints in Lagrangian Duality for 3D SLAM | [[Paper](https://www.yasirlatif.info/movingsensors/cameraReady/paper08.pdf)] |
+| 2015 | RSS  | On the Inclusion of Determinant Constraints in Lagrangian Duality for 3D SLAM | [[Paper](https://www.yasirlatif.info/movingsensors/cameraReady/paper08.pdf)] |
 | 2015 | arXiv | Pose Graph Optimization in the Complex Domain: Lagrangian Duality, Conditions For Zero Duality Gap, and Optimal Solutions | [[Paper](https://arxiv.org/pdf/1505.03437)] [[Code](https://github.com/alpErenSari/poseGraphProject)] |
 | 2015 | ICRA | Duality-based verification techniques for 2D SLAM | [[Paper](https://www.dropbox.com/scl/fi/pbpjk3s814eld9ugzsell/2015c-ICRA-duality2D.pdf)] |
 | 2016 | IROS | Fast Global Optimality Verification in 3D SLAM | [[Paper](https://mapir.isa.uma.es/jbriales/publications/IROS16.pdf)] [[Code](https://github.com/jbriales/PGO-LagInit)] |
@@ -631,6 +632,7 @@ If you find our survey helpful for your research, please consider citing:
 | 2024 | RAL | SIM-Sync: From Certifiably Optimal Synchronization over the 3D Similarity Group to Scene Reconstruction with Learned Depth | [[Paper](https://arxiv.org/pdf/2309.05184)] |
 | 2024 | TRO | Certifiably Correct Range-Aided SLAM | [[Paper](https://arxiv.org/pdf/2302.11614)] [[Code](https://github.com/MarineRoboticsGroup/cora)] |
 | 2025 | ICRA | Distributed Certifiably Correct Range-Aided SLAM | [[Paper](https://arxiv.org/pdf/2503.03192)] [[Code](https://github.com/adthoms/dcora)] |
+| 2026 | ICRA | Implementing Robust M-Estimators with Certifiable Factor Graph Optimization | [[Paper](https://arxiv.org/pdf/2603.20932)] [[Code](https://github.com/NEU-RAL/Certi-GNC)] |
 | 2026 | arXiv | Certifiable Estimation with Factor Graphs | [[Paper](https://arxiv.org/pdf/2603.01267)] |
 
 #### Moment-SOS Relaxation for Pose Graph Optimization
