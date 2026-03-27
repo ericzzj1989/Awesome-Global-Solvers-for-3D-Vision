@@ -485,6 +485,7 @@ If you find our survey helpful for your research, please consider citing:
 | 2025 | TII | Hierarchical and Validated Branch-and-Bound Method for Global Point Cloud Registration | [[Paper](https://ieeexplore.ieee.org/document/10716206)] |
 | 2025 | arXiv | Fast Globally Optimal Truncated Least Squares Point Cloud Registration with Fixed Rotation Axis | [[Paper](https://arxiv.org/pdf/2508.15613)] |
 | 2025 | arXiv | Robust Point Cloud Registration via Geometric Overlapping Guided Rotation Search | [[Paper](https://arxiv.org/pdf/2508.17427)] [[Code](https://github.com/Bitzhaozheng/GMOR)] |
+| 2026 | arXiv | DC-Reg: Globally Optimal Point Cloud Registration via Tight Bounding with Difference of Convex Programming | [[Paper](https://arxiv.org/pdf/2603.25442)] |
 
 #### Shor's Relaxation for 3D Registration
 
