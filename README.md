@@ -246,6 +246,7 @@ If you find our survey helpful for your research, please consider citing:
 | 2010 | CVPR | Outlier Removal Using Duality | [[Paper](http://aeriksson.net/papers/olsson-eriksson-etal-cvpr-10.pdf)] [[Code](https://www.maths.lth.se/matematiklth/personal/calle/Outl_dual/Outl_dual.html)] |
 | 2017 | CVPR | Consensus Maximization with Linear Matrix Inequality Constraints | [[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Speciale_Consensus_Maximization_With_CVPR_2017_paper.pdf)] |
 | 2024 | RAL | FracGM: A Fast Fractional Programming Technique for Geman-McClure Robust Estimator | [[Paper](https://arxiv.org/pdf/2409.13978)] [[Code](https://github.com/StephLin/FracGM)] |
+| 2026 | arXiv | (DNN)$^2$: Doubly Non-Negative Relaxations for Deep Neural Networks | [[Paper](https://arxiv.org/pdf/2608.24743)] [[Code](https://github.com/hanjzh/dnn-sq)] |
 
 ### Graduated Non-Convexity (GNC)
 
