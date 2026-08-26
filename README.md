@@ -106,11 +106,11 @@ Please feel free to send us [pull requests](https://github.com/ericzzj1989/Aweso
 If you find our survey helpful for your research, please consider citing:
 
 ```bibtex
-@article{zhang2025advances,
+@article{zhao2026advances,
   title={Advances in Global Solvers for 3D Vision},
-  author={Zhao, Zhenjun and Heng, Yang and Liao, Bangyan and Zeng, Yingping and Yan, Shaocheng and Gu, Yingdong and Liu, Peidong and Zhou, Yi and Li, Haoang and Civera, Javier},
+  author={Zhao, Zhenjun and Yang, Heng and Liao, Bangyan and Zeng, Yingping and Yan, Shaocheng and Gu, Yingdong and Liu, Peidong and Zhou, Yi and Li, Haoang and Civera, Javier},
   journal={arXiv preprint arXiv:2602.14662},
-  year={2025}
+  year={2026}
 }
 ```
 
