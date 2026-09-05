@@ -499,6 +499,7 @@ If you find our survey helpful for your research, please consider citing:
 | 2020 | CVPR | Global Optimality for Point Set Registration Using Semidefinite Programming | [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Iglesias_Global_Optimality_for_Point_Set_Registration_Using_Semidefinite_Programming_CVPR_2020_paper.pdf)] |
 | 2020 | TRO | TEASER: Fast and Certifiable Point Cloud Registration | [[Paper](https://arxiv.org/pdf/2001.07715)] [[Code](https://github.com/MIT-SPARK/TEASER-plusplus)] |
 | 2024 | ECCV | GlobalPointer: Large-Scale Plane Adjustment with Bi-Convex Relaxation | [[Paper](https://arxiv.org/pdf/2407.13537)] [[Code](https://github.com/WU-CVGL/GlobalPointer)] [[Project](https://bangyan101.github.io/GlobalPointer/)] |
+| 2026 | arXiv | Following a Unique Path: A Fast Certifier Applied to Outlier-Robust Pose Registration | [[Paper](https://arxiv.org/pdf/2609.03222)] [[Code](https://github.com/utiasASRL/cp-cert-core)] |
 
 #### Other Relaxation for 3D Registration
 
