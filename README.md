@@ -638,6 +638,7 @@ If you find our survey helpful for your research, please consider citing:
 | 2026 | ICRA | Implementing Robust M-Estimators with Certifiable Factor Graph Optimization | [[Paper](https://arxiv.org/pdf/2603.20932)] [[Code](https://github.com/NEU-RAL/Certi-GNC)] |
 | 2026 | arXiv | Certifiable Estimation with Factor Graphs | [[Paper](https://arxiv.org/pdf/2603.01267)] |
 | 2026 | arXiv | A QCQP-Representable IMU Pre-Integration Factor for Certifiable State Estimation | [[Paper](https://arxiv.org/pdf/2609.38048)] |
+| 2026 | arXiv | Global Optimality of Pose Graph Optimization | [[Paper](https://arxiv.org/pdf/2610.14655)] |
 
 #### Moment-SOS Relaxation for Pose Graph Optimization
 
